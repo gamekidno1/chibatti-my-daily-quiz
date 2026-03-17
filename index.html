@@ -5,46 +5,56 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ちばっちの「今の世界がわかる」クイズ</title>
     <style>
-        body { font-family: 'Helvetica Neue', Arial, sans-serif; background-color: #f4f7f6; color: #333; text-align: center; padding: 20px; }
-        #app { max-width: 600px; margin: 0 auto; background: white; padding: 30px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); }
-        h1 { font-size: 24px; color: #2c3e50; }
-        .btn { display: block; width: 100%; padding: 15px; margin: 10px 0; background-color: #3498db; color: white; border: none; border-radius: 8px; font-size: 16px; cursor: pointer; transition: 0.2s; }
-        .btn:hover { background-color: #2980b9; }
-        .btn-choice { background-color: #f8f9fa; color: #333; border: 2px solid #dee2e6; text-align: left; }
-        .score-display { font-size: 18px; font-weight: bold; margin-bottom: 20px; color: #e74c3c; }
-        .explanation { background: #e8f4f8; padding: 15px; border-radius: 8px; margin-top: 20px; text-align: left; display: none; }
+        body { font-family: 'Helvetica Neue', Arial, sans-serif; background-color: #f0f2f5; color: #1c1e21; text-align: center; padding: 20px; margin: 0; }
+        #app { max-width: 600px; margin: 40px auto; background: white; padding: 40px; border-radius: 16px; box-shadow: 0 8px 24px rgba(0,0,0,0.1); }
+        h1 { font-size: 26px; color: #1877f2; margin-bottom: 10px; }
+        p.intro { color: #606770; margin-bottom: 30px; }
+        .btn { display: block; width: 100%; padding: 18px; margin: 12px 0; background-color: #1877f2; color: white; border: none; border-radius: 10px; font-size: 17px; font-weight: bold; cursor: pointer; transition: 0.3s; }
+        .btn:hover { background-color: #166fe5; transform: translateY(-2px); }
+        .btn-choice { background-color: #f0f2f5; color: #1c1e21; border: 1px solid #dddfe2; text-align: left; font-weight: normal; }
+        .btn-choice:hover { background-color: #e4e6eb; border-color: #ccd0d5; }
+        .score-display { font-size: 20px; font-weight: bold; margin-bottom: 25px; color: #d0312d; }
+        .explanation { background: #ebf5ff; padding: 20px; border-radius: 10px; margin-top: 20px; text-align: left; display: none; border-left: 5px solid #1877f2; }
+        select { width: 100%; padding: 12px; font-size: 16px; margin-bottom: 25px; border-radius: 8px; border: 1px solid #dddfe2; }
         .hidden { display: none; }
+        #q-number { color: #606770; font-size: 14px; text-transform: uppercase; letter-spacing: 1px; }
     </style>
 </head>
 <body>
 <div id="app">
     <div id="start-screen">
         <h1>🌍 ちばっちの「今の世界がわかる」クイズ</h1>
-        <p>最新ニュースからAIが生成！</p>
-        <select id="category-select" style="width:100%; padding:10px; margin-bottom:20px; border-radius:8px;">
-            <option value="世界情勢">世界情勢</option><option value="日本の政治">日本の政治</option>
-            <option value="文化">文化</option><option value="エンタテイメント">エンタテイメント</option>
-            <option value="ゲーム">ゲーム</option><option value="アニメ">アニメ</option><option value="AI">AI</option>
+        <p class="intro">昨日起きた最新ニュースから10問連続出題！<br>難易度レベル1〜10を制覇して3000点を目指せ！</p>
+        <select id="category-select">
+            <option value="世界情勢">世界情勢</option>
+            <option value="日本の政治">日本の政治</option>
+            <option value="文化">文化</option>
+            <option value="エンタテイメント">エンタテイメント</option>
+            <option value="ゲーム">ゲーム</option>
+            <option value="アニメ">アニメ</option>
+            <option value="AI">AI</option>
         </select>
-        <button class="btn" onclick="startGame()">ゲームスタート！</button>
+        <button class="btn" onclick="startGame()">クイズに挑戦する</button>
     </div>
 
     <div id="quiz-screen" class="hidden">
-        <h2 id="q-number"></h2>
-        <div class="score-display">スコア: <span id="current-score">0</span> 点</div>
-        <p id="q-text" style="font-size: 18px; font-weight: bold; margin-bottom: 20px;"></p>
+        <div id="q-number"></div>
+        <div class="score-display">スコア: <span id="current-score">0</span></div>
+        <p id="q-text" style="font-size: 20px; font-weight: bold; line-height: 1.5; margin-bottom: 30px;"></p>
         <div id="choices-container"></div>
         <div id="explanation-box" class="explanation">
-            <h3 id="judge-result"></h3>
-            <p id="explanation-text"></p>
-            <button class="btn" onclick="nextQuestion()">次の問題へ</button>
+            <h3 id="judge-result" style="margin-top:0;"></h3>
+            <p id="explanation-text" style="line-height: 1.6;"></p>
+            <button class="btn" onclick="nextQuestion()">次の難易度へ</button>
         </div>
     </div>
 
     <div id="result-screen" class="hidden">
-        <h1>ゲーム終了！</h1>
-        <h2>最終スコア: <span id="final-score">0</span> 点</h2>
-        <button class="btn" onclick="location.reload()">もう一度遊ぶ</button>
+        <h1>お疲れ様でした！</h1>
+        <p>あなたの最終スコアは...</p>
+        <h2 style="font-size: 48px; color: #d0312d; margin: 20px 0;"><span id="final-score">0</span> 点</h2>
+        <p id="rank-msg" style="font-weight: bold; margin-bottom: 30px;"></p>
+        <button class="btn" onclick="location.reload()">もう一度挑戦する</button>
     </div>
 </div>
 
@@ -60,33 +70,42 @@
             const response = await fetch('quiz_data.json');
             const allQuizData = await response.json();
             const category = document.getElementById('category-select').value;
+            const categoryData = allQuizData.filter(q => q.category === category);
             
-            // 【簡易版ロジック】ある分だけかき集める
-            let categoryData = allQuizData.filter(q => q.category === category);
-            if (categoryData.length === 0) return alert("データが1問もありません！");
+            currentQuestions = [];
+            // 【本番ロジック】各難易度(1〜10)から必ず1問ずつ選ぶ
+            for (let d = 1; d <= 10; d++) {
+                const diffQs = categoryData.filter(q => q.difficulty === d);
+                if (diffQs.length > 0) {
+                    currentQuestions.push(diffQs[Math.floor(Math.random() * diffQs.length)]);
+                }
+            }
 
-            // シャッフルして最大10問抜き出し、難易度順に並べる
-            categoryData.sort(() => Math.random() - 0.5);
-            currentQuestions = categoryData.slice(0, 10).sort((a, b) => a.difficulty - b.difficulty);
+            if (currentQuestions.length < 5) { // 最低5問は揃っていないとエラー
+                return alert("まだデータが十分に揃っていません。深夜の自動生成を待つか、別のジャンルを選んでね！");
+            }
 
-            currentQIndex = 0; score = 0;
             document.getElementById('start-screen').classList.add('hidden');
             document.getElementById('quiz-screen').classList.remove('hidden');
             showQuestion();
-        } catch (e) { alert("quiz_data.jsonを読み込めないよ！"); }
+        } catch (e) { alert("データの読み込みに失敗しました。"); }
     }
 
     function showQuestion() {
         const q = currentQuestions[currentQIndex];
         document.getElementById('explanation-box').style.display = 'none';
         document.getElementById('choices-container').style.display = 'block';
-        document.getElementById('q-number').innerText = `第 ${currentQIndex + 1} 問 (難易度:${q.difficulty})`;
-        document.getElementById('q-text').innerText = `Q. ${q.question}`;
+        document.getElementById('q-number').innerText = `Level ${q.difficulty} / 10`;
+        document.getElementById('q-text').innerText = q.question;
         document.getElementById('current-score').innerText = score;
 
         const container = document.getElementById('choices-container');
         container.innerHTML = '';
-        q.choices.forEach(c => {
+        
+        // 選択肢をランダムに並び替える
+        const shuffledChoices = [...q.choices].sort(() => Math.random() - 0.5);
+
+        shuffledChoices.forEach(c => {
             const b = document.createElement('button');
             b.className = 'btn btn-choice'; b.innerText = c;
             b.onclick = () => {
@@ -94,7 +113,7 @@
                 document.getElementById('explanation-box').style.display = 'block';
                 const isCorrect = c === q.answer;
                 score += isCorrect ? pointsCorrect[currentQIndex] : pointsWrong[currentQIndex];
-                document.getElementById('judge-result').innerText = isCorrect ? "🎉 正解！" : "😭 不正解...";
+                document.getElementById('judge-result').innerText = isCorrect ? "🎉 正解！" : "😭 不正解... (正解: " + q.answer + ")";
                 document.getElementById('judge-result').style.color = isCorrect ? "#27ae60" : "#e74c3c";
                 document.getElementById('explanation-text').innerText = q.explanation;
                 document.getElementById('current-score').innerText = score;
@@ -109,6 +128,8 @@
             document.getElementById('quiz-screen').classList.add('hidden');
             document.getElementById('result-screen').classList.remove('hidden');
             document.getElementById('final-score').innerText = score;
+            let msg = score >= 2000 ? "神レベル！ニュース通すぎます！" : (score >= 1000 ? "すごい！かなり情勢に詳しいですね！" : "伸び代あり！明日も挑戦しよう！");
+            document.getElementById('rank-msg').innerText = msg;
         } else { showQuestion(); }
     }
 </script>
