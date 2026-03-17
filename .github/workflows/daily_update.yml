@@ -2,8 +2,8 @@ name: Daily Quiz Update
 
 on:
   schedule:
-    - cron: '15 15 * * *' # 日本時間の深夜0時15分に実行（UTC基準）
-  workflow_dispatch: # 手動で動かすボタンも一応作っておく
+    - cron: '0 15 * * *' # 日本時間の深夜0時00分に実行（UTC 15:00）
+  workflow_dispatch: # 手動で動かすボタン
 
 jobs:
   build:
@@ -14,6 +14,8 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v4
+      with:
+        fetch-depth: 0 # すべての履歴を取得（pullを安全にするため）
 
     - name: Set up Python
       uses: actions/setup-python@v5
@@ -33,6 +35,8 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
+        # 保存前に最新の状態（千葉ちゃんが更新したHTMLなど）を取り込む魔法の一行
+        git pull origin main --rebase
         git add quiz_data.json
         git commit -m "Update quiz data for $(date)" || exit 0
         git push
