@@ -1,6 +1,9 @@
 import json
 import time
 import os
+import urllib.request
+import urllib.parse
+import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta
 from google import genai
 from google.genai import types
@@ -13,20 +16,61 @@ output_file = 'quiz_data.json'
 categories = ["世界情勢", "日本の政治", "文化", "エンタテイメント", "ゲーム", "アニメ", "AI"]
 yesterday_str = (datetime.now() - timedelta(days=1)).strftime("%Y年%m月%d日")
 
+# --- 新しく追加したニュース取得関数 ---
+def fetch_news_text(category):
+    """GoogleニュースのRSSから最新ニュースの見出しをサクッと取得する"""
+    # 検索キーワードを作成（例: "世界情勢 ニュース"）
+    query = urllib.parse.quote(f"{category} ニュース")
+    url = f"https://news.google.com/rss/search?q={query}&hl=ja&gl=JP&ceid=JP:ja"
+    
+    try:
+        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+        with urllib.request.urlopen(req) as response:
+            xml_data = response.read()
+            
+        root = ET.fromstring(xml_data)
+        news_text = ""
+        count = 0
+        
+        # 最新15件の見出しだけを抽出（これだけでGeminiには十分な情報量）
+        for item in root.findall('.//item'):
+            if count >= 15:
+                break
+            title = item.find('title').text
+            news_text += f"・{title}\n"
+            count += 1
+            
+        return news_text
+    except Exception as e:
+        print(f"  ⚠️ ニュース取得エラー ({category}): {e}")
+        return ""
+# --------------------------------------
+
 all_quiz_data = []
-print(f"🚀 {yesterday_str} のクイズ生成を開始（一括生成モード）")
+print(f"🚀 {yesterday_str} のクイズ生成を開始（一括生成・軽量モード）")
 
 for category in categories:
-    print(f"\n📦 ジャンル: 【{category}】をまとめて生成中...")
+    print(f"\n📦 ジャンル: 【{category}】のニュースを取得中...")
     
-    # 1回の注文で10問分まとめて考えさせる！
+    # 1. まずPython側でニュースを取得する（千葉ちゃんロジック！）
+    news_text = fetch_news_text(category)
+    if not news_text:
+        news_text = "（ニュースの取得に失敗したため、一般的な知識でクイズを作成してください）"
+    
+    print(f"  ✅ ニュース取得完了！Geminiにクイズ作成を依頼します...")
+
+    # 2. 取得したテキストをプロンプトに埋め込む
     prompt = f"""
-    Google検索を使用して、{yesterday_str}の「{category}」に関する最新ニュースをいくつか調べ、
-    難易度レベル1から10まで、それぞれ1問ずつ（合計10問）の4択クイズを作成してください。
+    以下の最新ニュース見出しを参考にして、{yesterday_str}の「{category}」に関する4択クイズを
+    難易度レベル1から10まで、それぞれ1問ずつ（合計10問）作成してください。
+    
+    【参考ニュース】
+    {news_text}
     
     【ルール】
     - Level 1は一般常識、Level 10は超マニアックな専門知識としてください。
-    - 各問題のニュースが重複しないように工夫してください。
+    - ニュースの内容をベースにしつつ、情報が足りない場合は一般知識を補って問題を作ってください。
+    - 各問題のテーマが重複しないように工夫してください。
     
     出力は必ず以下のJSON配列形式のみとしてください。余計な文章は一切含めないでください：
     [
@@ -38,11 +82,11 @@ for category in categories:
     success = False
     for attempt in range(3): # 失敗しても3回までリトライ
         try:
+            # 3. 検索ツール(tools)を外して、純粋なテキスト処理だけさせる！
             response = client.models.generate_content(
                 model='gemini-2.0-flash',
                 contents=prompt,
                 config=types.GenerateContentConfig(
-                    tools=[{"google_search": {}}], 
                     temperature=0.7
                 )
             )
@@ -57,13 +101,13 @@ for category in categories:
                 break
         except Exception as e:
             print(f"  ⚠️ {category}: リトライ中... (エラー: {e})")
-            time.sleep(30) # 429回避のために長めに休む
+            time.sleep(30)
     
     if not success:
         print(f"  ❌ {category}: 最終的に失敗。このジャンルは飛ばします。")
     
-    # ジャンルごとに20秒休ませてGeminiの怒りを鎮める
-    print("  💤 Geminiを休ませています（20秒）...")
+    # 処理が劇的に軽くなったので、インターバルは20秒で十分！
+    print("  💤 次のジャンルへ行く前に少し待機（20秒）...")
     time.sleep(20)
 
 # 最後に保存（1問でもあれば保存する）
