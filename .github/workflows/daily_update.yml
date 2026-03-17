@@ -2,20 +2,20 @@ name: Daily Quiz Update
 
 on:
   schedule:
-    - cron: '0 15 * * *' # 日本時間の深夜0時00分に実行（UTC 15:00）
+    - cron: '0 15 * * *' # 日本時間の深夜0時00分に実行
   workflow_dispatch: # 手動で動かすボタン
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # GitHubに書き込む許可
+      contents: write
 
     steps:
     - name: Checkout code
       uses: actions/checkout@v4
       with:
-        fetch-depth: 0 # すべての履歴を取得（pullを安全にするため）
+        fetch-depth: 0
 
     - name: Set up Python
       uses: actions/setup-python@v5
@@ -35,8 +35,10 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        # 保存前に最新の状態（千葉ちゃんが更新したHTMLなど）を取り込む魔法の一行
-        git pull origin main --rebase
+        # 1. まず、できたてのクイズデータを「整理（add & commit）」する
         git add quiz_data.json
-        git commit -m "Update quiz data for $(date)" || exit 0
+        git commit -m "Update quiz data for $(date)" || echo "No changes to commit"
+        # 2. その後で、千葉ちゃんが更新した最新のHTMLなどを取り込む
+        git pull --rebase origin main
+        # 3. 最後に全部まとめて保存！
         git push
