@@ -8,7 +8,7 @@ import time
 from datetime import datetime, timedelta
 import google.generativeai as genai
 
-# API設定
+# --- 1. 初期設定 ---
 API_KEY = os.environ.get("GEMINI_API_KEY")
 genai.configure(api_key=API_KEY)
 
@@ -16,6 +16,36 @@ output_file = 'quiz_data.json'
 target_category = sys.argv[1] if len(sys.argv) > 1 else "世界情勢"
 yesterday_str = (datetime.now() - timedelta(days=1)).strftime("%Y年%m月%d日")
 
+# --- 2. 使えるモデルを自動検出（これが404対策の決定打だぜ！） ---
+print("🔍 使えるモデルを探しているぜ...")
+available_models = []
+try:
+    for m in genai.list_models():
+        if 'generateContent' in m.supported_generation_methods:
+            available_models.append(m.name)
+    
+    # 優先順位：2.0-flash > 1.5-flash > 1.5-flash-latest > その他
+    best_model = None
+    for priority in ['gemini-2.0-flash', 'gemini-1.5-flash', '1.5-flash']:
+        for am in available_models:
+            if priority in am:
+                best_model = am
+                break
+        if best_model: break
+    
+    if not best_model and available_models:
+        best_model = available_models[0]
+    
+    if not best_model:
+        raise Exception("使えるモデルが一つも見つからないぜ...APIキーを確認してくれ。")
+        
+    print(f"✅ ターゲットモデル決定: {best_model}")
+
+except Exception as e:
+    print(f"❌ モデルリスト取得エラー: {e}")
+    sys.exit(1)
+
+# --- 3. ニュース取得 ---
 def fetch_news(category):
     query = urllib.parse.quote(f"{category} ニュース")
     url = f"https://news.google.com/rss/search?q={query}&hl=ja&gl=JP&ceid=JP:ja"
@@ -26,69 +56,44 @@ def fetch_news(category):
             return "\n".join([item.find('title').text for item in root.findall('.//item')[:15]])
     except: return ""
 
-print(f"🚀 【{target_category}】の最新クイズ100問を生成開始...")
-news_text = fetch_news(target_category)
+print(f"🚀 【{target_category}】の最新クイズ100問を生成中...")
+news = fetch_news(target_category)
 
 prompt = f"""
-以下の最新ニュースを参考に、{yesterday_str}時点の「{target_category}」に関する4択クイズを作成してください。
-難易度はレベル1から10まで各10問ずつ、合計100問作成してください。
-
-【参考ニュース】
-{news_text}
-
-【出力形式】
-JSON配列のみ。
-[
-  {{ "category": "{target_category}", "difficulty": 1, "question": "問題文", "choices": ["A","B","C","D"], "answer": "A", "explanation": "解説" }}
-]
+{yesterday_str}時点の「{target_category}」に関する4択クイズを100問作成してください。
+【ニュース】
+{news}
+【ルール】
+- 難易度レベル1〜10まで各10問、計100問。
+- JSON配列形式のみで出力。
 """
 
-# 試行するモデル名のリスト（これが404対策の決定打だぜ！）
-model_names = ['gemini-2.0-flash', 'gemini-1.5-flash', 'gemini-1.5-flash-latest']
-success = False
-
-for model_name in model_names:
-    if success: break
-    print(f"🤖 モデル {model_name} で挑戦中...")
+# --- 4. クイズ生成 ---
+try:
+    model = genai.GenerativeModel(best_model)
+    response = model.generate_content(
+        prompt,
+        generation_config={"response_mime_type": "application/json", "temperature": 0.7}
+    )
     
-    try:
-        # ここが修正ポイント！ 'models/' を付けずに直接指定
-        model = genai.GenerativeModel(model_name)
-        response = model.generate_content(
-            prompt,
-            generation_config={
-                "response_mime_type": "application/json",
-                "temperature": 0.7
-            }
-        )
-        
-        new_quizzes = json.loads(response.text)
-        
-        # 既存データの読み込みとマージ
-        if os.path.exists(output_file):
-            with open(output_file, "r", encoding="utf-8") as f:
-                full_data = json.load(f)
-        else:
-            full_data = []
+    new_quizzes = json.loads(response.text)
+    
+    # データ読み込みとマージ
+    full_data = []
+    if os.path.exists(output_file):
+        with open(output_file, "r", encoding="utf-8") as f:
+            try: full_data = json.load(f)
+            except: full_data = []
 
-        filtered_data = [q for q in full_data if q.get('category') != target_category]
-        updated_data = filtered_data + new_quizzes
-        updated_data.sort(key=lambda x: (x.get('category', ''), x.get('difficulty', 1)))
+    filtered = [q for q in full_data if q.get('category') != target_category]
+    updated = filtered + new_quizzes
+    updated.sort(key=lambda x: (x.get('category', ''), x.get('difficulty', 1)))
 
-        with open(output_file, "w", encoding="utf-8") as f:
-            json.dump(updated_data, f, ensure_ascii=False, indent=2)
-        
-        print(f"✅ {target_category} の100問生成に成功したぜ！")
-        success = True
+    with open(output_file, "w", encoding="utf-8") as f:
+        json.dump(updated, f, ensure_ascii=False, indent=2)
+    
+    print(f"✨ 完遂！ {target_category} の 100 問を保存したぜ。")
 
-    except Exception as e:
-        print(f"⚠️ {model_name} でエラー: {e}")
-        # トラフィック過多（429）の場合は少し待つ
-        if "429" in str(e) or "Resource" in str(e):
-            print("💤 トラフィック制限中... 20秒待機して次を試すぜ。")
-            time.sleep(20)
-        continue
-
-if not success:
-    print("❌ 全てのモデルで生成に失敗しました。")
+except Exception as e:
+    print(f"❌ 生成失敗: {e}")
     sys.exit(1)
