@@ -9,7 +9,7 @@ on:
     - cron: '0 17 * * *'   # 02:00 JST -> ゲーム
     - cron: '30 17 * * *'  # 02:30 JST -> アニメ
     - cron: '0 18 * * *'   # 03:00 JST -> AI
-  workflow_dispatch:      # 万が一の手動用ボタンも残しておくぜ
+  workflow_dispatch:
 
 jobs:
   build:
@@ -34,7 +34,6 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
-          # UTC時間に基づいてジャンルを決定
           H=$(date +%H)
           M=$(date +%M)
           if [ "$H" == "15" ] && [ "$M" == "00" ]; then CATEGORY="世界情勢"; fi
@@ -44,8 +43,6 @@ jobs:
           if [ "$H" == "17" ] && [ "$M" == "00" ]; then CATEGORY="ゲーム"; fi
           if [ "$H" == "17" ] && [ "$M" == "30" ]; then CATEGORY="アニメ"; fi
           if [ "$H" == "18" ] && [ "$M" == "00" ]; then CATEGORY="AI"; fi
-
-          # 手動実行時は「世界情勢」をデフォルトにする
           if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then CATEGORY="世界情勢"; fi
 
           if [ -n "$CATEGORY" ]; then
