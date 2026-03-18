@@ -33,11 +33,11 @@ jobs:
           pip install google-generativeai
 
       - name: Run script
-        env:
+　　　　　　env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
-          H=$(date +%H)
-          M=$(date +%M)
+          # 時間判定を全部取っ払って、ボタンを押したら「世界情勢」を強制生成！
+          python generate_quiz_automatic.py "世界情勢"
           
           echo "Current UTC Time: $H:$M"
           
