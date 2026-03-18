@@ -37,7 +37,7 @@ def fetch_news_text(category):
         print(f"⚠️ ニュース取得エラー: {e}")
         return ""
 
-print(f"🚀 【{target_category}】のクイズ更新を開始（安定版ライブラリ使用）")
+print(f"🚀 【{target_category}】のクイズ更新を開始")
 
 # 1. ニュース取得
 news_text = fetch_news_text(target_category)
@@ -65,7 +65,8 @@ JSON形式：
 
 # 3. Geminiで生成
 try:
-    model = genai.GenerativeModel('gemini-1.5-flash')
+    # モデル名を最新の 'gemini-2.0-flash' に変更！
+    model = genai.GenerativeModel('gemini-2.0-flash')
     response = model.generate_content(
         prompt,
         generation_config=genai.types.GenerationConfig(
@@ -77,7 +78,16 @@ try:
     print(f"✅ Geminiによる100問生成に成功したぜ！")
 except Exception as e:
     print(f"❌ 生成エラー: {e}")
-    sys.exit(1)
+    # 失敗したときのために、もう一度古い名前でも試す保険（フォールバック）
+    try:
+        print("💡 旧モデル名でリトライします...")
+        model = genai.GenerativeModel('gemini-1.5-flash-latest')
+        response = model.generate_content(prompt, generation_config=genai.types.GenerationConfig(temperature=0.7, response_mime_type="application/json"))
+        new_quizzes = json.loads(response.text)
+        print(f"✅ リトライで成功したぜ！")
+    except Exception as e2:
+        print(f"❌ 最終エラー: {e2}")
+        sys.exit(1)
 
 # 4. 既存データの読み込みと差し替え
 if os.path.exists(output_file):
