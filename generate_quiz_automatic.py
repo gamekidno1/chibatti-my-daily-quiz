@@ -8,13 +8,44 @@ import time
 from datetime import datetime, timedelta
 import google.generativeai as genai
 
-# APIキー設定
+# --- 初期設定 ---
 API_KEY = os.environ.get("GEMINI_API_KEY")
+if not API_KEY:
+    print("❌ エラー: GEMINI_API_KEY が設定されていません。")
+    sys.exit(1)
+
 genai.configure(api_key=API_KEY)
 
 output_file = 'quiz_data.json'
 target_category = sys.argv[1] if len(sys.argv) > 1 else "世界情勢"
 yesterday_str = (datetime.now() - timedelta(days=1)).strftime("%Y年%m月%d日")
+
+# --- 【最重要】利用可能なモデルを自動で見つける関数 ---
+def find_best_model():
+    print("🔍 利用可能なモデルを探索中...")
+    try:
+        available_models = []
+        for m in genai.list_models():
+            if 'generateContent' in m.supported_generation_methods:
+                available_models.append(m.name)
+                print(f"  - 発見: {m.name}")
+        
+        if not available_models:
+            print("❌ 利用可能なモデルが一つも見つかりませんでした。APIキーを確認してください。")
+            sys.exit(1)
+
+        # 1. 優先順位: 1.5-flash -> 2.0-flash -> その他の flash
+        for name in available_models:
+            if 'gemini-1.5-flash' in name: return name
+        for name in available_models:
+            if 'gemini-2.0-flash' in name: return name
+        for name in available_models:
+            if 'flash' in name: return name
+            
+        return available_models[0] # 何もなければ最初の一つを返す
+    except Exception as e:
+        print(f"❌ モデル一覧の取得に失敗しました: {e}")
+        sys.exit(1)
 
 # --- ニュース取得関数 ---
 def fetch_news_text(category):
@@ -37,14 +68,15 @@ def fetch_news_text(category):
         print(f"⚠️ ニュース取得エラー: {e}")
         return ""
 
-print(f"🚀 【{target_category}】のクイズ更新を開始")
+# --- メイン処理 ---
+best_model_name = find_best_model()
+print(f"🚀 使用モデル確定: 【{best_model_name}】")
+print(f"📦 【{target_category}】のクイズ更新を開始します...")
 
-# 1. ニュース取得
 news_text = fetch_news_text(target_category)
 if not news_text:
     news_text = "（最新のトレンドに基づき、一般的な知識でクイズを作成してください）"
 
-# 2. プロンプト作成
 prompt = f"""
 以下の最新ニュースを参考に、{yesterday_str}時点の「{target_category}」に関する4択クイズを作成してください。
 難易度はレベル1から10まで各10問ずつ、合計100問作成してください。
@@ -54,19 +86,17 @@ prompt = f"""
 
 【ルール】
 - 各レベル(1-10)につき10問、計100問を必ず作成すること。
-- 出力はJSON配列形式のみ。
+- 出力はJSON配列形式のみ。解説（explanation）に私信は含めないこと。
 
 JSON形式：
 [
-  {{ "category": "{target_category}", "difficulty": 1, "question": "問", "choices": ["A","B","C","D"], "answer": "A", "explanation": "説" }},
+  {{ "category": "{target_category}", "difficulty": 1, "question": "問題文", "choices": ["A","B","C","D"], "answer": "A", "explanation": "解説文" }},
   ...
 ]
 """
 
-# 3. Geminiで生成
 try:
-    # モデル名を最新の 'gemini-2.0-flash' に変更！
-    model = genai.GenerativeModel('gemini-2.0-flash')
+    model = genai.GenerativeModel(best_model_name)
     response = model.generate_content(
         prompt,
         generation_config=genai.types.GenerationConfig(
@@ -75,26 +105,17 @@ try:
         )
     )
     new_quizzes = json.loads(response.text)
-    print(f"✅ Geminiによる100問生成に成功したぜ！")
+    print(f"✅ Geminiによる100問生成に成功！")
 except Exception as e:
-    print(f"❌ 生成エラー: {e}")
-    # 失敗したときのために、もう一度古い名前でも試す保険（フォールバック）
-    try:
-        print("💡 旧モデル名でリトライします...")
-        model = genai.GenerativeModel('gemini-1.5-flash-latest')
-        response = model.generate_content(prompt, generation_config=genai.types.GenerationConfig(temperature=0.7, response_mime_type="application/json"))
-        new_quizzes = json.loads(response.text)
-        print(f"✅ リトライで成功したぜ！")
-    except Exception as e2:
-        print(f"❌ 最終エラー: {e2}")
-        sys.exit(1)
+    print(f"❌ クイズ生成中にエラーが発生しました: {e}")
+    sys.exit(1)
 
-# 4. 既存データの読み込みと差し替え
+# データの保存処理
 if os.path.exists(output_file):
     try:
         with open(output_file, "r", encoding="utf-8") as f:
             full_data = json.load(f)
-    except Exception:
+    except:
         full_data = []
 else:
     full_data = []
@@ -103,8 +124,7 @@ filtered_data = [q for q in full_data if q.get('category') != target_category]
 updated_data = filtered_data + new_quizzes
 updated_data.sort(key=lambda x: (x.get('category', ''), x.get('difficulty', 1)))
 
-# 5. 保存
 with open(output_file, "w", encoding="utf-8") as f:
     json.dump(updated_data, f, ensure_ascii=False, indent=2)
 
-print(f"✨ 【{target_category}】の最新クイズを上書き保存完了！")
+print(f"✨ 【{target_category}】の最新100問を quiz_data.json に保存しました。")
