@@ -24,7 +24,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install google-generativeai
+          pip install -U google-generativeai
 
       - name: Run script
         env:
@@ -37,4 +37,4 @@ jobs:
           git config --global user.name "Quiz-Update-Bot"
           git config --global user.email "bot@example.com"
           git add quiz_data.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Debug Update: Force Test" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Debug Update: Final Auto-Model Test" && git push)
