@@ -2,43 +2,45 @@ name: Daily Quiz Update
 
 on:
   schedule:
-    - cron: '0 15 * * *' # 日本時間の深夜0時00分に実行
-  workflow_dispatch: # 手動で動かすボタン
+    - cron: '0 15 * * *'   # 00:00 日本時間 -> 世界情勢
+    - cron: '30 15 * * *'  # 00:30 日本時間 -> 日本情勢
+    - cron: '0 16 * * *'   # 01:00 日本時間 -> 文化
+    - cron: '30 16 * * *'  # 01:30 日本時間 -> エンタテイメント
+    - cron: '0 17 * * *'   # 02:00 日本時間 -> ゲーム
+    - cron: '30 17 * * *'  # 02:30 日本時間 -> アニメ
+    - cron: '0 18 * * *'   # 03:00 日本時間 -> AI
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v4
-      with:
-        fetch-depth: 0
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      - run: pip install google-generativeai
+      
+      - name: Run script
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          H=$(date +%H)
+          M=$(date +%M)
+          
+          if [ "$H" == "15" ] && [ "$M" == "00" ]; then python generate_quiz_automatic.py "世界情勢"; fi
+          if [ "$H" == "15" ] && [ "$M" == "30" ]; then python generate_quiz_automatic.py "日本情勢"; fi
+          if [ "$H" == "16" ] && [ "$M" == "00" ]; then python generate_quiz_automatic.py "文化"; fi
+          if [ "$H" == "16" ] && [ "$M" == "30" ]; then python generate_quiz_automatic.py "エンタテイメント"; fi
+          if [ "$H" == "17" ] && [ "$M" == "00" ]; then python generate_quiz_automatic.py "ゲーム"; fi
+          if [ "$H" == "17" ] && [ "$M" == "30" ]; then python generate_quiz_automatic.py "アニメ"; fi
+          if [ "$H" == "18" ] && [ "$M" == "00" ]; then python generate_quiz_automatic.py "AI"; fi
 
-    - name: Set up Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.10'
-
-    - name: Install dependencies
-      run: |
-        pip install google-genai
-
-    - name: Run quiz generator
-      env:
-        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-      run: python generate_quiz_automatic.py
-
-    - name: Commit and Push changes
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        # 1. まず、できたてのクイズデータを「整理（add & commit）」する
-        git add quiz_data.json
-        git commit -m "Update quiz data for $(date)" || echo "No changes to commit"
-        # 2. その後で、千葉ちゃんが更新した最新のHTMLなどを取り込む
-        git pull --rebase origin main
-        # 3. 最後に全部まとめて保存！
-        git push
+      - name: Commit and Push
+        run: |
+          git config --global user.name "Quiz-Update-Bot"
+          git config --global user.email "bot@example.com"
+          git add quiz_data.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto Update: Daily Quiz Data" && git push)
