@@ -1,9 +1,32 @@
 name: Daily Quiz Update
 
 on:
+  # 定期実行設定（本番用）
   schedule:
-    - cron: '10 09 * * *'
+    - cron: '0 15 * * *'   # 00:00 JST
+    - cron: '30 15 * * *'  # 00:30 JST
+    - cron: '0 16 * * *'   # 01:00 JST
+    - cron: '30 16 * * *'  # 01:30 JST
+    - cron: '0 17 * * *'   # 02:00 JST
+    - cron: '30 17 * * *'  # 02:30 JST
+    - cron: '0 18 * * *'   # 03:00 JST
+  
+  # 手動実行設定（テスト・デバッグ用）
   workflow_dispatch:
+    inputs:
+      category:
+        description: '更新するジャンルを選択してください'
+        required: true
+        default: '世界情勢'
+        type: choice
+        options:
+          - 世界情勢
+          - 日本情勢
+          - 文化
+          - エンタテイメント
+          - ゲーム
+          - アニメ
+          - AI
 
 jobs:
   build:
@@ -30,11 +53,33 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
-          python generate_quiz_automatic.py "世界情勢"
+          # ジャンルの決定ロジック
+          if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
+            # 手動実行時は入力されたジャンルを使用
+            CATEGORY="${{ github.event.inputs.category }}"
+          else
+            # スケジュール実行時は時間で判定（UTC）
+            H=$(date +%H)
+            M=$(date +%M)
+            if [ "$H" == "15" ] && [ "$M" == "00" ]; then CATEGORY="世界情勢"; fi
+            if [ "$H" == "15" ] && [ "$M" == "30" ]; then CATEGORY="日本情勢"; fi
+            if [ "$H" == "16" ] && [ "$M" == "00" ]; then CATEGORY="文化"; fi
+            if [ "$H" == "16" ] && [ "$M" == "30" ]; then CATEGORY="エンタテイメント"; fi
+            if [ "$H" == "17" ] && [ "$M" == "00" ]; then CATEGORY="ゲーム"; fi
+            if [ "$H" == "17" ] && [ "$M" == "30" ]; then CATEGORY="アニメ"; fi
+            if [ "$H" == "18" ] && [ "$M" == "00" ]; then CATEGORY="AI"; fi
+          fi
+
+          if [ -n "$CATEGORY" ]; then
+            echo "Starting update for: $CATEGORY"
+            python generate_quiz_automatic.py "$CATEGORY"
+          else
+            echo "No matching category for this time. Skipping."
+          fi
 
       - name: Commit and Push
         run: |
-          git config --global user.name "Quiz-Update-Bot"
+          git config --global user.name "Quiz-Bot"
           git config --global user.email "bot@example.com"
           git add quiz_data.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Debug Update: Final Auto-Model Test" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto Update: Daily Quiz" && git push)
