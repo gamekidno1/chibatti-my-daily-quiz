@@ -4,16 +4,15 @@ import urllib.request
 import urllib.parse
 import xml.etree.ElementTree as ET
 import sys
+import time
 from datetime import datetime, timedelta
-from google import genai
-from google.genai import types
+import google.generativeai as genai
 
 # APIキー設定
 API_KEY = os.environ.get("GEMINI_API_KEY")
-client = genai.Client(api_key=API_KEY)
+genai.configure(api_key=API_KEY)
 
 output_file = 'quiz_data.json'
-# 引数からジャンルを受け取る（デフォルトは世界情勢）
 target_category = sys.argv[1] if len(sys.argv) > 1 else "世界情勢"
 yesterday_str = (datetime.now() - timedelta(days=1)).strftime("%Y年%m月%d日")
 
@@ -29,7 +28,7 @@ def fetch_news_text(category):
         news_text = ""
         count = 0
         for item in root.findall('.//item'):
-            if count >= 20: break # 少し多めに20件
+            if count >= 20: break
             title = item.find('title').text
             news_text += f"・{title}\n"
             count += 1
@@ -38,14 +37,14 @@ def fetch_news_text(category):
         print(f"⚠️ ニュース取得エラー: {e}")
         return ""
 
-print(f"🚀 【{target_category}】のクイズ更新を開始（30分おき・部分上書きモード）")
+print(f"🚀 【{target_category}】のクイズ更新を開始（安定版ライブラリ使用）")
 
 # 1. ニュース取得
 news_text = fetch_news_text(target_category)
 if not news_text:
-    news_text = "（ニュース取得失敗のため、最新のトレンドを推測して作成してください）"
+    news_text = "（最新のトレンドに基づき、一般的な知識でクイズを作成してください）"
 
-# 2. プロンプト作成（各難易度10問、計100問！）
+# 2. プロンプト作成
 prompt = f"""
 以下の最新ニュースを参考に、{yesterday_str}時点の「{target_category}」に関する4択クイズを作成してください。
 難易度はレベル1から10まで各10問ずつ、合計100問作成してください。
@@ -54,10 +53,8 @@ prompt = f"""
 {news_text}
 
 【ルール】
-- 各レベル(1-10)につき、必ず10個のクイズ（計100個）を作成すること。
-- Level 1は一般常識、Level 10は超マニアックな専門知識。
-- 重複を避け、幅広いトピックを扱ってください。
-- 出力はJSON配列形式のみ。解説（explanation）に私信は含めないこと。
+- 各レベル(1-10)につき10問、計100問を必ず作成すること。
+- 出力はJSON配列形式のみ。
 
 JSON形式：
 [
@@ -68,10 +65,10 @@ JSON形式：
 
 # 3. Geminiで生成
 try:
-    response = client.models.generate_content(
-        model='gemini-2.0-flash', # 高速なflashモデルが最適
-        contents=prompt,
-        config=types.GenerateContentConfig(
+    model = genai.GenerativeModel('gemini-1.5-flash')
+    response = model.generate_content(
+        prompt,
+        generation_config=genai.types.GenerationConfig(
             temperature=0.7,
             response_mime_type="application/json"
         )
@@ -80,26 +77,24 @@ try:
     print(f"✅ Geminiによる100問生成に成功したぜ！")
 except Exception as e:
     print(f"❌ 生成エラー: {e}")
-    exit(1)
+    sys.exit(1)
 
 # 4. 既存データの読み込みと差し替え
 if os.path.exists(output_file):
-    with open(output_file, "r", encoding="utf-8") as f:
-        full_data = json.load(f)
+    try:
+        with open(output_file, "r", encoding="utf-8") as f:
+            full_data = json.load(f)
+    except Exception:
+        full_data = []
 else:
     full_data = []
 
-# 対象ジャンルの古いデータを削除
 filtered_data = [q for q in full_data if q.get('category') != target_category]
-
-# 新しいデータを追加
 updated_data = filtered_data + new_quizzes
-
-# 難易度でソート（アプリの表示順を整える）
-updated_data.sort(key=lambda x: (x.get('category'), x.get('difficulty', 1)))
+updated_data.sort(key=lambda x: (x.get('category', ''), x.get('difficulty', 1)))
 
 # 5. 保存
 with open(output_file, "w", encoding="utf-8") as f:
     json.dump(updated_data, f, ensure_ascii=False, indent=2)
 
-print(f"✨ 【{target_category}】の最新100問を quiz_data.json に上書き納品したぜ！")
+print(f"✨ 【{target_category}】の最新クイズを上書き保存完了！")
