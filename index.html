@@ -5,133 +5,342 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ちばっちの「今の世界がわかる」クイズ</title>
     <style>
-        body { font-family: 'Helvetica Neue', Arial, sans-serif; background-color: #f0f2f5; color: #1c1e21; text-align: center; padding: 20px; margin: 0; }
-        #app { max-width: 600px; margin: 40px auto; background: white; padding: 40px; border-radius: 16px; box-shadow: 0 8px 24px rgba(0,0,0,0.1); }
-        h1 { font-size: 26px; color: #1877f2; margin-bottom: 10px; }
-        p.intro { color: #606770; margin-bottom: 30px; }
-        .btn { display: block; width: 100%; padding: 18px; margin: 12px 0; background-color: #1877f2; color: white; border: none; border-radius: 10px; font-size: 17px; font-weight: bold; cursor: pointer; transition: 0.3s; }
-        .btn:hover { background-color: #166fe5; transform: translateY(-2px); }
-        .btn-choice { background-color: #f0f2f5; color: #1c1e21; border: 1px solid #dddfe2; text-align: left; font-weight: normal; }
-        .btn-choice:hover { background-color: #e4e6eb; border-color: #ccd0d5; }
-        .score-display { font-size: 20px; font-weight: bold; margin-bottom: 25px; color: #d0312d; }
-        .explanation { background: #ebf5ff; padding: 20px; border-radius: 10px; margin-top: 20px; text-align: left; display: none; border-left: 5px solid #1877f2; }
-        select { width: 100%; padding: 12px; font-size: 16px; margin-bottom: 25px; border-radius: 8px; border: 1px solid #dddfe2; }
-        .hidden { display: none; }
-        #q-number { color: #606770; font-size: 14px; text-transform: uppercase; letter-spacing: 1px; }
+        /* ベース設定 */
+        body {
+            font-family: 'Helvetica Neue', Arial, 'Hiragino Kaku Gothic ProN', 'Hiragino Sans', Meiryo, sans-serif;
+            background-color: #f0f2f5;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+        .app-container {
+            background: #fff;
+            max-width: 600px;
+            width: 100%;
+            border-radius: 12px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+            padding: 30px;
+            box-sizing: border-box;
+        }
+
+        /* テキスト・見出し */
+        h1 {
+            font-size: 1.6rem;
+            color: #0056b3;
+            text-align: center;
+            margin-top: 0;
+            margin-bottom: 5px;
+        }
+        .disclaimer {
+            font-size: 0.8rem;
+            color: #666;
+            text-align: center;
+            margin: 5px 0 15px 0;
+            line-height: 1.4;
+        }
+        .subtitle {
+            font-size: 1rem;
+            color: #555;
+            text-align: center;
+            margin-bottom: 25px;
+            line-height: 1.5;
+        }
+
+        /* スタート画面のパーツ */
+        #start-screen { text-align: center; }
+        select {
+            width: 100%;
+            padding: 12px;
+            font-size: 1rem;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            background-color: #fff;
+            cursor: pointer;
+        }
+        button {
+            background-color: #0d6efd;
+            color: #fff;
+            border: none;
+            padding: 15px 20px;
+            font-size: 1.1rem;
+            border-radius: 8px;
+            cursor: pointer;
+            width: 100%;
+            transition: background-color 0.2s;
+            font-weight: bold;
+        }
+        button:hover { background-color: #0b5ed7; }
+
+        /* クイズ画面のパーツ */
+        #quiz-screen, #result-screen { display: none; }
+        .quiz-header { text-align: center; margin-bottom: 20px; }
+        .level { font-size: 1rem; color: #6c757d; font-weight: bold; letter-spacing: 1px;}
+        .score { font-size: 1.4rem; color: #dc3545; font-weight: bold; margin-top: 5px; }
+        .question-text { font-size: 1.2rem; font-weight: bold; margin-bottom: 20px; line-height: 1.6; }
+        
+        .choices { display: flex; flex-direction: column; gap: 10px; }
+        .choice-btn {
+            background-color: #fff;
+            color: #333;
+            border: 2px solid #dee2e6;
+            padding: 15px;
+            font-size: 1rem;
+            border-radius: 8px;
+            cursor: pointer;
+            text-align: left;
+            transition: all 0.2s;
+            font-weight: normal;
+        }
+        .choice-btn:hover:not(:disabled) { background-color: #f8f9fa; border-color: #c6c7c8; }
+        .choice-btn.correct { background-color: #d1e7dd; border-color: #badbcc; color: #0f5132; font-weight: bold; }
+        .choice-btn.incorrect { background-color: #f8d7da; border-color: #f5c2c7; color: #842029; }
+        .choice-btn:disabled { cursor: not-allowed; }
+
+        /* 解説ボックス */
+        #explanation-box {
+            margin-top: 20px;
+            padding: 15px;
+            border-radius: 8px;
+            display: none;
+            line-height: 1.5;
+        }
+        #explanation-box.success { background-color: #e8f4f8; border-left: 5px solid #0d6efd; }
+        #explanation-box.danger { background-color: #fdf3f4; border-left: 5px solid #dc3545; }
+        .explanation-title { font-weight: bold; margin-bottom: 10px; font-size: 1.1rem; }
+        
+        #next-btn { margin-top: 20px; display: none; }
+
+        /* 結果画面 */
+        .result-title { font-size: 1.8rem; color: #0d6efd; margin-bottom: 10px; font-weight: bold; }
+        .final-score { font-size: 3rem; color: #dc3545; font-weight: bold; margin-bottom: 25px; }
+
+        /* ローディング画面（クルクル） */
+        .loading-overlay {
+            position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+            background: rgba(255, 255, 255, 0.9);
+            display: flex; flex-direction: column; justify-content: center; align-items: center;
+            z-index: 9999;
+        }
+        .spinner {
+            border: 5px solid #f3f3f3;
+            border-top: 5px solid #0d6efd;
+            border-radius: 50%;
+            width: 50px; height: 50px;
+            animation: spin 1s linear infinite;
+            margin-bottom: 15px;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
     </style>
 </head>
 <body>
-<div id="app">
-    <div id="start-screen">
-        <h1>🌍 ちばっちの「今の世界がわかる」クイズ</h1>
-        <p class="intro">昨日起きた最新ニュースから10問連続出題！<br>難易度レベル1〜10を制覇して3000点を目指せ！</p>
-        <select id="category-select">
-            <option value="世界情勢">世界情勢</option>
-            <option value="日本の政治">日本の政治</option>
-            <option value="文化">文化</option>
-            <option value="エンタテイメント">エンタテイメント</option>
-            <option value="ゲーム">ゲーム</option>
-            <option value="アニメ">アニメ</option>
-            <option value="AI">AI</option>
-        </select>
-        <button class="btn" onclick="startGame()">クイズに挑戦する</button>
+
+    <div id="loading" class="loading-overlay">
+        <div class="spinner"></div>
+        <p style="font-weight: bold; color: #555;">最新の世界を読み込み中...🌍</p>
     </div>
 
-    <div id="quiz-screen" class="hidden">
-        <div id="q-number"></div>
-        <div class="score-display">スコア: <span id="current-score">0</span></div>
-        <p id="q-text" style="font-size: 20px; font-weight: bold; line-height: 1.5; margin-bottom: 30px;"></p>
-        <div id="choices-container"></div>
-        <div id="explanation-box" class="explanation">
-            <h3 id="judge-result" style="margin-top:0;"></h3>
-            <p id="explanation-text" style="line-height: 1.6;"></p>
-            <button class="btn" onclick="nextQuestion()">次の難易度へ</button>
+    <div class="app-container">
+        <div id="start-screen">
+            <h1>🌍 ちばっちの「今の世界がわかる」クイズ</h1>
+            <p class="disclaimer">
+                ※本サイトの問題と解答は各サイトの情報を元に構成しています。<br>
+                　解答が事実と異なる場合もあります。ご了承ください。
+            </p>
+            <p class="subtitle">昨日起きた最新ニュースから10問連続出題！<br>難易度レベル1〜10を制覇して3000点を目指せ！</p>
+            
+            <select id="category-select">
+                <option value="世界情勢">世界情勢</option>
+                <option value="日本の政治">日本の政治</option>
+                <option value="文化">文化</option>
+                <option value="エンタテイメント">エンタテイメント</option>
+                <option value="ゲーム">ゲーム</option>
+                <option value="アニメ">アニメ</option>
+                <option value="AI">AI</option>
+            </select>
+            
+            <button id="start-btn">クイズに挑戦する！</button>
+        </div>
+
+        <div id="quiz-screen">
+            <div class="quiz-header">
+                <div class="level" id="level-display">LEVEL 1 / 10</div>
+                <div class="score" id="score-display">スコア: 0</div>
+            </div>
+            <div class="question-text" id="question-text"></div>
+            <div class="choices" id="choices-container"></div>
+            
+            <div id="explanation-box">
+                <div class="explanation-title" id="explanation-title"></div>
+                <div id="explanation-text"></div>
+            </div>
+            
+            <button id="next-btn">次の難易度へ</button>
+        </div>
+
+        <div id="result-screen" style="text-align: center;">
+            <div class="result-title">全問終了！</div>
+            <p style="font-size: 1.2rem; margin-bottom: 10px;">あなたの最終スコアは...</p>
+            <div class="final-score" id="final-score-display">0</div>
+            <button id="restart-btn">トップに戻る</button>
         </div>
     </div>
 
-    <div id="result-screen" class="hidden">
-        <h1>お疲れ様でした！</h1>
-        <p>あなたの最終スコアは...</p>
-        <h2 style="font-size: 48px; color: #d0312d; margin: 20px 0;"><span id="final-score">0</span> 点</h2>
-        <p id="rank-msg" style="font-weight: bold; margin-bottom: 30px;"></p>
-        <button class="btn" onclick="location.reload()">もう一度挑戦する</button>
-    </div>
-</div>
+    <script>
+        let allQuizData = [];
+        let currentQuestions = [];
+        let currentQuestionIndex = 0;
+        let score = 0;
 
-<script>
-    const pointsCorrect = [5, 15, 30, 50, 100, 200, 350, 550, 700, 1000];
-    const pointsWrong = [-1, -3, -8, -15, -30, -70, -130, -200, -500, -1000];
-    let currentQuestions = [];
-    let currentQIndex = 0;
-    let score = 0;
+        const startScreen = document.getElementById('start-screen');
+        const quizScreen = document.getElementById('quiz-screen');
+        const resultScreen = document.getElementById('result-screen');
+        const loadingOverlay = document.getElementById('loading');
+        const explanationBox = document.getElementById('explanation-box');
+        const nextBtn = document.getElementById('next-btn');
+        const choicesContainer = document.getElementById('choices-container');
 
-    async function startGame() {
-        try {
-            const response = await fetch('quiz_data.json');
-            const allQuizData = await response.json();
-            const category = document.getElementById('category-select').value;
-            const categoryData = allQuizData.filter(q => q.category === category);
+        // アプリ起動時にJSONを読み込む
+        fetch('quiz_data.json')
+            .then(response => {
+                if (!response.ok) throw new Error('ネットワークエラー');
+                return response.json();
+            })
+            .then(data => {
+                allQuizData = data;
+                // 読み込み完了したらクルクルを消す！
+                setTimeout(() => { loadingOverlay.style.display = 'none'; }, 500); // 演出で0.5秒だけ残す
+            })
+            .catch(error => {
+                console.error('読み込み失敗:', error);
+                loadingOverlay.style.display = 'none';
+                alert('データの読み込みに失敗しました。少し待ってからページを更新してください。');
+            });
+
+        // スタートボタンの処理
+        document.getElementById('start-btn').addEventListener('click', () => {
+            const selectedCategory = document.getElementById('category-select').value;
             
+            let filtered = allQuizData.filter(q => q.category === selectedCategory);
+            
+            // 10問以上あるかチェック
+            if (filtered.length < 10) {
+                alert('まだデータが十分に揃っていません。深夜の自動生成を待つか、別のジャンルを選んでね！');
+                return;
+            }
+
+            // 難易度1〜10から1問ずつ選んで10問のセットを作る
             currentQuestions = [];
-            // 【本番ロジック】各難易度(1〜10)から必ず1問ずつ選ぶ
-            for (let d = 1; d <= 10; d++) {
-                const diffQs = categoryData.filter(q => q.difficulty === d);
-                if (diffQs.length > 0) {
-                    currentQuestions.push(diffQs[Math.floor(Math.random() * diffQs.length)]);
+            for (let i = 1; i <= 10; i++) {
+                const questionsOfLevel = filtered.filter(q => q.difficulty === i);
+                if (questionsOfLevel.length > 0) {
+                    // 同じ難易度が複数ある場合はランダムに1問（700問対応用）
+                    const randomQ = questionsOfLevel[Math.floor(Math.random() * questionsOfLevel.length)];
+                    currentQuestions.push(randomQ);
                 }
             }
 
-            if (currentQuestions.length < 5) { // 最低5問は揃っていないとエラー
-                return alert("まだデータが十分に揃っていません。深夜の自動生成を待つか、別のジャンルを選んでね！");
+            if (currentQuestions.length < 10) {
+                alert('全難易度の問題が揃っていません。別のジャンルを選んでね！');
+                return;
             }
 
-            document.getElementById('start-screen').classList.add('hidden');
-            document.getElementById('quiz-screen').classList.remove('hidden');
+            // クイズ開始の準備
+            currentQuestionIndex = 0;
+            score = 0;
+            startScreen.style.display = 'none';
+            quizScreen.style.display = 'block';
             showQuestion();
-        } catch (e) { alert("データの読み込みに失敗しました。"); }
-    }
-
-    function showQuestion() {
-        const q = currentQuestions[currentQIndex];
-        document.getElementById('explanation-box').style.display = 'none';
-        document.getElementById('choices-container').style.display = 'block';
-        document.getElementById('q-number').innerText = `Level ${q.difficulty} / 10`;
-        document.getElementById('q-text').innerText = q.question;
-        document.getElementById('current-score').innerText = score;
-
-        const container = document.getElementById('choices-container');
-        container.innerHTML = '';
-        
-        // 選択肢をランダムに並び替える
-        const shuffledChoices = [...q.choices].sort(() => Math.random() - 0.5);
-
-        shuffledChoices.forEach(c => {
-            const b = document.createElement('button');
-            b.className = 'btn btn-choice'; b.innerText = c;
-            b.onclick = () => {
-                document.getElementById('choices-container').style.display = 'none';
-                document.getElementById('explanation-box').style.display = 'block';
-                const isCorrect = c === q.answer;
-                score += isCorrect ? pointsCorrect[currentQIndex] : pointsWrong[currentQIndex];
-                document.getElementById('judge-result').innerText = isCorrect ? "🎉 正解！" : "😭 不正解... (正解: " + q.answer + ")";
-                document.getElementById('judge-result').style.color = isCorrect ? "#27ae60" : "#e74c3c";
-                document.getElementById('explanation-text').innerText = q.explanation;
-                document.getElementById('current-score').innerText = score;
-            };
-            container.appendChild(b);
         });
-    }
 
-    function nextQuestion() {
-        currentQIndex++;
-        if (currentQIndex >= currentQuestions.length) {
-            document.getElementById('quiz-screen').classList.add('hidden');
-            document.getElementById('result-screen').classList.remove('hidden');
-            document.getElementById('final-score').innerText = score;
-            let msg = score >= 2000 ? "神レベル！ニュース通すぎます！" : (score >= 1000 ? "すごい！かなり情勢に詳しいですね！" : "伸び代あり！明日も挑戦しよう！");
-            document.getElementById('rank-msg').innerText = msg;
-        } else { showQuestion(); }
-    }
-</script>
+        // 問題の表示
+        function showQuestion() {
+            const q = currentQuestions[currentQuestionIndex];
+            
+            document.getElementById('level-display').innerText = `LEVEL ${currentQuestionIndex + 1} / 10`;
+            document.getElementById('score-display').innerText = `スコア: ${score}`;
+            document.getElementById('question-text').innerText = q.question;
+            
+            choicesContainer.innerHTML = '';
+            explanationBox.style.display = 'none';
+            nextBtn.style.display = 'none';
+
+            // 選択肢をシャッフル
+            const shuffledChoices = [...q.choices].sort(() => Math.random() - 0.5);
+
+            shuffledChoices.forEach(choice => {
+                const btn = document.createElement('button');
+                btn.className = 'choice-btn';
+                btn.innerText = choice;
+                btn.addEventListener('click', () => checkAnswer(choice, q.answer, btn));
+                choicesContainer.appendChild(btn);
+            });
+        }
+
+        // 答え合わせ
+        function checkAnswer(selected, correct, clickedBtn) {
+            const buttons = choicesContainer.querySelectorAll('.choice-btn');
+            buttons.forEach(btn => btn.disabled = true);
+
+            if (selected === correct) {
+                clickedBtn.classList.add('correct');
+                // レベル×30点が基本スコア
+                score += currentQuestions[currentQuestionIndex].difficulty * 30;
+                document.getElementById('score-display').innerText = `スコア: ${score}`;
+                
+                explanationBox.className = 'success';
+                document.getElementById('explanation-title').innerText = '🎉 正解！';
+            } else {
+                clickedBtn.classList.add('incorrect');
+                // 正解を緑色で教える
+                buttons.forEach(btn => {
+                    if (btn.innerText === correct) btn.classList.add('correct');
+                });
+                
+                explanationBox.className = 'danger';
+                document.getElementById('explanation-title').innerText = '❌ 残念...';
+            }
+
+            document.getElementById('explanation-text').innerText = currentQuestions[currentQuestionIndex].explanation;
+            explanationBox.style.display = 'block';
+
+            if (currentQuestionIndex === 9) {
+                nextBtn.innerText = '結果を見る！';
+            } else {
+                nextBtn.innerText = '次の難易度へ';
+            }
+            nextBtn.style.display = 'block';
+        }
+
+        // 次へボタン
+        nextBtn.addEventListener('click', () => {
+            currentQuestionIndex++;
+            if (currentQuestionIndex < 10) {
+                showQuestion();
+            } else {
+                showResult();
+            }
+        });
+
+        // 結果画面
+        function showResult() {
+            quizScreen.style.display = 'none';
+            resultScreen.style.display = 'block';
+            document.getElementById('final-score-display').innerText = score;
+        }
+
+        // トップに戻る
+        document.getElementById('restart-btn').addEventListener('click', () => {
+            resultScreen.style.display = 'none';
+            startScreen.style.display = 'block';
+        });
+    </script>
 </body>
 </html>
