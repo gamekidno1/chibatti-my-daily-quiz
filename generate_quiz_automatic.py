@@ -16,10 +16,9 @@ output_file = 'quiz_data.json'
 categories = ["世界情勢", "日本の政治", "文化", "エンタテイメント", "ゲーム", "アニメ", "AI"]
 yesterday_str = (datetime.now() - timedelta(days=1)).strftime("%Y年%m月%d日")
 
-# --- 新しく追加したニュース取得関数 ---
+# --- ニュース取得関数（千葉ちゃんロジック採用！） ---
 def fetch_news_text(category):
     """GoogleニュースのRSSから最新ニュースの見出しをサクッと取得する"""
-    # 検索キーワードを作成（例: "世界情勢 ニュース"）
     query = urllib.parse.quote(f"{category} ニュース")
     url = f"https://news.google.com/rss/search?q={query}&hl=ja&gl=JP&ceid=JP:ja"
     
@@ -32,7 +31,7 @@ def fetch_news_text(category):
         news_text = ""
         count = 0
         
-        # 最新15件の見出しだけを抽出（これだけでGeminiには十分な情報量）
+        # 最新15件の見出しだけを抽出
         for item in root.findall('.//item'):
             if count >= 15:
                 break
@@ -52,7 +51,7 @@ print(f"🚀 {yesterday_str} のクイズ生成を開始（一括生成・軽量
 for category in categories:
     print(f"\n📦 ジャンル: 【{category}】のニュースを取得中...")
     
-    # 1. まずPython側でニュースを取得する（千葉ちゃんロジック！）
+    # 1. まずPython側でニュースを取得する
     news_text = fetch_news_text(category)
     if not news_text:
         news_text = "（ニュースの取得に失敗したため、一般的な知識でクイズを作成してください）"
@@ -72,7 +71,7 @@ for category in categories:
     - ニュースの内容をベースにしつつ、情報が足りない場合は一般知識を補って問題を作ってください。
     - 各問題のテーマが重複しないように工夫してください。
     
-    出力は必ず以下のJSON配列形式のみとしてください。余計な文章は一切含めないでください：
+    出力は以下のJSON配列形式のみとしてください：
     [
       {{ "category": "{category}", "difficulty": 1, "question": "問題文", "choices": ["肢1", "肢2", "肢3", "肢4"], "answer": "正解", "explanation": "解説" }},
       ...（難易度10まで10個のオブジェクトを並べる）
@@ -82,17 +81,18 @@ for category in categories:
     success = False
     for attempt in range(3): # 失敗しても3回までリトライ
         try:
-            # 3. 検索ツール(tools)を外して、純粋なテキスト処理だけさせる！
+            # 3. 検索ツールを外し、JSON出力を強制する！
             response = client.models.generate_content(
                 model='gemini-2.0-flash',
                 contents=prompt,
                 config=types.GenerateContentConfig(
-                    temperature=0.7
+                    temperature=0.7,
+                    response_mime_type="application/json" # ← ★ここが最強の保険！
                 )
             )
-            # JSON部分だけを抽出
-            text = response.text.strip().replace('```json', '').replace('```', '').strip()
-            data = json.loads(text)
+            
+            # JSON形式が保証されているので、そのまま安全に読み込める
+            data = json.loads(response.text)
             
             if isinstance(data, list) and len(data) > 0:
                 all_quiz_data.extend(data)
