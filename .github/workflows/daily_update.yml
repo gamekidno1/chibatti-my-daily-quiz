@@ -2,13 +2,7 @@ name: Daily Quiz Update
 
 on:
   schedule:
-    - cron: '10 09 * * *'  # 18:10 JST (09:10 UTC) -> 世界情勢
-    - cron: '15 09 * * *'  # 18:15 JST (09:15 UTC) -> 日本情勢
-    - cron: '20 09 * * *'  # 18:20 JST (09:20 UTC) -> 文化
-    - cron: '25 09 * * *'  # 18:25 JST (09:25 UTC) -> エンタテイメント
-    - cron: '30 09 * * *'  # 18:30 JST (09:30 UTC) -> ゲーム
-    - cron: '35 09 * * *'  # 18:35 JST (09:35 UTC) -> アニメ
-    - cron: '40 09 * * *'  # 18:40 JST (09:40 UTC) -> AI
+    - cron: '10 09 * * *'
   workflow_dispatch:
 
 jobs:
@@ -33,25 +27,14 @@ jobs:
           pip install google-generativeai
 
       - name: Run script
-　　　　　　env:
+        env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
-          # 時間判定を全部取っ払って、ボタンを押したら「世界情勢」を強制生成！
           python generate_quiz_automatic.py "世界情勢"
-          
-          echo "Current UTC Time: $H:$M"
-          
-          if [ "$H" == "09" ] && [ "$M" == "10" ]; then python generate_quiz_automatic.py "世界情勢"; fi
-          if [ "$H" == "09" ] && [ "$M" == "15" ]; then python generate_quiz_automatic.py "日本情勢"; fi
-          if [ "$H" == "09" ] && [ "$M" == "20" ]; then python generate_quiz_automatic.py "文化"; fi
-          if [ "$H" == "09" ] && [ "$M" == "25" ]; then python generate_quiz_automatic.py "エンタテイメント"; fi
-          if [ "$H" == "09" ] && [ "$M" == "30" ]; then python generate_quiz_automatic.py "ゲーム"; fi
-          if [ "$H" == "09" ] && [ "$M" == "35" ]; then python generate_quiz_automatic.py "アニメ"; fi
-          if [ "$H" == "09" ] && [ "$M" == "40" ]; then python generate_quiz_automatic.py "AI"; fi
 
       - name: Commit and Push
         run: |
           git config --global user.name "Quiz-Update-Bot"
           git config --global user.email "bot@example.com"
           git add quiz_data.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Debug Update: 5min Burst Test" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Debug Update: Force Test" && git push)
