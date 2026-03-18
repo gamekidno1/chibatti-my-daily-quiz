@@ -4,6 +4,7 @@ import urllib.request
 import urllib.parse
 import xml.etree.ElementTree as ET
 import sys
+import time
 from datetime import datetime, timedelta
 import google.generativeai as genai
 
@@ -22,13 +23,10 @@ def fetch_news(category):
         req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
         with urllib.request.urlopen(req) as res:
             root = ET.fromstring(res.read())
-            news_items = [item.find('title').text for item in root.findall('.//item')[:15]]
-            return "\n".join(news_items)
-    except Exception as e:
-        print(f"ニュース取得エラー: {e}")
-        return ""
+            return "\n".join([item.find('title').text for item in root.findall('.//item')[:15]])
+    except: return ""
 
-print(f"🚀 【{target_category}】の最新クイズ100問を生成しています...")
+print(f"🚀 【{target_category}】の最新クイズ100問を生成開始...")
 news_text = fetch_news(target_category)
 
 prompt = f"""
@@ -38,47 +36,59 @@ prompt = f"""
 【参考ニュース】
 {news_text}
 
-【ルール】
-- 各レベル(1-10)につき10問、計100問を必ず作成すること。
-- 出力はJSON配列形式のみ。解説（explanation）に私信は含めない。
-
-JSON形式：
+【出力形式】
+JSON配列のみ。
 [
-  {{ "category": "{target_category}", "difficulty": 1, "question": "問題文", "choices": ["A","B","C","D"], "answer": "A", "explanation": "解説" }},
-  ...
+  {{ "category": "{target_category}", "difficulty": 1, "question": "問題文", "choices": ["A","B","C","D"], "answer": "A", "explanation": "解説" }}
 ]
 """
 
-try:
-    # 互換性と安定性が最も高いモデル指定
-    model = genai.GenerativeModel('models/gemini-1.5-flash')
-    response = model.generate_content(
-        prompt,
-        generation_config={
-            "response_mime_type": "application/json",
-            "temperature": 0.7
-        }
-    )
-    
-    new_quizzes = json.loads(response.text)
-    
-    # 既存データの読み込みとマージ
-    if os.path.exists(output_file):
-        with open(output_file, "r", encoding="utf-8") as f:
-            full_data = json.load(f)
-    else:
-        full_data = []
+# 試行するモデル名のリスト（これが404対策の決定打だぜ！）
+model_names = ['gemini-2.0-flash', 'gemini-1.5-flash', 'gemini-1.5-flash-latest']
+success = False
 
-    # 指定ジャンルのみ入れ替え
-    filtered_data = [q for q in full_data if q.get('category') != target_category]
-    updated_data = filtered_data + new_quizzes
-    updated_data.sort(key=lambda x: (x.get('category', ''), x.get('difficulty', 1)))
-
-    with open(output_file, "w", encoding="utf-8") as f:
-        json.dump(updated_data, f, ensure_ascii=False, indent=2)
+for model_name in model_names:
+    if success: break
+    print(f"🤖 モデル {model_name} で挑戦中...")
     
-    print(f"✅ {target_category} の更新が正常に完了しました。")
+    try:
+        # ここが修正ポイント！ 'models/' を付けずに直接指定
+        model = genai.GenerativeModel(model_name)
+        response = model.generate_content(
+            prompt,
+            generation_config={
+                "response_mime_type": "application/json",
+                "temperature": 0.7
+            }
+        )
+        
+        new_quizzes = json.loads(response.text)
+        
+        # 既存データの読み込みとマージ
+        if os.path.exists(output_file):
+            with open(output_file, "r", encoding="utf-8") as f:
+                full_data = json.load(f)
+        else:
+            full_data = []
 
-except Exception as e:
-    print(f"❌ 生成または処理中にエラーが発生しました: {e}")
+        filtered_data = [q for q in full_data if q.get('category') != target_category]
+        updated_data = filtered_data + new_quizzes
+        updated_data.sort(key=lambda x: (x.get('category', ''), x.get('difficulty', 1)))
+
+        with open(output_file, "w", encoding="utf-8") as f:
+            json.dump(updated_data, f, ensure_ascii=False, indent=2)
+        
+        print(f"✅ {target_category} の100問生成に成功したぜ！")
+        success = True
+
+    except Exception as e:
+        print(f"⚠️ {model_name} でエラー: {e}")
+        # トラフィック過多（429）の場合は少し待つ
+        if "429" in str(e) or "Resource" in str(e):
+            print("💤 トラフィック制限中... 20秒待機して次を試すぜ。")
+            time.sleep(20)
+        continue
+
+if not success:
+    print("❌ 全てのモデルで生成に失敗しました。")
     sys.exit(1)
