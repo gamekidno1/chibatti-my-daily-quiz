@@ -6,14 +6,14 @@ import xml.etree.ElementTree as ET
 import sys
 from datetime import datetime
 
-# 【最新パッケージ】
+# Claude先生推奨の最新インポート！
 from google import genai
-from google.genai import types
 
 # 基本設定
 API_KEY = os.environ.get("GEMINI_API_KEY")
 client = genai.Client(api_key=API_KEY)
-MODEL_NAME = "gemini-2.0-flash"  # 【最新・最安・最速モデル】
+# 👇 ここが最大のポイント！最新の 2.5 に変更！
+MODEL_NAME = "gemini-2.5-flash"  
 output_file = 'quiz_data.json'
 target_category = sys.argv[1] if len(sys.argv) > 1 else "世界情勢"
 today_str = datetime.now().strftime("%Y年%m月%d日")
@@ -58,14 +58,11 @@ prompt = f"""
 """
 
 try:
-    # 【最新SDKの実行方法】
+    # 👇 Claude先生推奨の最新・超シンプルな呼び出し方！
     response = client.models.generate_content(
         model=MODEL_NAME,
         contents=prompt,
-        config=types.GenerateContentConfig(
-            response_mime_type="application/json",
-            temperature=0.7,
-        ),
+        config={"response_mime_type": "application/json", "temperature": 0.7}
     )
     
     new_quizzes = json.loads(response.text)
