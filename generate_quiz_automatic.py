@@ -10,7 +10,7 @@ import google.generativeai as genai
 # 基本設定
 API_KEY = os.environ.get("GEMINI_API_KEY")
 genai.configure(api_key=API_KEY)
-MODEL_NAME = "gemini-1.5-flash"  # エラー回避のため "-latest" は外し、安定版に戻す
+MODEL_NAME = "gemini-2.0-flash" # エラー回避のため "-latest" は外し、安定版に戻す
 output_file = 'quiz_data.json'
 target_category = sys.argv[1] if len(sys.argv) > 1 else "世界情勢"
 today_str = datetime.now().strftime("%Y年%m月%d日")
