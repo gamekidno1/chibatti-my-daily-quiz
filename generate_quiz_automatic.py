@@ -5,12 +5,15 @@ import urllib.parse
 import xml.etree.ElementTree as ET
 import sys
 from datetime import datetime
-import google.generativeai as genai
+
+# 【最新パッケージ】
+from google import genai
+from google.genai import types
 
 # 基本設定
 API_KEY = os.environ.get("GEMINI_API_KEY")
-genai.configure(api_key=API_KEY)
-MODEL_NAME = "gemini-2.0-flash" # エラー回避のため "-latest" は外し、安定版に戻す
+client = genai.Client(api_key=API_KEY)
+MODEL_NAME = "gemini-2.0-flash"  # 【最新・最安・最速モデル】
 output_file = 'quiz_data.json'
 target_category = sys.argv[1] if len(sys.argv) > 1 else "世界情勢"
 today_str = datetime.now().strftime("%Y年%m月%d日")
@@ -26,10 +29,9 @@ def fetch_news(category):
             return "\n".join(items)
     except: return ""
 
-print(f"🚀 【{target_category}】の最新100問を生成中...")
+print(f"🚀 【{target_category}】の最新100問を生成中 (Model: {MODEL_NAME})...")
 news = fetch_news(target_category)
 
-# 【完璧なひな形】カテゴリ名のサボりを絶対に許さない
 prompt = f"""
 あなたは時事問題のプロです。提供された最新ニュースをもとに、{today_str}時点の「{target_category}」に関する4択クイズを100問作成してください。
 
@@ -56,10 +58,14 @@ prompt = f"""
 """
 
 try:
-    model = genai.GenerativeModel(MODEL_NAME)
-    response = model.generate_content(
-        prompt,
-        generation_config={"response_mime_type": "application/json", "temperature": 0.7}
+    # 【最新SDKの実行方法】
+    response = client.models.generate_content(
+        model=MODEL_NAME,
+        contents=prompt,
+        config=types.GenerateContentConfig(
+            response_mime_type="application/json",
+            temperature=0.7,
+        ),
     )
     
     new_quizzes = json.loads(response.text)
@@ -97,5 +103,5 @@ try:
 
 except Exception as e:
     print(f"❌ エラー発生: {e}")
-    print("⚠️ 安全装置が作動しました。不良品データのため、既存の quiz_data.json は上書きされずに保護されました。")
+    print("⚠️ 安全装置が作動しました。不良品データのため、既存の quiz_data.json は保護されました。")
     sys.exit(1)
