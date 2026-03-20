@@ -9,7 +9,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # 🛡️ ここでも書き込み権限を明示的に宣言！
+      contents: write
     strategy:
       max-parallel: 1
       matrix:
@@ -18,6 +18,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # 🛡️ Rebaseするために全履歴を取得
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -37,10 +39,15 @@ jobs:
       - name: Commit and Push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CATEGORY: ${{ matrix.category }}
         run: |
           git config --global user.name "Quiz-Bot"
           git config --global user.email "bot@example.com"
-          # 🚀 Claude先生直伝：トークン付きURLで認証を突破！
           git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/gamekidno1/chibatti-my-daily-quiz.git
           git add quiz_data.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Scheduled Update: ${{ matrix.category }}" && git push)
+          git diff --quiet && git diff --staged --quiet || {
+            git commit -m "Scheduled Update: $CATEGORY"
+            # 🚀 Claude先生直伝：最新を取り込んでから整列させてPush！
+            git pull --rebase origin main
+            git push
+          }
