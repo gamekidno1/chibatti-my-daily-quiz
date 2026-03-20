@@ -8,6 +8,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # 🛡️ ここでも書き込み権限を明示的に宣言！
     strategy:
       max-parallel: 1
       matrix:
@@ -23,10 +25,9 @@ jobs:
           python-version: '3.10'
 
       - name: Install Dependencies
-        # 🚨 【超重要】ここで最新の公式パッケージ「google-genai」をインストールする！
         run: |
           python -m pip install --upgrade pip
-          pip install google-genai
+          pip install -U google-genai
 
       - name: Run Quiz Generator
         env:
@@ -34,8 +35,12 @@ jobs:
         run: python generate_quiz_automatic.py "${{ matrix.category }}"
 
       - name: Commit and Push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git config --global user.name "Quiz-Bot"
+          git config --global user.email "bot@example.com"
+          # 🚀 Claude先生直伝：トークン付きURLで認証を突破！
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/gamekidno1/chibatti-my-daily-quiz.git
           git add quiz_data.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update quiz data for ${{ matrix.category }}" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Scheduled Update: ${{ matrix.category }}" && git push)
