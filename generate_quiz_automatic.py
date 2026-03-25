@@ -5,19 +5,17 @@ import urllib.parse
 import xml.etree.ElementTree as ET
 import sys
 from datetime import datetime
-
-# Claude先生推奨の最新インポート！
+ 
 from google import genai
-
+ 
 # 基本設定
 API_KEY = os.environ.get("GEMINI_API_KEY")
 client = genai.Client(api_key=API_KEY)
-# 👇 ここが最大のポイント！最新の 2.5 に変更！
-MODEL_NAME = "gemini-2.5-flash"  
+MODEL_NAME = "gemini-2.5-flash"
 output_file = 'quiz_data.json'
 target_category = sys.argv[1] if len(sys.argv) > 1 else "世界情勢"
 today_str = datetime.now().strftime("%Y年%m月%d日")
-
+ 
 def fetch_news(category):
     query = urllib.parse.quote(f"{category} 最新 ニュース")
     url = f"https://news.google.com/rss/search?q={query}&hl=ja&gl=JP&ceid=JP:ja"
@@ -28,20 +26,20 @@ def fetch_news(category):
             items = [item.find('title').text for item in root.findall('.//item')[:15]]
             return "\n".join(items)
     except: return ""
-
+ 
 print(f"🚀 【{target_category}】の最新100問を生成中 (Model: {MODEL_NAME})...")
 news = fetch_news(target_category)
-
+ 
 prompt = f"""
 あなたは時事問題のプロです。提供された最新ニュースをもとに、{today_str}時点の「{target_category}」に関する4択クイズを100問作成してください。
-
+ 
 【鉄則】
 1. 一般常識や過去のニュース（2025年6月以前の出来事）での出題は禁止です。
 2. 必ず【最新ニュース】セクションに記載されたニュースだけを元に出題してください。記載されていない話題は絶対に使わないでください。
 3. 各問題の解説に「2026年3月のニュースによると」のように具体的な時期を必ず入れてください。
 4. 出力は以下のJSON配列形式とキー構成を【完全に】守ること。これ以外のフォーマットはシステムエラーを引き起こすため絶対に避けてください。
 5. 難易度(difficulty)は1から10まで、各レベル10問ずつ作成すること。
-
+ 
 【必須JSONフォーマット】
 [
   {{
@@ -53,25 +51,37 @@ prompt = f"""
     "explanation": "解説（必ずいつのニュースかを含めること）"
   }}
 ]
-
+ 
 【最新ニュース】
 {news if news else "2026年現在の最新トレンド"}
 """
-
+ 
 try:
-    # 👇 Claude先生推奨の最新・超シンプルな呼び出し方！
-    response = client.models.generate_content(
-        model=MODEL_NAME,
-        contents=prompt,
-        config={"response_mime_type": "application/json", "temperature": 0.7}
-    )
-    
-    new_quizzes = json.loads(response.text)
-    
+    # リトライ付き生成（最大3回）
+    max_retries = 3
+    new_quizzes = None
+    for attempt in range(max_retries):
+        try:
+            response = client.models.generate_content(
+                model=MODEL_NAME,
+                contents=prompt,
+                config={"response_mime_type": "application/json", "temperature": 0.7}
+            )
+            raw_text = response.text.strip()
+            if raw_text.startswith("```"):
+                raw_text = raw_text.split("\n", 1)[1].rsplit("```", 1)[0]
+            new_quizzes = json.loads(raw_text)
+            print(f"✅ {attempt+1}回目の生成でJSONパース成功！")
+            break
+        except json.JSONDecodeError as e:
+            print(f"⚠️ {attempt+1}回目: JSONパースエラー ({e})。リトライします...")
+            if attempt == max_retries - 1:
+                raise ValueError(f"JSON生成に{max_retries}回失敗しました。")
+ 
     # 🛡️ 絶対防衛ライン（バリデーション）
     if not isinstance(new_quizzes, list) or len(new_quizzes) == 0:
         raise ValueError("生成されたデータが空、または配列形式ではありません。")
-        
+ 
     required_keys = {"category", "difficulty", "question", "choices", "answer", "explanation"}
     for i, q in enumerate(new_quizzes):
         if not required_keys.issubset(q.keys()):
@@ -80,26 +90,27 @@ try:
             raise ValueError(f"{i+1}問目の選択肢が4つではありません。")
         if q.get("category") != target_category:
             raise ValueError(f"{i+1}問目のカテゴリ名が '{target_category}' ではありません。")
-            
+ 
     print(f"🛡️ 検問クリア！正常な問題データ {len(new_quizzes)}問 を確認しました。上書き処理に移行します。")
-
+ 
     # 既存データの読み込みとマージ
     full_data = []
     if os.path.exists(output_file):
         with open(output_file, "r", encoding="utf-8") as f:
             try: full_data = json.load(f)
             except: full_data = []
-
+ 
     filtered = [q for q in full_data if q.get('category') != target_category]
     updated = filtered + new_quizzes
     updated.sort(key=lambda x: (x.get('category', ''), x.get('difficulty', 1)))
-
+ 
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump(updated, f, ensure_ascii=False, indent=2)
-    
+ 
     print(f"✅ {target_category} の更新が完了し、本番環境に反映されました！")
-
+ 
 except Exception as e:
     print(f"❌ エラー発生: {e}")
     print("⚠️ 安全装置が作動しました。不良品データのため、既存の quiz_data.json は保護されました。")
     sys.exit(1)
+ 
