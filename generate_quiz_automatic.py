@@ -39,6 +39,7 @@ prompt = f"""
 3. 各問題の解説に「2026年3月のニュースによると」のように具体的な時期を必ず入れてください。
 4. 出力は以下のJSON配列形式とキー構成を【完全に】守ること。これ以外のフォーマットはシステムエラーを引き起こすため絶対に避けてください。
 5. 難易度(difficulty)は1から10まで、各レベル10問ずつ作成すること。
+6. 出力は必ず配列 [...] から始めてください。オブジェクト {{...}} でラップしないでください。
 
 【必須JSONフォーマット】
 [
@@ -79,6 +80,14 @@ try:
                 raise ValueError(f"JSON生成に{max_retries}回失敗しました。")
 
     # 🛡️ 絶対防衛ライン（バリデーション） - 不良問題は除外して続行
+    # オブジェクトでラップされてた場合、中の配列を取り出す
+    if isinstance(new_quizzes, dict):
+        for value in new_quizzes.values():
+            if isinstance(value, list) and len(value) > 0:
+                new_quizzes = value
+                print(f"⚠️ オブジェクトでラップされていたため、中の配列を取り出しました。")
+                break
+
     if not isinstance(new_quizzes, list) or len(new_quizzes) == 0:
         raise ValueError("生成されたデータが空、または配列形式ではありません。")
 
