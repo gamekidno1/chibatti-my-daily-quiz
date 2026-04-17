@@ -4,6 +4,7 @@ import urllib.request
 import urllib.parse
 import xml.etree.ElementTree as ET
 import sys
+import time
 from datetime import datetime
 
 from google import genai
@@ -58,7 +59,7 @@ prompt = f"""
 """
 
 try:
-    # リトライ付き生成（最大3回）
+    # リトライ付き生成（最大3回、あらゆるエラーに対応）
     max_retries = 3
     new_quizzes = None
     for attempt in range(max_retries):
@@ -78,6 +79,12 @@ try:
             print(f"⚠️ {attempt+1}回目: JSONパースエラー ({e})。リトライします...")
             if attempt == max_retries - 1:
                 raise ValueError(f"JSON生成に{max_retries}回失敗しました。")
+            time.sleep(5)
+        except Exception as e:
+            print(f"⚠️ {attempt+1}回目: API呼び出しエラー ({e})。リトライします...")
+            if attempt == max_retries - 1:
+                raise ValueError(f"API呼び出しに{max_retries}回失敗しました: {e}")
+            time.sleep(10)
 
     # 🛡️ 絶対防衛ライン（バリデーション） - 不良問題は除外して続行
     # オブジェクトでラップされてた場合、中の配列を取り出す
