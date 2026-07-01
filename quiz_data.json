@@ -4682,1861 +4682,1302 @@
   {
     "category": "ゲーム",
     "difficulty": 1,
-    "question": "2026年6月のState of Playで発売日決定が発表されたゲームは何ですか？",
+    "question": "Aimerが主題歌を担当した「ソードアート・オンライン」家庭用ゲーム最新作のタイトルは何ですか？",
     "choices": [
-      "真・三國無双2",
-      "エースコンバット8",
-      "鬼武者",
-      "KEMURI"
+      "ソードアート・オンライン アリシゼーション リコリス",
+      "ソードアート・オンライン フェイタル・バレット",
+      "ソードアート・オンライン Echoes of Aincrad",
+      "ソードアート・オンライン ラスト リコレクション"
     ],
-    "answer": "エースコンバット8",
-    "explanation": "2026年6月のニュースによると、State of Playで『エースコンバット8』の発売日決定が発表されました。"
+    "answer": "ソードアート・オンライン Echoes of Aincrad",
+    "explanation": "2026年6月のニュースによると、Aimerが主題歌を担当する「ソードアート・オンライン」家庭用ゲーム最新作のタイトルは『Echoes of Aincrad』です。"
   },
   {
     "category": "ゲーム",
     "difficulty": 1,
-    "question": "ゲーム「BanG Dream! Our Notes」で実装楽曲として発表されたAve Mujicaの楽曲は何ですか？",
+    "question": "Aimerが「ソードアート・オンライン」家庭用ゲーム最新作の主題歌としてデジタルリリースした楽曲のタイトルは何ですか？",
+    "choices": [
+      "Resonance",
+      "Live to Survive",
+      "IGNITE",
+      "crossing field"
+    ],
+    "answer": "Live to Survive",
+    "explanation": "2026年6月のニュースによると、Aimerは『SAO』家庭用ゲーム最新作『Echoes of Aincrad』の主題歌として「Live to Survive」をデジタルリリースしました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 1,
+    "question": "2026年のモバイルゲームアワードに関する最新情報は何でしたか？",
+    "choices": [
+      "受賞作品の発表",
+      "投票の開始",
+      "候補作品の募集終了",
+      "開催地の決定"
+    ],
+    "answer": "投票の開始",
+    "explanation": "2026年6月のニュースによると、「モバイルゲームアワード2026の投票が開始」されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 1,
+    "question": "「進撃の巨人」の物語を最初から最後まで描く集大成となるゲームのタイトルは何ですか？",
+    "choices": [
+      "進撃の巨人 The Final Battle",
+      "進撃の巨人２",
+      "進撃の巨人３",
+      "進撃の巨人 Chronicle"
+    ],
+    "answer": "進撃の巨人３",
+    "explanation": "2026年6月のニュースによると、「進撃の巨人」の物語を最初から最後まで描く集大成となるゲームは『進撃の巨人３』として発売が決定しました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 1,
+    "question": "State of Play June 2, 2026で発売日決定が発表されたゲームのタイトルは何ですか？",
+    "choices": [
+      "ファイナルファンタジーVII リバース",
+      "グランツーリスモ7",
+      "エースコンバット8",
+      "ゴッド・オブ・ウォー ラグナロク"
+    ],
+    "answer": "エースコンバット8",
+    "explanation": "2026年6月のニュースによると、State of Play June 2, 2026で『エースコンバット8』の発売日決定が発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 1,
+    "question": "State of Play June 2, 2026で完全新作として体験版が配信されたゲームシリーズは何ですか？",
+    "choices": [
+      "デビルメイクライ",
+      "バイオハザード",
+      "鬼武者",
+      "モンスターハンター"
+    ],
+    "answer": "鬼武者",
+    "explanation": "2026年6月のニュースによると、State of Play June 2, 2026で完全新作『鬼武者』の体験版配信が発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 1,
+    "question": "2026年7月16日に発売が決定した本格ジョッキーゲームのタイトルは何ですか？",
+    "choices": [
+      "ウマ娘 プリティーダービー",
+      "ダービースタリオン",
+      "Full Stride",
+      "Winning Post 10"
+    ],
+    "answer": "Full Stride",
+    "explanation": "2026年6月のニュースによると、競馬ファン待望の本格ジョッキーゲーム『Full Stride』が2026年7月16日に発売決定しました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 1,
+    "question": "Aimerが主題歌を担当した「ソードアート・オンライン」家庭用ゲーム最新作の主題歌はどのようにリリースされましたか？",
+    "choices": [
+      "CDアルバムとして",
+      "デジタル・リリース",
+      "カセットテープとして",
+      "LPレコードとして"
+    ],
+    "answer": "デジタル・リリース",
+    "explanation": "2026年6月のニュースによると、Aimerの『SAO』家庭用ゲーム最新作主題歌「Live to Survive」はデジタルリリースされました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 1,
+    "question": "「BanG Dream! Our Notes」で最新情報が明らかにされたゲームジャンルは何ですか？",
+    "choices": [
+      "アクションRPG",
+      "リズムゲーム",
+      "パズルゲーム",
+      "シミュレーションゲーム"
+    ],
+    "answer": "リズムゲーム",
+    "explanation": "2026年6月のニュースによると、「BanG Dream! Our Notes」は『BanG Dream!』シリーズのリズムゲームであり、最新情報が明らかにされました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 1,
+    "question": "Minecraft内で「ゲームドロップ」が発表されたゲームのタイトルは何ですか？",
+    "choices": [
+      "Cube World",
+      "Chaos Cubed",
+      "Minecraft Dungeons",
+      "Terraria"
+    ],
+    "answer": "Chaos Cubed",
+    "explanation": "2026年6月のニュースによると、「Chaos Cubed ゲームドロップ - Minecraft」として発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 2,
+    "question": "Aimerの「Live to Survive」は、どのゲームの主題歌としてデジタルリリースされましたか？",
+    "choices": [
+      "ファイナルファンタジーXIV",
+      "原神",
+      "ソードアート・オンライン Echoes of Aincrad",
+      "テイルズ オブ アライズ"
+    ],
+    "answer": "ソードアート・オンライン Echoes of Aincrad",
+    "explanation": "2026年6月のニュースによると、Aimerの「Live to Survive」は『SAO』家庭用ゲーム最新作『Echoes of Aincrad』の主題歌としてデジタルリリースされました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 2,
+    "question": "「ソードアート・オンライン Echoes of Aincrad」の主題歌「Live to Survive」は、誰によって歌われていますか？",
+    "choices": [
+      "LiSA",
+      "藍井エイル",
+      "Aimer",
+      "春奈るな"
+    ],
+    "answer": "Aimer",
+    "explanation": "2026年6月のニュースによると、Aimerが『SAO』家庭用ゲーム最新作『Echoes of Aincrad』の主題歌「Live to Survive」を担当しました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 2,
+    "question": "「スプラトゥーンレイダース」に関する最新情報で注目されたのは何ですか？",
+    "choices": [
+      "新しいキャラクターの発表",
+      "発売日と最新情報まとめ",
+      "アニメ化の決定",
+      "コラボイベントの開催"
+    ],
+    "answer": "発売日と最新情報まとめ",
+    "explanation": "2026年6月のニュースによると、「スプラトゥーンレイダースの発売日と最新情報まとめ」が公開されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 2,
+    "question": "2026年7月16日発売の『Full Stride』のゲームジャンルは何ですか？",
+    "choices": [
+      "育成シミュレーション",
+      "アクションRPG",
+      "本格ジョッキーゲーム",
+      "スポーツマネジメント"
+    ],
+    "answer": "本格ジョッキーゲーム",
+    "explanation": "2026年6月のニュースによると、『Full Stride』は「競馬ファン待望の本格ジョッキーゲーム」として7月16日に発売されます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 2,
+    "question": "『進撃の巨人３』は、どのような特徴を持つゲームとして発売が決定しましたか？",
+    "choices": [
+      "オリジナルストーリーの追加",
+      "マルチプレイヤー専用",
+      "物語を最初から最後まで描く集大成",
+      "アニメの続編"
+    ],
+    "answer": "物語を最初から最後まで描く集大成",
+    "explanation": "2026年6月のニュースによると、『進撃の巨人３』は「『進撃の巨人』の物語を最初から最後まで描く集大成」として発売が決定しました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 2,
+    "question": "State of Play June 2, 2026で「真・三國無双2」に参戦が発表されたキャラクターは誰ですか？",
+    "choices": [
+      "呂布",
+      "趙雲",
+      "紫鸞",
+      "関羽"
+    ],
+    "answer": "紫鸞",
+    "explanation": "2026年6月のニュースによると、State of Play June 2, 2026で『真・三國無双2』に紫鸞が参戦すると発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 2,
+    "question": "「ペルソナ5X」の最新アップデートのバージョン番号は何でしたか？",
+    "choices": [
+      "Ver.3.0",
+      "Ver.4.4",
+      "Ver.5.0",
+      "Ver.2.1"
+    ],
+    "answer": "Ver.4.4",
+    "explanation": "2026年6月のニュースによると、「ペルソナ5X」はVer.4.4のアップデートの最新情報が公開されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 2,
+    "question": "「BanG Dream! Our Notes」で実装楽曲として発表されたAve Mujicaの楽曲は何ですか？",
     "choices": [
       "紅蓮の弓矢",
       "残酷な天使のテーゼ",
-      "unravel",
-      "ドライフラワー"
+      "君の知らない物語",
+      "only my railgun"
     ],
     "answer": "残酷な天使のテーゼ",
-    "explanation": "2026年6月のニュースによると、「BanG Dream! Our Notes」でAve Mujicaによる「残酷な天使のテーゼ」が実装楽曲として発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "物語を最初から最後まで描く集大成として発売が決定したゲームのタイトルは何ですか？",
-    "choices": [
-      "進撃の巨人２",
-      "進撃の巨人３",
-      "進撃の巨人 -The Final-",
-      "進撃の巨人 Revolution"
-    ],
-    "answer": "進撃の巨人３",
-    "explanation": "2026年6月のニュースによると、『進撃の巨人３』が物語を最初から最後まで描く集大成として発売決定しました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "2026年6月のState of Playで、紫鸞が参戦することが発表されたゲームは何ですか？",
-    "choices": [
-      "真・三國無双2",
-      "戦国無双5",
-      "無双OROCHI4",
-      "真・三國無双8 Empires"
-    ],
-    "answer": "真・三國無双2",
-    "explanation": "2026年6月のニュースによると、State of Playで『真・三國無双2』に紫鸞が参戦することが発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "スマートフォンゲーム化が決定したと報じられたアニメ作品は何ですか？",
-    "choices": [
-      "僕のヒーローアカデミア",
-      "SPY×FAMILY",
-      "チェンソーマン 刺客篇",
-      "呪術廻戦"
-    ],
-    "answer": "チェンソーマン 刺客篇",
-    "explanation": "2026年6月のニュースによると、『チェンソーマン 刺客篇』のスマートフォンゲーム化が決定しました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "最新作が発売された総合格闘技ゲームのタイトルは何ですか？",
-    "choices": [
-      "UFC 5",
-      "UFC 6",
-      "EA SPORTS UFC",
-      "UFC Mobile"
-    ],
-    "answer": "UFC 6",
-    "explanation": "2026年6月のニュースによると、総合格闘技ゲーム最新作『UFC 6』が発売されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "「ガンダムっぽさ無い？」と驚きの声が上がった、かなり斬新なガンダムゲーム最新作のタイトルは何ですか？",
-    "choices": [
-      "機動戦士ガンダム バトルオペレーション3",
-      "機動戦士ガンダム エクストリームバーサス2",
-      "ローグオービット",
-      "ガンダムブレイカー4"
-    ],
-    "answer": "ローグオービット",
-    "explanation": "2026年6月のニュースによると、かなり斬新なガンダムゲーム最新作『ローグオービット』が発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "2026年6月のState of Playで体験版の配信が発表された完全新作ゲームは何ですか？",
-    "choices": [
-      "鬼武者",
-      "大神 弐",
-      "BIOHAZARD RE:CODE",
-      "デビルメイクライ6"
-    ],
-    "answer": "鬼武者",
-    "explanation": "2026年6月のニュースによると、State of Playで完全新作『鬼武者』の体験版配信が発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "2026年6月9日に発表内容がまとめられた任天堂のイベントは何ですか？",
-    "choices": [
-      "Nintendo Live",
-      "Nintendo Direct",
-      "Nintendo World",
-      "Nintendo Festival"
-    ],
-    "answer": "Nintendo Direct",
-    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」の発表内容がまとめられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "2026年6月のState of Playで最新映像が公開されたゲームは何ですか？",
-    "choices": [
-      "エースコンバット8",
-      "鬼武者",
-      "KEMURI",
-      "真・三國無双2"
-    ],
-    "answer": "KEMURI",
-    "explanation": "2026年6月のニュースによると、State of Playで「KEMURI」の最新映像が公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "「ニンテンドースイッチ2」に関するどのような情報がまとめとして発表されましたか？",
-    "choices": [
-      "ソフトラインナップ",
-      "本体情報",
-      "コントローラー",
-      "オンライン機能"
-    ],
-    "answer": "本体情報",
-    "explanation": "2026年6月のニュースによると、「ニンテンドースイッチ2の本体情報まとめ」が公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "2026年6月9日に発表内容がまとめられた任天堂のイベントは何ですか？",
-    "choices": [
-      "Nintendo Live",
-      "ニンテンドーダイレクト",
-      "Nintendo World",
-      "Nintendo Festival"
-    ],
-    "answer": "ニンテンドーダイレクト",
-    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」の発表内容がまとめられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "「Xbox Partner Preview」とは、どのような内容のイベントとして報じられましたか？",
-    "choices": [
-      "Xbox本体の新モデル発表会",
-      "サードパーティの最新ゲーム情報発表会",
-      "Xbox Game Passの無料タイトル発表会",
-      "Xboxの次世代機発表会"
-    ],
-    "answer": "サードパーティの最新ゲーム情報発表会",
-    "explanation": "2026年6月のニュースによると、「Xbox Partner Preview」はサードパーティ各社の最新ゲーム情報をお届けするイベントです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "2026年6月のState of Playで最新映像が公開されたゲームは何ですか？",
-    "choices": [
-      "エースコンバット8",
-      "鬼武者",
-      "KEMURI",
-      "真・三國無双2"
-    ],
-    "answer": "KEMURI",
-    "explanation": "2026年6月のニュースによると、State of Playで「KEMURI」の最新映像が公開されました。"
+    "explanation": "2026年6月のニュースによると、「BanG Dream! Our Notes」でAve Mujicaの「残酷な天使のテーゼ」が実装楽曲として発表されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 2,
-    "question": "「ペルソナ5X」の最新アップデートで情報が公開されたバージョンは何ですか？",
+    "question": "「Xbox Partner Preview」では、主にどのようなゲーム情報が届けられましたか？",
     "choices": [
-      "Ver.3.0",
-      "Ver.4.0",
-      "Ver.4.4",
-      "Ver.5.0"
+      "Xbox Game Studiosの新作情報",
+      "インディーゲームの特集",
+      "サード パーティー各社の最新ゲーム情報",
+      "過去の名作のリマスター情報"
     ],
-    "answer": "Ver.4.4",
-    "explanation": "2026年6月のニュースによると、『ペルソナ5X』のVer.4.4アップデートの最新情報が公開されました。"
+    "answer": "サード パーティー各社の最新ゲーム情報",
+    "explanation": "2026年6月のニュースによると、「Xbox Partner Preview」では「サード パーティー各社の最新ゲーム情報」が届けられました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 2,
-    "question": "「空の軌跡 the 2nd」で最新情報が公開された内容のうち、ゲームシステム以外で発表されたのは何に関する情報ですか？",
+    "question": "Aimerの「Live to Survive」のリリースと同時に公開が決定したコンテンツは何ですか？",
     "choices": [
-      "新マップ情報",
-      "新武器情報",
-      "結社《身喰らう蛇》の執行者メンバー",
-      "ミニゲーム要素"
+      "ミュージックビデオのメイキング",
+      "リリック・ビデオ",
+      "ライブ映像",
+      "インタビュー記事"
     ],
-    "answer": "結社《身喰らう蛇》の執行者メンバー",
-    "explanation": "2026年6月のニュースによると、『空の軌跡 the 2nd』で結社《身喰らう蛇》の執行者メンバーらキャラ情報が公開されました。"
+    "answer": "リリック・ビデオ",
+    "explanation": "2026年6月のニュースによると、Aimerの「Live to Survive」デジタルリリースと同時にリリック・ビデオの公開も決定しました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 2,
-    "question": "「チェンソーマン 刺客篇」のスマートフォンゲーム化が決定したと報じられたのは、何が解禁されたタイミングですか？",
+    "difficulty": 3,
+    "question": "Aimerが主題歌を担当する「ソードアート・オンライン Echoes of Aincrad」の主題歌「Live to Survive」は、どのような形式で公開されましたか？",
     "choices": [
-      "最新PV",
-      "新キャラクタービジュアル",
-      "主題歌情報",
-      "放送開始日"
+      "CDアルバム先行リリース",
+      "テレビCMでのみ公開",
+      "デジタルリリースとリリックビデオ公開",
+      "限定イベントでのみ披露"
     ],
-    "answer": "最新PV",
-    "explanation": "2026年6月のニュースによると、『チェンソーマン 刺客篇』の最新PV解禁とともにスマートフォンゲーム化が決定しました。"
+    "answer": "デジタルリリースとリリックビデオ公開",
+    "explanation": "2026年6月のニュースによると、Aimerの『SAO』家庭用ゲーム最新作主題歌「Live to Survive」はデジタルリリースされ、リリックビデオも公開されました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 2,
-    "question": "「ONE PIECEカードゲーム」で開催が決定した、特定のリーダーカードのみが使用可能なバトルイベントは何ですか？",
+    "difficulty": 3,
+    "question": "2026年のモバイルゲームアワードで現在行われているアクションは何ですか？",
     "choices": [
-      "海賊王決定戦",
-      "クルーバトル",
-      "グランドラインカップ",
-      "四皇リーグ"
+      "最終審査",
+      "投票",
+      "ノミネート作品の発表",
+      "開発者向けセミナー"
     ],
-    "answer": "クルーバトル",
-    "explanation": "2026年6月のニュースによると、『ONE PIECEカードゲーム』で“麦わらの一味”のリーダーカードのみが使用可能な「クルーバトル」が開催決定しました。"
+    "answer": "投票",
+    "explanation": "2026年6月のニュースによると、「モバイルゲームアワード2026の投票が開始」されました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 2,
-    "question": "PLAYISMが5月10日に配信イベントで公開した、初公開タイトルを含む作品数は何ですか？",
+    "difficulty": 3,
+    "question": "『Full Stride』は、プレイヤーがどのような視点でレースの駆け引きを体感できるゲームとして紹介されていますか？",
     "choices": [
-      "5作品",
-      "8作品",
-      "11作品",
-      "15作品"
+      "俯瞰視点",
+      "観客視点",
+      "ジョッキー視点",
+      "馬主視点"
     ],
-    "answer": "11作品",
-    "explanation": "2026年5月のニュースによると、PLAYISMは初公開タイトル含む11作品の最新情報を公開しました。"
+    "answer": "ジョッキー視点",
+    "explanation": "2026年6月のニュースによると、『Full Stride』は「ジョッキー視点でレースの駆け引きを体感」できる本格ジョッキーゲームです。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 2,
-    "question": "総合格闘技ゲーム『UFC 6』の特徴として、何がリアルに再現されると報じられましたか？",
+    "difficulty": 3,
+    "question": "State of Play June 2, 2026で発表された『鬼武者』の最新作は、どのような形でプレイヤーに提供されましたか？",
     "choices": [
-      "観客の熱気",
-      "スター選手たちの躍動",
-      "試合会場の雰囲気",
-      "レフェリーの動き"
-    ],
-    "answer": "スター選手たちの躍動",
-    "explanation": "2026年6月のニュースによると、『UFC 6』はスター選手たちの躍動をオクタゴンでリアルに再現すると報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "「ローグオービット」が発表された際、どのような点が驚きの声を集めましたか？",
-    "choices": [
-      "低価格",
-      "グラフィックの美しさ",
-      "斬新な「ガンダムっぽさ」",
-      "既存のガンダムゲームとの類似性"
-    ],
-    "answer": "斬新な「ガンダムっぽさ」",
-    "explanation": "2026年6月のニュースによると、『ローグオービット』は「ガンダムっぽさ無い？」と評されるかなり斬新なデザインで驚きの声を集めました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "2026年6月に行われたState of Playで、発売日決定が発表されたゲームのシリーズ名は何ですか？",
-    "choices": [
-      "ファイナルファンタジー",
-      "エースコンバット",
-      "グランツーリスモ",
-      "モンスターハンター"
-    ],
-    "answer": "エースコンバット",
-    "explanation": "2026年6月のニュースによると、State of Playで『エースコンバット8』の発売日決定が発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "「鬼武者」の完全新作について、2026年6月のState of Playで発表されたのは何ですか？",
-    "choices": [
-      "発売日",
-      "価格",
+      "製品版が即時発売",
       "体験版の配信",
-      "追加ダウンロードコンテンツ"
+      "プレアルファ版の公開",
+      "クラウドファンディングの開始"
     ],
     "answer": "体験版の配信",
-    "explanation": "2026年6月のニュースによると、State of Playで完全新作『鬼武者』の体験版配信が発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "「KEMURI」の最新映像が公開されたイベントは、どのゲームプラットフォームの関連イベントですか？",
-    "choices": [
-      "Nintendo",
-      "Xbox",
-      "PlayStation",
-      "PC"
-    ],
-    "answer": "PlayStation",
-    "explanation": "2026年6月のニュースによると、「KEMURI」の最新映像はPlayStationのイベントであるState of Playで公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "「ニンテンドースイッチ2」に関して、どのような情報がまとめとして公開されましたか？",
-    "choices": [
-      "価格",
-      "発売日",
-      "本体情報",
-      "対応ゲーム"
-    ],
-    "answer": "本体情報",
-    "explanation": "2026年6月のニュースによると、「ニンテンドースイッチ2の本体情報まとめ」が公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "2026年6月9日に発表内容がまとめられたイベントの名称は何ですか？",
-    "choices": [
-      "Nintendo Live",
-      "ニンテンドーダイレクト",
-      "Nintendo World",
-      "Nintendo Festival"
-    ],
-    "answer": "ニンテンドーダイレクト",
-    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」の発表内容がまとめられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "Xbox Partner Previewは、主に何に関する情報を提供するイベントですか？",
-    "choices": [
-      "Xboxのハードウェア",
-      "Xboxのソフトウェア",
-      "サードパーティのゲーム",
-      "Xboxのクラウドサービス"
-    ],
-    "answer": "サードパーティのゲーム",
-    "explanation": "2026年6月のニュースによると、「Xbox Partner Preview」はサードパーティ各社の最新ゲーム情報をお届けするイベントです。"
+    "explanation": "2026年6月のニュースによると、State of Play June 2, 2026で完全新作『鬼武者』の体験版配信が発表されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 3,
-    "question": "ゲーム「BanG Dream! Our Notes」に関する最新情報が明らかになったのは、どのアーティストの楽曲実装発表と同時でしたか？",
+    "question": "『進撃の巨人３』は、原作のどの範囲をゲームで描くと発表されましたか？",
     "choices": [
-      "Roselia",
-      "Poppin'Party",
-      "RAISE A SUILEN",
-      "Ave Mujica"
+      "物語の序盤のみ",
+      "物語の中盤から終盤",
+      "物語を最初から最後まで",
+      "ゲームオリジナルの展開"
     ],
-    "answer": "Ave Mujica",
-    "explanation": "2026年6月のニュースによると、「BanG Dream! Our Notes」の最新情報が明らかになり、Ave Mujicaの楽曲実装も発表されました。"
+    "answer": "物語を最初から最後まで",
+    "explanation": "2026年6月のニュースによると、『進撃の巨人３』は「『進撃の巨人』の物語を最初から最後まで描く集大成」として発売が決定しました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 3,
-    "question": "『進撃の巨人３』が「集大成」と称される理由は何ですか？",
+    "question": "「ペルソナ5X」のVer.4.4アップデートで、GameWithがまとめたのはどのような情報でしたか？",
     "choices": [
-      "過去の全キャラクターが登場するから",
-      "物語を最初から最後まで描くから",
-      "シリーズで最も売れたから",
-      "アニメの最終章と連動するから"
+      "開発者インタビュー",
+      "バグ修正リスト",
+      "最新情報",
+      "ユーザーレビュー"
     ],
-    "answer": "物語を最初から最後まで描くから",
-    "explanation": "2026年6月のニュースによると、『進撃の巨人３』は「進撃の巨人」の物語を最初から最後まで描く集大成として発売が決定しました。"
+    "answer": "最新情報",
+    "explanation": "2026年6月のニュースによると、GameWithは「【ペルソナ5X】Ver.4.4のアップデートの最新情報まとめ」を公開しました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 3,
-    "question": "2026年6月2日に開催されたゲーム関連イベントは何ですか？",
+    "question": "「BanG Dream! Our Notes」で実装が発表されたAve Mujicaの「残酷な天使のテーゼ」は、どのような情報の一部として公開されましたか？",
     "choices": [
-      "Nintendo Direct",
-      "State of Play",
-      "Xbox Games Showcase",
-      "Summer Game Fest"
+      "キャラクターデザイン",
+      "ゲームシステム",
+      "実装楽曲",
+      "ライブイベント"
     ],
-    "answer": "State of Play",
-    "explanation": "2026年6月のニュースによると、『エースコンバット8』の発売日決定などが「State of Play June 2, 2026」で発表されました。"
+    "answer": "実装楽曲",
+    "explanation": "2026年6月のニュースによると、「BanG Dream! Our Notes」の最新情報としてAve Mujicaの「残酷な天使のテーゼ」など実装楽曲が発表されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 3,
-    "question": "「空の軌跡 the 2nd」で最新情報が公開されたキャラクター情報の中で、特に言及された組織は何ですか？",
+    "question": "「Chaos Cubed」は、どのようなゲームプラットフォームで「ゲームドロップ」が行われましたか？",
     "choices": [
-      "エプスタイン財団",
-      "遊撃士協会",
-      "結社《身喰らう蛇》",
-      "リベール王国軍"
+      "Roblox",
+      "Fortnite",
+      "Minecraft",
+      "Metaverse"
     ],
-    "answer": "結社《身喰らう蛇》",
-    "explanation": "2026年6月のニュースによると、『空の軌跡 the 2nd』で結社《身喰らう蛇》の執行者メンバーらキャラ情報が公開されました。"
+    "answer": "Minecraft",
+    "explanation": "2026年6月のニュースによると、「Chaos Cubed ゲームドロップ - Minecraft」として発表されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 3,
-    "question": "「ONE PIECEカードゲーム」の「クルーバトル」で、使用が許可されているリーダーカードはどのグループのものですか？",
+    "question": "State of Play June 2, 2026で発売日決定が発表された『エースコンバット8』は、どのシリーズの最新作ですか？",
     "choices": [
-      "四皇",
-      "海軍",
-      "王下七武海",
-      "麦わらの一味"
+      "グランツーリスモ",
+      "鉄拳",
+      "エースコンバット",
+      "ゴッドイーター"
     ],
-    "answer": "麦わらの一味",
-    "explanation": "2026年6月のニュースによると、「クルーバトル」では“麦わらの一味”のリーダーカードのみが使用可能です。"
+    "answer": "エースコンバット",
+    "explanation": "2026年6月のニュースによると、State of Play June 2, 2026で『エースコンバット8』の発売日決定が発表されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 3,
-    "question": "PLAYISMが配信イベントを公開したのは何月何日の何時ですか？",
+    "question": "「ソードアート・オンライン」家庭用ゲーム最新作の主題歌を担当したAimerの楽曲は、何というタイトルですか？",
     "choices": [
-      "5月1日 20時",
-      "5月10日 21時",
-      "6月1日 19時",
-      "6月10日 22時"
+      "crossing field",
+      "ADAMAS",
+      "Live to Survive",
+      "unlasting"
     ],
-    "answer": "5月10日 21時",
-    "explanation": "2026年5月のニュースによると、PLAYISMの配信イベントは5月10日21時より公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "総合格闘技ゲーム『UFC 6』において、スター選手たちの躍動がリアルに再現される場は何と表現されていますか？",
-    "choices": [
-      "リング",
-      "ケージ",
-      "オクタゴン",
-      "アリーナ"
-    ],
-    "answer": "オクタゴン",
-    "explanation": "2026年6月のニュースによると、『UFC 6』ではスター選手たちの躍動をオクタゴンでリアルに再現すると報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "新しいガンダムゲーム『ローグオービット』が発表された際、どのような点が「斬新」と評されましたか？",
-    "choices": [
-      "ストーリー",
-      "操作性",
-      "ガンダムっぽくないデザイン",
-      "登場するモビルスーツの種類"
-    ],
-    "answer": "ガンダムっぽくないデザイン",
-    "explanation": "2026年6月のニュースによると、『ローグオービット』は「ガンダムっぽさ無い？」と評されるかなり斬新なガンダムゲームとして発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "Xbox Partner Previewは、どのような目的で開催されるイベントですか？",
-    "choices": [
-      "Xbox本体の新機能発表",
-      "サードパーティゲームの最新情報提供",
-      "Xbox Game Passの新タイトル発表",
-      "Xboxコミュニティイベント"
-    ],
-    "answer": "サードパーティゲームの最新情報提供",
-    "explanation": "2026年6月のニュースによると、「Xbox Partner Preview」はサードパーティ各社の最新ゲーム情報をお届けするイベントです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年6月9日に開催された「ニンテンドーダイレクト」の概要が報じられたニュースは、どのメディアが提供しましたか？",
-    "choices": [
-      "ファミ通",
-      "GAME Watch",
-      "GameWith",
-      "電撃オンライン"
-    ],
-    "answer": "GAME Watch",
-    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」の発表内容まとめはGAME Watchが提供しました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "「ニンテンドースイッチ2」に関する最新情報として、何がまとめられましたか？",
-    "choices": [
-      "ゲームタイトル",
-      "周辺機器",
-      "本体情報",
-      "オンラインサービス"
-    ],
-    "answer": "本体情報",
-    "explanation": "2026年6月のニュースによると、「ニンテンドースイッチ2の本体情報まとめ」が公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年6月9日に開催された「ニンテンドーダイレクト」の概要が報じられたニュースは、どのメディアが提供しましたか？",
-    "choices": [
-      "ファミ通",
-      "GAME Watch",
-      "GameWith",
-      "電撃オンライン"
-    ],
-    "answer": "GAME Watch",
-    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」の発表内容まとめはGAME Watchが提供しました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年6月のState of Playで最新映像が公開されたゲームのタイトルは何ですか？",
-    "choices": [
-      "KEMURI",
-      "SILENT HILL f",
-      "DEATH STRANDING 2",
-      "FINAL FANTASY VII REBIRTH"
-    ],
-    "answer": "KEMURI",
-    "explanation": "2026年6月のニュースによると、State of Playで「KEMURI」の最新映像が公開されました。"
+    "answer": "Live to Survive",
+    "explanation": "2026年6月のニュースによると、Aimerは「ソードアート・オンライン」ゲーム最新作の主題歌として「Live to Survive」を担当しました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 4,
-    "question": "「BanG Dream! Our Notes」の最新情報が公開された際、Ave Mujicaの楽曲「残酷な天使のテーゼ」はどのようにゲームに登場すると発表されましたか？",
+    "question": "Aimerが「ソードアート・オンライン Echoes of Aincrad」の主題歌「Live to Survive」のリリックビデオは、いつ公開されましたか？",
     "choices": [
-      "主題歌として",
-      "挿入歌として",
-      "実装楽曲として",
-      "イベント限定曲として"
+      "午前0時に",
+      "午後3時に",
+      "午後8時に",
+      "翌日の正午に"
     ],
-    "answer": "実装楽曲として",
-    "explanation": "2026年6月のニュースによると、「BanG Dream! Our Notes」でAve Mujica「残酷な天使のテーゼ」が実装楽曲として発表されました。"
+    "answer": "午後8時に",
+    "explanation": "2026年6月のニュースによると、Aimerの『SAO』家庭用ゲーム最新作『Echoes of Aincrad』主題歌「Live to Survive」のリリックビデオが20時に公開されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 4,
-    "question": "『ペルソナ5X』のVer.4.4アップデートに関する情報が掲載されたメディアは何ですか？",
+    "question": "「スプラトゥーンレイダース」の「発売日と最新情報まとめ」は、主にどのゲーム情報サイトで取り上げられましたか？",
     "choices": [
       "ファミ通",
-      "GameWith",
       "電撃オンライン",
+      "GameWith",
       "IGN Japan"
     ],
     "answer": "GameWith",
-    "explanation": "2026年6月のニュースによると、GameWithで『ペルソナ5X』Ver.4.4のアップデート最新情報がまとめられました。"
+    "explanation": "2026年6月のニュースによると、「スプラトゥーンレイダースの発売日と最新情報まとめ - GameWith」として報じられました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 4,
-    "question": "『進撃の巨人３』は、どの物語の「集大成」として位置づけられていますか？",
+    "question": "「競馬のおはなし」で最新プレイ映像が公開された本格ジョッキーゲームのタイトルは何ですか？",
     "choices": [
-      "アニメ『進撃の巨人』の物語",
-      "漫画『進撃の巨人』の物語",
-      "ゲーム『進撃の巨人』シリーズの物語",
-      "『進撃の巨人』外伝の物語"
+      "ダービースタリオンマスターズ",
+      "Full Stride",
+      "G1ジョッキー",
+      "ウイニングポスト"
     ],
-    "answer": "「進撃の巨人」の物語",
-    "explanation": "2026年6月のニュースによると、『進撃の巨人３』は「進撃の巨人」の物語を最初から最後まで描く集大成として発売が決定しました。"
+    "answer": "Full Stride",
+    "explanation": "2026年6月のニュースによると、「競馬のおはなし」で「本格ジョッキーゲーム、最新プレイ映像」が公開され、そのゲームは『Full Stride』です。"
   },
   {
     "category": "ゲーム",
     "difficulty": 4,
-    "question": "2026年6月のState of Playで、発売日決定が発表された『エースコンバット8』は、どのような情報が公開されたイベントの一部でしたか？",
+    "question": "「モバイルゲームアワード2026」の投票が開始されたことを報じたメディアはどこですか？",
     "choices": [
-      "Nintendo Direct",
-      "Xbox Partner Preview",
-      "State of Play",
-      "PLAYISM配信イベント"
+      "famitsu.com",
+      "mgoddess.com",
+      "ign.com",
+      "gematsu.com"
     ],
-    "answer": "State of Play",
-    "explanation": "2026年6月のニュースによると、『エースコンバット8』の発売日決定は「State of Play June 2, 2026」で発表されました。"
+    "answer": "mgoddess.com",
+    "explanation": "2026年6月のニュースによると、「モバイルゲームアワード2026の投票が開始 - mgoddess.com」として報じられました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 4,
-    "question": "『真・三國無双2』に参戦が発表されたキャラクター「紫鸞」は、どのイベントで情報が公開されましたか？",
+    "question": "『進撃の巨人３』の発売決定を発表したゲームメーカーのウェブサイトはどこですか？",
     "choices": [
-      "東京ゲームショウ",
-      "E3",
-      "State of Play",
-      "Game Awards"
-    ],
-    "answer": "State of Play",
-    "explanation": "2026年6月のニュースによると、「State of Play June 2, 2026」で『真・三國無双2』に紫鸞が参戦することが発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "「空の軌跡 the 2nd」で公開された情報の中で、「結社《身喰らう蛇》」のどのようなメンバーが言及されましたか？",
-    "choices": [
-      "首領",
-      "幹部",
-      "執行者メンバー",
-      "一般構成員"
-    ],
-    "answer": "執行者メンバー",
-    "explanation": "2026年6月のニュースによると、『空の軌跡 the 2nd』で結社《身喰らう蛇》の執行者メンバーらキャラ情報が公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "「チェンソーマン 刺客篇」のスマートフォンゲーム化が決定したことが発表された際、同時に解禁されたのは何ですか？",
-    "choices": [
-      "新曲PV",
-      "最新PV",
-      "アニメのティザー映像",
-      "ゲームのプレイ映像"
-    ],
-    "answer": "最新PV",
-    "explanation": "2026年6月のニュースによると、『チェンソーマン 刺客篇』の最新PV解禁とともにスマートフォンゲーム化が決定しました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "「ONE PIECEカードゲーム」の「クルーバトル」は、どのようなリーダーカードに限定して使用できるルールが設定されていますか？",
-    "choices": [
-      "コストが低いリーダーカード",
-      "特定の効果を持つリーダーカード",
-      "“麦わらの一味”のリーダーカード",
-      "新しいリーダーカード"
-    ],
-    "answer": "“麦わらの一味”のリーダーカード",
-    "explanation": "2026年6月のニュースによると、「クルーバトル」では“麦わらの一味”のリーダーカードのみが使用可能です。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "PLAYISMが主催した配信イベントは、何時からの公開でしたか？",
-    "choices": [
-      "20時",
-      "21時",
-      "22時",
-      "23時"
-    ],
-    "answer": "21時",
-    "explanation": "2026年5月のニュースによると、PLAYISMの配信イベントは5月10日21時より公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "「KEMURI」の最新映像が公開されたニュースは、どのゲームメディアで報じられましたか？",
-    "choices": [
-      "ファミ通",
-      "GAME Watch",
-      "GameWith",
-      "電撃オンライン"
-    ],
-    "answer": "GAME Watch",
-    "explanation": "2026年6月のニュースによると、GAME Watchが「KEMURI」の最新映像公開を報じました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "「ニンテンドースイッチ2」に関して、どのような情報がまとめとして報じられましたか？",
-    "choices": [
-      "新機能",
-      "本体仕様",
-      "予約開始日",
-      "過去モデルとの比較"
-    ],
-    "answer": "本体仕様",
-    "explanation": "2026年6月のニュースによると、「ニンテンドースイッチ2の本体情報まとめ」が公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年6月9日の「ニンテンドーダイレクト」は、どのような情報のまとめとして報じられましたか？",
-    "choices": [
-      "新作ゲームの発売日",
-      "発表された内容",
-      "株主総会の内容",
-      "開発中の技術"
-    ],
-    "answer": "発表された内容",
-    "explanation": "2026年6月のニュースによると、「「ニンテンドーダイレクト 2026.6.9」発表内容まとめ」と報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "「Xbox Partner Preview」は、どのような情報を届けるイベントとして紹介されましたか？",
-    "choices": [
-      "ハードウェアの発表",
-      "サービス内容の更新",
-      "サードパーティのゲーム情報",
-      "Xboxの歴史"
-    ],
-    "answer": "サードパーティのゲーム情報",
-    "explanation": "2026年6月のニュースによると、「Xbox Partner Preview」はサードパーティ各社の最新ゲーム情報をお届けすると報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年6月のState of Playで、何というゲームの最新映像が公開されましたか？",
-    "choices": [
-      "FF7 Rebirth",
-      "KEMURI",
-      "Silent Hill 2",
-      "Metal Gear Solid Delta"
-    ],
-    "answer": "KEMURI",
-    "explanation": "2026年6月のニュースによると、State of Playで「KEMURI」の最新映像が公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "ゲーム「BanG Dream! Our Notes」は、どのような情報が明らかにされたと報じられましたか？",
-    "choices": [
-      "開発中止情報",
-      "過去のイベント情報",
-      "最新情報",
-      "次回作の発表"
-    ],
-    "answer": "最新情報",
-    "explanation": "2026年6月のニュースによると、ゲーム「BanG Dream! Our Notes」の最新情報が明らかにされました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "『ペルソナ5X』のVer.4.4アップデートは、どのような情報として報じられましたか？",
-    "choices": [
-      "発売情報",
-      "サービス終了情報",
-      "最新情報",
-      "バグ修正情報"
-    ],
-    "answer": "最新情報",
-    "explanation": "2026年6月のニュースによると、『ペルソナ5X』Ver.4.4のアップデートの最新情報が公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "『進撃の巨人３』の発売決定は、どのウェブサイトで報じられましたか？",
-    "choices": [
-      "Yahoo!ニュース",
-      "GameWith",
+      "bandainamcoent.co.jp",
+      "capcom.co.jp",
       "gamecity.ne.jp",
-      "ファミ通"
+      "square-enix.com"
     ],
     "answer": "gamecity.ne.jp",
-    "explanation": "2026年6月のニュースによると、gamecity.ne.jpでゲーム『進撃の巨人３』の発売決定が報じられました。"
+    "explanation": "2026年6月のニュースによると、「gamecity.ne.jp」で「ゲーム『進撃の巨人３』発売決定！」が発表されました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 5,
-    "question": "2026年6月2日のState of Playで発表された『真・三國無双2』に関する情報はどのような内容でしたか？",
+    "difficulty": 4,
+    "question": "「Xbox Partner Preview」が提供する最新ゲーム情報は、主にどの開発元からのものですか？",
     "choices": [
-      "発売日決定",
-      "新キャラクターの参戦",
-      "リメイク版の発表",
-      "ダウンロードコンテンツ情報"
+      "マイクロソフトのファーストパーティ",
+      "インディーゲームスタジオ",
+      "サード パーティー各社",
+      "日本国内の開発会社"
     ],
-    "answer": "新キャラクターの参戦",
-    "explanation": "2026年6月のニュースによると、State of Playで『真・三國無双2』に紫鸞が参戦することが発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "『鬼武者』の完全新作は、2026年6月のState of Playで何が配信されると発表されましたか？",
-    "choices": [
-      "製品版",
-      "体験版",
-      "β版",
-      "α版"
-    ],
-    "answer": "体験版",
-    "explanation": "2026年6月のニュースによると、State of Playで完全新作『鬼武者』の体験版配信が発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "「空の軌跡 the 2nd」で公開された最新情報には、どのような内容が含まれていましたか？",
-    "choices": [
-      "ストーリーの概要とキャラクター情報",
-      "ゲームシステムとキャラクター情報",
-      "制作秘話と開発陣インタビュー",
-      "アニメ化と映画化の発表"
-    ],
-    "answer": "ゲームシステムとキャラクター情報",
-    "explanation": "2026年6月のニュースによると、『空の軌跡 the 2nd』のゲームシステムなど最新情報とキャラ情報が公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "「チェンソーマン 刺客篇」のスマートフォンゲーム化は、どのメディアで報じられましたか？",
-    "choices": [
-      "Yahoo!ニュース",
-      "cinema-factory.jp",
-      "Game Watch",
-      "ファミ通"
-    ],
-    "answer": "cinema-factory.jp",
-    "explanation": "2026年6月のニュースによると、cinema-factory.jpで『チェンソーマン 刺客篇』のスマートフォンゲーム化が報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "「ONE PIECEカードゲーム」の「クルーバトル」は、どのような形式のイベントとして開催が決定しましたか？",
-    "choices": [
-      "オンライン大会",
-      "オフライン大会",
-      "リーダーカード限定バトル",
-      "チーム戦"
-    ],
-    "answer": "リーダーカード限定バトル",
-    "explanation": "2026年6月のニュースによると、「クルーバトル」は“麦わらの一味”のリーダーカードのみが使用可能なバトルとして開催決定しました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "PLAYISMの配信イベントで公開されたのは、どのようなジャンルのゲームの最新情報でしたか？",
-    "choices": [
-      "AAAタイトル",
-      "VRゲーム",
-      "インディーゲーム",
-      "レトロゲーム"
-    ],
-    "answer": "インディーゲーム",
-    "explanation": "2026年5月のニュースによると、PLAYISMはインディーゲームパブリッシングブランドであり、その配信イベントで最新情報を公開しました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "「KEMURI」の最新映像は、どのイベントで公開されたと報じられましたか？",
-    "choices": [
-      "E3",
-      "東京ゲームショウ",
-      "State of Play",
-      "Game Awards"
-    ],
-    "answer": "State of Play",
-    "explanation": "2026年6月のニュースによると、「KEMURI」の最新映像は【State of Play】で公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "「ニンテンドースイッチ2」に関する情報が公開されたのは、どのような種類の情報でしたか？",
-    "choices": [
-      "発売日",
-      "価格",
-      "本体情報",
-      "対応ソフト"
-    ],
-    "answer": "本体情報",
-    "explanation": "2026年6月のニュースによると、「ニンテンドースイッチ2の本体情報まとめ」が公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "2026年6月9日に開催された任天堂の発表イベントは何ですか？",
-    "choices": [
-      "Nintendo Live",
-      "Nintendo Direct",
-      "Nintendo World",
-      "Nintendo Festival"
-    ],
-    "answer": "Nintendo Direct",
-    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」が開催されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "「Xbox Partner Preview」が報じられたニュースの見出しに含まれるキーワードは何ですか？",
-    "choices": [
-      "最新技術",
-      "サードパーティ",
-      "独占タイトル",
-      "次世代機"
-    ],
-    "answer": "サードパーティ",
+    "answer": "サード パーティー各社",
     "explanation": "2026年6月のニュースによると、「Xbox Partner Preview」は「サード パーティー各社の最新ゲーム情報をお届け」すると報じられました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 6,
-    "question": "ゲーム「BanG Dream! Our Notes」の最新情報が明らかになったニュースは、どのメディアで報じられましたか？",
+    "difficulty": 4,
+    "question": "State of Play June 2, 2026で発表された『真・三國無双2』に参戦する紫鸞は、どのシリーズのキャラクターですか？",
     "choices": [
-      "ファミ通",
-      "GAME Watch",
-      "Yahoo!ニュース",
-      "GameWith"
+      "戦国無双",
+      "無双OROCHI",
+      "真・三國無双",
+      "ゼルダ無双"
     ],
-    "answer": "Yahoo!ニュース",
-    "explanation": "2026年6月のニュースによると、Yahoo!ニュースでゲーム「BanG Dream! Our Notes」の最新情報が報じられました。"
+    "answer": "真・三國無双",
+    "explanation": "2026年6月のニュースによると、State of Play June 2, 2026で「『真・三國無双2』に紫鸞参戦」が発表されました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 6,
-    "question": "『進撃の巨人３』は、どのウェブサイトで発売決定が報じられましたか？",
+    "difficulty": 4,
+    "question": "「ペルソナ5X」のVer.4.4アップデートの最新情報をまとめたゲーム情報サイトはどこですか？",
     "choices": [
-      "gamecity.ne.jp",
-      "Yahoo!ニュース",
-      "GAME Watch",
-      "ファミ通"
-    ],
-    "answer": "gamecity.ne.jp",
-    "explanation": "2026年6月のニュースによると、gamecity.ne.jpでゲーム『進撃の巨人３』の発売決定が報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "2026年6月2日のState of Playで発表された『エースコンバット8』の「発売日決定」は、何に関する情報の一部として報じられましたか？",
-    "choices": [
-      "新発表まとめ",
-      "プレビューイベント",
-      "開発者インタビュー",
-      "ファン感謝祭"
-    ],
-    "answer": "新発表まとめ",
-    "explanation": "2026年6月のニュースによると、「State of Play新発表まとめ」の中で『エースコンバット8』の発売日決定が報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "『鬼武者』の完全新作は、どのイベントで体験版配信が発表されましたか？",
-    "choices": [
-      "Nintendo Direct",
-      "Xbox Partner Preview",
-      "State of Play",
-      "PLAYISM配信イベント"
-    ],
-    "answer": "State of Play",
-    "explanation": "2026年6月のニュースによると、State of Playで完全新作『鬼武者』の体験版配信が発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "「空の軌跡 the 2nd」の最新情報が公開されたメディアは何ですか？",
-    "choices": [
-      "ファミ通",
-      "GAME Watch",
+      "ファミ通.com",
       "GameWith",
-      "電撃オンライン"
-    ],
-    "answer": "GAME Watch",
-    "explanation": "2026年6月のニュースによると、GAME Watchで「空の軌跡 the 2nd」のゲームシステムなど最新情報が公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "「チェンソーマン 刺客篇」のスマートフォンゲーム化が決定したことが報じられたニュースは、どのジャンルのメディアのものでしたか？",
-    "choices": [
-      "ゲーム専門メディア",
-      "アニメ専門メディア",
-      "映画・エンタメ専門メディア",
-      "総合ニュースサイト"
-    ],
-    "answer": "映画・エンタメ専門メディア",
-    "explanation": "2026年6月のニュースによると、cinema-factory.jp（映画・エンタメ専門メディア）で『チェンソーマン 刺客篇』のスマートフォンゲーム化が決定したことが報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "「ONE PIECEカードゲーム」の「クルーバトル」に関する最新情報が公開されたメディアは何ですか？",
-    "choices": [
-      "ONE PIECE.com",
-      "Vジャンプ",
-      "週刊少年ジャンプ",
-      "バンダイカードダス公式サイト"
-    ],
-    "answer": "ONE PIECE.com",
-    "explanation": "2026年6月のニュースによると、ONE PIECE.comで「ONE PIECEカードゲーム」の「クルーバトル」に関する最新情報が公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "PLAYISMが最新情報を公開した11作品は、どのようなものを含むと報じられましたか？",
-    "choices": [
-      "VR専用タイトル",
-      "過去作のリマスター",
-      "初公開タイトル",
-      "有名IPの続編"
-    ],
-    "answer": "初公開タイトル",
-    "explanation": "2026年5月のニュースによると、PLAYISMは初公開タイトル含む11作品の最新情報を公開しました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "総合格闘技ゲーム『UFC 6』の発売を報じたメディアは何ですか？",
-    "choices": [
-      "IGN Japan",
-      "Game Spark",
-      "ファミ通",
-      "電撃オンライン"
-    ],
-    "answer": "Game Spark",
-    "explanation": "2026年6月のニュースによると、Game Sparkが総合格闘技ゲーム最新作『UFC 6』の発売を報じました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "「Xbox Partner Preview」は、主にどの企業のゲーム情報に焦点を当てたイベントですか？",
-    "choices": [
-      "インディーゲームスタジオ",
-      "Xbox Game Studios",
-      "サードパーティ各社",
-      "日本国内のゲーム会社"
-    ],
-    "answer": "サードパーティ各社",
-    "explanation": "2026年6月のニュースによると、「Xbox Partner Preview」はサードパーティ各社の最新ゲーム情報をお届けするイベントです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "「ニンテンドースイッチ2」に関する情報がまとめられたニュースは、どのメディアで報じられましたか？",
-    "choices": [
-      "ファミ通",
-      "GAME Watch",
-      "GameWith",
+      "4Gamer.net",
       "電撃オンライン"
     ],
     "answer": "GameWith",
-    "explanation": "2026年6月のニュースによると、GameWithで「ニンテンドースイッチ2の本体情報まとめ」が公開されました。"
+    "explanation": "2026年6月のニュースによると、「【ペルソナ5X】Ver.4.4のアップデートの最新情報まとめ【P5X】 - GameWith」として報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "Aimerの『SAO』家庭用ゲーム最新作主題歌「Live to Survive」のリリース情報が報じられたメディアの一つはどこですか？",
+    "choices": [
+      "GameWith",
+      "ファミ通",
+      "CDJournal",
+      "4Gamer.net"
+    ],
+    "answer": "CDJournal",
+    "explanation": "2026年6月のニュースによると、Aimerの『SAO』家庭用ゲーム最新作主題歌「Live to Survive」のリリース情報は「CDJournal - Yahoo!ニュース」で報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "Aimerの「Live to Survive」が主題歌となる『SAO』家庭用ゲーム最新作は、どのようなメディアでその情報が報じられましたか？",
+    "choices": [
+      "テレビニュース",
+      "専門誌のみ",
+      "CDJournalや音楽ナタリーなどの音楽メディア",
+      "新聞のゲーム欄"
+    ],
+    "answer": "CDJournalや音楽ナタリーなどの音楽メディア",
+    "explanation": "2026年6月のニュースによると、Aimerの『SAO』家庭用ゲーム最新作主題歌に関する情報は「CDJournal - Yahoo!ニュース」や「音楽ナタリー - Yahoo!ニュース」、「THE FIRST TIMES - Yahoo!ニュース」といった音楽系メディアで報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "Aimerが主題歌を担当した「ソードアート・オンライン Echoes of Aincrad」のタイトルは、どのメディアで特に強調されて報じられましたか？",
+    "choices": [
+      "CDJournal",
+      "音楽ナタリー",
+      "エンタメ特化型情報メディア スパイス",
+      "THE FIRST TIMES"
+    ],
+    "answer": "エンタメ特化型情報メディア スパイス",
+    "explanation": "2026年6月のニュースによると、「エンタメ特化型情報メディア スパイス」は「Aimer、『SAO』家庭用ゲーム最新作『Echoes of Aincrad』主題歌「Live to Survive」デジタルリリース！」と報じ、タイトルを強調していました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "「スプラトゥーンレイダース」に関する情報が「まとめ」として提供されたのは、このゲームがどのような段階にあることを示唆していますか？",
+    "choices": [
+      "開発初期段階",
+      "正式発表済みで情報が散在している段階",
+      "未発表のリーク情報",
+      "サービス終了間近"
+    ],
+    "answer": "正式発表済みで情報が散在している段階",
+    "explanation": "2026年6月のニュースによると、「スプラトゥーンレイダースの発売日と最新情報まとめ」という記述は、既に情報が公開されており、それを集約する必要がある段階であることを示唆しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "『Full Stride』の発売日である2026年7月16日は、ニュースが報じられた時点から見てどのような期間に設定されていますか？",
+    "choices": [
+      "すでに発売済み",
+      "遠い将来",
+      "間もなく発売",
+      "未定"
+    ],
+    "answer": "間もなく発売",
+    "explanation": "2026年6月のニュースによると、『Full Stride』の発売日が2026年7月16日と決定されており、これはニュースが報じられた時点（6月頃）から見て間もなく発売されることを意味します。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "「モバイルゲームアワード2026」の投票開始は、このイベントがどのような形式で進行していることを示していますか？",
+    "choices": [
+      "専門家審査のみ",
+      "一般ユーザー参加型",
+      "招待制イベント",
+      "クローズドテスト"
+    ],
+    "answer": "一般ユーザー参加型",
+    "explanation": "2026年6月のニュースによると、「モバイルゲームアワード2026の投票が開始」されたことは、一般ユーザーがアワードの選考に参加できることを示しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "『進撃の巨人３』が「物語を最初から最後まで描く集大成」とされたことは、このゲームがシリーズにおいてどのような位置づけであると期待されますか？",
+    "choices": [
+      "スピンオフ作品",
+      "前日譚",
+      "最終章または完結編",
+      "外伝"
+    ],
+    "answer": "最終章または完結編",
+    "explanation": "2026年6月のニュースによると、『進撃の巨人３』が「物語を最初から最後まで描く集大成」であると発表されたことは、このゲームがシリーズの物語を締めくくる最終章または完結編として期待されることを示唆しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "State of Play June 2, 2026で発表された『エースコンバット8』は、その発売日決定がどの程度の詳細さで報じられましたか？",
+    "choices": [
+      "具体的な日付と時間",
+      "年のみ",
+      "発売日決定とだけ",
+      "季節のみ"
+    ],
+    "answer": "発売日決定とだけ",
+    "explanation": "2026年6月のニュースによると、State of Play June 2, 2026では「『エースコンバット8』発売日決定」と報じられ、具体的な日付までは記載されていません。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "『真・三國無双2』に紫鸞が参戦するという発表は、このゲームがどのようなジャンルの作品であることを示唆していますか？",
+    "choices": [
+      "ターン制RPG",
+      "リアルタイムストラテジー",
+      "一騎当千アクション",
+      "格闘ゲーム"
+    ],
+    "answer": "一騎当千アクション",
+    "explanation": "2026年6月のニュースによると、『真・三國無双2』というタイトルとキャラクター参戦の発表は、『真・三國無双』シリーズが持つ一騎当千アクションのジャンルであることを示唆しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "『鬼武者』の完全新作において、プレイヤーが最初に体験できる機会として提供されたのは何でしたか？",
+    "choices": [
+      "製品版",
+      "クローズドベータ",
+      "体験版",
+      "デモプレイ動画"
+    ],
+    "answer": "体験版",
+    "explanation": "2026年6月のニュースによると、State of Play June 2, 2026で完全新作『鬼武者』の「体験版配信」が発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "「ペルソナ5X」のVer.4.4アップデートに関する「最新情報まとめ」は、主にどのような目的で公開されましたか？",
+    "choices": [
+      "新規プレイヤーの獲得",
+      "ゲームの不具合報告",
+      "既存プレイヤーへの情報提供",
+      "次回作の告知"
+    ],
+    "answer": "既存プレイヤーへの情報提供",
+    "explanation": "2026年6月のニュースによると、「ペルソナ5X」のVer.4.4アップデートの「最新情報まとめ」は、ゲームの継続的な更新内容を既存プレイヤーに提供することが主な目的と考えられます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "「BanG Dream! Our Notes」でAve Mujicaの「残酷な天使のテーゼ」が実装されるというニュースは、主にどの情報源で報じられましたか？",
+    "choices": [
+      "アニメ公式サイト",
+      "Yahoo!ニュース",
+      "音楽専門誌",
+      "ゲーム開発者ブログ"
+    ],
+    "answer": "Yahoo!ニュース",
+    "explanation": "2026年6月のニュースによると、「ゲーム「BanG Dream! Our Notes」最新情報が明らかに Ave Mujica「残酷な天使のテーゼ」など実装楽曲も発表 - Yahoo!ニュース」として報じられました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 6,
-    "question": "「ニンテンドーダイレクト 2026.6.9」は、どのような内容がまとめられたイベントとして報じられましたか？",
+    "question": "Aimerが「ソードアート・オンライン Echoes of Aincrad」の主題歌「Live to Survive」をデジタルリリースしたことは、この楽曲がどのような形式で最初にリスナーに届けられることを意味しますか？",
     "choices": [
-      "任天堂の経営戦略",
-      "発表内容",
-      "過去のゲームの振り返り",
+      "CDパッケージとして物理的に",
+      "ストリーミングサービスやダウンロード販売を通じて",
+      "ライブイベント限定で",
+      "テレビでのみ"
+    ],
+    "answer": "ストリーミングサービスやダウンロード販売を通じて",
+    "explanation": "2026年6月のニュースによると、Aimerの主題歌が「デジタルリリース」されたことは、ストリーミングサービスやダウンロード販売を通じて、インターネット経由でリスナーに届けられることを意味します。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "「スプラトゥーンレイダース」の「発売日と最新情報まとめ」という報道は、このゲームが既に公に発表されていることを前提としていますか、それとも初公開の情報ですか？",
+    "choices": [
+      "初公開の情報である",
+      "公に発表されている情報をまとめたもの",
+      "リーク情報である",
+      "開発中止の報告である"
+    ],
+    "answer": "公に発表されている情報をまとめたもの",
+    "explanation": "2026年6月のニュースによると、「発売日と最新情報まとめ」という表現は、既に公に発表されている情報が散在しており、それを集約して提供していることを前提としています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "『Full Stride』が「本格ジョッキーゲーム」と称され「ジョッキー視点でレースの駆け引きを体感」できると紹介されたことは、プレイヤーにどのような体験を期待させますか？",
+    "choices": [
+      "競走馬の育成",
+      "馬主としての経営戦略",
+      "レース中の臨場感と戦略性",
+      "競馬場の運営"
+    ],
+    "answer": "レース中の臨場感と戦略性",
+    "explanation": "2026年6月のニュースによると、『Full Stride』が「本格ジョッキーゲーム」として「ジョッキー視点でレースの駆け引きを体感」できると紹介されたことは、プレイヤーがレース中の臨場感や戦略的な判断を直接体験できることを期待させます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "「モバイルゲームアワード2026の投票が開始」というニュースは、アワードの最終結果発表がいつ頃になることを示唆していますか？",
+    "choices": [
+      "投票開始と同時",
+      "数週間以内",
+      "数ヶ月後",
+      "翌年"
+    ],
+    "answer": "数ヶ月後",
+    "explanation": "2026年6月のニュースによると、「モバイルゲームアワード2026の投票が開始」されたことは、投票期間を経て集計が行われるため、最終結果発表は数ヶ月後になることを示唆しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "『進撃の巨人３』が「物語を最初から最後まで描く集大成」と発表されたことは、このゲームがシリーズの完結編として位置づけられる可能性を示唆していますか？",
+    "choices": [
+      "可能性は低い",
+      "完結編である可能性が高い",
+      "単なるスピンオフ",
+      "新たな物語の始まり"
+    ],
+    "answer": "完結編である可能性が高い",
+    "explanation": "2026年6月のニュースによると、『進撃の巨人３』が「物語を最初から最後まで描く集大成」と発表されたことは、原作の物語を完結させる役割を担う、シリーズの完結編である可能性が高いことを示唆しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "State of Play June 2, 2026で『エースコンバット8』の発売日決定が報じられた際、その発売日は具体的にいつと発表されましたか？",
+    "choices": [
+      "2026年12月25日",
+      "2027年春",
+      "具体的な日付は発表されていない",
+      "2026年夏"
+    ],
+    "answer": "具体的な日付は発表されていない",
+    "explanation": "2026年6月のニュースによると、State of Play June 2, 2026で「『エースコンバット8』発売日決定」と報じられましたが、具体的な発売日については記載されていません。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "『真・三國無双2』に紫鸞が参戦するというニュースは、このゲームが前作からどのような点で進化していることを示唆していますか？",
+    "choices": [
+      "グラフィックの大幅な向上",
+      "新しいゲームモードの追加",
+      "新キャラクターの導入によるコンテンツの拡充",
+      "オンライン対戦機能の強化"
+    ],
+    "answer": "新キャラクターの導入によるコンテンツの拡充",
+    "explanation": "2026年6月のニュースによると、『真・三國無双2』に紫鸞が参戦するという発表は、新キャラクターの導入によってゲームのプレイアブルキャラクターやストーリー、コンテンツが拡充されることを示唆しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "『鬼武者』の完全新作が「体験版配信」という形で発表されたことは、開発のどの段階にあることを示唆していますか？",
+    "choices": [
+      "企画段階",
+      "初期開発段階",
+      "最終調整段階",
+      "完成間近でユーザーフィードバックを求めている段階"
+    ],
+    "answer": "完成間近でユーザーフィードバックを求めている段階",
+    "explanation": "2026年6月のニュースによると、完全新作『鬼武者』の「体験版配信」が発表されたことは、ゲームがほぼ完成しており、製品版に向けての最終調整やユーザーからの反応を得る段階にあることを示唆しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "「ペルソナ5X」のVer.4.4アップデートの「最新情報まとめ」は、このゲームがどのようなプラットフォームで提供されていることを示唆していますか？",
+    "choices": [
+      "PCゲーム専用",
+      "家庭用ゲーム機専用",
+      "モバイルゲーム",
+      "VRゲーム"
+    ],
+    "answer": "モバイルゲーム",
+    "explanation": "2026年6月のニュースによると、GameWithによる「【ペルソナ5X】Ver.4.4のアップデートの最新情報まとめ【P5X】」という表記は、『P5X』がモバイルゲームであることを示唆しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "「BanG Dream! Our Notes」でAve Mujicaの「残酷な天使のテーゼ」が実装されたことは、このゲームがどのようなコンテンツ展開を重視していることを示唆していますか？",
+    "choices": [
+      "オリジナル楽曲のみ",
+      "アニメとの連動",
+      "有名楽曲のカバー",
+      "ストーリーの多様性"
+    ],
+    "answer": "有名楽曲のカバー",
+    "explanation": "2026年6月のニュースによると、「BanG Dream! Our Notes」でAve Mujicaが「残酷な天使のテーゼ」を実装したことは、有名楽曲のカバーを取り入れることで、幅広いユーザー層にアピールするコンテンツ展開を重視していることを示唆しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "Aimerの「Live to Survive」が「ソードアート・オンライン Echoes of Aincrad」の主題歌としてデジタルリリースされたニュースは、主にどのような種類のメディアで報じられましたか？",
+    "choices": [
+      "経済誌",
+      "ファッション誌",
+      "音楽・エンタメ系メディア",
+      "スポーツ新聞"
+    ],
+    "answer": "音楽・エンタメ系メディア",
+    "explanation": "2026年6月のニュースによると、Aimerの主題歌に関する情報は「CDJournal」、「エンタメ特化型情報メディア スパイス」、「音楽ナタリー」、「THE FIRST TIMES」といった音楽・エンタメ系メディアで報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "「スプラトゥーンレイダース」の「発売日と最新情報まとめ」という見出しは、このゲームが既に一定の認知度を持っていることを示唆していますか？",
+    "choices": [
+      "全くの新作で認知度は低い",
+      "既存シリーズのスピンオフで認知度が高い",
+      "開発者の間でのみ知られている",
+      "発表されたばかりでこれから認知度を高める"
+    ],
+    "answer": "既存シリーズのスピンオフで認知度が高い",
+    "explanation": "2026年6月のニュースによると、「スプラトゥーンレイダース」というタイトルが『スプラトゥーン』シリーズを想起させ、「まとめ」が作られるほど情報が公開されていることから、既存シリーズのスピンオフとして一定の認知度を持っていることを示唆しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "『Full Stride』の「本格ジョッキーゲーム」としての紹介で、「競馬のおはなし」が公開したのは何でしたか？",
+    "choices": [
+      "開発者インタビュー",
+      "最新プレイ映像",
+      "ゲームのコンセプトアート",
+      "楽曲情報"
+    ],
+    "answer": "最新プレイ映像",
+    "explanation": "2026年6月のニュースによると、「競馬のおはなし」は「本格ジョッキーゲーム、最新プレイ映像」を公開しました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "「モバイルゲームアワード2026の投票が開始」というニュースは、このアワードが主にどのようなデバイスでプレイされるゲームを対象としていることを示唆していますか？",
+    "choices": [
+      "PC",
+      "家庭用ゲーム機",
+      "スマートフォンやタブレット",
+      "VRヘッドセット"
+    ],
+    "answer": "スマートフォンやタブレット",
+    "explanation": "2026年6月のニュースによると、「モバイルゲームアワード」という名称から、主にスマートフォンやタブレットといったモバイルデバイスでプレイされるゲームが対象であることを示唆しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "『進撃の巨人３』が「集大成」として発売決定したことは、このゲームが過去の「進撃の巨人」ゲームとは異なるどのような特徴を持つ可能性を示唆していますか？",
+    "choices": [
+      "よりシンプルなゲームプレイ",
+      "物語の全容を包括する内容",
+      "特定のキャラクターに焦点を当てたもの",
+      "オンラインマルチプレイに特化"
+    ],
+    "answer": "物語の全容を包括する内容",
+    "explanation": "2026年6月のニュースによると、『進撃の巨人３』が「物語を最初から最後まで描く集大成」であると発表されたことは、過去のゲームが一部の物語に焦点を当てていたのに対し、このゲームは物語の全容を包括する内容であることを示唆しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "State of Play June 2, 2026で発表された『エースコンバット8』の発売日決定は、このゲームがどのような開発状況にあることを示唆していますか？",
+    "choices": [
+      "まだ開発初期段階",
+      "開発が順調に進み、リリースが視野に入っている",
+      "開発が難航している",
+      "キャンセルされた"
+    ],
+    "answer": "開発が順調に進み、リリースが視野に入っている",
+    "explanation": "2026年6月のニュースによると、State of Play June 2, 2026で「発売日決定」が発表されたことは、開発が順調に進捗し、具体的なリリーススケジュールが立てられる段階に入っていることを示唆しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "『真・三國無双2』に紫鸞が参戦するというニュースは、このキャラクターがシリーズにおいてどのような役割を果たす可能性があることを示唆していますか？",
+    "choices": [
+      "敵専用キャラクター",
+      "隠しキャラクター",
+      "主要なプレイアブルキャラクター",
+      "チュートリアル担当"
+    ],
+    "answer": "主要なプレイアブルキャラクター",
+    "explanation": "2026年6月のニュースによると、『真・三國無双2』に「紫鸞参戦」と発表されたことは、このキャラクターがゲーム内で操作可能な主要なプレイアブルキャラクターとして登場する可能性が高いことを示唆しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "『鬼武者』の完全新作の「体験版配信」という発表は、プレイヤーがこのゲームを体験する上でどのような障壁が低いことを示唆していますか？",
+    "choices": [
+      "価格が高い",
+      "ダウンロードが複雑",
+      "気軽に試せる",
+      "特定のハードウェアが必要"
+    ],
+    "answer": "気軽に試せる",
+    "explanation": "2026年6月のニュースによると、完全新作『鬼武者』の「体験版配信」は、製品版を購入する前に無料でゲームの一部を試すことができ、プレイヤーが気軽にゲームを体験できることを示唆しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "「ペルソナ5X」のVer.4.4アップデートに関する情報がGameWithで「まとめ」られたことは、このゲームがどのような顧客層をターゲットにしていることを示唆していますか？",
+    "choices": [
+      "ライトユーザー",
+      "コアゲーマー",
+      "新規参入者",
+      "特定のニッチ層"
+    ],
+    "answer": "コアゲーマー",
+    "explanation": "2026年6月のニュースによると、GameWithのようなゲーム情報サイトで詳細なアップデート情報が「まとめ」られることは、ゲームの継続的なプレイや詳細な情報を求めるコアゲーマー層をターゲットにしていることを示唆しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "「BanG Dream! Our Notes」でAve Mujicaの「残酷な天使のテーゼ」が実装されたことは、このゲームがIP（知的財産）のどのような側面を活用していることを示唆していますか？",
+    "choices": [
+      "オリジナルキャラクターの強化",
+      "他のIPとの積極的なコラボレーション",
+      "ストーリーの深掘り",
+      "技術的な革新"
+    ],
+    "answer": "他のIPとの積極的なコラボレーション",
+    "explanation": "2026年6月のニュースによると、「BanG Dream! Our Notes」がAve Mujicaによる「残酷な天使のテーゼ」を実装したことは、自社IPのキャラクターが他の有名IPの楽曲をカバーするという形で、積極的にコラボレーションを行っていることを示唆しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "Aimerが「ソードアート・オンライン」家庭用ゲーム最新作の主題歌を担当するというニュースは、主にAimerの活動とゲームのどちらの側面から報じられましたか？",
+    "choices": [
+      "Aimerの音楽活動",
+      "ゲームのプロモーション",
+      "両方の側面が均等に",
+      "ゲームの技術的な側面"
+    ],
+    "answer": "両方の側面が均等に",
+    "explanation": "2026年6月のニュースによると、Aimerの主題歌担当は「Aimer、『SAO』家庭用ゲーム最新作主題歌をデジタル・リリース」といった形で、Aimerの音楽活動とゲームのプロモーションの両側面から報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "「スプラトゥーンレイダース」の「発売日と最新情報まとめ」が公開されたことで、このゲームのどのような情報が特にユーザーに求められていると推測できますか？",
+    "choices": [
+      "開発秘話",
+      "過去作との比較",
+      "基本的なゲーム内容とリリース時期",
+      "海外での評価"
+    ],
+    "answer": "基本的なゲーム内容とリリース時期",
+    "explanation": "2026年6月のニュースによると、「発売日と最新情報まとめ」というタイトルから、ユーザーが最も知りたい情報はゲームの基本的な内容と、いつプレイできるようになるか（リリース時期）であると推測できます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "『Full Stride』が「本格ジョッキーゲーム」として「ジョッキー視点でレースの駆け引きを体感」できると紹介されたことは、従来の競馬ゲームと比べてどのような点が強調されていると考えられますか？",
+    "choices": [
+      "馬の育成要素",
+      "経営シミュレーション",
+      "プレイヤーの没入感と操作のリアルさ",
+      "グラフィックの美しさ"
+    ],
+    "answer": "プレイヤーの没入感と操作のリアルさ",
+    "explanation": "2026年6月のニュースによると、『Full Stride』が「ジョッキー視点でレースの駆け引きを体感」できると強調されたことは、従来の競馬ゲームに比べて、プレイヤーがより深くレースの世界に没入し、ジョッキーとしての操作のリアルさを体験できる点が強調されていると考えられます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "「モバイルゲームアワード2026」の投票が開始されたニュースは、このアワードがユーザー参加型であることをどのように示していますか？",
+    "choices": [
+      "運営がユーザーから意見を募っている",
+      "ユーザーが直接、好きなゲームに票を投じられる",
+      "インフルエンサーが推薦するシステム",
+      "開発者が自社のゲームを推薦する"
+    ],
+    "answer": "ユーザーが直接、好きなゲームに票を投じられる",
+    "explanation": "2026年6月のニュースによると、「投票が開始」されたという事実は、ユーザーが自分の好きなモバイルゲームに対して直接票を投じることができる、つまりユーザー参加型のアワードであることを明確に示しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "『進撃の巨人３』が「物語を最初から最後まで描く集大成」と発表されたことで、このゲームのストーリーテリングにおいてどのような特徴が期待されますか？",
+    "choices": [
+      "ゲームオリジナルの結末",
+      "原作に忠実な完全な物語体験",
+      "特定のキャラクターの視点に限定される",
+      "断片的なエピソード集"
+    ],
+    "answer": "原作に忠実な完全な物語体験",
+    "explanation": "2026年6月のニュースによると、『進撃の巨人３』が「物語を最初から最後まで描く集大成」とされたことは、ゲームが原作に忠実に、かつ完全な形で物語の始まりから終わりまでを体験できるストーリーテリングが期待されることを示唆しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "State of Play June 2, 2026で『エースコンバット8』の「発売日決定」が発表されたことは、具体的な発売日情報がまだ公開されていない場合、どのような意図があると推測できますか？",
+    "choices": [
+      "開発の遅延を隠すため",
+      "ユーザーの期待感を高めるため",
+      "他の競合作品との差別化のため",
+      "誤報である"
+    ],
+    "answer": "ユーザーの期待感を高めるため",
+    "explanation": "2026年6月のニュースによると、「発売日決定」という発表がありながら具体的な日付が示されていない場合、これはユーザーにリリースが近いことを示唆しつつ、さらなる情報公開への期待感を高めるプロモーション戦略であると推測できます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "『真・三國無双2』に「紫鸞参戦」と報じられたことは、このキャラクターがシリーズにおいてどのような重要性を持っていることを示唆していますか？",
+    "choices": [
+      "物語の主要な分岐点に関わる",
+      "新たな勢力の象徴",
+      "既存勢力に大きな影響を与える新顔",
+      "単なる追加キャラクター"
+    ],
+    "answer": "既存勢力に大きな影響を与える新顔",
+    "explanation": "2026年6月のニュースによると、「紫鸞参戦」という表現は、単なる追加キャラクターではなく、物語や勢力図に新たな動きをもたらす、既存勢力に大きな影響を与える新顔として登場する重要性を示唆しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "『鬼武者』の完全新作の「体験版配信」という発表は、開発チームが製品版に向けてどのような自信を持っていることを示唆していますか？",
+    "choices": [
+      "ゲームの品質に不安がある",
+      "ユーザーの反応を恐れている",
+      "ゲームのクオリティに自信があり、実際に体験してほしい",
+      "開発資金が不足している"
+    ],
+    "answer": "ゲームのクオリティに自信があり、実際に体験してほしい",
+    "explanation": "2026年6月のニュースによると、完全新作『鬼武者』の「体験版配信」は、開発チームがゲームのクオリティに自信を持っており、製品版の購入を検討してもらうために、まずはその魅力を実際に体験してほしいという意図を示唆しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "「ペルソナ5X」のVer.4.4アップデートの「最新情報まとめ」がGameWithで公開されたことで、このゲームが継続的なコンテンツ更新を行っていることをどのように示していますか？",
+    "choices": [
+      "アップデートが稀である",
+      "定期的に大規模な更新を実施している",
+      "小規模な修正のみ",
+      "サービス終了が近い"
+    ],
+    "answer": "定期的に大規模な更新を実施している",
+    "explanation": "2026年6月のニュースによると、「Ver.4.4のアップデートの最新情報まとめ」という表現は、バージョン番号が大きく進んでいることからも、定期的に大規模なコンテンツ更新を実施していることを示唆しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "「BanG Dream! Our Notes」でAve Mujicaの「残酷な天使のテーゼ」が実装楽曲として発表されたことは、このゲームがどのような層のユーザーにアピールしようとしていることを示唆していますか？",
+    "choices": [
+      "BanG Dream!の既存ファンのみ",
+      "アニメソングファン全般",
+      "特定のジャンルの音楽ファン",
+      "ゲーム音楽ファン"
+    ],
+    "answer": "アニメソングファン全般",
+    "explanation": "2026年6月のニュースによると、「残酷な天使のテーゼ」という非常に有名なアニメソングを実装したことは、『BanG Dream!』の既存ファンだけでなく、幅広いアニメソングファン全般にアピールしようとしていることを示唆しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 9,
+    "question": "Aimerが「ソードアート・オンライン Echoes of Aincrad」の主題歌「Live to Survive」をデジタルリリースした際、「CDJournal」がYahoo!ニュースで報じた内容は、主に何に焦点を当てていましたか？",
+    "choices": [
+      "Aimerの過去の功績",
+      "楽曲の音楽的特徴",
+      "デジタルリリースとリリックビデオ公開",
+      "ゲームのストーリー詳細"
+    ],
+    "answer": "デジタルリリースとリリックビデオ公開",
+    "explanation": "2026年6月のニュースによると、「CDJournal - Yahoo!ニュース」は「Aimer、「ソードアート・オンライン」家庭用ゲーム最新作主題歌をデジタル・リリース リリック・ビデオ公開も」と報じており、デジタルリリースとリリックビデオ公開に焦点を当てていました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 9,
+    "question": "「スプラトゥーンレイダースの発売日と最新情報まとめ」というGameWithの記事は、主にどのタイプの情報をユーザーに提供することを目的としていますか？",
+    "choices": [
+      "ゲームの背景設定",
+      "具体的なプレイガイド",
+      "リリーススケジュールと公開済み情報の概要",
       "開発者のインタビュー"
     ],
-    "answer": "発表内容",
-    "explanation": "2026年6月のニュースによると、「「ニンテンドーダイレクト 2026.6.9」発表内容まとめ」と報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "新しいガンダムゲーム『ローグオービット』の発表は、どのメディアで驚きの声とともに報じられましたか？",
-    "choices": [
-      "ガンダムインフォ",
-      "オタク総研",
-      "アニメイトタイムズ",
-      "MANTANWEB"
-    ],
-    "answer": "オタク総研",
-    "explanation": "2026年6月のニュースによると、オタク総研が『ローグオービット』発表に驚きの声と報じました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "『ペルソナ5X』のVer.4.4アップデートの最新情報が公開されたのは、2026年の何月と報じられましたか？",
-    "choices": [
-      "4月",
-      "5月",
-      "6月",
-      "7月"
-    ],
-    "answer": "6月",
-    "explanation": "2026年6月のニュースによると、『ペルソナ5X』Ver.4.4のアップデートの最新情報がまとめられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "『進撃の巨人３』は、どのウェブサイトのニュースで発売決定が報じられましたか？",
-    "choices": [
-      "Yahoo!ニュース",
-      "gamecity.ne.jp",
-      "GameWith",
-      "ファミ通.com"
-    ],
-    "answer": "gamecity.ne.jp",
-    "explanation": "2026年6月のニュースによると、gamecity.ne.jpでゲーム『進撃の巨人３』の発売決定が報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "2026年6月2日のState of Playで『エースコンバット8』の発売日決定が発表されたニュースは、どのメディアで「新発表まとめ」として扱われましたか？",
-    "choices": [
-      "GameWith",
-      "ファミ通",
-      "GAME Watch",
-      "IGN Japan"
-    ],
-    "answer": "ファミ通",
-    "explanation": "2026年6月のニュースによると、ファミ通が「State of Play新発表まとめ」として『エースコンバット8』発売日決定などを報じました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "『真・三國無双2』に参戦が発表されたキャラクター「紫鸞」は、どのようなイベントでその情報が公開されましたか？",
-    "choices": [
-      "Nintendo Direct",
-      "Xbox Partner Preview",
-      "PlayStationの配信イベント",
-      "PCゲームショー"
-    ],
-    "answer": "PlayStationの配信イベント",
-    "explanation": "2026年6月のニュースによると、PlayStationの配信イベントであるState of Playで『真・三國無双2』に紫鸞が参戦することが発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "「空の軌跡 the 2nd」で公開された「結社《身喰らう蛇》」の執行者メンバーに関する情報は、どのような情報の一部として紹介されましたか？",
-    "choices": [
-      "ゲームシステム情報",
-      "キャラ情報",
-      "ストーリー情報",
-      "ワールド設定情報"
-    ],
-    "answer": "キャラ情報",
-    "explanation": "2026年6月のニュースによると、『空の軌跡 the 2nd』でゲームシステムなど最新情報とともに結社《身喰らう蛇》の執行者メンバーらキャラ情報が公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "「チェンソーマン 刺客篇」のスマートフォンゲーム化が決定したニュースは、どのウェブサイトで報じられましたか？",
-    "choices": [
-      "Yahoo!ニュース",
-      "cinema-factory.jp",
-      "GAME Watch",
-      "ファミ通.com"
-    ],
-    "answer": "cinema-factory.jp",
-    "explanation": "2026年6月のニュースによると、cinema-factory.jpで『チェンソーマン 刺客篇』のスマートフォンゲーム化が決定したことが報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "PLAYISMが配信イベントで最新情報を公開した11作品は、どのようなブランドが手掛けるものと紹介されましたか？",
-    "choices": [
-      "大手パブリッシャー",
-      "海外デベロッパー",
-      "インディーゲームパブリッシングブランド",
-      "モバイルゲーム専門ブランド"
-    ],
-    "answer": "インディーゲームパブリッシングブランド",
-    "explanation": "2026年5月のニュースによると、PLAYISMはインディーゲームパブリッシングブランドであり、その配信イベントで最新情報を公開しました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "総合格闘技ゲーム『UFC 6』の発売を報じたGame Sparkのニュースは、どのサイトに掲載されましたか？",
-    "choices": [
-      "Game Spark公式サイト",
-      "Yahoo!ニュース",
-      "ファミ通.com",
-      "GameWith"
-    ],
-    "answer": "Yahoo!ニュース",
-    "explanation": "2026年6月のニュースによると、Yahoo!ニュースにGame Sparkによる『UFC 6』発売の記事が掲載されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "新しいガンダムゲーム『ローグオービット』の発表に関するニュースは、どのメディアで「オタク総研」として報じられましたか？",
-    "choices": [
-      "Yahoo!ニュース",
-      "ファミ通.com",
-      "オタク総研",
-      "GAME Watch"
-    ],
-    "answer": "オタク総研",
-    "explanation": "2026年6月のニュースによると、オタク総研が『ローグオービット』発表に驚きの声と報じました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "「Xbox Partner Preview」は、どのような情報を届けると報じられましたか？",
-    "choices": [
-      "Xbox本体のアップデート情報",
-      "Xbox Game Passの新規追加情報",
-      "サードパーティ各社の最新ゲーム情報",
-      "Xbox独占タイトルの情報"
-    ],
-    "answer": "サードパーティ各社の最新ゲーム情報",
-    "explanation": "2026年6月のニュースによると、「Xbox Partner Preview」はサードパーティ各社の最新ゲーム情報をお届けすると報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "「ニンテンドースイッチ2」に関して報じられたのは、どのような内容のまとめ情報ですか？",
-    "choices": [
-      "ゲームソフト情報",
-      "周辺機器情報",
-      "本体情報",
-      "発売日情報"
-    ],
-    "answer": "本体情報",
-    "explanation": "2026年6月のニュースによると、「ニンテンドースイッチ2の本体情報まとめ」が公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "2026年6月9日の「ニンテンドーダイレクト」の発表内容まとめは、どのニュースサイトのゲーム情報セクションで報じられましたか？",
-    "choices": [
-      "Yahoo!ニュース",
-      "Googleニュース",
-      "MSNニュース",
-      "livedoorニュース"
-    ],
-    "answer": "Yahoo!ニュース",
-    "explanation": "2026年6月のニュースによると、「【ニンダイまとめ】「ニンテンドーダイレクト 2026.6.9」発表内容まとめ（GAME Watch） - Yahoo!ニュース」と報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "新しいガンダムゲーム『ローグオービット』の発表に関するニュースは、どのメディアで「オタク総研」として報じられましたか？",
-    "choices": [
-      "Yahoo!ニュース",
-      "ファミ通.com",
-      "オタク総研",
-      "GAME Watch"
-    ],
-    "answer": "オタク総研",
-    "explanation": "2026年6月のニュースによると、オタク総研が『ローグオービット』発表に驚きの声と報じました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "「ニンテンドースイッチ2」に関して報じられたのは、どのような内容のまとめ情報ですか？",
-    "choices": [
-      "ゲームソフト情報",
-      "周辺機器情報",
-      "本体情報",
-      "発売日情報"
-    ],
-    "answer": "本体情報",
-    "explanation": "2026年6月のニュースによると、「ニンテンドースイッチ2の本体情報まとめ」が公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "ゲーム「BanG Dream! Our Notes」の最新情報が明らかになったニュースは、どのポータルサイトに掲載されましたか？",
-    "choices": [
-      "Googleニュース",
-      "MSNニュース",
-      "Yahoo!ニュース",
-      "livedoorニュース"
-    ],
-    "answer": "Yahoo!ニュース",
-    "explanation": "2026年6月のニュースによると、Yahoo!ニュースでゲーム「BanG Dream! Our Notes」の最新情報が報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "『ペルソナ5X』のVer.4.4アップデートに関する最新情報がまとめられた記事のタイトルに記載されている略称は何ですか？",
-    "choices": [
-      "P5R",
-      "P5S",
-      "P5X",
-      "P5D"
-    ],
-    "answer": "P5X",
-    "explanation": "2026年6月のニュースによると、「【ペルソナ5X】Ver.4.4のアップデートの最新情報まとめ【P5X】」という記事が公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "『進撃の巨人３』の発売決定が報じられたニュースのドメインは何ですか？",
-    "choices": [
-      "gamecity.co.jp",
-      "gamecity.ne.jp",
-      "gamecity.com",
-      "gamecity.jp"
-    ],
-    "answer": "gamecity.ne.jp",
-    "explanation": "2026年6月のニュースによると、gamecity.ne.jpでゲーム『進撃の巨人３』の発売決定が報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "2026年6月2日のState of Play新発表まとめは、どのゲームメディアが報じましたか？",
-    "choices": [
-      "GAME Watch",
-      "IGN Japan",
-      "ファミ通",
-      "電撃オンライン"
-    ],
-    "answer": "ファミ通",
-    "explanation": "2026年6月のニュースによると、ファミ通が「State of Play新発表まとめ」として報じました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "「空の軌跡 the 2nd」で公開された「結社《身喰らう蛇》」のメンバーに関する情報は、どのような役割の人物に焦点を当てていましたか？",
-    "choices": [
-      "一般兵",
-      "協力者",
-      "執行者",
-      "研究員"
-    ],
-    "answer": "執行者",
-    "explanation": "2026年6月のニュースによると、『空の軌跡 the 2nd』で結社《身喰らう蛇》の執行者メンバーらキャラ情報が公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "「チェンソーマン 刺客篇」のスマートフォンゲーム化決定のニュースは、どのタイプのメディアから発信されましたか？",
-    "choices": [
-      "ゲーム情報サイト",
-      "アニメ情報サイト",
-      "映画・エンタメ情報サイト",
-      "漫画情報サイト"
-    ],
-    "answer": "映画・エンタメ情報サイト",
-    "explanation": "2026年6月のニュースによると、cinema-factory.jp（映画・エンタメ情報サイト）が『チェンソーマン 刺客篇』のスマートフォンゲーム化決定を報じました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "「ONE PIECEカードゲーム」の「クルーバトル」に関する最新情報が公開されたウェブサイトのドメインは何ですか？",
-    "choices": [
-      "onepiece.jp",
-      "onepiece.com",
-      "one-piece.jp",
-      "one-piece.com"
-    ],
-    "answer": "ONE PIECE.com",
-    "explanation": "2026年6月のニュースによると、ONE PIECE.comで「ONE PIECEカードゲーム」の「クルーバトル」に関する最新情報が公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "PLAYISMの配信イベントは、何月何日に公開されましたか？",
-    "choices": [
-      "4月10日",
-      "5月10日",
-      "6月10日",
-      "7月10日"
-    ],
-    "answer": "5月10日",
-    "explanation": "2026年5月のニュースによると、PLAYISMの配信イベントは5月10日に公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "『UFC 6』が「スター選手たちの躍動をオクタゴンでリアルに再現」と報じられたニュースの掲載元メディアは何ですか？",
-    "choices": [
-      "Game Spark",
-      "ファミ通",
-      "GAME Watch",
-      "電撃オンライン"
-    ],
-    "answer": "Game Spark",
-    "explanation": "2026年6月のニュースによると、Game Sparkが『UFC 6』について報じました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "「Xbox Partner Preview」が報じられたメディアはどこですか？",
-    "choices": [
-      "ファミ通",
-      "XBOX Wire",
-      "GAME Watch",
-      "IGN Japan"
-    ],
-    "answer": "XBOX Wire",
-    "explanation": "2026年6月のニュースによると、「Xbox Partner Preview」はXBOX Wireで報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "「ニンテンドースイッチ2の本体情報まとめ」に関するニュースは、何というウェブサイトで報じられましたか？",
-    "choices": [
-      "任天堂公式サイト",
-      "GameWith",
-      "ファミ通.com",
-      "Yahoo!ニュース"
-    ],
-    "answer": "GameWith",
-    "explanation": "2026年6月のニュースによると、GameWithで「ニンテンドースイッチ2の本体情報まとめ」が公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "2026年6月9日に発表内容がまとめられた「ニンテンドーダイレクト」は、どのメディアによって報じられましたか？",
-    "choices": [
-      "ファミ通",
-      "GAME Watch",
-      "GameWith",
-      "電撃オンライン"
-    ],
-    "answer": "GAME Watch",
-    "explanation": "2026年6月のニュースによると、「【ニンダイまとめ】「ニンテンドーダイレクト 2026.6.9」発表内容まとめ（GAME Watch）」と報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "「KEMURI」の最新映像は、どのイベントで公開されましたか？",
-    "choices": [
-      "Nintendo Direct",
-      "Xbox Partner Preview",
-      "State of Play",
-      "PLAYISM配信イベント"
-    ],
-    "answer": "State of Play",
-    "explanation": "2026年6月のニュースによると、「KEMURI」の最新映像は【State of Play】で公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "新しいガンダムゲーム『ローグオービット』の発表は、どのニュースサイトの「オタク総研」セクションで報じられましたか？",
-    "choices": [
-      "Yahoo!ニュース",
-      "livedoorニュース",
-      "LINE NEWS",
-      "スマートニュース"
-    ],
-    "answer": "Yahoo!ニュース",
-    "explanation": "2026年6月のニュースによると、Yahoo!ニュースに掲載されたオタク総研の記事で『ローグオービット』発表が報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "「ニンテンドースイッチ2の本体情報まとめ」に関するニュースは、何というウェブサイトで報じられましたか？",
-    "choices": [
-      "任天堂公式サイト",
-      "GameWith",
-      "ファミ通.com",
-      "Yahoo!ニュース"
-    ],
-    "answer": "GameWith",
-    "explanation": "2026年6月のニュースによると、GameWithで「ニンテンドースイッチ2の本体情報まとめ」が公開されました。"
+    "answer": "リリーススケジュールと公開済み情報の概要",
+    "explanation": "2026年6月のニュースによると、「発売日と最新情報まとめ」というタイトルは、ゲームのリリーススケジュールと、これまでに公開された情報の概要をユーザーに効率的に提供することを目的としていることを示唆しています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "ゲーム「BanG Dream! Our Notes」の最新情報が明らかになったニュースは、どのニュースサイトのどのカテゴリで報じられましたか？",
+    "question": "『Full Stride』の「本格ジョッキーゲーム」としての紹介で、「Yahoo!ニュース」が特に強調した側面は何でしたか？",
     "choices": [
-      "Yahoo!ニュース - ゲーム",
-      "Yahoo!ニュース - エンタメ",
-      "Yahoo!ニュース - 音楽",
-      "Yahoo!ニュース - アニメ"
+      "グラフィックの進化",
+      "多人数プレイ機能",
+      "発売日とジョッキー視点での体験",
+      "登場する馬の種類"
     ],
-    "answer": "Yahoo!ニュース",
-    "explanation": "2026年6月のニュースによると、Yahoo!ニュースでゲーム「BanG Dream! Our Notes」の最新情報が報じられました。（カテゴリは明記されていませんが、ゲーム関連ニュースとして扱われています。）"
+    "answer": "発売日とジョッキー視点での体験",
+    "explanation": "2026年6月のニュースによると、「Yahoo!ニュース」は「競馬ファン待望の本格ジョッキーゲーム『Full Stride』7月16日発売決定…ジョッキー視点でレースの駆け引きを体感」と報じており、発売日とジョッキー視点での体験を特に強調していました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "『ペルソナ5X』のVer.4.4アップデートの最新情報まとめは、その記事のタイトルに何という略称が【2回】登場していますか？",
+    "question": "「モバイルゲームアワード2026の投票が開始」というニュースは、このイベントが特定のプラットフォームに限定されている可能性をどのように示唆していますか？",
     "choices": [
-      "P5",
-      "P5R",
-      "P5X",
-      "P5S"
+      "ニュースソースが一般的なゲームメディアではない",
+      "「モバイルゲーム」という明確なカテゴリ",
+      "投票方法が複雑",
+      "受賞作品が限定されている"
     ],
-    "answer": "P5X",
-    "explanation": "2026年6月のニュースによると、「【ペルソナ5X】Ver.4.4のアップデートの最新情報まとめ【P5X】」という記事タイトルで「P5X」が2回登場しています。"
+    "answer": "「モバイルゲーム」という明確なカテゴリ",
+    "explanation": "2026年6月のニュースによると、「モバイルゲームアワード」という名称そのものが、このアワードがスマートフォンやタブレットなどのモバイルプラットフォームに限定されたゲームを対象としていることを明確に示唆しています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "『進撃の巨人３』の発売決定を報じたgamecity.ne.jpは、何の公式サイトですか？",
+    "question": "『進撃の巨人３』が「集大成 ゲーム」として発売決定したことを報じた「gamecity.ne.jp」は、主にどのような情報源として機能していますか？",
     "choices": [
-      "コーエーテクモゲームス",
-      "カプコン",
-      "スクウェア・エニックス",
-      "バンダイナムコエンターテインメント"
+      "ゲームレビューサイト",
+      "ファンコミュニティサイト",
+      "ゲームメーカーの公式発表サイト",
+      "ゲーム業界のニュースポータル"
     ],
-    "answer": "コーエーテクモゲームス",
-    "explanation": "2026年6月のニュースによると、gamecity.ne.jpはコーエーテクモゲームスのゲーム情報サイトです。"
+    "answer": "ゲームメーカーの公式発表サイト",
+    "explanation": "2026年6月のニュースによると、「gamecity.ne.jp」というドメインは、コーエーテクモゲームスのゲーム情報サイトであり、ゲームメーカーの公式発表サイトとして機能しています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "2026年6月2日のState of Playで発表された『エースコンバット8』の発売日決定に関するニュースは、何という見出しでまとめられましたか？",
+    "question": "State of Play June 2, 2026で発表された『エースコンバット8』の「発売日決定」は、このイベントの発表内容がどのような形式で提供されたことを示唆していますか？",
     "choices": [
-      "最新情報速報",
-      "新発表まとめ",
-      "サプライズ発表",
-      "注目タイトル発表"
+      "詳細なプレゼンテーション",
+      "簡潔なティザー情報",
+      "開発者による技術解説",
+      "ユーザー参加型のQ&A"
     ],
-    "answer": "新発表まとめ",
-    "explanation": "2026年6月のニュースによると、ファミ通が「State of Play新発表まとめ」として『エースコンバット8』発売日決定などを報じました。"
+    "answer": "簡潔なティザー情報",
+    "explanation": "2026年6月のニュースによると、「発売日決定」という情報が具体的な日付なしで報じられたことは、詳細な発表ではなく、ユーザーの関心を引くための簡潔なティザー情報として提供されたことを示唆しています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "『真・三國無双2』に参戦が発表されたキャラクター「紫鸞」の情報は、2026年6月2日のState of Playで、他のどのゲームの情報と同時に報じられましたか？",
+    "question": "『真・三國無双2』に「紫鸞参戦」と報じられたニュースは、このゲームがシリーズのどのような要素を継承しつつ、新たな展開を見せていることを示唆していますか？",
     "choices": [
-      "『エースコンバット8』と『KEMURI』",
-      "『鬼武者』と『KEMURI』",
-      "『エースコンバット8』と『鬼武者』",
-      "『エースコンバット8』、『鬼武者』、そして『KEMURI』"
+      "歴史上の人物をベースにしたアクション",
+      "リアルな歴史シミュレーション",
+      "既存キャラクターの強化",
+      "全く新しい世界観"
     ],
-    "answer": "『エースコンバット8』と『鬼武者』",
-    "explanation": "2026年6月のニュースによると、「State of Play新発表まとめ」には『エースコンバット8』発売日決定、『真・三國無双2』に紫鸞参戦、完全新作『鬼武者』体験版配信などが含まれていました。（KEMURIは別の項目で単独記載）"
+    "answer": "歴史上の人物をベースにしたアクション",
+    "explanation": "2026年6月のニュースによると、『真・三國無双』シリーズの「2」というナンバリングと「紫鸞参戦」というキャラクター情報は、シリーズの核である歴史上の人物をベースにした一騎当千アクションを継承しつつ、新キャラクター導入による新たな展開を見せていることを示唆しています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "「空の軌跡 the 2nd」で公開された最新情報には、「ゲームシステムなど」と「結社《身喰らう蛇》の執行者メンバーらキャラ情報」が含まれていましたが、「など」や「ら」という表現が使われていることから、他に何が含まれていることが示唆されますか？",
+    "question": "『鬼武者』の完全新作が「体験版配信」という形で発表されたことは、プレイヤーが製品版を購入する前にどのような機会を得られることを示唆していますか？",
     "choices": [
-      "追加のゲームシステム情報と追加のキャラクター情報",
-      "開発陣のインタビュー",
-      "今後のロードマップ",
-      "過去作の振り返り"
+      "ゲームの全貌を知る機会",
+      "ゲームの主要なシステムを試す機会",
+      "開発の進捗状況を把握する機会",
+      "開発チームと直接交流する機会"
     ],
-    "answer": "追加のゲームシステム情報と追加のキャラクター情報",
-    "explanation": "2026年6月のニュースによると、「ゲームシステムなど最新情報」「執行者メンバーらキャラ情報」という表現から、それぞれの項目にさらに詳細な情報が含まれていることが示唆されます。"
+    "answer": "ゲームの主要なシステムを試す機会",
+    "explanation": "2026年6月のニュースによると、『鬼武者』の完全新作の「体験版配信」は、プレイヤーが製品版の購入を検討する上で、ゲームの主要なシステムや操作性、雰囲気などを実際に試す機会を得られることを示唆しています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "「チェンソーマン 刺客篇」のスマートフォンゲーム化決定のニュースは、どのメディアのどのようなコンテンツの解禁に合わせて報じられましたか？",
+    "question": "「ペルソナ5X」のVer.4.4アップデートの「最新情報まとめ」がGameWithで公開されたことは、このゲームのアップデートがどのような頻度で行われていることを示唆していますか？",
     "choices": [
-      "アニメ『チェンソーマン』の最新PV",
-      "漫画『チェンソーマン』の最新PV",
-      "映画『チェンソーマン』の最新PV",
-      "アニメ『チェンソーマン 刺客篇』の最新PV"
+      "年に一度程度の大規模アップデート",
+      "数ヶ月に一度程度の定期的なアップデート",
+      "不定期な小規模修正",
+      "ほとんどアップデートされない"
     ],
-    "answer": "アニメ『チェンソーマン 刺客篇』の最新PV",
-    "explanation": "2026年6月のニュースによると、『チェンソーマン 刺客篇』最新PV解禁に合わせてスマートフォンゲーム化も決定しました。これはアニメのPVです。"
+    "answer": "数ヶ月に一度程度の定期的なアップデート",
+    "explanation": "2026年6月のニュースによると、「Ver.4.4」というバージョン番号と「最新情報まとめ」が公開されたことから、このゲームが数ヶ月に一度程度の定期的なアップデートを行っていることを示唆しています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "「ONE PIECEカードゲーム」の「クルーバトル」は、どのようなリーダーカードの【み】が使用可能とされていますか？",
+    "question": "「BanG Dream! Our Notes」でAve Mujicaの「残酷な天使のテーゼ」が実装楽曲として発表されたことは、ゲームタイトルに「Our Notes」とあることと合わせて、どのような特徴を持つゲームであることを示唆していますか？",
     "choices": [
-      "コスト3以下のリーダーカード",
-      "レアリティの高いリーダーカード",
-      "“麦わらの一味”のリーダーカード",
-      "新登場のリーダーカード"
+      "音楽制作シミュレーション",
+      "プレイヤーが自由に楽曲を制作",
+      "音楽を共有し、楽しむコミュニティ要素",
+      "音楽史を学ぶ教育ゲーム"
     ],
-    "answer": "“麦わらの一味”のリーダーカード",
-    "explanation": "2026年6月のニュースによると、「クルーバトル」は“麦わらの一味”のリーダーカードのみが使用可能とされており、「のみ」という限定的な表現が強調されています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 9,
-    "question": "PLAYISMが初公開タイトル含む11作品の最新情報を公開した配信イベントは、何月何日の何時に開始されましたか？",
-    "choices": [
-      "5月10日 20時",
-      "5月10日 21時",
-      "5月11日 20時",
-      "5月11日 21時"
-    ],
-    "answer": "5月10日 21時",
-    "explanation": "2026年5月のニュースによると、PLAYISMの配信イベントは5月10日21時より公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 9,
-    "question": "「KEMURI」の最新映像が公開されたイベントは、どのゲームメディアが新発表まとめとして報じたイベントの一部でしたか？",
-    "choices": [
-      "ファミ通",
-      "GAME Watch",
-      "GameWith",
-      "IGN Japan"
-    ],
-    "answer": "ファミ通",
-    "explanation": "2026年6月のニュースによると、ファミ通の「State of Play新発表まとめ」には『KEMURI』の最新映像公開も含まれています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 9,
-    "question": "「ニンテンドースイッチ2の本体情報まとめ」が報じられたニュースは、どのメディアが提供しましたか？",
-    "choices": [
-      "ファミ通",
-      "GAME Watch",
-      "GameWith",
-      "IGN Japan"
-    ],
-    "answer": "GameWith",
-    "explanation": "2026年6月のニュースによると、GameWithで「ニンテンドースイッチ2の本体情報まとめ」が公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 9,
-    "question": "「ニンテンドーダイレクト 2026.6.9」の発表内容まとめは、どのメディアによって報じられましたか？",
-    "choices": [
-      "ファミ通",
-      "GAME Watch",
-      "GameWith",
-      "IGN Japan"
-    ],
-    "answer": "GAME Watch",
-    "explanation": "2026年6月のニュースによると、「【ニンダイまとめ】「ニンテンドーダイレクト 2026.6.9」発表内容まとめ（GAME Watch）」と報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 9,
-    "question": "「Xbox Partner Preview」は、主にどのような企業からのゲーム情報を提供するイベントとして報じられましたか？",
-    "choices": [
-      "マイクロソフト社",
-      "任天堂",
-      "ソニー・インタラクティブエンタテインメント",
-      "サードパーティ各社"
-    ],
-    "answer": "サードパーティ各社",
-    "explanation": "2026年6月のニュースによると、「Xbox Partner Preview」はサードパーティ各社の最新ゲーム情報をお届けするイベントです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 9,
-    "question": "総合格闘技ゲーム『UFC 6』の発売を報じたニュースで、「スター選手たちの躍動をオクタゴンでリアルに再現」という表現が使われていますが、これはどのようなゲーム性を示唆していますか？",
-    "choices": [
-      "戦略性重視",
-      "グラフィックのリアルさ",
-      "キャラクターカスタマイズの豊富さ",
-      "ストーリーの深さ"
-    ],
-    "answer": "グラフィックのリアルさ",
-    "explanation": "2026年6月のニュースによると、「スター選手たちの躍動をオクタゴンでリアルに再現」という表現は、ゲームのグラフィックやモーションのリアルさを強調しています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 9,
-    "question": "新しいガンダムゲーム『ローグオービット』の発表は、どのニュースサイトの「オタク総研」セクションで報じられましたか？",
-    "choices": [
-      "Yahoo!ニュース",
-      "livedoorニュース",
-      "LINE NEWS",
-      "スマートニュース"
-    ],
-    "answer": "Yahoo!ニュース",
-    "explanation": "2026年6月のニュースによると、Yahoo!ニュースに掲載されたオタク総研の記事で『ローグオービット』発表が報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 9,
-    "question": "総合格闘技ゲーム『UFC 6』の発売を報じたニュースで、「スター選手たちの躍動をオクタゴンでリアルに再現」という表現が使われていますが、これはどのようなゲーム性を示唆していますか？",
-    "choices": [
-      "戦略性重視",
-      "グラフィックのリアルさ",
-      "キャラクターカスタマイズの豊富さ",
-      "ストーリーの深さ"
-    ],
-    "answer": "グラフィックのリアルさ",
-    "explanation": "2026年6月のニュースによると、「スター選手たちの躍動をオクタゴンでリアルに再現」という表現は、ゲームのグラフィックやモーションのリアルさを強調しています。"
+    "answer": "音楽を共有し、楽しむコミュニティ要素",
+    "explanation": "2026年6月のニュースによると、「BanG Dream! Our Notes」というタイトルに「Notes（音符、記録）」と「Our（私たちの）」という言葉が含まれていること、そして有名楽曲の実装は、プレイヤーが音楽を共有し、一緒に楽しむコミュニティ要素が強調されたゲームであることを示唆しています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "「BanG Dream! Our Notes」の最新情報が明らかになったニュースと、『ペルソナ5X』Ver.4.4のアップデート最新情報がまとめられたニュースは、それぞれどのニュースサイトで報じられましたか？",
+    "question": "Aimerが「ソードアート・オンライン Echoes of Aincrad」の主題歌「Live to Survive」をデジタルリリースし、リリックビデオも公開されたという一連のニュースは、このゲームのプロモーションにおいてどのような戦略が取られていることを示唆していますか？",
     "choices": [
-      "Yahoo!ニュースとファミ通",
-      "Yahoo!ニュースとGameWith",
-      "ファミ通とGameWith",
-      "GAME WatchとYahoo!ニュース"
+      "ゲームプレイ映像中心のプロモーション",
+      "音楽コンテンツを核とした多角的なプロモーション",
+      "キャラクターグッズ展開に注力",
+      "eスポーツイベントでの露出"
     ],
-    "answer": "Yahoo!ニュースとGameWith",
-    "explanation": "2026年6月のニュースによると、「BanG Dream! Our Notes」はYahoo!ニュースで、『ペルソナ5X』はGameWithで報じられました。"
+    "answer": "音楽コンテンツを核とした多角的なプロモーション",
+    "explanation": "2026年6月のニュースによると、Aimerによる主題歌のデジタルリリースとリリックビデオ公開は、ゲーム単体だけでなく、音楽コンテンツを核として多角的にゲームの魅力を伝え、幅広い層にアピールするプロモーション戦略が取られていることを示唆しています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "『進撃の巨人３』の「物語を最初から最後まで描く集大成」という説明は、シリーズのどのゲーム媒体における物語を指していますか？",
+    "question": "「スプラトゥーンレイダースの発売日と最新情報まとめ」という記事がGameWithで公開されたことと、「Xbox Partner Preview」がサードパーティーの最新ゲーム情報を提供したというニュースを比較すると、情報公開の主体にどのような違いが見られますか？",
     "choices": [
-      "ゲーム版のオリジナルストーリー",
-      "原作漫画のストーリー",
-      "アニメ版のストーリー",
-      "小説版のストーリー"
+      "GameWithは公式発表、Xbox Partner Previewは非公式",
+      "GameWithはユーザー向けまとめ、Xbox Partner Previewはプラットフォーム公式発表会",
+      "GameWithはリーク情報、Xbox Partner Previewは開発者発表",
+      "両方ともプラットフォーム公式発表会"
     ],
-    "answer": "原作漫画のストーリー",
-    "explanation": "2026年6月のニュースによると、「進撃の巨人」の物語を最初から最後まで描くとあり、これは一般的に原作漫画の物語を指します。"
+    "answer": "GameWithはユーザー向けまとめ、Xbox Partner Previewはプラットフォーム公式発表会",
+    "explanation": "2026年6月のニュースによると、GameWithは「まとめ」を提供するゲーム情報サイトであり、ユーザーが情報を整理するための媒体です。一方、「Xbox Partner Preview」はXboxというプラットフォームが主催する「サード パーティー各社の最新ゲーム情報をお届け」する公式発表会であり、情報公開の主体が異なります。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "2026年6月2日のState of Play新発表まとめで報じられたゲームのうち、発売日決定、新キャラクター参戦、体験版配信の3つの情報がそれぞれ発表されたゲームは何ですか？",
+    "question": "『Full Stride』の「本格ジョッキーゲーム」としての紹介と、「モバイルゲームアワード2026の投票が開始」というニュースを考慮すると、『Full Stride』は将来的にアワードの対象となる可能性のあるカテゴリに属していると言えますか？",
     "choices": [
-      "エースコンバット8、真・三國無双2、鬼武者",
-      "エースコンバット8、KEMURI、真・三國無双2",
-      "鬼武者、KEMURI、エースコンバット8",
-      "真・三國無双2、鬼武者、KEMURI"
+      "モバイルゲームであるため対象となる可能性が高い",
+      "家庭用ゲームであるため対象外である",
+      "VRゲームであるため対象外である",
+      "対象となるかどうかは不明"
     ],
-    "answer": "エースコンバット8、真・三國無双2、鬼武者",
-    "explanation": "2026年6月のニュースによると、State of Playで『エースコンバット8』発売日決定、『真・三國無双2』に紫鸞参戦、完全新作『鬼武者』体験版配信が発表されました。"
+    "answer": "家庭用ゲームであるため対象外である",
+    "explanation": "2026年6月のニュースによると、『Full Stride』は「本格ジョッキーゲーム」として7月16日に「発売決定」とあり、家庭用ゲームとしてのリリースが示唆されます。一方、「モバイルゲームアワード2026」はモバイルゲームを対象としているため、『Full Stride』がこのアワードの対象となる可能性は低いと考えられます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "「空の軌跡 the 2nd」の最新情報が公開されたニュースは、どのゲームメディアのウェブサイトで報じられましたか？",
+    "question": "『進撃の巨人３』が「物語を最初から最後まで描く集大成」として発売決定したことと、State of Playで『エースコンバット8』の発売日決定が発表されたことを比較すると、それぞれの発表がゲームのどの側面を強調していると言えますか？",
     "choices": [
-      "ファミ通",
-      "GAME Watch",
-      "GameWith",
-      "電撃オンライン"
+      "『進撃の巨人３』はグラフィック、『エースコンバット8』はゲームプレイ",
+      "『進撃の巨人３』はストーリー、『エースコンバット8』はリリース時期",
+      "『進撃の巨人３』はマルチプレイ、『エースコンバット8』は新機能",
+      "両方とも特定のキャラクター"
     ],
-    "answer": "GAME Watch",
-    "explanation": "2026年6月のニュースによると、GAME Watchで「空の軌跡 the 2nd」のゲームシステムなど最新情報が公開されました。"
+    "answer": "『進撃の巨人３』はストーリー、『エースコンバット8』はリリース時期",
+    "explanation": "2026年6月のニュースによると、『進撃の巨人３』は「物語を最初から最後まで描く集大成」と発表され、ストーリーの包括性を強調しています。一方、『エースコンバット8』は「発売日決定」が報じられ、具体的なリリース時期への期待を強調しています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "「チェンソーマン 刺客篇」のスマートフォンゲーム化決定のニュースは、どのジャンルのメディアが発信源でしたか？",
+    "question": "State of Play June 2, 2026で『真・三國無双2』に紫鸞が参戦し、『鬼武者』の完全新作の体験版が配信されたというニュースは、このイベントがどのような種類の発表を重視していることを示唆していますか？",
     "choices": [
-      "ゲーム専門サイト",
-      "アニメ専門サイト",
-      "映画・エンタメ系サイト",
-      "漫画系サイト"
+      "過去作のリマスター発表",
+      "既存作品のアップデート情報",
+      "新作の発表と具体的なプレイ機会の提供",
+      "ビジネス提携の発表"
     ],
-    "answer": "映画・エンタメ系サイト",
-    "explanation": "2026年6月のニュースによると、cinema-factory.jpという映画・エンタメ系のサイトがこのニュースを報じました。"
+    "answer": "新作の発表と具体的なプレイ機会の提供",
+    "explanation": "2026年6月のニュースによると、State of Play June 2, 2026では『真・三國無双2』の新キャラクター参戦（新作の内容）や、完全新作『鬼武者』の体験版配信といった、新作ゲームの発表と同時に、ユーザーが実際にゲームに触れる具体的な機会を提供する発表が重視されていることを示唆しています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "「ONE PIECEカードゲーム」の「クルーバトル」で、使用できるリーダーカードの種類を限定するルールは、どのような目的が考えられますか？",
+    "question": "「ペルソナ5X」のVer.4.4アップデートと「BanG Dream! Our Notes」のAve Mujica楽曲実装のニュースを比較すると、それぞれのゲームがユーザーエンゲージメントを維持するためにどのような異なるアプローチを取っていることが分かりますか？",
     "choices": [
-      "特定のキャラクターのプロモーション",
-      "ゲームバランスの調整",
-      "新規プレイヤーの参入促進",
-      "デッキ構築の多様化"
+      "「ペルソナ5X」はストーリー、「BanG Dream! Our Notes」はイベント",
+      "「ペルソナ5X」はシステム改善、「BanG Dream! Our Notes」はコンテンツ追加",
+      "「ペルソナ5X」はグラフィック、「BanG Dream! Our Notes」はソーシャル機能",
+      "両方とも課金アイテムの追加"
     ],
-    "answer": "特定のキャラクターのプロモーション",
-    "explanation": "2026年6月のニュースによると、“麦わらの一味”のリーダーカードのみが使用可能とされており、これは人気キャラクターである麦わらの一味のプロモーションを兼ねている可能性が高いです。"
+    "answer": "「ペルソナ5X」はシステム改善、「BanG Dream! Our Notes」はコンテンツ追加",
+    "explanation": "2026年6月のニュースによると、「ペルソナ5X」は「Ver.4.4のアップデート」という形でシステム的な改善や機能追加を示唆しています。一方、「BanG Dream! Our Notes」は「Ave Mujica「残酷な天使のテーゼ」など実装楽曲も発表」という形で、音楽コンテンツの追加によるユーザーエンゲージメント維持のアプローチを取っていることが分かります。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "PLAYISMが配信イベントで最新情報を公開した11作品は、どのような性質のタイトルを含むと明記されていましたか？",
+    "question": "Aimerが「ソードアート・オンライン」家庭用ゲーム最新作の主題歌を担当したことと、「BanG Dream! Our Notes」でAve Mujicaの楽曲が実装されたことは、ゲーム業界における音楽コンテンツの活用についてどのような共通点を示していますか？",
     "choices": [
-      "AAAタイトル",
-      "VRタイトル",
-      "初公開タイトル",
-      "家庭用ゲーム機専用タイトル"
+      "ゲームオリジナル楽曲の重視",
+      "有名アーティストや楽曲とのコラボレーション",
+      "ゲーム内BGMの強化",
+      "音楽イベントの開催"
     ],
-    "answer": "初公開タイトル",
-    "explanation": "2026年5月のニュースによると、PLAYISMは初公開タイトル含む11作品の最新情報を公開しました。"
+    "answer": "有名アーティストや楽曲とのコラボレーション",
+    "explanation": "2026年6月のニュースによると、Aimerが『SAO』の主題歌を担当したことと、「BanG Dream! Our Notes」でAve Mujicaが「残酷な天使のテーゼ」を実装したことは、いずれも有名アーティスト（Aimer、Ave Mujica）や有名楽曲（残酷な天使のテーゼ）をゲームに導入することで、ゲームの魅力を高めるコラボレーション戦略がゲーム業界で広く活用されている共通点を示しています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "総合格闘技ゲーム『UFC 6』が「スター選手たちの躍動をオクタゴンでリアルに再現」と報じられたのは、どのニュースサイトのどのセクションに掲載された記事ですか？",
+    "question": "『Full Stride』が「本格ジョッキーゲーム」として7月16日に発売されることと、「モバイルゲームアワード2026の投票が開始」されたことを考慮すると、このアワードの対象となるゲームはどのようなプラットフォームに限定されない可能性を示唆していますか？",
     "choices": [
-      "Game Spark - PCゲーム",
-      "Game Spark - CSゲーム",
-      "Yahoo!ニュース - Game Spark",
-      "Yahoo!ニュース - ゲーム全般"
+      "モバイルゲームアワードはモバイルゲームに限定される",
+      "家庭用ゲームも対象となる可能性",
+      "PCゲームも対象となる可能性",
+      "VRゲームも対象となる可能性"
     ],
-    "answer": "Yahoo!ニュース - Game Spark",
-    "explanation": "2026年6月のニュースによると、Yahoo!ニュースにGame Sparkの記事として『UFC 6』の発売が報じられました。"
+    "answer": "モバイルゲームアワードはモバイルゲームに限定される",
+    "explanation": "2026年6月のニュースによると、「モバイルゲームアワード2026」という名称が明確に「モバイルゲーム」を対象としているため、『Full Stride』が家庭用ゲームとして発売されることから、このアワードの対象となる可能性は低いと判断できます。アワードの名称からプラットフォームの限定が示唆されています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "新しいガンダムゲーム『ローグオービット』の「ガンダムっぽさ無い？」という評価は、どのような反応の一部として報じられましたか？",
+    "question": "State of Play June 2, 2026で複数のゲームの最新情報が発表されたことと、「Xbox Partner Preview」がサードパーティー各社の最新ゲーム情報をお届けしたことを比較すると、これらのイベントの役割にどのような共通点と相違点が見られますか？",
     "choices": [
-      "期待の声",
-      "批判の声",
-      "驚きの声",
-      "落胆の声"
+      "両方ともファーストパーティゲームのみを紹介する点で共通",
+      "両方とも新作ゲーム発表の場である点で共通するが、主催プラットフォームが異なる点で相違",
+      "State of Playは技術デモ、Xbox Partner Previewはビジネス会議",
+      "State of Playはユーザー向け、Xbox Partner Previewは開発者向け"
     ],
-    "answer": "驚きの声",
-    "explanation": "2026年6月のニュースによると、『ローグオービット』発表に驚きの声が上がったと報じられています。"
+    "answer": "両方とも新作ゲーム発表の場である点で共通するが、主催プラットフォームが異なる点で相違",
+    "explanation": "2026年6月のニュースによると、State of PlayもXbox Partner Previewも、それぞれ「新発表まとめ」や「最新ゲーム情報をお届け」とあり、新作ゲームの情報を公開する場である点で共通しています。しかし、State of PlayはPlayStation、Xbox Partner PreviewはXboxと、それぞれ異なるプラットフォームが主催するイベントである点で相違があります。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "Xbox Partner Previewは、サードパーティ各社の最新ゲーム情報をお届けすると報じられましたが、このイベントは主にどのプラットフォームのゲームに焦点を当てていますか？",
+    "question": "『進撃の巨人３』が「物語を最初から最後まで描く集大成」として発売決定したことと、『鬼武者』の完全新作の体験版が配信されたことを比較すると、それぞれのゲームがユーザーにアピールする上でどのような戦略の違いが見られますか？",
     "choices": [
-      "PlayStation",
-      "Nintendo Switch",
-      "PC",
-      "Xbox"
+      "『進撃の巨人３』は物語の網羅性、『鬼武者』はゲームプレイの体験",
+      "『進撃の巨人３』はグラフィック、『鬼武者』はサウンド",
+      "『進撃の巨人３』はマルチプレイ、『鬼武者』はシングルプレイ",
+      "両方ともキャラクターデザイン"
     ],
-    "answer": "Xbox",
-    "explanation": "2026年6月のニュースによると、「Xbox Partner Preview」はXboxプラットフォームにおけるサードパーティ各社の最新ゲーム情報をお届けするイベントです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 10,
-    "question": "「ニンテンドースイッチ2の本体情報まとめ」が報じられたニュースは、どのようなウェブサイトで掲載されましたか？",
-    "choices": [
-      "任天堂公式サイト",
-      "ゲーム情報サイト",
-      "家電量販店サイト",
-      "ニュースポータルサイト"
-    ],
-    "answer": "ゲーム情報サイト",
-    "explanation": "2026年6月のニュースによると、GameWithというゲーム情報サイトで「ニンテンドースイッチ2の本体情報まとめ」が公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 10,
-    "question": "「ニンテンドーダイレクト 2026.6.9」の発表内容まとめが報じられたニュースは、どのニュースサイトに掲載されたGAME Watchの記事ですか？",
-    "choices": [
-      "ファミ通",
-      "GameWith",
-      "Yahoo!ニュース",
-      "IGN Japan"
-    ],
-    "answer": "Yahoo!ニュース",
-    "explanation": "2026年6月のニュースによると、「【ニンダイまとめ】「ニンテンドーダイレクト 2026.6.9」発表内容まとめ（GAME Watch） - Yahoo!ニュース」と報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 10,
-    "question": "2026年6月9日のニンテンドーダイレクトの発表内容まとめは、どのニュースサイトのゲーム情報セクションで報じられましたか？",
-    "choices": [
-      "ファミ通 - Nintendo",
-      "GAME Watch - Yahoo!ニュース",
-      "GameWith - 任天堂",
-      "IGN Japan - Nintendo"
-    ],
-    "answer": "GAME Watch - Yahoo!ニュース",
-    "explanation": "2026年6月のニュースによると、「【ニンダイまとめ】「ニンテンドーダイレクト 2026.6.9」発表内容まとめ（GAME Watch） - Yahoo!ニュース」と報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 10,
-    "question": "新しいガンダムゲーム『ローグオービット』の「ガンダムっぽさ無い？」という評価は、どのような反応の一部として報じられましたか？",
-    "choices": [
-      "期待の声",
-      "批判の声",
-      "驚きの声",
-      "落胆の声"
-    ],
-    "answer": "驚きの声",
-    "explanation": "2026年6月のニュースによると、『ローグオービット』発表に驚きの声が上がったと報じられています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 10,
-    "question": "「ニンテンドースイッチ2の本体情報まとめ」が報じられたニュースは、どのようなウェブサイトで掲載されましたか？",
-    "choices": [
-      "任天堂公式サイト",
-      "ゲーム情報サイト",
-      "家電量販店サイト",
-      "ニュースポータルサイト"
-    ],
-    "answer": "ゲーム情報サイト",
-    "explanation": "2026年6月のニュースによると、GameWithというゲーム情報サイトで「ニンテンドースイッチ2の本体情報まとめ」が公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 10,
-    "question": "「KEMURI」の最新映像が公開されたニュースは、どのゲームメディアのウェブサイトで報じられましたか？",
-    "choices": [
-      "ファミ通",
-      "GAME Watch",
-      "GameWith",
-      "電撃オンライン"
-    ],
-    "answer": "GAME Watch",
-    "explanation": "2026年6月のニュースによると、GAME Watchが「KEMURI」の最新映像公開を報じました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 10,
-    "question": "総合格闘技ゲーム『UFC 6』の発売を報じたニュースで、「スター選手たちの躍動をオクタゴンでリアルに再現」という表現が使われていますが、これはどのようなゲーム性を示唆していますか？",
-    "choices": [
-      "戦略性重視",
-      "グラフィックのリアルさ",
-      "キャラクターカスタマイズの豊富さ",
-      "ストーリーの深さ"
-    ],
-    "answer": "グラフィックのリアルさ",
-    "explanation": "2026年6月のニュースによると、「スター選手たちの躍動をオクタゴンでリアルに再現」という表現は、ゲームのグラフィックやモーションのリアルさを強調しています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 10,
-    "question": "Xbox Partner Previewは、サードパーティ各社の最新ゲーム情報をお届けすると報じられましたが、このイベントは主にどのプラットフォームのゲームに焦点を当てていますか？",
-    "choices": [
-      "PlayStation",
-      "Nintendo Switch",
-      "PC",
-      "Xbox"
-    ],
-    "answer": "Xbox",
-    "explanation": "2026年6月のニュースによると、「Xbox Partner Preview」はXboxプラットフォームにおけるサードパーティ各社の最新ゲーム情報をお届けするイベントです。"
+    "answer": "『進撃の巨人３』は物語の網羅性、『鬼武者』はゲームプレイの体験",
+    "explanation": "2026年6月のニュースによると、『進撃の巨人３』は「物語を最初から最後まで描く集大成」と発表されており、原作の物語を完全に体験できるという網羅性でユーザーにアピールしています。一方、『鬼武者』の完全新作は「体験版配信」という形で、実際にゲームプレイを試してもらうことで、ゲームシステムやアクションの面白さを体験を通じてアピールする戦略を取っています。"
   },
   {
     "category": "世界情勢",
