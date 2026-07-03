@@ -4552,1302 +4552,1952 @@
   {
     "category": "ゲーム",
     "difficulty": 1,
-    "question": "Aimerが主題歌を担当した「ソードアート・オンライン」家庭用ゲーム最新作のタイトルは何ですか？",
+    "question": "Aimerが主題歌「Live to Survive」を担当する「ソードアート・オンライン」の最新家庭用ゲームのタイトルは何ですか？",
     "choices": [
-      "ソードアート・オンライン アリシゼーション リコリス",
-      "ソードアート・オンライン フェイタル・バレット",
-      "ソードアート・オンライン Echoes of Aincrad",
-      "ソードアート・オンライン ラスト リコレクション"
+      "Echoes of Aincrad",
+      "Phantom Bullet Reborn",
+      "Alicization Unleashed",
+      "Progressive Journey"
     ],
-    "answer": "ソードアート・オンライン Echoes of Aincrad",
-    "explanation": "2026年6月のニュースによると、Aimerが主題歌を担当する「ソードアート・オンライン」家庭用ゲーム最新作のタイトルは『Echoes of Aincrad』です。"
+    "answer": "Echoes of Aincrad",
+    "explanation": "2026年6月のニュースによると、Aimerは『SAO』家庭用ゲーム最新作『Echoes of Aincrad』の主題歌「Live to Survive」を担当しています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 1,
-    "question": "Aimerが「ソードアート・オンライン」家庭用ゲーム最新作の主題歌としてデジタルリリースした楽曲のタイトルは何ですか？",
+    "question": "Fortniteのホラーマップとして配信が決定したコンテンツの名前は何ですか？",
     "choices": [
-      "Resonance",
-      "Live to Survive",
-      "IGNITE",
-      "crossing field"
+      "だぁれかさんとアソぼ？",
+      "恐怖の館",
+      "闇の迷宮",
+      "絶叫の森"
     ],
-    "answer": "Live to Survive",
-    "explanation": "2026年6月のニュースによると、Aimerは『SAO』家庭用ゲーム最新作『Echoes of Aincrad』の主題歌として「Live to Survive」をデジタルリリースしました。"
+    "answer": "だぁれかさんとアソぼ？",
+    "explanation": "2026年6月のニュースによると、『だぁれかさんとアソぼ？』がFortniteのホラーマップとして配信決定しました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 1,
-    "question": "2026年のモバイルゲームアワードに関する最新情報は何でしたか？",
+    "question": "カプコンの新作剣戟アクションゲーム『鬼武者 Way of the Sword』の発売日はいつですか？",
     "choices": [
-      "受賞作品の発表",
-      "投票の開始",
-      "候補作品の募集終了",
-      "開催地の決定"
+      "9月4日（金）",
+      "9月11日（金）",
+      "8月28日（金）",
+      "10月2日（金）"
     ],
-    "answer": "投票の開始",
-    "explanation": "2026年6月のニュースによると、「モバイルゲームアワード2026の投票が開始」されました。"
+    "answer": "9月4日（金）",
+    "explanation": "2026年6月のニュースによると、『鬼武者 Way of the Sword』は9月4日（金）に発売されます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 1,
-    "question": "「進撃の巨人」の物語を最初から最後まで描く集大成となるゲームのタイトルは何ですか？",
+    "question": "『ペルソナ5X』で最近行われたアップデートのバージョンは何ですか？",
     "choices": [
-      "進撃の巨人 The Final Battle",
-      "進撃の巨人２",
-      "進撃の巨人３",
-      "進撃の巨人 Chronicle"
-    ],
-    "answer": "進撃の巨人３",
-    "explanation": "2026年6月のニュースによると、「進撃の巨人」の物語を最初から最後まで描く集大成となるゲームは『進撃の巨人３』として発売が決定しました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "State of Play June 2, 2026で発売日決定が発表されたゲームのタイトルは何ですか？",
-    "choices": [
-      "ファイナルファンタジーVII リバース",
-      "グランツーリスモ7",
-      "エースコンバット8",
-      "ゴッド・オブ・ウォー ラグナロク"
-    ],
-    "answer": "エースコンバット8",
-    "explanation": "2026年6月のニュースによると、State of Play June 2, 2026で『エースコンバット8』の発売日決定が発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "State of Play June 2, 2026で完全新作として体験版が配信されたゲームシリーズは何ですか？",
-    "choices": [
-      "デビルメイクライ",
-      "バイオハザード",
-      "鬼武者",
-      "モンスターハンター"
-    ],
-    "answer": "鬼武者",
-    "explanation": "2026年6月のニュースによると、State of Play June 2, 2026で完全新作『鬼武者』の体験版配信が発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "2026年7月16日に発売が決定した本格ジョッキーゲームのタイトルは何ですか？",
-    "choices": [
-      "ウマ娘 プリティーダービー",
-      "ダービースタリオン",
-      "Full Stride",
-      "Winning Post 10"
-    ],
-    "answer": "Full Stride",
-    "explanation": "2026年6月のニュースによると、競馬ファン待望の本格ジョッキーゲーム『Full Stride』が2026年7月16日に発売決定しました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "Aimerが主題歌を担当した「ソードアート・オンライン」家庭用ゲーム最新作の主題歌はどのようにリリースされましたか？",
-    "choices": [
-      "CDアルバムとして",
-      "デジタル・リリース",
-      "カセットテープとして",
-      "LPレコードとして"
-    ],
-    "answer": "デジタル・リリース",
-    "explanation": "2026年6月のニュースによると、Aimerの『SAO』家庭用ゲーム最新作主題歌「Live to Survive」はデジタルリリースされました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "「BanG Dream! Our Notes」で最新情報が明らかにされたゲームジャンルは何ですか？",
-    "choices": [
-      "アクションRPG",
-      "リズムゲーム",
-      "パズルゲーム",
-      "シミュレーションゲーム"
-    ],
-    "answer": "リズムゲーム",
-    "explanation": "2026年6月のニュースによると、「BanG Dream! Our Notes」は『BanG Dream!』シリーズのリズムゲームであり、最新情報が明らかにされました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "Minecraft内で「ゲームドロップ」が発表されたゲームのタイトルは何ですか？",
-    "choices": [
-      "Cube World",
-      "Chaos Cubed",
-      "Minecraft Dungeons",
-      "Terraria"
-    ],
-    "answer": "Chaos Cubed",
-    "explanation": "2026年6月のニュースによると、「Chaos Cubed ゲームドロップ - Minecraft」として発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "Aimerの「Live to Survive」は、どのゲームの主題歌としてデジタルリリースされましたか？",
-    "choices": [
-      "ファイナルファンタジーXIV",
-      "原神",
-      "ソードアート・オンライン Echoes of Aincrad",
-      "テイルズ オブ アライズ"
-    ],
-    "answer": "ソードアート・オンライン Echoes of Aincrad",
-    "explanation": "2026年6月のニュースによると、Aimerの「Live to Survive」は『SAO』家庭用ゲーム最新作『Echoes of Aincrad』の主題歌としてデジタルリリースされました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "「ソードアート・オンライン Echoes of Aincrad」の主題歌「Live to Survive」は、誰によって歌われていますか？",
-    "choices": [
-      "LiSA",
-      "藍井エイル",
-      "Aimer",
-      "春奈るな"
-    ],
-    "answer": "Aimer",
-    "explanation": "2026年6月のニュースによると、Aimerが『SAO』家庭用ゲーム最新作『Echoes of Aincrad』の主題歌「Live to Survive」を担当しました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "「スプラトゥーンレイダース」に関する最新情報で注目されたのは何ですか？",
-    "choices": [
-      "新しいキャラクターの発表",
-      "発売日と最新情報まとめ",
-      "アニメ化の決定",
-      "コラボイベントの開催"
-    ],
-    "answer": "発売日と最新情報まとめ",
-    "explanation": "2026年6月のニュースによると、「スプラトゥーンレイダースの発売日と最新情報まとめ」が公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "2026年7月16日発売の『Full Stride』のゲームジャンルは何ですか？",
-    "choices": [
-      "育成シミュレーション",
-      "アクションRPG",
-      "本格ジョッキーゲーム",
-      "スポーツマネジメント"
-    ],
-    "answer": "本格ジョッキーゲーム",
-    "explanation": "2026年6月のニュースによると、『Full Stride』は「競馬ファン待望の本格ジョッキーゲーム」として7月16日に発売されます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "『進撃の巨人３』は、どのような特徴を持つゲームとして発売が決定しましたか？",
-    "choices": [
-      "オリジナルストーリーの追加",
-      "マルチプレイヤー専用",
-      "物語を最初から最後まで描く集大成",
-      "アニメの続編"
-    ],
-    "answer": "物語を最初から最後まで描く集大成",
-    "explanation": "2026年6月のニュースによると、『進撃の巨人３』は「『進撃の巨人』の物語を最初から最後まで描く集大成」として発売が決定しました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "State of Play June 2, 2026で「真・三國無双2」に参戦が発表されたキャラクターは誰ですか？",
-    "choices": [
-      "呂布",
-      "趙雲",
-      "紫鸞",
-      "関羽"
-    ],
-    "answer": "紫鸞",
-    "explanation": "2026年6月のニュースによると、State of Play June 2, 2026で『真・三國無双2』に紫鸞が参戦すると発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "「ペルソナ5X」の最新アップデートのバージョン番号は何でしたか？",
-    "choices": [
-      "Ver.3.0",
       "Ver.4.4",
-      "Ver.5.0",
-      "Ver.2.1"
+      "Ver.3.0",
+      "Ver.5.1",
+      "Ver.6.0"
     ],
     "answer": "Ver.4.4",
-    "explanation": "2026年6月のニュースによると、「ペルソナ5X」はVer.4.4のアップデートの最新情報が公開されました。"
+    "explanation": "2026年6月のニュースによると、『ペルソナ5X』はVer.4.4のアップデートが行われました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 2,
-    "question": "「BanG Dream! Our Notes」で実装楽曲として発表されたAve Mujicaの楽曲は何ですか？",
+    "difficulty": 1,
+    "question": "「BANDAI CARD GAMES ネクストプラン発表会2026.06」で最新情報が解禁されたカードゲームは何ですか？",
     "choices": [
-      "紅蓮の弓矢",
-      "残酷な天使のテーゼ",
-      "君の知らない物語",
-      "only my railgun"
+      "ONE PIECEカードゲーム",
+      "ドラゴンボールスーパーカードゲーム",
+      "呪術廻戦カードゲーム",
+      "ガンダムウォー"
     ],
-    "answer": "残酷な天使のテーゼ",
-    "explanation": "2026年6月のニュースによると、「BanG Dream! Our Notes」でAve Mujicaの「残酷な天使のテーゼ」が実装楽曲として発表されました。"
+    "answer": "ONE PIECEカードゲーム",
+    "explanation": "2026年6月のニュースによると、「BANDAI CARD GAMES ネクストプラン発表会2026.06」にてONE PIECEカードゲームの最新情報が解禁されました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 2,
-    "question": "「Xbox Partner Preview」では、主にどのようなゲーム情報が届けられましたか？",
+    "difficulty": 1,
+    "question": "「進撃の巨人」の物語を最初から最後まで描く集大成ゲームのタイトルは何ですか？",
     "choices": [
-      "Xbox Game Studiosの新作情報",
-      "インディーゲームの特集",
-      "サード パーティー各社の最新ゲーム情報",
-      "過去の名作のリマスター情報"
+      "進撃の巨人３",
+      "進撃の巨人 -最終章-",
+      "進撃の巨人 -完全版-",
+      "進撃の巨人 -エレンの旅路-"
     ],
-    "answer": "サード パーティー各社の最新ゲーム情報",
-    "explanation": "2026年6月のニュースによると、「Xbox Partner Preview」では「サード パーティー各社の最新ゲーム情報」が届けられました。"
+    "answer": "進撃の巨人３",
+    "explanation": "2026年6月のニュースによると、ゲーム『進撃の巨人３』が発売決定し、物語を最初から最後まで描くとされています。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 2,
-    "question": "Aimerの「Live to Survive」のリリースと同時に公開が決定したコンテンツは何ですか？",
+    "difficulty": 1,
+    "question": "モバイルゲームアワード2026に関して、最近始まった活動は何ですか？",
     "choices": [
-      "ミュージックビデオのメイキング",
-      "リリック・ビデオ",
-      "ライブ映像",
-      "インタビュー記事"
-    ],
-    "answer": "リリック・ビデオ",
-    "explanation": "2026年6月のニュースによると、Aimerの「Live to Survive」デジタルリリースと同時にリリック・ビデオの公開も決定しました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "Aimerが主題歌を担当する「ソードアート・オンライン Echoes of Aincrad」の主題歌「Live to Survive」は、どのような形式で公開されましたか？",
-    "choices": [
-      "CDアルバム先行リリース",
-      "テレビCMでのみ公開",
-      "デジタルリリースとリリックビデオ公開",
-      "限定イベントでのみ披露"
-    ],
-    "answer": "デジタルリリースとリリックビデオ公開",
-    "explanation": "2026年6月のニュースによると、Aimerの『SAO』家庭用ゲーム最新作主題歌「Live to Survive」はデジタルリリースされ、リリックビデオも公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年のモバイルゲームアワードで現在行われているアクションは何ですか？",
-    "choices": [
-      "最終審査",
       "投票",
-      "ノミネート作品の発表",
-      "開発者向けセミナー"
+      "エントリー受付",
+      "審査員募集",
+      "開催地決定"
     ],
     "answer": "投票",
-    "explanation": "2026年6月のニュースによると、「モバイルゲームアワード2026の投票が開始」されました。"
+    "explanation": "2026年6月のニュースによると、モバイルゲームアワード2026の投票が開始されました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 3,
-    "question": "『Full Stride』は、プレイヤーがどのような視点でレースの駆け引きを体感できるゲームとして紹介されていますか？",
+    "difficulty": 1,
+    "question": "スマートフォンゲーム化が決定した「チェンソーマン」の物語の篇は何ですか？",
     "choices": [
-      "俯瞰視点",
-      "観客視点",
-      "ジョッキー視点",
-      "馬主視点"
+      "刺客篇",
+      "公安編",
+      "悪魔編",
+      "復活編"
     ],
-    "answer": "ジョッキー視点",
-    "explanation": "2026年6月のニュースによると、『Full Stride』は「ジョッキー視点でレースの駆け引きを体感」できる本格ジョッキーゲームです。"
+    "answer": "刺客篇",
+    "explanation": "2026年6月のニュースによると、『チェンソーマン 刺客篇』のスマートフォンゲーム化が決定しました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 3,
-    "question": "State of Play June 2, 2026で発表された『鬼武者』の最新作は、どのような形でプレイヤーに提供されましたか？",
+    "difficulty": 1,
+    "question": "本格ジョッキーゲーム『Full Stride』の発売日はいつですか？",
     "choices": [
-      "製品版が即時発売",
-      "体験版の配信",
-      "プレアルファ版の公開",
-      "クラウドファンディングの開始"
+      "7月16日",
+      "8月1日",
+      "6月20日",
+      "9月4日"
     ],
-    "answer": "体験版の配信",
-    "explanation": "2026年6月のニュースによると、State of Play June 2, 2026で完全新作『鬼武者』の体験版配信が発表されました。"
+    "answer": "7月16日",
+    "explanation": "2026年7月のニュースによると、本格ジョッキーゲーム『Full Stride』は7月16日発売決定です。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 3,
-    "question": "『進撃の巨人３』は、原作のどの範囲をゲームで描くと発表されましたか？",
+    "difficulty": 1,
+    "question": "ニンテンドースイッチ2に関する最新情報は何のカテゴリでまとめられていますか？",
     "choices": [
-      "物語の序盤のみ",
-      "物語の中盤から終盤",
-      "物語を最初から最後まで",
-      "ゲームオリジナルの展開"
+      "本体情報",
+      "発売日情報",
+      "対応ソフト情報",
+      "価格情報"
     ],
-    "answer": "物語を最初から最後まで",
-    "explanation": "2026年6月のニュースによると、『進撃の巨人３』は「『進撃の巨人』の物語を最初から最後まで描く集大成」として発売が決定しました。"
+    "answer": "本体情報",
+    "explanation": "2026年6月のニュースによると、「Switch2」の本体情報がまとめられています。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 3,
-    "question": "「ペルソナ5X」のVer.4.4アップデートで、GameWithがまとめたのはどのような情報でしたか？",
+    "difficulty": 1,
+    "question": "Aimerが主題歌を担当する「ソードアート・オンライン」の最新ゲームは、どのようなプラットフォーム向けですか？",
     "choices": [
+      "家庭用ゲーム",
+      "スマートフォンゲーム",
+      "PCゲーム",
+      "VRゲーム"
+    ],
+    "answer": "家庭用ゲーム",
+    "explanation": "2026年6月のニュースによると、Aimerは『SAO』家庭用ゲーム最新作『Echoes of Aincrad』の主題歌を担当しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 1,
+    "question": "Aimerが主題歌「Live to Survive」を歌うゲームのタイトルは何ですか？",
+    "choices": [
+      "Echoes of Aincrad",
+      "Phantom Bullet Reborn",
+      "Alicization Unleashed",
+      "Progressive Journey"
+    ],
+    "answer": "Echoes of Aincrad",
+    "explanation": "2026年6月のニュースによると、Aimerは『SAO Echoes of Aincrad』の主題歌「Live to Survive」を担当しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 1,
+    "question": "Aimerが主題歌を担当する「ソードアート・オンライン」の最新ゲームのタイトルは何ですか？",
+    "choices": [
+      "Echoes of Aincrad",
+      "Phantom Bullet Reborn",
+      "Alicization Unleashed",
+      "Progressive Journey"
+    ],
+    "answer": "Echoes of Aincrad",
+    "explanation": "2026年6月のニュースによると、Aimerは家庭用ゲーム最新作『SAO Echoes of Aincrad』の主題歌を担当しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 1,
+    "question": "Aimerが主題歌「Live to Survive」を担当する「ソードアート・オンライン」の最新ゲームは、どのようなプラットフォーム向けですか？",
+    "choices": [
+      "家庭用ゲーム",
+      "スマートフォンゲーム",
+      "PCゲーム",
+      "VRゲーム"
+    ],
+    "answer": "家庭用ゲーム",
+    "explanation": "2026年6月のニュースによると、Aimerは『SAO』家庭用ゲーム最新作『Echoes of Aincrad』の主題歌を担当しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 1,
+    "question": "本格ジョッキーゲーム『Full Stride』の発売日はいつですか？",
+    "choices": [
+      "7月16日",
+      "8月1日",
+      "6月20日",
+      "9月4日"
+    ],
+    "answer": "7月16日",
+    "explanation": "2026年7月のニュースによると、本格ジョッキーゲーム『Full Stride』は7月16日発売決定です。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 2,
+    "question": "Aimerが歌う『SAO Echoes of Aincrad』の主題歌「Live to Survive」は、どのようにリリースされましたか？",
+    "choices": [
+      "デジタルリリース",
+      "CDリリース",
+      "アナログレコードリリース",
+      "ストリーミング限定リリース"
+    ],
+    "answer": "デジタルリリース",
+    "explanation": "2026年6月のニュースによると、Aimerの『SAO Echoes of Aincrad』主題歌「Live to Survive」はデジタルリリースされました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 2,
+    "question": "『だぁれかさんとアソぼ？』のFortniteホラーマップ配信決定と同時に公開されたコンテンツは何ですか？",
+    "choices": [
+      "ゲーム体験動画",
       "開発者インタビュー",
-      "バグ修正リスト",
+      "コンセプトアート",
+      "サウンドトラック"
+    ],
+    "answer": "ゲーム体験動画",
+    "explanation": "2026年6月のニュースによると、『だぁれかさんとアソぼ？』の配信決定と同時にゲーム体験動画も公開されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 2,
+    "question": "カプコンの新作『鬼武者 Way of the Sword』は、当初の予定から発売日がどのように変更されましたか？",
+    "choices": [
+      "3週間早まった",
+      "1週間延期された",
+      "2週間早まった",
+      "変更なし"
+    ],
+    "answer": "3週間早まった",
+    "explanation": "2026年6月のニュースによると、『鬼武者 Way of the Sword』は当初予定よりも3週間早まりました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 2,
+    "question": "『ペルソナ5X』のVer.4.4アップデートに関する情報は、主にどのような内容がまとめられていますか？",
+    "choices": [
       "最新情報",
-      "ユーザーレビュー"
+      "バグ修正",
+      "新キャラクター情報",
+      "過去のアップデート履歴"
     ],
     "answer": "最新情報",
-    "explanation": "2026年6月のニュースによると、GameWithは「【ペルソナ5X】Ver.4.4のアップデートの最新情報まとめ」を公開しました。"
+    "explanation": "2026年6月のニュースによると、『ペルソナ5X』のVer.4.4アップデートの最新情報がまとめられています。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 3,
-    "question": "「BanG Dream! Our Notes」で実装が発表されたAve Mujicaの「残酷な天使のテーゼ」は、どのような情報の一部として公開されましたか？",
+    "difficulty": 2,
+    "question": "ONE PIECEカードゲームの最新情報が解禁されたイベントの主催者は誰ですか？",
     "choices": [
-      "キャラクターデザイン",
-      "ゲームシステム",
-      "実装楽曲",
-      "ライブイベント"
+      "BANDAI CARD GAMES",
+      "集英社",
+      "東映アニメーション",
+      "バンダイナムコエンターテインメント"
     ],
-    "answer": "実装楽曲",
-    "explanation": "2026年6月のニュースによると、「BanG Dream! Our Notes」の最新情報としてAve Mujicaの「残酷な天使のテーゼ」など実装楽曲が発表されました。"
+    "answer": "BANDAI CARD GAMES",
+    "explanation": "2026年6月のニュースによると、「BANDAI CARD GAMES ネクストプラン発表会2026.06」にてONE PIECEカードゲームの最新情報が解禁されました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 3,
-    "question": "「Chaos Cubed」は、どのようなゲームプラットフォームで「ゲームドロップ」が行われましたか？",
+    "difficulty": 2,
+    "question": "ゲーム『進撃の巨人３』は、物語に関してどのような特徴を持っていますか？",
     "choices": [
-      "Roblox",
-      "Fortnite",
-      "Minecraft",
-      "Metaverse"
+      "最初から最後まで描く集大成",
+      "特定の章に焦点を当てる",
+      "オリジナルストーリーを展開する",
+      "過去のゲームのリマスター版"
     ],
-    "answer": "Minecraft",
-    "explanation": "2026年6月のニュースによると、「Chaos Cubed ゲームドロップ - Minecraft」として発表されました。"
+    "answer": "最初から最後まで描く集大rad",
+    "explanation": "2026年6月のニュースによると、ゲーム『進撃の巨人３』は「進撃の巨人」の物語を最初から最後まで描く集大成とされています。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 3,
-    "question": "State of Play June 2, 2026で発売日決定が発表された『エースコンバット8』は、どのシリーズの最新作ですか？",
+    "difficulty": 2,
+    "question": "Minecraftに関連する「Chaos Cubed」は、どのような形で提供されていますか？",
     "choices": [
-      "グランツーリスモ",
-      "鉄拳",
-      "エースコンバット",
-      "ゴッドイーター"
+      "ゲームドロップ",
+      "公式DLC",
+      "ファンメイドMOD",
+      "スタンドアロンゲーム"
     ],
-    "answer": "エースコンバット",
-    "explanation": "2026年6月のニュースによると、State of Play June 2, 2026で『エースコンバット8』の発売日決定が発表されました。"
+    "answer": "ゲームドロップ",
+    "explanation": "2026年6月のニュースによると、「Chaos Cubed」はMinecraftのゲームドロップとして言及されています。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 3,
-    "question": "「ソードアート・オンライン」家庭用ゲーム最新作の主題歌を担当したAimerの楽曲は、何というタイトルですか？",
+    "difficulty": 2,
+    "question": "モバイルゲームアワード2026の投票が開始されたと報じているメディアは何ですか？",
     "choices": [
-      "crossing field",
-      "ADAMAS",
-      "Live to Survive",
-      "unlasting"
-    ],
-    "answer": "Live to Survive",
-    "explanation": "2026年6月のニュースによると、Aimerは「ソードアート・オンライン」ゲーム最新作の主題歌として「Live to Survive」を担当しました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "Aimerが「ソードアート・オンライン Echoes of Aincrad」の主題歌「Live to Survive」のリリックビデオは、いつ公開されましたか？",
-    "choices": [
-      "午前0時に",
-      "午後3時に",
-      "午後8時に",
-      "翌日の正午に"
-    ],
-    "answer": "午後8時に",
-    "explanation": "2026年6月のニュースによると、Aimerの『SAO』家庭用ゲーム最新作『Echoes of Aincrad』主題歌「Live to Survive」のリリックビデオが20時に公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "「スプラトゥーンレイダース」の「発売日と最新情報まとめ」は、主にどのゲーム情報サイトで取り上げられましたか？",
-    "choices": [
-      "ファミ通",
-      "電撃オンライン",
+      "Mobile Goddess",
       "GameWith",
-      "IGN Japan"
+      "AppMedia",
+      "エンタメ特化型情報メディア スパイス"
+    ],
+    "answer": "Mobile Goddess",
+    "explanation": "2026年6月のニュースによると、Mobile Goddessがモバイルゲームアワード2026の投票開始を報じています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 2,
+    "question": "『スプラトゥーンレイダース』に関して、GameWithがまとめている情報は何ですか？",
+    "choices": [
+      "発売日と最新情報",
+      "キャラクター情報",
+      "攻略ガイド",
+      "開発秘話"
+    ],
+    "answer": "発売日と最新情報",
+    "explanation": "2026年6月のニュースによると、GameWithは『スプラトゥーンレイダース』の発売日と最新情報をまとめています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 2,
+    "question": "本格ジョッキーゲーム『Full Stride』は、どのような視点でレースの駆け引きを体感できると謳われていますか？",
+    "choices": [
+      "ジョッキー視点",
+      "観客視点",
+      "馬主視点",
+      "調教師視点"
+    ],
+    "answer": "ジョッキー視点",
+    "explanation": "2026年7月のニュースによると、『Full Stride』はジョッキー視点でレースの駆け引きを体感できるとされています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 2,
+    "question": "『だぁれかさんとアソぼ？』のゲーム体験動画で、小國舞羽がどのような反応を示したと報じられていますか？",
+    "choices": [
+      "絶叫",
+      "爆笑",
+      "感動",
+      "冷静"
+    ],
+    "answer": "絶叫",
+    "explanation": "2026年6月のニュースによると、小國舞羽が絶叫したと報じられています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 2,
+    "question": "Fortniteのホラーマップ『だぁれかさんとアソぼ？』の配信決定と同時に公開されたのは何ですか？",
+    "choices": [
+      "ゲーム体験動画",
+      "メイキング映像",
+      "開発者インタビュー",
+      "キャラクター紹介"
+    ],
+    "answer": "ゲーム体験動画",
+    "explanation": "2026年6月のニュースによると、『だぁれかさんとアソぼ？』の配信決定と同時にゲーム体験動画も公開されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 2,
+    "question": "Fortniteで配信が決定したホラーマップのタイトルは何ですか？",
+    "choices": [
+      "だぁれかさんとアソぼ？",
+      "恐怖の館",
+      "闇の迷宮",
+      "絶叫の森"
+    ],
+    "answer": "だぁれかさんとアソぼ？",
+    "explanation": "2026年6月のニュースによると、『だぁれかさんとアソぼ？』がFortniteのホラーマップとして配信決定しました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 2,
+    "question": "Fortniteで配信が決定したホラーマップの名前は何ですか？",
+    "choices": [
+      "だぁれかさんとアソぼ？",
+      "恐怖の館",
+      "闇の迷宮",
+      "絶叫の森"
+    ],
+    "answer": "だぁれかさんとアソぼ？",
+    "explanation": "2026年6月のニュースによると、『だぁれかさんとアソぼ？』がFortniteのホラーマップとして配信決定しました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 2,
+    "question": "ニンテンドースイッチ2に関する最新情報は何のカテゴリでまとめられていますか？",
+    "choices": [
+      "本体情報",
+      "発売日情報",
+      "対応ソフト情報",
+      "価格情報"
+    ],
+    "answer": "本体情報",
+    "explanation": "2026年6月のニュースによると、「Switch2」の本体情報がまとめられています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "Aimerが主題歌を担当した『SAO Echoes of Aincrad』は、主にどのプラットフォーム向けのゲームとして紹介されていますか？",
+    "choices": [
+      "家庭用ゲーム",
+      "スマートフォンゲーム",
+      "PCゲーム",
+      "VRゲーム"
+    ],
+    "answer": "家庭用ゲーム",
+    "explanation": "2026年6月のニュースによると、『SAO』家庭用ゲーム最新作『Echoes of Aincrad』の主題歌をAimerが担当しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "Fortniteのホラーマップ『だぁれかさんとアソぼ？』のゲーム体験動画で絶叫を上げた人物は誰ですか？",
+    "choices": [
+      "小國舞羽",
+      "大塚愛",
+      "中島美嘉",
+      "広瀬すず"
+    ],
+    "answer": "小國舞羽",
+    "explanation": "2026年6月のニュースによると、『だぁれかさんとアソぼ？』のゲーム体験動画で小國舞羽が絶叫したと報じられています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "カプコンの新作『鬼武者 Way of the Sword』は、どのようなジャンルのゲームとして紹介されていますか？",
+    "choices": [
+      "剣戟アクションゲーム",
+      "RPG",
+      "アドベンチャーゲーム",
+      "シミュレーションゲーム"
+    ],
+    "answer": "剣戟アクションゲーム",
+    "explanation": "2026年6月のニュースによると、『鬼武者 Way of the Sword』はカプコンの剣戟アクションゲーム最新作です。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "『ペルソナ5X』のVer.4.4アップデートの最新情報をまとめたメディアは何ですか？",
+    "choices": [
+      "GameWith",
+      "ファミ通.com",
+      "電撃オンライン",
+      "4Gamer.net"
     ],
     "answer": "GameWith",
-    "explanation": "2026年6月のニュースによると、「スプラトゥーンレイダースの発売日と最新情報まとめ - GameWith」として報じられました。"
+    "explanation": "2026年6月のニュースによると、GameWithが『ペルソナ5X』Ver.4.4のアップデートの最新情報をまとめています。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 4,
-    "question": "「競馬のおはなし」で最新プレイ映像が公開された本格ジョッキーゲームのタイトルは何ですか？",
+    "difficulty": 3,
+    "question": "ONE PIECEカードゲームの最新情報が解禁された「BANDAI CARD GAMES ネクストプラン発表会」は、何年の何月に開催されましたか？",
     "choices": [
-      "ダービースタリオンマスターズ",
-      "Full Stride",
-      "G1ジョッキー",
-      "ウイニングポスト"
+      "2026年6月",
+      "2025年12月",
+      "2026年3月",
+      "2026年9月"
     ],
-    "answer": "Full Stride",
-    "explanation": "2026年6月のニュースによると、「競馬のおはなし」で「本格ジョッキーゲーム、最新プレイ映像」が公開され、そのゲームは『Full Stride』です。"
+    "answer": "2026年6月",
+    "explanation": "2026年6月のニュースによると、「BANDAI CARD GAMES ネクストプラン発表会2026.06」にて最新情報が解禁されました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 4,
-    "question": "「モバイルゲームアワード2026」の投票が開始されたことを報じたメディアはどこですか？",
+    "difficulty": 3,
+    "question": "ゲーム『進撃の巨人３』の開発が決定したと報じているウェブサイトは何ですか？",
     "choices": [
-      "famitsu.com",
-      "mgoddess.com",
-      "ign.com",
-      "gematsu.com"
-    ],
-    "answer": "mgoddess.com",
-    "explanation": "2026年6月のニュースによると、「モバイルゲームアワード2026の投票が開始 - mgoddess.com」として報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "『進撃の巨人３』の発売決定を発表したゲームメーカーのウェブサイトはどこですか？",
-    "choices": [
-      "bandainamcoent.co.jp",
-      "capcom.co.jp",
       "gamecity.ne.jp",
-      "square-enix.com"
+      "kodansha.co.jp",
+      "shueisha.co.jp",
+      "anime-titan.jp"
     ],
     "answer": "gamecity.ne.jp",
-    "explanation": "2026年6月のニュースによると、「gamecity.ne.jp」で「ゲーム『進撃の巨人３』発売決定！」が発表されました。"
+    "explanation": "2026年6月のニュースによると、gamecity.ne.jpがゲーム『進撃の巨人３』の発売決定を報じています。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 4,
-    "question": "「Xbox Partner Preview」が提供する最新ゲーム情報は、主にどの開発元からのものですか？",
+    "difficulty": 3,
+    "question": "「Chaos Cubed ゲームドロップ」は、どの人気ゲームタイトルに関連する情報ですか？",
     "choices": [
-      "マイクロソフトのファーストパーティ",
-      "インディーゲームスタジオ",
-      "サード パーティー各社",
-      "日本国内の開発会社"
+      "Minecraft",
+      "Roblox",
+      "Fortnite",
+      "Apex Legends"
     ],
-    "answer": "サード パーティー各社",
-    "explanation": "2026年6月のニュースによると、「Xbox Partner Preview」は「サード パーティー各社の最新ゲーム情報をお届け」すると報じられました。"
+    "answer": "Minecraft",
+    "explanation": "2026年6月のニュースによると、「Chaos Cubed ゲームドロップ」はMinecraftに関連する情報として言及されています。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 4,
-    "question": "State of Play June 2, 2026で発表された『真・三國無双2』に参戦する紫鸞は、どのシリーズのキャラクターですか？",
+    "difficulty": 3,
+    "question": "『チェンソーマン 刺客篇』のスマートフォンゲーム化決定と同時に解禁されたコンテンツは何ですか？",
     "choices": [
-      "戦国無双",
-      "無双OROCHI",
-      "真・三國無双",
-      "ゼルダ無双"
+      "最新PV",
+      "キャラクタービジュアル",
+      "ゲームシステム詳細",
+      "開発者インタビュー"
     ],
-    "answer": "真・三國無双",
-    "explanation": "2026年6月のニュースによると、State of Play June 2, 2026で「『真・三國無双2』に紫鸞参戦」が発表されました。"
+    "answer": "最新PV",
+    "explanation": "2026年6月のニュースによると、『チェンソーマン 刺客篇』最新PV解禁と同時にスマートフォンゲーム化も決定しました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 4,
-    "question": "「ペルソナ5X」のVer.4.4アップデートの最新情報をまとめたゲーム情報サイトはどこですか？",
+    "difficulty": 3,
+    "question": "本格ジョッキーゲーム『Full Stride』は、どのようなファンが待望していると報じられていますか？",
     "choices": [
-      "ファミ通.com",
+      "競馬ファン",
+      "アクションゲームファン",
+      "シミュレーションゲームファン",
+      "スポーツゲームファン"
+    ],
+    "answer": "競馬ファン",
+    "explanation": "2026年7月のニュースによると、競馬ファン待望の本格ジョッキーゲーム『Full Stride』が発売決定しました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "ニンテンドースイッチ2の本体情報まとめを公開したメディアは何ですか？",
+    "choices": [
       "GameWith",
-      "4Gamer.net",
+      "IGN Japan",
+      "ファミ通.com",
+      "任天堂公式サイト"
+    ],
+    "answer": "GameWith",
+    "explanation": "2026年6月のニュースによると、GameWithが「Switch2」の本体情報をまとめています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "『鬼武者 Way of the Sword』は、当初予定よりも何週間早く発売されることになりましたか？",
+    "choices": [
+      "3週間",
+      "1週間",
+      "2週間",
+      "4週間"
+    ],
+    "answer": "3週間",
+    "explanation": "2026年6月のニュースによると、『鬼武者 Way of the Sword』は当初予定よりも3週間早まりました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "『鬼武者 Way of the Sword』の開発元は何という会社ですか？",
+    "choices": [
+      "カプコン",
+      "スクウェア・エニックス",
+      "バンダイナムコ",
+      "コーエーテクモ"
+    ],
+    "answer": "カプコン",
+    "explanation": "2026年6月のニュースによると、カプコンの剣戟アクションゲーム最新作が『鬼武者 Way of the Sword』です。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "カプコンの新作剣戟アクションゲーム『鬼武者 Way of the Sword』の発売日はいつですか？",
+    "choices": [
+      "9月4日（金）",
+      "9月11日（金）",
+      "8月28日（金）",
+      "10月2日（金）"
+    ],
+    "answer": "9月4日（金）",
+    "explanation": "2026年6月のニュースによると、『鬼武者 Way of the Sword』は9月4日（金）に発売されます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "カプコンの新作剣戟アクションゲーム『鬼武者 Way of the Sword』の発売日はいつですか？",
+    "choices": [
+      "9月4日（金）",
+      "9月11日（金）",
+      "8月28日（金）",
+      "10月2日（金）"
+    ],
+    "answer": "9月4日（金）",
+    "explanation": "2026年6月のニュースによると、『鬼武者 Way of the Sword』は9月4日（金）に発売されます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "Aimerが主題歌を担当した『SAO Echoes of Aincrad』は、主にどのプラットフォーム向けのゲームとして紹介されていますか？",
+    "choices": [
+      "家庭用ゲーム",
+      "スマートフォンゲーム",
+      "PCゲーム",
+      "VRゲーム"
+    ],
+    "answer": "家庭用ゲーム",
+    "explanation": "2026年6月のニュースによると、『SAO』家庭用ゲーム最新作『Echoes of Aincrad』の主題歌をAimerが担当しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "Aimerが歌う『SAO Echoes of Aincrad』の主題歌「Live to Survive」のリリックビデオは、何時に公開されましたか？",
+    "choices": [
+      "20時",
+      "18時",
+      "22時",
+      "12時"
+    ],
+    "answer": "20時",
+    "explanation": "2026年6月のニュースによると、『SAO Echoes of Aincrad』主題歌「Live to Survive」のLyric Videoが20時に公開されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "『だぁれかさんとアソぼ？』はFortniteの何として配信が決定しましたか？",
+    "choices": [
+      "ホラーマップ",
+      "新モード",
+      "限定スキン",
+      "イベントクエスト"
+    ],
+    "answer": "ホラーマップ",
+    "explanation": "2026年6月のニュースによると、『だぁれかさんとアソぼ？』はFortniteのホラーマップとして配信決定しました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "『鬼武者 Way of the Sword』の発売日9月4日は何曜日ですか？",
+    "choices": [
+      "金曜日",
+      "月曜日",
+      "水曜日",
+      "土曜日"
+    ],
+    "answer": "金曜日",
+    "explanation": "2026年6月のニュースによると、『鬼武者 Way of the Sword』は9月4日（金）に発売されます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "『ペルソナ5X』のVer.4.4アップデートの最新情報は、どのような形式で公開されましたか？",
+    "choices": [
+      "まとめ記事",
+      "公式生放送",
+      "開発者ブログ",
+      "パッチノート"
+    ],
+    "answer": "まとめ記事",
+    "explanation": "2026年6月のニュースによると、『ペルソナ5X』のVer.4.4アップデートの最新情報がまとめ記事として公開されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "ONE PIECEカードゲームの最新情報が解禁されたのは、具体的にどのようなイベントでしたか？",
+    "choices": [
+      "ネクストプラン発表会",
+      "世界大会決勝",
+      "新弾発売記念イベント",
+      "ファン感謝祭"
+    ],
+    "answer": "ネクストプラン発表会",
+    "explanation": "2026年6月のニュースによると、「BANDAI CARD GAMES ネクストプラン発表会2026.06」にて最新情報が解禁されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "ゲーム『進撃の巨人３』は、「進撃の巨人」の物語をどのように描くことを目指していますか？",
+    "choices": [
+      "最初から最後まで",
+      "アニメの最終シーズンのみ",
+      "原作漫画の重要シーンのみ",
+      "ゲームオリジナルの展開"
+    ],
+    "answer": "最初から最後まで",
+    "explanation": "2026年6月のニュースによると、ゲーム『進撃の巨人３』は「進撃の巨人」の物語を最初から最後まで描く集大成とされています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "モバイルゲームアワード2026の投票が開始されたと報じたメディア「Mobile Goddess」は、主にどのような情報を扱うメディアですか？",
+    "choices": [
+      "モバイルゲーム",
+      "コンシューマーゲーム",
+      "PCゲーム",
+      "eスポーツ"
+    ],
+    "answer": "モバイルゲーム",
+    "explanation": "2026年6月のニュースによると、モバイルゲームアワード2026の投票開始をMobile Goddessが報じています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "『チェンソーマン 刺客篇』の最新PVが解禁され、同時に発表されたゲーム化の形態は何ですか？",
+    "choices": [
+      "スマートフォンゲーム",
+      "コンシューマーゲーム",
+      "PCゲーム",
+      "アーケードゲーム"
+    ],
+    "answer": "スマートフォンゲーム",
+    "explanation": "2026年6月のニュースによると、『チェンソーマン 刺客篇』のスマートフォンゲーム化が決定しました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "本格ジョッキーゲーム『Full Stride』でプレイヤーが体感できる要素として挙げられているのは何ですか？",
+    "choices": [
+      "レースの駆け引き",
+      "馬の育成",
+      "騎手のキャリア形成",
+      "競馬場の運営"
+    ],
+    "answer": "レースの駆け引き",
+    "explanation": "2026年7月のニュースによると、『Full Stride』ではジョッキー視点でレースの駆け引きを体感できるとされています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "『スプラトゥーンレイダース』の発売日と最新情報について、情報がまとめられているメディアは何ですか？",
+    "choices": [
+      "GameWith",
+      "ファミ通.com",
+      "任天堂公式サイト",
       "電撃オンライン"
     ],
     "answer": "GameWith",
-    "explanation": "2026年6月のニュースによると、「【ペルソナ5X】Ver.4.4のアップデートの最新情報まとめ【P5X】 - GameWith」として報じられました。"
+    "explanation": "2026年6月のニュースによると、GameWithが『スプラトゥーンレイダース』の発売日と最新情報をまとめています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 4,
-    "question": "Aimerの『SAO』家庭用ゲーム最新作主題歌「Live to Survive」のリリース情報が報じられたメディアの一つはどこですか？",
+    "question": "『ペルソナ5X』のVer.4.4アップデートの最新情報がまとめられた記事は、主に何の情報を扱っていますか？",
+    "choices": [
+      "アップデート情報",
+      "キャラクター情報",
+      "ストーリー情報",
+      "開発者インタビュー"
+    ],
+    "answer": "アップデート情報",
+    "explanation": "2026年6月のニュースによると、『ペルソナ5X』Ver.4.4のアップデートの最新情報がまとめられています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "『ペルソナ5X』のVer.4.4アップデートの最新情報をまとめた記事のURLの一部に含まれる略称は何ですか？",
+    "choices": [
+      "P5X",
+      "P5",
+      "P5R",
+      "P5S"
+    ],
+    "answer": "P5X",
+    "explanation": "2026年6月のニュースによると、記事タイトルは「【ペルソナ5X】Ver.4.4のアップデートの最新情報まとめ【P5X】」でした。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "『ペルソナ5X』のVer.4.4アップデートの最新情報をまとめた記事の公開元は何ですか？",
     "choices": [
       "GameWith",
-      "ファミ通",
-      "CDJournal",
+      "ファミ通.com",
+      "電撃オンライン",
       "4Gamer.net"
     ],
-    "answer": "CDJournal",
-    "explanation": "2026年6月のニュースによると、Aimerの『SAO』家庭用ゲーム最新作主題歌「Live to Survive」のリリース情報は「CDJournal - Yahoo!ニュース」で報じられました。"
+    "answer": "GameWith",
+    "explanation": "2026年6月のニュースによると、GameWithが『ペルソナ5X』Ver.4.4のアップデートの最新情報をまとめています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 4,
-    "question": "Aimerの「Live to Survive」が主題歌となる『SAO』家庭用ゲーム最新作は、どのようなメディアでその情報が報じられましたか？",
+    "question": "『ペルソナ5X』で最近行われたアップデートのバージョンは何ですか？",
     "choices": [
-      "テレビニュース",
-      "専門誌のみ",
-      "CDJournalや音楽ナタリーなどの音楽メディア",
-      "新聞のゲーム欄"
+      "Ver.4.4",
+      "Ver.3.0",
+      "Ver.5.1",
+      "Ver.6.0"
     ],
-    "answer": "CDJournalや音楽ナタリーなどの音楽メディア",
-    "explanation": "2026年6月のニュースによると、Aimerの『SAO』家庭用ゲーム最新作主題歌に関する情報は「CDJournal - Yahoo!ニュース」や「音楽ナタリー - Yahoo!ニュース」、「THE FIRST TIMES - Yahoo!ニュース」といった音楽系メディアで報じられました。"
+    "answer": "Ver.4.4",
+    "explanation": "2026年6月のニュースによると、『ペルソナ5X』はVer.4.4のアップデートが行われました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "Fortniteのホラーマップ『だぁれかさんとアソぼ？』のゲーム体験動画で絶叫を上げた人物は誰ですか？",
+    "choices": [
+      "小國舞羽",
+      "大塚愛",
+      "中島美嘉",
+      "広瀬すず"
+    ],
+    "answer": "小國舞羽",
+    "explanation": "2026年6月のニュースによると、『だぁれかさんとアソぼ？』のゲーム体験動画で小國舞羽が絶叫したと報じられています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 5,
-    "question": "Aimerが主題歌を担当した「ソードアート・オンライン Echoes of Aincrad」のタイトルは、どのメディアで特に強調されて報じられましたか？",
+    "question": "Aimerが『SAO』ゲーム最新作の主題歌を担当したというニュースを報じた「音楽ナタリー」は、主にどのようなジャンルの情報を扱うメディアですか？",
     "choices": [
-      "CDJournal",
-      "音楽ナタリー",
-      "エンタメ特化型情報メディア スパイス",
-      "THE FIRST TIMES"
+      "音楽",
+      "ゲーム",
+      "アニメ",
+      "映画"
     ],
-    "answer": "エンタメ特化型情報メディア スパイス",
-    "explanation": "2026年6月のニュースによると、「エンタメ特化型情報メディア スパイス」は「Aimer、『SAO』家庭用ゲーム最新作『Echoes of Aincrad』主題歌「Live to Survive」デジタルリリース！」と報じ、タイトルを強調していました。"
+    "answer": "音楽",
+    "explanation": "2026年6月のニュースによると、音楽ナタリーがAimerの『SAO』ゲーム最新作主題歌担当を報じています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 5,
-    "question": "「スプラトゥーンレイダース」に関する情報が「まとめ」として提供されたのは、このゲームがどのような段階にあることを示唆していますか？",
+    "question": "Fortniteのホラーマップ『だぁれかさんとアソぼ？』のゲーム体験動画は、どのメディアで公開されたと報じられていますか？",
     "choices": [
-      "開発初期段階",
-      "正式発表済みで情報が散在している段階",
-      "未発表のリーク情報",
-      "サービス終了間近"
+      "cinema-factory.jp",
+      "youtube.com",
+      "nicovideo.jp",
+      "twitch.tv"
     ],
-    "answer": "正式発表済みで情報が散在している段階",
-    "explanation": "2026年6月のニュースによると、「スプラトゥーンレイダースの発売日と最新情報まとめ」という記述は、既に情報が公開されており、それを集約する必要がある段階であることを示唆しています。"
+    "answer": "cinema-factory.jp",
+    "explanation": "2026年6月のニュースによると、cinema-factory.jpで『だぁれかさんとアソぼ？』のゲーム体験動画が公開されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 5,
-    "question": "『Full Stride』の発売日である2026年7月16日は、ニュースが報じられた時点から見てどのような期間に設定されていますか？",
+    "question": "『鬼武者 Way of the Sword』の発売日が当初予定より3週間早まったというニュースを報じたメディアは何ですか？",
     "choices": [
-      "すでに発売済み",
-      "遠い将来",
-      "間もなく発売",
-      "未定"
+      "AppMedia",
+      "ファミ通.com",
+      "電撃オンライン",
+      "4Gamer.net"
     ],
-    "answer": "間もなく発売",
-    "explanation": "2026年6月のニュースによると、『Full Stride』の発売日が2026年7月16日と決定されており、これはニュースが報じられた時点（6月頃）から見て間もなく発売されることを意味します。"
+    "answer": "AppMedia",
+    "explanation": "2026年6月のニュースによると、AppMediaが『鬼武者 Way of the Sword』の発売日変更を報じています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 5,
-    "question": "「モバイルゲームアワード2026」の投票開始は、このイベントがどのような形式で進行していることを示していますか？",
+    "question": "『ペルソナ5X』のVer.4.4アップデートの最新情報をまとめた記事のタイトルは、どのような形式でしたか？",
     "choices": [
-      "専門家審査のみ",
-      "一般ユーザー参加型",
-      "招待制イベント",
-      "クローズドテスト"
+      "【ペルソナ5X】Ver.4.4のアップデートの最新情報まとめ【P5X】",
+      "『ペルソナ5X』大型アップデート！Ver.4.4詳細",
+      "P5X最新パッチノート：Ver.4.4のすべて",
+      "ペルソナ5X：新機能と改善点Ver.4.4"
     ],
-    "answer": "一般ユーザー参加型",
-    "explanation": "2026年6月のニュースによると、「モバイルゲームアワード2026の投票が開始」されたことは、一般ユーザーがアワードの選考に参加できることを示しています。"
+    "answer": "【ペルソナ5X】Ver.4.4のアップデートの最新情報まとめ【P5X】",
+    "explanation": "2026年6月のニュースによると、GameWithの記事タイトルは「【ペルソナ5X】Ver.4.4のアップデートの最新情報まとめ【P5X】」でした。"
   },
   {
     "category": "ゲーム",
     "difficulty": 5,
-    "question": "『進撃の巨人３』が「物語を最初から最後まで描く集大成」とされたことは、このゲームがシリーズにおいてどのような位置づけであると期待されますか？",
+    "question": "「BANDAI CARD GAMES ネクストプラン発表会2026.06」でONE PIECEカードゲームの最新情報が解禁されたと報じた公式サイトは何ですか？",
     "choices": [
-      "スピンオフ作品",
-      "前日譚",
-      "最終章または完結編",
-      "外伝"
+      "ONE PIECE.com",
+      "bandai-card.com",
+      "shueisha.co.jp",
+      "toei-anim.co.jp"
     ],
-    "answer": "最終章または完結編",
-    "explanation": "2026年6月のニュースによると、『進撃の巨人３』が「物語を最初から最後まで描く集大成」であると発表されたことは、このゲームがシリーズの物語を締めくくる最終章または完結編として期待されることを示唆しています。"
+    "answer": "ONE PIECE.com",
+    "explanation": "2026年6月のニュースによると、ONE PIECE.comが「BANDAI CARD GAMES ネクストプラン発表会2026.06」での最新情報解禁を報じています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 5,
-    "question": "State of Play June 2, 2026で発表された『エースコンバット8』は、その発売日決定がどの程度の詳細さで報じられましたか？",
+    "question": "ゲーム『進撃の巨人３』は、「進撃の巨人」の物語をどのように描くことを目的とした「集大成」ゲームですか？",
     "choices": [
-      "具体的な日付と時間",
-      "年のみ",
-      "発売日決定とだけ",
-      "季節のみ"
+      "最初から最後まで",
+      "最終決戦のみ",
+      "主要キャラクターの視点から",
+      "アニメ未放送部分"
     ],
-    "answer": "発売日決定とだけ",
-    "explanation": "2026年6月のニュースによると、State of Play June 2, 2026では「『エースコンバット8』発売日決定」と報じられ、具体的な日付までは記載されていません。"
+    "answer": "最初から最後まで",
+    "explanation": "2026年6月のニュースによると、ゲーム『進撃の巨人３』は「進撃の巨人」の物語を最初から最後まで描く集大成とされています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 5,
-    "question": "『真・三國無双2』に紫鸞が参戦するという発表は、このゲームがどのようなジャンルの作品であることを示唆していますか？",
+    "question": "モバイルゲームアワード2026の投票開始を報じた「Mobile Goddess」は、どのようなタイトルでニュースを公開しましたか？",
     "choices": [
-      "ターン制RPG",
-      "リアルタイムストラテジー",
-      "一騎当千アクション",
-      "格闘ゲーム"
+      "モバイルゲームアワード2026の投票が開始",
+      "モバイルゲームアワード2026：今すぐ投票！",
+      "投票開始！モバイルゲームアワード2026",
+      "2026年のモバイルゲームアワード、投票受付中"
     ],
-    "answer": "一騎当千アクション",
-    "explanation": "2026年6月のニュースによると、『真・三國無双2』というタイトルとキャラクター参戦の発表は、『真・三國無双』シリーズが持つ一騎当千アクションのジャンルであることを示唆しています。"
+    "answer": "モバイルゲームアワード2026の投票が開始",
+    "explanation": "2026年6月のニュースによると、「モバイルゲームアワード2026の投票が開始」というタイトルでニュースが報じられました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 5,
-    "question": "『鬼武者』の完全新作において、プレイヤーが最初に体験できる機会として提供されたのは何でしたか？",
+    "question": "『チェンソーマン 刺客篇』のスマートフォンゲーム化決定のニュースを報じたメディアは何ですか？",
     "choices": [
-      "製品版",
-      "クローズドベータ",
-      "体験版",
-      "デモプレイ動画"
+      "cinema-factory.jp",
+      "ファミ通.com",
+      "アニメイトタイムズ",
+      "コミックナタリー"
     ],
-    "answer": "体験版",
-    "explanation": "2026年6月のニュースによると、State of Play June 2, 2026で完全新作『鬼武者』の「体験版配信」が発表されました。"
+    "answer": "cinema-factory.jp",
+    "explanation": "2026年6月のニュースによると、cinema-factory.jpが『チェンソーマン 刺客篇』のスマートフォンゲーム化決定を報じています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 5,
-    "question": "「ペルソナ5X」のVer.4.4アップデートに関する「最新情報まとめ」は、主にどのような目的で公開されましたか？",
+    "question": "本格ジョッキーゲーム『Full Stride』は、どのような内容を「体感」できると説明されていますか？",
     "choices": [
-      "新規プレイヤーの獲得",
-      "ゲームの不具合報告",
-      "既存プレイヤーへの情報提供",
-      "次回作の告知"
+      "レースの駆け引き",
+      "馬の調教",
+      "騎手の育成",
+      "牧場経営"
     ],
-    "answer": "既存プレイヤーへの情報提供",
-    "explanation": "2026年6月のニュースによると、「ペルソナ5X」のVer.4.4アップデートの「最新情報まとめ」は、ゲームの継続的な更新内容を既存プレイヤーに提供することが主な目的と考えられます。"
+    "answer": "レースの駆け引き",
+    "explanation": "2026年7月のニュースによると、『Full Stride』はジョッキー視点でレースの駆け引きを体感できるとされています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 5,
-    "question": "「BanG Dream! Our Notes」でAve Mujicaの「残酷な天使のテーゼ」が実装されるというニュースは、主にどの情報源で報じられましたか？",
+    "question": "ニンテンドースイッチ2の本体情報まとめ記事のタイトルは、どのような形式でしたか？",
     "choices": [
-      "アニメ公式サイト",
-      "Yahoo!ニュース",
-      "音楽専門誌",
-      "ゲーム開発者ブログ"
+      "【Switch2】ニンテンドースイッチ2の本体情報まとめ",
+      "ニンテンドースイッチ2：本体スペック完全解説",
+      "Switch2のすべて：本体情報と機能",
+      "次世代Switch：最新本体情報"
     ],
-    "answer": "Yahoo!ニュース",
-    "explanation": "2026年6月のニュースによると、「ゲーム「BanG Dream! Our Notes」最新情報が明らかに Ave Mujica「残酷な天使のテーゼ」など実装楽曲も発表 - Yahoo!ニュース」として報じられました。"
+    "answer": "【Switch2】ニンテンドースイッチ2の本体情報まとめ",
+    "explanation": "2026年6月のニュースによると、GameWithの記事タイトルは「【Switch2】ニンテンドースイッチ2の本体情報まとめ」でした。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "ONE PIECEカードゲームの最新情報が解禁された「BANDAI CARD GAMES ネクストプラン発表会」の開催年はいつですか？",
+    "choices": [
+      "2026年",
+      "2025年",
+      "2024年",
+      "2023年"
+    ],
+    "answer": "2026年",
+    "explanation": "2026年6月のニュースによると、「BANDAI CARD GAMES ネクストプラン発表会2026.06」にて最新情報が解禁されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "ONE PIECEカードゲームの最新情報が解禁されたイベントの正式名称は何ですか？",
+    "choices": [
+      "BANDAI CARD GAMES ネクストプラン発表会2026.06",
+      "ONE PIECEカードゲームフェスタ",
+      "バンダイカードゲームズ大感謝祭",
+      "新ONE PIECEカードゲーム発表会"
+    ],
+    "answer": "BANDAI CARD GAMES ネクストプラン発表会2026.06",
+    "explanation": "2026年6月のニュースによると、「BANDAI CARD GAMES ネクストプラン発表会2026.06」にてONE PIECEカードゲームの最新情報が解禁されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "「BANDAI CARD GAMES ネクストプラン発表会2026.06」で最新情報が解禁されたカードゲームは何ですか？",
+    "choices": [
+      "ONE PIECEカードゲーム",
+      "ドラゴンボールスーパーカードゲーム",
+      "呪術廻戦カードゲーム",
+      "ガンダムウォー"
+    ],
+    "answer": "ONE PIECEカードゲーム",
+    "explanation": "2026年6月のニュースによると、「BANDAI CARD GAMES ネクストプラン発表会2026.06」にてONE PIECEカードゲームの最新情報が解禁されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "「BANDAI CARD GAMES ネクストプラン発表会2026.06」で最新情報が解禁されたカードゲームは何ですか？",
+    "choices": [
+      "ONE PIECEカードゲーム",
+      "ドラゴンボールスーパーカードゲーム",
+      "呪術廻戦カードゲーム",
+      "ガンダムウォー"
+    ],
+    "answer": "ONE PIECEカードゲーム",
+    "explanation": "2026年6月のニュースによると、「BANDAI CARD GAMES ネクストプラン発表会2026.06」にてONE PIECEカードゲームの最新情報が解禁されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "カプコンの新作『鬼武者 Way of the Sword』は、どのようなジャンルのゲームとして紹介されていますか？",
+    "choices": [
+      "剣戟アクションゲーム",
+      "RPG",
+      "アドベンチャーゲーム",
+      "シミュレーションゲーム"
+    ],
+    "answer": "剣戟アクションゲーム",
+    "explanation": "2026年6月のニュースによると、『鬼武者 Way of the Sword』はカプコンの剣戟アクションゲーム最新作です。"
   },
   {
     "category": "ゲーム",
     "difficulty": 6,
-    "question": "Aimerが「ソードアート・オンライン Echoes of Aincrad」の主題歌「Live to Survive」をデジタルリリースしたことは、この楽曲がどのような形式で最初にリスナーに届けられることを意味しますか？",
+    "question": "Aimerが『SAO Echoes of Aincrad』の主題歌「Live to Survive」をリリースしたことを報じた「エンタメ特化型情報メディア スパイス」は、どのようなコンテンツのリリースも決定したと報じていますか？",
     "choices": [
-      "CDパッケージとして物理的に",
-      "ストリーミングサービスやダウンロード販売を通じて",
-      "ライブイベント限定で",
-      "テレビでのみ"
+      "Lyric Video",
+      "メイキング映像",
+      "インタビュー映像",
+      "ライブ映像"
     ],
-    "answer": "ストリーミングサービスやダウンロード販売を通じて",
-    "explanation": "2026年6月のニュースによると、Aimerの主題歌が「デジタルリリース」されたことは、ストリーミングサービスやダウンロード販売を通じて、インターネット経由でリスナーに届けられることを意味します。"
+    "answer": "Lyric Video",
+    "explanation": "2026年6月のニュースによると、エンタメ特化型情報メディア スパイスはAimerの『SAO Echoes of Aincrad』主題歌「Live to Survive」のデジタルリリースとLyric Videoの公開決定を報じています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 6,
-    "question": "「スプラトゥーンレイダース」の「発売日と最新情報まとめ」という報道は、このゲームが既に公に発表されていることを前提としていますか、それとも初公開の情報ですか？",
+    "question": "小國舞羽が絶叫したとされるFortniteのホラーマップ『だぁれかさんとアソぼ？』のゲーム体験動画は、どこで公開されたと報じられていますか？",
     "choices": [
-      "初公開の情報である",
-      "公に発表されている情報をまとめたもの",
-      "リーク情報である",
-      "開発中止の報告である"
+      "cinema-factory.jp",
+      "YouTube",
+      "ニコニコ動画",
+      "Twitch"
     ],
-    "answer": "公に発表されている情報をまとめたもの",
-    "explanation": "2026年6月のニュースによると、「発売日と最新情報まとめ」という表現は、既に公に発表されている情報が散在しており、それを集約して提供していることを前提としています。"
+    "answer": "cinema-factory.jp",
+    "explanation": "2026年6月のニュースによると、cinema-factory.jpで小國舞羽が絶叫する『だぁれかさんとアソぼ？』のゲーム体験動画が公開されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 6,
-    "question": "『Full Stride』が「本格ジョッキーゲーム」と称され「ジョッキー視点でレースの駆け引きを体感」できると紹介されたことは、プレイヤーにどのような体験を期待させますか？",
+    "question": "『鬼武者 Way of the Sword』の発売日が3週間早まったことにより、当初の予定日は現在の発売日より何週間後だったと考えられますか？",
     "choices": [
-      "競走馬の育成",
-      "馬主としての経営戦略",
-      "レース中の臨場感と戦略性",
-      "競馬場の運営"
+      "3週間後",
+      "1週間後",
+      "2週間後",
+      "4週間後"
     ],
-    "answer": "レース中の臨場感と戦略性",
-    "explanation": "2026年6月のニュースによると、『Full Stride』が「本格ジョッキーゲーム」として「ジョッキー視点でレースの駆け引きを体感」できると紹介されたことは、プレイヤーがレース中の臨場感や戦略的な判断を直接体験できることを期待させます。"
+    "answer": "3週間後",
+    "explanation": "2026年6月のニュースによると、『鬼武者 Way of the Sword』は当初予定よりも3週間早まりました。これは、現在の発売日が当初予定より3週間早いことを意味します。"
   },
   {
     "category": "ゲーム",
     "difficulty": 6,
-    "question": "「モバイルゲームアワード2026の投票が開始」というニュースは、アワードの最終結果発表がいつ頃になることを示唆していますか？",
+    "question": "『ペルソナ5X』のVer.4.4アップデートの最新情報をまとめたGameWithの記事タイトルに含まれる略称は何ですか？",
     "choices": [
-      "投票開始と同時",
-      "数週間以内",
-      "数ヶ月後",
-      "翌年"
+      "P5X",
+      "P5R",
+      "P5S",
+      "P5G"
     ],
-    "answer": "数ヶ月後",
-    "explanation": "2026年6月のニュースによると、「モバイルゲームアワード2026の投票が開始」されたことは、投票期間を経て集計が行われるため、最終結果発表は数ヶ月後になることを示唆しています。"
+    "answer": "P5X",
+    "explanation": "2026年6月のニュースによると、GameWithの記事タイトルは「【ペルソナ5X】Ver.4.4のアップデートの最新情報まとめ【P5X】」でした。"
   },
   {
     "category": "ゲーム",
     "difficulty": 6,
-    "question": "『進撃の巨人３』が「物語を最初から最後まで描く集大成」と発表されたことは、このゲームがシリーズの完結編として位置づけられる可能性を示唆していますか？",
+    "question": "「BANDAI CARD GAMES ネクストプラン発表会2026.06」でONE PIECEカードゲームの最新情報が解禁されたと報じたONE PIECE.comは、どのようなウェブサイトですか？",
     "choices": [
-      "可能性は低い",
-      "完結編である可能性が高い",
-      "単なるスピンオフ",
-      "新たな物語の始まり"
+      "ONE PIECEの公式サイト",
+      "カードゲーム専門サイト",
+      "ニュースポータルサイト",
+      "アニメ情報サイト"
     ],
-    "answer": "完結編である可能性が高い",
-    "explanation": "2026年6月のニュースによると、『進撃の巨人３』が「物語を最初から最後まで描く集大成」と発表されたことは、原作の物語を完結させる役割を担う、シリーズの完結編である可能性が高いことを示唆しています。"
+    "answer": "ONE PIECEの公式サイト",
+    "explanation": "2026年6月のニュースによると、ONE PIECE.com（ONE PIECEカードゲーム 最新情報）が発表会の情報を解禁しました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 6,
-    "question": "State of Play June 2, 2026で『エースコンバット8』の発売日決定が報じられた際、その発売日は具体的にいつと発表されましたか？",
+    "question": "ゲーム『進撃の巨人３』が「進撃の巨人」の物語を最初から最後まで描くとされていることから、このゲームはどのような位置づけであると言えますか？",
     "choices": [
-      "2026年12月25日",
-      "2027年春",
-      "具体的な日付は発表されていない",
-      "2026年夏"
+      "集大成",
+      "序章",
+      "外伝",
+      "スピンオフ"
     ],
-    "answer": "具体的な日付は発表されていない",
-    "explanation": "2026年6月のニュースによると、State of Play June 2, 2026で「『エースコンバット8』発売日決定」と報じられましたが、具体的な発売日については記載されていません。"
+    "answer": "集大成",
+    "explanation": "2026年6月のニュースによると、ゲーム『進撃の巨人３』は「進撃の巨人」の物語を最初から最後まで描く集大成ゲームとされています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 6,
-    "question": "『真・三國無双2』に紫鸞が参戦するというニュースは、このゲームが前作からどのような点で進化していることを示唆していますか？",
+    "question": "モバイルゲームアワード2026の投票が開始されたことを報じた「Mobile Goddess」は、このアワードの対象が何であると示唆していますか？",
     "choices": [
-      "グラフィックの大幅な向上",
-      "新しいゲームモードの追加",
-      "新キャラクターの導入によるコンテンツの拡充",
-      "オンライン対戦機能の強化"
-    ],
-    "answer": "新キャラクターの導入によるコンテンツの拡充",
-    "explanation": "2026年6月のニュースによると、『真・三國無双2』に紫鸞が参戦するという発表は、新キャラクターの導入によってゲームのプレイアブルキャラクターやストーリー、コンテンツが拡充されることを示唆しています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "『鬼武者』の完全新作が「体験版配信」という形で発表されたことは、開発のどの段階にあることを示唆していますか？",
-    "choices": [
-      "企画段階",
-      "初期開発段階",
-      "最終調整段階",
-      "完成間近でユーザーフィードバックを求めている段階"
-    ],
-    "answer": "完成間近でユーザーフィードバックを求めている段階",
-    "explanation": "2026年6月のニュースによると、完全新作『鬼武者』の「体験版配信」が発表されたことは、ゲームがほぼ完成しており、製品版に向けての最終調整やユーザーからの反応を得る段階にあることを示唆しています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "「ペルソナ5X」のVer.4.4アップデートの「最新情報まとめ」は、このゲームがどのようなプラットフォームで提供されていることを示唆していますか？",
-    "choices": [
-      "PCゲーム専用",
-      "家庭用ゲーム機専用",
       "モバイルゲーム",
-      "VRゲーム"
+      "全てのゲーム",
+      "インディーゲーム",
+      "家庭用ゲーム"
     ],
     "answer": "モバイルゲーム",
-    "explanation": "2026年6月のニュースによると、GameWithによる「【ペルソナ5X】Ver.4.4のアップデートの最新情報まとめ【P5X】」という表記は、『P5X』がモバイルゲームであることを示唆しています。"
+    "explanation": "2026年6月のニュースによると、モバイルゲームアワード2026の投票が開始されました。Mobile Goddessというメディア名もモバイルゲームに特化していることを示唆しています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 6,
-    "question": "「BanG Dream! Our Notes」でAve Mujicaの「残酷な天使のテーゼ」が実装されたことは、このゲームがどのようなコンテンツ展開を重視していることを示唆していますか？",
+    "question": "『チェンソーマン 刺客篇』のスマートフォンゲーム化が決定したと報じた「cinema-factory.jp」は、どのようなコンテンツを扱うメディアですか？",
     "choices": [
-      "オリジナル楽曲のみ",
-      "アニメとの連動",
-      "有名楽曲のカバー",
-      "ストーリーの多様性"
+      "映画・エンタメ",
+      "ゲーム専門",
+      "アニメ専門",
+      "漫画専門"
     ],
-    "answer": "有名楽曲のカバー",
-    "explanation": "2026年6月のニュースによると、「BanG Dream! Our Notes」でAve Mujicaが「残酷な天使のテーゼ」を実装したことは、有名楽曲のカバーを取り入れることで、幅広いユーザー層にアピールするコンテンツ展開を重視していることを示唆しています。"
+    "answer": "映画・エンタメ",
+    "explanation": "2026年6月のニュースによると、cinema-factory.jpが『チェンソーマン 刺客篇』の最新PV解禁とスマートフォンゲーム化を報じています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "本格ジョッキーゲーム『Full Stride』の発売決定を報じたYahoo!ニュースは、このゲームがどのようなゲームであると強調していますか？",
+    "choices": [
+      "本格ジョッキーゲーム",
+      "競馬シミュレーション",
+      "競走馬育成ゲーム",
+      "スポーツアクションゲーム"
+    ],
+    "answer": "本格ジョッキーゲーム",
+    "explanation": "2026年7月のニュースによると、Yahoo!ニュースは「競馬ファン待望の本格ジョッキーゲーム『Full Stride』」と報じています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "『スプラトゥーンレイダース』の発売日と最新情報がまとめられた記事のタイトルは、どのような形式でしたか？",
+    "choices": [
+      "スプラトゥーンレイダースの発売日と最新情報まとめ",
+      "『スプラトゥーンレイダース』完全攻略ガイド",
+      "スプラトゥーンレイダース：新要素と変更点",
+      "最新速報！スプラトゥーンレイダース"
+    ],
+    "answer": "スプラトゥーンレイダースの発売日と最新情報まとめ",
+    "explanation": "2026年6月のニュースによると、GameWithの記事タイトルは「スプラトゥーンレイダースの発売日と最新情報まとめ」でした。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "ゲーム『進撃の巨人３』は、「進撃の巨人」の物語の何を最初から最後まで描くとされていますか？",
+    "choices": [
+      "物語",
+      "キャラクター",
+      "世界観",
+      "歴史"
+    ],
+    "answer": "物語",
+    "explanation": "2026年6月のニュースによると、ゲーム『進撃の巨人３』は「進撃の巨人」の物語を最初から最後まで描く集大成ゲームとされています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "ゲーム『進撃の巨人３』が「進撃の巨人」の物語を最初から最後まで描く集大成ゲームとして発売決定したと報じたウェブサイトのドメインは何ですか？",
+    "choices": [
+      "gamecity.ne.jp",
+      "shingeki.net",
+      "kodansha.co.jp",
+      "anime-titan.jp"
+    ],
+    "answer": "gamecity.ne.jp",
+    "explanation": "2026年6月のニュースによると、gamecity.ne.jpがゲーム『進撃の巨人３』の発売決定を報じています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "「進撃の巨人」の物語を最初から最後まで描く集大成ゲームのタイトルは何ですか？",
+    "choices": [
+      "進撃の巨人３",
+      "進撃の巨人 -最終章-",
+      "進撃の巨人 -完全版-",
+      "進撃の巨人 -エレンの旅路-"
+    ],
+    "answer": "進撃の巨人３",
+    "explanation": "2026年6月のニュースによると、ゲーム『進撃の巨人３』が発売決定し、物語を最初から最後まで描くとされています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "「進撃の巨人」の物語を最初から最後まで描く集大成ゲームのタイトルは何ですか？",
+    "choices": [
+      "進撃の巨人３",
+      "進撃の巨人 -最終章-",
+      "進撃の巨人 -完全版-",
+      "進撃の巨人 -エレンの旅路-"
+    ],
+    "answer": "進撃の巨人３",
+    "explanation": "2026年6月のニュースによると、ゲーム『進撃の巨人３』が発売決定し、物語を最初から最後まで描くとされています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "『ペルソナ5X』のVer.4.4アップデートの最新情報をまとめたメディアは何ですか？",
+    "choices": [
+      "GameWith",
+      "ファミ通.com",
+      "電撃オンライン",
+      "4Gamer.net"
+    ],
+    "answer": "GameWith",
+    "explanation": "2026年6月のニュースによると、GameWithが『ペルソナ5X』Ver.4.4のアップデートの最新情報をまとめています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 7,
-    "question": "Aimerの「Live to Survive」が「ソードアート・オンライン Echoes of Aincrad」の主題歌としてデジタルリリースされたニュースは、主にどのような種類のメディアで報じられましたか？",
+    "question": "Aimerが主題歌「Live to Survive」を担当する『SAO Echoes of Aincrad』について、この主題歌のデジタルリリースと同時に公開が決定したものは何ですか？",
     "choices": [
-      "経済誌",
-      "ファッション誌",
-      "音楽・エンタメ系メディア",
-      "スポーツ新聞"
+      "リリックビデオ",
+      "ミュージックビデオ",
+      "アルバム情報",
+      "ゲームの体験版"
     ],
-    "answer": "音楽・エンタメ系メディア",
-    "explanation": "2026年6月のニュースによると、Aimerの主題歌に関する情報は「CDJournal」、「エンタメ特化型情報メディア スパイス」、「音楽ナタリー」、「THE FIRST TIMES」といった音楽・エンタメ系メディアで報じられました。"
+    "answer": "リリックビデオ",
+    "explanation": "2026年6月のニュースによると、Aimerの『SAO Echoes of Aincrad』主題歌「Live to Survive」デジタルリリースと同時にリリックビデオの公開も決定しました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 7,
-    "question": "「スプラトゥーンレイダース」の「発売日と最新情報まとめ」という見出しは、このゲームが既に一定の認知度を持っていることを示唆していますか？",
+    "question": "小國舞羽が絶叫したとされるFortniteのホラーマップ『だぁれかさんとアソぼ？』は、具体的にどのようなコンテンツとして配信されると報じられていますか？",
     "choices": [
-      "全くの新作で認知度は低い",
-      "既存シリーズのスピンオフで認知度が高い",
-      "開発者の間でのみ知られている",
-      "発表されたばかりでこれから認知度を高める"
+      "Fortniteのホラーマップ",
+      "Fortniteのミニゲーム",
+      "Fortniteの有料DLC",
+      "Fortniteの期間限定イベント"
     ],
-    "answer": "既存シリーズのスピンオフで認知度が高い",
-    "explanation": "2026年6月のニュースによると、「スプラトゥーンレイダース」というタイトルが『スプラトゥーン』シリーズを想起させ、「まとめ」が作られるほど情報が公開されていることから、既存シリーズのスピンオフとして一定の認知度を持っていることを示唆しています。"
+    "answer": "Fortniteのホラーマップ",
+    "explanation": "2026年6月のニュースによると、『だぁれかさんとアソぼ？』はFortniteのホラーマップとして配信決定しました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 7,
-    "question": "『Full Stride』の「本格ジョッキーゲーム」としての紹介で、「競馬のおはなし」が公開したのは何でしたか？",
+    "question": "カプコンの剣戟アクションゲーム最新作『鬼武者 Way of the Sword』の発売日変更は、当初の予定から何週間早まりましたか？",
     "choices": [
-      "開発者インタビュー",
-      "最新プレイ映像",
-      "ゲームのコンセプトアート",
-      "楽曲情報"
+      "3週間",
+      "1週間",
+      "2週間",
+      "4週間"
     ],
-    "answer": "最新プレイ映像",
-    "explanation": "2026年6月のニュースによると、「競馬のおはなし」は「本格ジョッキーゲーム、最新プレイ映像」を公開しました。"
+    "answer": "3週間",
+    "explanation": "2026年6月のニュースによると、『鬼武者 Way of the Sword』は当初予定よりも3週間早まりました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 7,
-    "question": "「モバイルゲームアワード2026の投票が開始」というニュースは、このアワードが主にどのようなデバイスでプレイされるゲームを対象としていることを示唆していますか？",
+    "question": "『ペルソナ5X』のVer.4.4アップデートの最新情報まとめ記事の公開元は何ですか？",
     "choices": [
-      "PC",
-      "家庭用ゲーム機",
-      "スマートフォンやタブレット",
-      "VRヘッドセット"
+      "GameWith",
+      "アトラス公式サイト",
+      "ファミ通.com",
+      "電撃オンライン"
     ],
-    "answer": "スマートフォンやタブレット",
-    "explanation": "2026年6月のニュースによると、「モバイルゲームアワード」という名称から、主にスマートフォンやタブレットといったモバイルデバイスでプレイされるゲームが対象であることを示唆しています。"
+    "answer": "GameWith",
+    "explanation": "2026年6月のニュースによると、GameWithが『ペルソナ5X』Ver.4.4のアップデートの最新情報をまとめています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 7,
-    "question": "『進撃の巨人３』が「集大成」として発売決定したことは、このゲームが過去の「進撃の巨人」ゲームとは異なるどのような特徴を持つ可能性を示唆していますか？",
+    "question": "「BANDAI CARD GAMES ネクストプラン発表会2026.06」でONE PIECEカードゲームの最新情報が解禁されたと報じられているのは、どのウェブサイトのニュースですか？",
     "choices": [
-      "よりシンプルなゲームプレイ",
-      "物語の全容を包括する内容",
-      "特定のキャラクターに焦点を当てたもの",
-      "オンラインマルチプレイに特化"
+      "ONE PIECE.com",
+      "BANDAI CARD GAMES公式サイト",
+      "Yahoo!ニュース",
+      "アニメイトタイムズ"
     ],
-    "answer": "物語の全容を包括する内容",
-    "explanation": "2026年6月のニュースによると、『進撃の巨人３』が「物語を最初から最後まで描く集大成」であると発表されたことは、過去のゲームが一部の物語に焦点を当てていたのに対し、このゲームは物語の全容を包括する内容であることを示唆しています。"
+    "answer": "ONE PIECE.com",
+    "explanation": "2026年6月のニュースによると、ONE PIECE.comにて「BANDAI CARD GAMES ネクストプラン発表会2026.06」での最新情報解禁が報じられました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 7,
-    "question": "State of Play June 2, 2026で発表された『エースコンバット8』の発売日決定は、このゲームがどのような開発状況にあることを示唆していますか？",
+    "question": "ゲーム『進撃の巨人３』が「進撃の巨人」の物語を最初から最後まで描く「集大成」であると報じたメディアは何ですか？",
     "choices": [
-      "まだ開発初期段階",
-      "開発が順調に進み、リリースが視野に入っている",
-      "開発が難航している",
-      "キャンセルされた"
+      "gamecity.ne.jp",
+      "アニメ！アニメ！",
+      "コミックナタリー",
+      "IGN Japan"
     ],
-    "answer": "開発が順調に進み、リリースが視野に入っている",
-    "explanation": "2026年6月のニュースによると、State of Play June 2, 2026で「発売日決定」が発表されたことは、開発が順調に進捗し、具体的なリリーススケジュールが立てられる段階に入っていることを示唆しています。"
+    "answer": "gamecity.ne.jp",
+    "explanation": "2026年6月のニュースによると、gamecity.ne.jpがゲーム『進撃の巨人３』の発売決定を報じています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 7,
-    "question": "『真・三國無双2』に紫鸞が参戦するというニュースは、このキャラクターがシリーズにおいてどのような役割を果たす可能性があることを示唆していますか？",
+    "question": "「Chaos Cubed ゲームドロップ」という情報が掲載されているのは、どのゲームのニュースセクションですか？",
     "choices": [
-      "敵専用キャラクター",
-      "隠しキャラクター",
-      "主要なプレイアブルキャラクター",
-      "チュートリアル担当"
+      "Minecraft",
+      "Roblox",
+      "Valorant",
+      "Apex Legends"
     ],
-    "answer": "主要なプレイアブルキャラクター",
-    "explanation": "2026年6月のニュースによると、『真・三國無双2』に「紫鸞参戦」と発表されたことは、このキャラクターがゲーム内で操作可能な主要なプレイアブルキャラクターとして登場する可能性が高いことを示唆しています。"
+    "answer": "Minecraft",
+    "explanation": "2026年6月のニュースによると、「Chaos Cubed ゲームドロップ - Minecraft」として情報が掲載されています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 7,
-    "question": "『鬼武者』の完全新作の「体験版配信」という発表は、プレイヤーがこのゲームを体験する上でどのような障壁が低いことを示唆していますか？",
+    "question": "モバイルゲームアワード2026の投票開始を報じた「Mobile Goddess」の記事は、特にどの部分に焦点を当てていますか？",
     "choices": [
-      "価格が高い",
-      "ダウンロードが複雑",
-      "気軽に試せる",
-      "特定のハードウェアが必要"
+      "投票",
+      "受賞作品予想",
+      "ノミネート作品",
+      "審査基準"
     ],
-    "answer": "気軽に試せる",
-    "explanation": "2026年6月のニュースによると、完全新作『鬼武者』の「体験版配信」は、製品版を購入する前に無料でゲームの一部を試すことができ、プレイヤーが気軽にゲームを体験できることを示唆しています。"
+    "answer": "投票",
+    "explanation": "2026年6月のニュースによると、「モバイルゲームアワード2026の投票が開始」と報じられています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 7,
-    "question": "「ペルソナ5X」のVer.4.4アップデートに関する情報がGameWithで「まとめ」られたことは、このゲームがどのような顧客層をターゲットにしていることを示唆していますか？",
+    "question": "『チェンソーマン 刺客篇』のスマートフォンゲーム化決定のニュースは、どのメディアで「最新PV解禁！」という見出しと共に報じられましたか？",
     "choices": [
-      "ライトユーザー",
-      "コアゲーマー",
-      "新規参入者",
-      "特定のニッチ層"
+      "cinema-factory.jp",
+      "アニメイトタイムズ",
+      "ファミ通.com",
+      "コミックナタリー"
     ],
-    "answer": "コアゲーマー",
-    "explanation": "2026年6月のニュースによると、GameWithのようなゲーム情報サイトで詳細なアップデート情報が「まとめ」られることは、ゲームの継続的なプレイや詳細な情報を求めるコアゲーマー層をターゲットにしていることを示唆しています。"
+    "answer": "cinema-factory.jp",
+    "explanation": "2026年6月のニュースによると、cinema-factory.jpが『チェンソーマン 刺客篇』最新PV解禁とスマートフォンゲーム化決定を報じています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 7,
-    "question": "「BanG Dream! Our Notes」でAve Mujicaの「残酷な天使のテーゼ」が実装されたことは、このゲームがIP（知的財産）のどのような側面を活用していることを示唆していますか？",
+    "question": "本格ジョッキーゲーム『Full Stride』の発売決定を報じたYahoo!ニュースの記事は、このゲームの発売日をいつとしていますか？",
     "choices": [
-      "オリジナルキャラクターの強化",
-      "他のIPとの積極的なコラボレーション",
-      "ストーリーの深掘り",
-      "技術的な革新"
+      "7月16日",
+      "7月30日",
+      "8月1日",
+      "6月28日"
     ],
-    "answer": "他のIPとの積極的なコラボレーション",
-    "explanation": "2026年6月のニュースによると、「BanG Dream! Our Notes」がAve Mujicaによる「残酷な天使のテーゼ」を実装したことは、自社IPのキャラクターが他の有名IPの楽曲をカバーするという形で、積極的にコラボレーションを行っていることを示唆しています。"
+    "answer": "7月16日",
+    "explanation": "2026年7月のニュースによると、本格ジョッキーゲーム『Full Stride』は7月16日発売決定と報じられています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "「Chaos Cubed ゲームドロップ」は、どのゲームのニュースとして紹介されていますか？",
+    "choices": [
+      "Minecraft",
+      "Fortnite",
+      "Apex Legends",
+      "Roblox"
+    ],
+    "answer": "Minecraft",
+    "explanation": "2026年6月のニュースによると、「Chaos Cubed ゲームドロップ - Minecraft」として情報が掲載されています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "モバイルゲームアワード2026の投票が開始されたと報じたメディアの名称は何ですか？",
+    "choices": [
+      "Mobile Goddess",
+      "GameWith",
+      "AppMedia",
+      "エンタメ特化型情報メディア スパイス"
+    ],
+    "answer": "Mobile Goddess",
+    "explanation": "2026年6月のニュースによると、Mobile Goddessがモバイルゲームアワード2026の投票開始を報じています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "Minecraftに関連する「Chaos Cubed」は、どのような形で提供されると報じられていますか？",
+    "choices": [
+      "ゲームドロップ",
+      "公式DLC",
+      "ファンメイドMOD",
+      "スタンドアロンゲーム"
+    ],
+    "answer": "ゲームドロップ",
+    "explanation": "2026年6月のニュースによると、「Chaos Cubed」はMinecraftのゲームドロップとして言及されています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "Minecraftに関連する「Chaos Cubed」は、どのような情報として報じられていますか？",
+    "choices": [
+      "ゲームドロップ",
+      "公式DLC",
+      "ファンメイドMOD",
+      "スタンドアロンゲーム"
+    ],
+    "answer": "ゲームドロップ",
+    "explanation": "2026年6月のニュースによると、「Chaos Cubed」はMinecraftのゲームドロップとして言及されています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "ONE PIECEカードゲームの最新情報が解禁された「BANDAI CARD GAMES ネクストプラン発表会」は、何年の何月に開催されましたか？",
+    "choices": [
+      "2026年6月",
+      "2025年12月",
+      "2026年3月",
+      "2026年9月"
+    ],
+    "answer": "2026年6月",
+    "explanation": "2026年6月のニュースによると、「BANDAI CARD GAMES ネクストプラン発表会2026.06」にて最新情報が解禁されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 8,
-    "question": "Aimerが「ソードアート・オンライン」家庭用ゲーム最新作の主題歌を担当するというニュースは、主にAimerの活動とゲームのどちらの側面から報じられましたか？",
+    "question": "Aimerの『SAO Echoes of Aincrad』主題歌「Live to Survive」のリリックビデオが公開された時刻「20時」は、どのニュースサイトで具体的に言及されましたか？",
     "choices": [
-      "Aimerの音楽活動",
-      "ゲームのプロモーション",
-      "両方の側面が均等に",
-      "ゲームの技術的な側面"
+      "エンタメ特化型情報メディア スパイス",
+      "音楽ナタリー",
+      "THE FIRST TIMES",
+      "Yahoo!ニュース"
     ],
-    "answer": "両方の側面が均等に",
-    "explanation": "2026年6月のニュースによると、Aimerの主題歌担当は「Aimer、『SAO』家庭用ゲーム最新作主題歌をデジタル・リリース」といった形で、Aimerの音楽活動とゲームのプロモーションの両側面から報じられました。"
+    "answer": "エンタメ特化型情報メディア スパイス",
+    "explanation": "2026年6月のニュースによると、エンタメ特化型情報メディア スパイスが「Lyric Videoが20時に公開」と報じています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 8,
-    "question": "「スプラトゥーンレイダース」の「発売日と最新情報まとめ」が公開されたことで、このゲームのどのような情報が特にユーザーに求められていると推測できますか？",
+    "question": "『だぁれかさんとアソぼ？』のFortniteホラーマップ配信決定のニュースで、ゲーム体験動画に登場し「絶叫」したと報じられた人物のフルネームは何ですか？",
     "choices": [
-      "開発秘話",
-      "過去作との比較",
-      "基本的なゲーム内容とリリース時期",
-      "海外での評価"
+      "小國舞羽",
+      "小林舞",
+      "大野舞",
+      "田中舞"
     ],
-    "answer": "基本的なゲーム内容とリリース時期",
-    "explanation": "2026年6月のニュースによると、「発売日と最新情報まとめ」というタイトルから、ユーザーが最も知りたい情報はゲームの基本的な内容と、いつプレイできるようになるか（リリース時期）であると推測できます。"
+    "answer": "小國舞羽",
+    "explanation": "2026年6月のニュースによると、小國舞羽が『だぁれかさんとアソぼ？』のゲーム体験動画で絶叫したと報じられています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 8,
-    "question": "『Full Stride』が「本格ジョッキーゲーム」として「ジョッキー視点でレースの駆け引きを体感」できると紹介されたことは、従来の競馬ゲームと比べてどのような点が強調されていると考えられますか？",
+    "question": "カプコンの『鬼武者 Way of the Sword』の発売日9月4日が「金曜日」であると明記されているニュースの公開元は何ですか？",
     "choices": [
-      "馬の育成要素",
-      "経営シミュレーション",
-      "プレイヤーの没入感と操作のリアルさ",
-      "グラフィックの美しさ"
+      "AppMedia",
+      "カプコン公式サイト",
+      "ファミ通.com",
+      "4Gamer.net"
     ],
-    "answer": "プレイヤーの没入感と操作のリアルさ",
-    "explanation": "2026年6月のニュースによると、『Full Stride』が「ジョッキー視点でレースの駆け引きを体感」できると強調されたことは、従来の競馬ゲームに比べて、プレイヤーがより深くレースの世界に没入し、ジョッキーとしての操作のリアルさを体験できる点が強調されていると考えられます。"
+    "answer": "AppMedia",
+    "explanation": "2026年6月のニュースによると、AppMediaが『鬼武者 Way of the Sword』は「9月4日（金）発売へ」と報じています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 8,
-    "question": "「モバイルゲームアワード2026」の投票が開始されたニュースは、このアワードがユーザー参加型であることをどのように示していますか？",
+    "question": "『ペルソナ5X』のVer.4.4アップデートに関する最新情報まとめ記事のURLの一部に含まれる略称は何ですか？",
     "choices": [
-      "運営がユーザーから意見を募っている",
-      "ユーザーが直接、好きなゲームに票を投じられる",
-      "インフルエンサーが推薦するシステム",
-      "開発者が自社のゲームを推薦する"
+      "P5X",
+      "P5",
+      "P5G",
+      "P5R"
     ],
-    "answer": "ユーザーが直接、好きなゲームに票を投じられる",
-    "explanation": "2026年6月のニュースによると、「投票が開始」されたという事実は、ユーザーが自分の好きなモバイルゲームに対して直接票を投じることができる、つまりユーザー参加型のアワードであることを明確に示しています。"
+    "answer": "P5X",
+    "explanation": "2026年6月のニュースによると、記事のタイトルに「【P5X】」と略称が含まれています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 8,
-    "question": "『進撃の巨人３』が「物語を最初から最後まで描く集大成」と発表されたことで、このゲームのストーリーテリングにおいてどのような特徴が期待されますか？",
+    "question": "「BANDAI CARD GAMES ネクストプラン発表会2026.06」でONE PIECEカードゲームの最新情報が解禁されたと報じたONE PIECE.comの記事タイトルに含まれる年と月は何ですか？",
     "choices": [
-      "ゲームオリジナルの結末",
-      "原作に忠実な完全な物語体験",
-      "特定のキャラクターの視点に限定される",
-      "断片的なエピソード集"
+      "2026.06",
+      "2026年6月",
+      "2025.12",
+      "2026年3月"
     ],
-    "answer": "原作に忠実な完全な物語体験",
-    "explanation": "2026年6月のニュースによると、『進撃の巨人３』が「物語を最初から最後まで描く集大成」とされたことは、ゲームが原作に忠実に、かつ完全な形で物語の始まりから終わりまでを体験できるストーリーテリングが期待されることを示唆しています。"
+    "answer": "2026.06",
+    "explanation": "2026年6月のニュースによると、記事タイトルは「BANDAI CARD GAMES ネクストプラン発表会2026.06」でした。"
   },
   {
     "category": "ゲーム",
     "difficulty": 8,
-    "question": "State of Play June 2, 2026で『エースコンバット8』の「発売日決定」が発表されたことは、具体的な発売日情報がまだ公開されていない場合、どのような意図があると推測できますか？",
+    "question": "ゲーム『進撃の巨人３』の「集大成」という表現は、物語のどの範囲をカバーすることを示していますか？",
     "choices": [
-      "開発の遅延を隠すため",
-      "ユーザーの期待感を高めるため",
-      "他の競合作品との差別化のため",
-      "誤報である"
+      "最初から最後まで",
+      "アニメ版の最終章",
+      "漫画版の最終巻",
+      "主要キャラクターの過去"
     ],
-    "answer": "ユーザーの期待感を高めるため",
-    "explanation": "2026年6月のニュースによると、「発売日決定」という発表がありながら具体的な日付が示されていない場合、これはユーザーにリリースが近いことを示唆しつつ、さらなる情報公開への期待感を高めるプロモーション戦略であると推測できます。"
+    "answer": "最初から最後まで",
+    "explanation": "2026年6月のニュースによると、ゲーム『進撃の巨人３』は「進撃の巨人」の物語を最初から最後まで描く集大成ゲームとされています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 8,
-    "question": "『真・三國無双2』に「紫鸞参戦」と報じられたことは、このキャラクターがシリーズにおいてどのような重要性を持っていることを示唆していますか？",
+    "question": "モバイルゲームアワード2026の投票開始を報じた「Mobile Goddess」は、このアワードが何年に開催されるものとしていますか？",
     "choices": [
-      "物語の主要な分岐点に関わる",
-      "新たな勢力の象徴",
-      "既存勢力に大きな影響を与える新顔",
-      "単なる追加キャラクター"
+      "2026年",
+      "2025年",
+      "2027年",
+      "開催年不明"
     ],
-    "answer": "既存勢力に大きな影響を与える新顔",
-    "explanation": "2026年6月のニュースによると、「紫鸞参戦」という表現は、単なる追加キャラクターではなく、物語や勢力図に新たな動きをもたらす、既存勢力に大きな影響を与える新顔として登場する重要性を示唆しています。"
+    "answer": "2026年",
+    "explanation": "2026年6月のニュースによると、「モバイルゲームアワード2026の投票が開始」と報じられています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 8,
-    "question": "『鬼武者』の完全新作の「体験版配信」という発表は、開発チームが製品版に向けてどのような自信を持っていることを示唆していますか？",
+    "question": "『チェンソーマン 刺客篇』のスマートフォンゲーム化決定のニュースは、どのメディアの「最新PV解禁！」という見出しの下で報じられましたか？",
     "choices": [
-      "ゲームの品質に不安がある",
-      "ユーザーの反応を恐れている",
-      "ゲームのクオリティに自信があり、実際に体験してほしい",
-      "開発資金が不足している"
+      "cinema-factory.jp",
+      "Yahoo!ニュース",
+      "アニメイトタイムズ",
+      "コミックナタリー"
     ],
-    "answer": "ゲームのクオリティに自信があり、実際に体験してほしい",
-    "explanation": "2026年6月のニュースによると、完全新作『鬼武者』の「体験版配信」は、開発チームがゲームのクオリティに自信を持っており、製品版の購入を検討してもらうために、まずはその魅力を実際に体験してほしいという意図を示唆しています。"
+    "answer": "cinema-factory.jp",
+    "explanation": "2026年6月のニュースによると、cinema-factory.jpが『チェンソーマン 刺客篇』最新PV解禁とスマートフォンゲーム化決定を報じています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 8,
-    "question": "「ペルソナ5X」のVer.4.4アップデートの「最新情報まとめ」がGameWithで公開されたことで、このゲームが継続的なコンテンツ更新を行っていることをどのように示していますか？",
+    "question": "本格ジョッキーゲーム『Full Stride』が「競馬ファン待望」と報じられたニュースの掲載元は何ですか？",
     "choices": [
-      "アップデートが稀である",
-      "定期的に大規模な更新を実施している",
-      "小規模な修正のみ",
-      "サービス終了が近い"
+      "Yahoo!ニュース",
+      "GameWith",
+      "ファミ通.com",
+      "JRA公式サイト"
     ],
-    "answer": "定期的に大規模な更新を実施している",
-    "explanation": "2026年6月のニュースによると、「Ver.4.4のアップデートの最新情報まとめ」という表現は、バージョン番号が大きく進んでいることからも、定期的に大規模なコンテンツ更新を実施していることを示唆しています。"
+    "answer": "Yahoo!ニュース",
+    "explanation": "2026年7月のニュースによると、Yahoo!ニュースが「競馬ファン待望の本格ジョッキーゲーム『Full Stride』7月16日発売決定」と報じています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 8,
-    "question": "「BanG Dream! Our Notes」でAve Mujicaの「残酷な天使のテーゼ」が実装楽曲として発表されたことは、このゲームがどのような層のユーザーにアピールしようとしていることを示唆していますか？",
+    "question": "ニンテンドースイッチ2の本体情報まとめ記事の公開元「GameWith」は、主にどのような情報を取り扱うメディアですか？",
     "choices": [
-      "BanG Dream!の既存ファンのみ",
-      "アニメソングファン全般",
-      "特定のジャンルの音楽ファン",
-      "ゲーム音楽ファン"
+      "ゲーム攻略・最新情報",
+      "ハードウェア開発",
+      "ゲーム業界ニュース",
+      "eスポーツ"
     ],
-    "answer": "アニメソングファン全般",
-    "explanation": "2026年6月のニュースによると、「残酷な天使のテーゼ」という非常に有名なアニメソングを実装したことは、『BanG Dream!』の既存ファンだけでなく、幅広いアニメソングファン全般にアピールしようとしていることを示唆しています。"
+    "answer": "ゲーム攻略・最新情報",
+    "explanation": "2026年6月のニュースによると、GameWithがニンテンドースイッチ2の本体情報をまとめています。GameWithは一般的にゲーム攻略・最新情報サイトです。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "モバイルゲームアワード2026の投票が開始されたと報じられているのは、どのようなジャンルのアワードですか？",
+    "choices": [
+      "モバイルゲーム",
+      "コンシューマーゲーム",
+      "PCゲーム",
+      "eスポーツ"
+    ],
+    "answer": "モバイルゲーム",
+    "explanation": "2026年6月のニュースによると、モバイルゲームアワード2026の投票が開始されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "『チェンソーマン 刺客篇』のスマートフォンゲーム化決定のニュースは、どのメディアで「最新PV解禁！」と報じられましたか？",
+    "choices": [
+      "cinema-factory.jp",
+      "Yahoo!ニュース",
+      "アニメイトタイムズ",
+      "コミックナタリー"
+    ],
+    "answer": "cinema-factory.jp",
+    "explanation": "2026年6月のニュースによると、cinema-factory.jpが『チェンソーマン 刺客篇』最新PV解禁とスマートフォンゲーム化決定を報じています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "モバイルゲームアワード2026に関して、最近始まった活動は何ですか？",
+    "choices": [
+      "投票",
+      "エントリー受付",
+      "審査員募集",
+      "開催地決定"
+    ],
+    "answer": "投票",
+    "explanation": "2026年6月のニュースによると、モバイルゲームアワード2026の投票が開始されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "モバイルゲームアワード2026に関して、最近始まった活動は何ですか？",
+    "choices": [
+      "投票",
+      "エントリー受付",
+      "審査員募集",
+      "開催地決定"
+    ],
+    "answer": "投票",
+    "explanation": "2026年6月のニュースによると、モバイルゲームアワード2026の投票が開始されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "ゲーム『進撃の巨人３』の開発が決定したと報じているウェブサイトは何ですか？",
+    "choices": [
+      "gamecity.ne.jp",
+      "kodansha.co.jp",
+      "shueisha.co.jp",
+      "anime-titan.jp"
+    ],
+    "answer": "gamecity.ne.jp",
+    "explanation": "2026年6月のニュースによると、gamecity.ne.jpがゲーム『進撃の巨人３』の発売決定を報じています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "Aimerが「ソードアート・オンライン Echoes of Aincrad」の主題歌「Live to Survive」をデジタルリリースした際、「CDJournal」がYahoo!ニュースで報じた内容は、主に何に焦点を当てていましたか？",
+    "question": "Aimerが『SAO Echoes of Aincrad』の主題歌「Live to Survive」を担当したというニュースは、Yahoo!ニュースにおいて、どのニュースサイトからの提供として報じられましたか？",
     "choices": [
-      "Aimerの過去の功績",
-      "楽曲の音楽的特徴",
-      "デジタルリリースとリリックビデオ公開",
-      "ゲームのストーリー詳細"
+      "音楽ナタリー",
+      "THE FIRST TIMES",
+      "エンタメ特化型情報メディア スパイス",
+      "GameWith"
     ],
-    "answer": "デジタルリリースとリリックビデオ公開",
-    "explanation": "2026年6月のニュースによると、「CDJournal - Yahoo!ニュース」は「Aimer、「ソードアート・オンライン」家庭用ゲーム最新作主題歌をデジタル・リリース リリック・ビデオ公開も」と報じており、デジタルリリースとリリックビデオ公開に焦点を当てていました。"
+    "answer": "音楽ナタリー",
+    "explanation": "2026年6月のニュースによると、Yahoo!ニュースは「Aimer「ソードアート・オンライン」ゲーム最新作の主題歌を担当（音楽ナタリー） - Yahoo!ニュース」として報じています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "「スプラトゥーンレイダースの発売日と最新情報まとめ」というGameWithの記事は、主にどのタイプの情報をユーザーに提供することを目的としていますか？",
+    "question": "『だぁれかさんとアソぼ？』のFortniteホラーマップ配信決定のニュースで、「絶叫！」という表現が使われたのは誰の行動についてですか？",
     "choices": [
-      "ゲームの背景設定",
-      "具体的なプレイガイド",
-      "リリーススケジュールと公開済み情報の概要",
-      "開発者のインタビュー"
+      "小國舞羽",
+      "ゲームのキャラクター",
+      "開発者",
+      "視聴者"
     ],
-    "answer": "リリーススケジュールと公開済み情報の概要",
-    "explanation": "2026年6月のニュースによると、「発売日と最新情報まとめ」というタイトルは、ゲームのリリーススケジュールと、これまでに公開された情報の概要をユーザーに効率的に提供することを目的としていることを示唆しています。"
+    "answer": "小國舞羽",
+    "explanation": "2026年6月のニュースによると、「小國舞羽が絶叫！」と報じられています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "『Full Stride』の「本格ジョッキーゲーム」としての紹介で、「Yahoo!ニュース」が特に強調した側面は何でしたか？",
+    "question": "『鬼武者 Way of the Sword』の発売日が当初予定よりも「3週間早まり」と報じられたニュースの見出しは、どのような形式でしたか？",
     "choices": [
-      "グラフィックの進化",
-      "多人数プレイ機能",
-      "発売日とジョッキー視点での体験",
-      "登場する馬の種類"
+      "カプコンの剣戟アクションゲーム最新作『鬼武者 Way of the Sword』は当初予定よりも3週間早まり、9月4日（金）発売へ",
+      "『鬼武者 Way of the Sword』、発売日を3週間前倒し！",
+      "新作『鬼武者』、9月4日（金）に早期リリース決定",
+      "3週間早く遊べる！『鬼武者 Way of the Sword』"
     ],
-    "answer": "発売日とジョッキー視点での体験",
-    "explanation": "2026年6月のニュースによると、「Yahoo!ニュース」は「競馬ファン待望の本格ジョッキーゲーム『Full Stride』7月16日発売決定…ジョッキー視点でレースの駆け引きを体感」と報じており、発売日とジョッキー視点での体験を特に強調していました。"
+    "answer": "カプコンの剣戟アクションゲーム最新作『鬼武者 Way of the Sword』は当初予定よりも3週間早まり、9月4日（金）発売へ",
+    "explanation": "2026年6月のニュースによると、AppMediaの記事タイトルは「カプコンの剣戟アクションゲーム最新作『鬼武者 Way of the Sword』は当初予定よりも3週間早まり、9月4日（金）発売へ」でした。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "「モバイルゲームアワード2026の投票が開始」というニュースは、このイベントが特定のプラットフォームに限定されている可能性をどのように示唆していますか？",
+    "question": "『ペルソナ5X』のVer.4.4アップデートの最新情報まとめ記事のURLは、どのドメインで公開されていますか？",
     "choices": [
-      "ニュースソースが一般的なゲームメディアではない",
-      "「モバイルゲーム」という明確なカテゴリ",
-      "投票方法が複雑",
-      "受賞作品が限定されている"
+      "gamewith.jp",
+      "persona.atlus.co.jp",
+      "dengekionline.com",
+      "famitsu.com"
     ],
-    "answer": "「モバイルゲーム」という明確なカテゴリ",
-    "explanation": "2026年6月のニュースによると、「モバイルゲームアワード」という名称そのものが、このアワードがスマートフォンやタブレットなどのモバイルプラットフォームに限定されたゲームを対象としていることを明確に示唆しています。"
+    "answer": "gamewith.jp",
+    "explanation": "2026年6月のニュースによると、GameWithが記事を公開しています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "『進撃の巨人３』が「集大成 ゲーム」として発売決定したことを報じた「gamecity.ne.jp」は、主にどのような情報源として機能していますか？",
+    "question": "「BANDAI CARD GAMES ネクストプラン発表会2026.06」でONE PIECEカードゲームの最新情報が解禁されたニュースを報じたONE PIECE.comの記事タイトルは、どのような形式でしたか？",
     "choices": [
-      "ゲームレビューサイト",
-      "ファンコミュニティサイト",
-      "ゲームメーカーの公式発表サイト",
-      "ゲーム業界のニュースポータル"
+      "【ONE PIECEカードゲーム 最新情報】「BANDAI CARD GAMES ネクストプラン発表会2026.06」にて最新情報解禁！",
+      "ONE PIECEカードゲーム、次なる展開を発表！",
+      "速報！ONE PIECEカードゲームの新情報、2026年6月に公開",
+      "BANDAI CARD GAMESがONE PIECEカードゲームの未来を語る"
     ],
-    "answer": "ゲームメーカーの公式発表サイト",
-    "explanation": "2026年6月のニュースによると、「gamecity.ne.jp」というドメインは、コーエーテクモゲームスのゲーム情報サイトであり、ゲームメーカーの公式発表サイトとして機能しています。"
+    "answer": "【ONE PIECEカードゲーム 最新情報】「BANDAI CARD GAMES ネクストプラン発表会2026.06」にて最新情報解禁！",
+    "explanation": "2026年6月のニュースによると、ONE PIECE.comの記事タイトルは「【ONE PIECEカードゲーム 最新情報】「BANDAI CARD GAMES ネクストプラン発表会2026.06」にて最新情報解禁！」でした。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "State of Play June 2, 2026で発表された『エースコンバット8』の「発売日決定」は、このイベントの発表内容がどのような形式で提供されたことを示唆していますか？",
+    "question": "ゲーム『進撃の巨人３』は、「進撃の巨人」の物語を「最初から最後まで描く集大成ゲーム」と報じられましたが、この「集大成」という言葉が持つ意味は何ですか？",
     "choices": [
-      "詳細なプレゼンテーション",
-      "簡潔なティザー情報",
-      "開発者による技術解説",
-      "ユーザー参加型のQ&A"
+      "作品の全てを網羅する完結編",
+      "シリーズの最終作",
+      "過去作の要素を集約した作品",
+      "複数の物語を統合した作品"
     ],
-    "answer": "簡潔なティザー情報",
-    "explanation": "2026年6月のニュースによると、「発売日決定」という情報が具体的な日付なしで報じられたことは、詳細な発表ではなく、ユーザーの関心を引くための簡潔なティザー情報として提供されたことを示唆しています。"
+    "answer": "作品の全てを網羅する完結編",
+    "explanation": "2026年6月のニュースによると、ゲーム『進撃の巨人３』は「進撃の巨人」の物語を最初から最後まで描く集大成ゲームとされています。これは、作品の全てを網羅する完結編であることを意味します。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "『真・三國無双2』に「紫鸞参戦」と報じられたニュースは、このゲームがシリーズのどのような要素を継承しつつ、新たな展開を見せていることを示唆していますか？",
+    "question": "「Chaos Cubed ゲームドロップ - Minecraft」という表現は、Minecraftにおいて具体的に何を指している可能性が高いですか？",
     "choices": [
-      "歴史上の人物をベースにしたアクション",
-      "リアルな歴史シミュレーション",
-      "既存キャラクターの強化",
-      "全く新しい世界観"
+      "新しいゲーム内アイテムの配布イベント",
+      "追加コンテンツのリリース",
+      "ゲームモードのアップデート",
+      "公式イベントの開催"
     ],
-    "answer": "歴史上の人物をベースにしたアクション",
-    "explanation": "2026年6月のニュースによると、『真・三國無双』シリーズの「2」というナンバリングと「紫鸞参戦」というキャラクター情報は、シリーズの核である歴史上の人物をベースにした一騎当千アクションを継承しつつ、新キャラクター導入による新たな展開を見せていることを示唆しています。"
+    "answer": "新しいゲーム内アイテムの配布イベント",
+    "explanation": "2026年6月のニュースによると、「ゲームドロップ」という言葉は、ゲーム内でアイテムが配布されるイベントを指すことが多いです。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "『鬼武者』の完全新作が「体験版配信」という形で発表されたことは、プレイヤーが製品版を購入する前にどのような機会を得られることを示唆していますか？",
+    "question": "『チェンソーマン 刺客篇』のスマートフォンゲーム化決定のニュースは、どのメディアで「最新PV解禁！」という強調表現と共に報じられましたか？",
     "choices": [
-      "ゲームの全貌を知る機会",
-      "ゲームの主要なシステムを試す機会",
-      "開発の進捗状況を把握する機会",
-      "開発チームと直接交流する機会"
+      "cinema-factory.jp",
+      "アニメイトタイムズ",
+      "コミックナタリー",
+      "Yahoo!ニュース"
     ],
-    "answer": "ゲームの主要なシステムを試す機会",
-    "explanation": "2026年6月のニュースによると、『鬼武者』の完全新作の「体験版配信」は、プレイヤーが製品版の購入を検討する上で、ゲームの主要なシステムや操作性、雰囲気などを実際に試す機会を得られることを示唆しています。"
+    "answer": "cinema-factory.jp",
+    "explanation": "2026年6月のニュースによると、cinema-factory.jpが「『チェンソーマン 刺客篇』最新PV解禁！スマートフォンゲーム化も決定」と報じています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "「ペルソナ5X」のVer.4.4アップデートの「最新情報まとめ」がGameWithで公開されたことは、このゲームのアップデートがどのような頻度で行われていることを示唆していますか？",
+    "question": "本格ジョッキーゲーム『Full Stride』が「ジョッキー視点でレースの駆け引きを体感」できると報じられたニュースの見出しは、どのような形式でしたか？",
     "choices": [
-      "年に一度程度の大規模アップデート",
-      "数ヶ月に一度程度の定期的なアップデート",
-      "不定期な小規模修正",
-      "ほとんどアップデートされない"
+      "競馬ファン待望の本格ジョッキーゲーム『Full Stride』7月16日発売決定…ジョッキー視点でレースの駆け引きを体感",
+      "『Full Stride』：騎手体験の新境地へ",
+      "レースの興奮をジョッキー視点で！『Full Stride』発売",
+      "7月16日発売！『Full Stride』でリアルな競馬体験"
     ],
-    "answer": "数ヶ月に一度程度の定期的なアップデート",
-    "explanation": "2026年6月のニュースによると、「Ver.4.4」というバージョン番号と「最新情報まとめ」が公開されたことから、このゲームが数ヶ月に一度程度の定期的なアップデートを行っていることを示唆しています。"
+    "answer": "競馬ファン待望の本格ジョッキーゲーム『Full Stride』7月16日発売決定…ジョッキー視点でレースの駆け引きを体感",
+    "explanation": "2026年7月のニュースによると、Yahoo!ニュースの記事タイトルは「競馬ファン待望の本格ジョッキーゲーム『Full Stride』7月16日発売決定…ジョッキー視点でレースの駆け引きを体感」でした。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "「BanG Dream! Our Notes」でAve Mujicaの「残酷な天使のテーゼ」が実装楽曲として発表されたことは、ゲームタイトルに「Our Notes」とあることと合わせて、どのような特徴を持つゲームであることを示唆していますか？",
+    "question": "ニンテンドースイッチ2の本体情報まとめ記事のURLは、具体的にどのドメインで公開されていますか？",
     "choices": [
-      "音楽制作シミュレーション",
-      "プレイヤーが自由に楽曲を制作",
-      "音楽を共有し、楽しむコミュニティ要素",
-      "音楽史を学ぶ教育ゲーム"
+      "gamewith.jp",
+      "nintendo.co.jp",
+      "ign.com",
+      "4gamer.net"
     ],
-    "answer": "音楽を共有し、楽しむコミュニティ要素",
-    "explanation": "2026年6月のニュースによると、「BanG Dream! Our Notes」というタイトルに「Notes（音符、記録）」と「Our（私たちの）」という言葉が含まれていること、そして有名楽曲の実装は、プレイヤーが音楽を共有し、一緒に楽しむコミュニティ要素が強調されたゲームであることを示唆しています。"
+    "answer": "gamewith.jp",
+    "explanation": "2026年6月のニュースによると、GameWithが記事を公開しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 9,
+    "question": "『スプラトゥーンレイダース』の発売日と最新情報まとめ記事の公開元は何ですか？",
+    "choices": [
+      "GameWith",
+      "任天堂公式サイト",
+      "ファミ通.com",
+      "電撃オンライン"
+    ],
+    "answer": "GameWith",
+    "explanation": "2026年6月のニュースによると、GameWithが『スプラトゥーンレイダース』の発売日と最新情報をまとめています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 9,
+    "question": "本格ジョッキーゲーム『Full Stride』が「ジョッキー視点でレースの駆け引きを体感」できると報じられたニュースは、どのメディアで掲載されましたか？",
+    "choices": [
+      "Yahoo!ニュース",
+      "GameWith",
+      "ファミ通.com",
+      "JRA公式サイト"
+    ],
+    "answer": "Yahoo!ニュース",
+    "explanation": "2026年7月のニュースによると、Yahoo!ニュースが「競馬ファン待望の本格ジョッキーゲーム『Full Stride』7月16日発売決定…ジョッキー視点でレースの駆け引きを体感」と報じています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 9,
+    "question": "『スプラトゥーンレイダース』に関して、GameWithがまとめている情報は何ですか？",
+    "choices": [
+      "発売日と最新情報",
+      "キャラクター情報",
+      "攻略ガイド",
+      "開発秘話"
+    ],
+    "answer": "発売日と最新情報",
+    "explanation": "2026年6月のニュースによると、GameWithは『スプラトゥーンレイダース』の発売日と最新情報をまとめています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 9,
+    "question": "『スプラトゥーンレイダース』の発売日と最新情報まとめ記事の公開元は何ですか？",
+    "choices": [
+      "GameWith",
+      "任天堂公式サイト",
+      "ファミ通.com",
+      "電撃オンライン"
+    ],
+    "answer": "GameWith",
+    "explanation": "2026年6月のニュースによると、GameWithが『スプラトゥーンレイダース』の発売日と最新情報をまとめています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 9,
+    "question": "「Chaos Cubed ゲームドロップ」は、どの人気ゲームタイトルに関連する情報ですか？",
+    "choices": [
+      "Minecraft",
+      "Roblox",
+      "Fortnite",
+      "Apex Legends"
+    ],
+    "answer": "Minecraft",
+    "explanation": "2026年6月のニュースによると、「Chaos Cubed ゲームドロップ」はMinecraftに関連する情報として言及されています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "Aimerが「ソードアート・オンライン Echoes of Aincrad」の主題歌「Live to Survive」をデジタルリリースし、リリックビデオも公開されたという一連のニュースは、このゲームのプロモーションにおいてどのような戦略が取られていることを示唆していますか？",
+    "question": "Aimerが『SAO』家庭用ゲーム最新作『Echoes of Aincrad』の主題歌「Live to Survive」を担当したというニュースは、複数のメディアで報じられましたが、その中で「Lyric Videoが20時に公開」という具体的な時間まで言及したのはどのメディアでしたか？",
     "choices": [
-      "ゲームプレイ映像中心のプロモーション",
-      "音楽コンテンツを核とした多角的なプロモーション",
-      "キャラクターグッズ展開に注力",
-      "eスポーツイベントでの露出"
+      "エンタメ特化型情報メディア スパイス",
+      "音楽ナタリー",
+      "THE FIRST TIMES",
+      "Yahoo!ニュース"
     ],
-    "answer": "音楽コンテンツを核とした多角的なプロモーション",
-    "explanation": "2026年6月のニュースによると、Aimerによる主題歌のデジタルリリースとリリックビデオ公開は、ゲーム単体だけでなく、音楽コンテンツを核として多角的にゲームの魅力を伝え、幅広い層にアピールするプロモーション戦略が取られていることを示唆しています。"
+    "answer": "エンタメ特化型情報メディア スパイス",
+    "explanation": "2026年6月のニュースによると、エンタメ特化型情報メディア スパイスが「Lyric Videoが20時に公開」と具体的に報じています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "「スプラトゥーンレイダースの発売日と最新情報まとめ」という記事がGameWithで公開されたことと、「Xbox Partner Preview」がサードパーティーの最新ゲーム情報を提供したというニュースを比較すると、情報公開の主体にどのような違いが見られますか？",
+    "question": "『だぁれかさんとアソぼ？』がFortniteのホラーマップとして配信決定したニュースで、「小國舞羽が絶叫！」という見出しの形式は、どのメディアで使われましたか？",
     "choices": [
-      "GameWithは公式発表、Xbox Partner Previewは非公式",
-      "GameWithはユーザー向けまとめ、Xbox Partner Previewはプラットフォーム公式発表会",
-      "GameWithはリーク情報、Xbox Partner Previewは開発者発表",
-      "両方ともプラットフォーム公式発表会"
+      "cinema-factory.jp",
+      "Yahoo!ニュース",
+      "ゲーム情報サイト",
+      "YouTubeチャンネル"
     ],
-    "answer": "GameWithはユーザー向けまとめ、Xbox Partner Previewはプラットフォーム公式発表会",
-    "explanation": "2026年6月のニュースによると、GameWithは「まとめ」を提供するゲーム情報サイトであり、ユーザーが情報を整理するための媒体です。一方、「Xbox Partner Preview」はXboxというプラットフォームが主催する「サード パーティー各社の最新ゲーム情報をお届け」する公式発表会であり、情報公開の主体が異なります。"
+    "answer": "cinema-factory.jp",
+    "explanation": "2026年6月のニュースによると、cinema-factory.jpが「『だぁれかさんとアソぼ？』Fortniteのホラーマップとして配信決定！小國舞羽が絶叫！ゲーム体験動画も公開」と報じています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "『Full Stride』の「本格ジョッキーゲーム」としての紹介と、「モバイルゲームアワード2026の投票が開始」というニュースを考慮すると、『Full Stride』は将来的にアワードの対象となる可能性のあるカテゴリに属していると言えますか？",
+    "question": "カプコンの新作『鬼武者 Way of the Sword』の発売日が「当初予定よりも3週間早まり、9月4日（金）発売へ」と報じられたニュースの見出しにおいて、ゲームのジャンルが明記されている箇所はどこですか？",
     "choices": [
-      "モバイルゲームであるため対象となる可能性が高い",
-      "家庭用ゲームであるため対象外である",
-      "VRゲームであるため対象外である",
-      "対象となるかどうかは不明"
+      "剣戟アクションゲーム",
+      "アクションゲーム",
+      "剣術ゲーム",
+      "鬼武者シリーズ"
     ],
-    "answer": "家庭用ゲームであるため対象外である",
-    "explanation": "2026年6月のニュースによると、『Full Stride』は「本格ジョッキーゲーム」として7月16日に「発売決定」とあり、家庭用ゲームとしてのリリースが示唆されます。一方、「モバイルゲームアワード2026」はモバイルゲームを対象としているため、『Full Stride』がこのアワードの対象となる可能性は低いと考えられます。"
+    "answer": "剣戟アクションゲーム",
+    "explanation": "2026年6月のニュースによると、AppMediaの記事タイトルは「カプコンの剣戟アクションゲーム最新作『鬼武者 Way of the Sword』は当初予定よりも3週間早まり、9月4日（金）発売へ」でした。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "『進撃の巨人３』が「物語を最初から最後まで描く集大成」として発売決定したことと、State of Playで『エースコンバット8』の発売日決定が発表されたことを比較すると、それぞれの発表がゲームのどの側面を強調していると言えますか？",
+    "question": "『ペルソナ5X』のVer.4.4アップデートの最新情報まとめ記事のURLの一部に含まれる「P5X」は、何というゲームの略称ですか？",
     "choices": [
-      "『進撃の巨人３』はグラフィック、『エースコンバット8』はゲームプレイ",
-      "『進撃の巨人３』はストーリー、『エースコンバット8』はリリース時期",
-      "『進撃の巨人３』はマルチプレイ、『エースコンバット8』は新機能",
-      "両方とも特定のキャラクター"
+      "ペルソナ5X",
+      "ペルソナ5",
+      "ペルソナ5 ザ・ロイヤル",
+      "ペルソナ5 スクランブル"
     ],
-    "answer": "『進撃の巨人３』はストーリー、『エースコンバット8』はリリース時期",
-    "explanation": "2026年6月のニュースによると、『進撃の巨人３』は「物語を最初から最後まで描く集大成」と発表され、ストーリーの包括性を強調しています。一方、『エースコンバット8』は「発売日決定」が報じられ、具体的なリリース時期への期待を強調しています。"
+    "answer": "ペルソナ5X",
+    "explanation": "2026年6月のニュースによると、記事タイトルに「【ペルソナ5X】」と略称が含まれており、これがゲームの正式名称であると推測できます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "State of Play June 2, 2026で『真・三國無双2』に紫鸞が参戦し、『鬼武者』の完全新作の体験版が配信されたというニュースは、このイベントがどのような種類の発表を重視していることを示唆していますか？",
+    "question": "「BANDAI CARD GAMES ネクストプラン発表会2026.06」でONE PIECEカードゲームの最新情報が解禁されたニュースを報じたONE PIECE.comの記事タイトルに含まれる「最新情報解禁！」という表現の直前に書かれている内容はどれですか？",
     "choices": [
-      "過去作のリマスター発表",
-      "既存作品のアップデート情報",
-      "新作の発表と具体的なプレイ機会の提供",
-      "ビジネス提携の発表"
+      "「BANDAI CARD GAMES ネクストプラン発表会2026.06」にて",
+      "ONE PIECEカードゲームの",
+      "待望の",
+      "ついに"
     ],
-    "answer": "新作の発表と具体的なプレイ機会の提供",
-    "explanation": "2026年6月のニュースによると、State of Play June 2, 2026では『真・三國無双2』の新キャラクター参戦（新作の内容）や、完全新作『鬼武者』の体験版配信といった、新作ゲームの発表と同時に、ユーザーが実際にゲームに触れる具体的な機会を提供する発表が重視されていることを示唆しています。"
+    "answer": "「BANDAI CARD GAMES ネクストプラン発表会2026.06」にて",
+    "explanation": "2026年6月のニュースによると、ONE PIECE.comの記事タイトルは「【ONE PIECEカードゲーム 最新情報】「BANDAI CARD GAMES ネクストプラン発表会2026.06」にて最新情報解禁！」でした。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "「ペルソナ5X」のVer.4.4アップデートと「BanG Dream! Our Notes」のAve Mujica楽曲実装のニュースを比較すると、それぞれのゲームがユーザーエンゲージメントを維持するためにどのような異なるアプローチを取っていることが分かりますか？",
+    "question": "ゲーム『進撃の巨人３』が「進撃の巨人」の物語を「最初から最後まで描く集大成ゲーム」と報じられましたが、この「物語」とは具体的に何を指していますか？",
     "choices": [
-      "「ペルソナ5X」はストーリー、「BanG Dream! Our Notes」はイベント",
-      "「ペルソナ5X」はシステム改善、「BanG Dream! Our Notes」はコンテンツ追加",
-      "「ペルソナ5X」はグラフィック、「BanG Dream! Our Notes」はソーシャル機能",
-      "両方とも課金アイテムの追加"
+      "「進撃の巨人」の原作漫画のストーリー",
+      "「進撃の巨人」のアニメシリーズのストーリー",
+      "エレン・イェーガーの個人的な物語",
+      "ゲームオリジナルのストーリー"
     ],
-    "answer": "「ペルソナ5X」はシステム改善、「BanG Dream! Our Notes」はコンテンツ追加",
-    "explanation": "2026年6月のニュースによると、「ペルソナ5X」は「Ver.4.4のアップデート」という形でシステム的な改善や機能追加を示唆しています。一方、「BanG Dream! Our Notes」は「Ave Mujica「残酷な天使のテーゼ」など実装楽曲も発表」という形で、音楽コンテンツの追加によるユーザーエンゲージメント維持のアプローチを取っていることが分かります。"
+    "answer": "「進撃の巨人」の原作漫画のストーリー",
+    "explanation": "2026年6月のニュースによると、ゲーム『進撃の巨人３』は「進撃の巨人」の物語を最初から最後まで描くとされています。一般的に「進撃の巨人」の物語は原作漫画を指します。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "Aimerが「ソードアート・オンライン」家庭用ゲーム最新作の主題歌を担当したことと、「BanG Dream! Our Notes」でAve Mujicaの楽曲が実装されたことは、ゲーム業界における音楽コンテンツの活用についてどのような共通点を示していますか？",
+    "question": "「Chaos Cubed ゲームドロップ - Minecraft」という情報が掲載されたニュースは、どのような種類の情報として扱われていますか？",
     "choices": [
-      "ゲームオリジナル楽曲の重視",
-      "有名アーティストや楽曲とのコラボレーション",
-      "ゲーム内BGMの強化",
-      "音楽イベントの開催"
+      "Minecraftに関する最新情報の一部",
+      "大規模アップデート予告",
+      "公式イベント告知",
+      "コミュニティイベントの紹介"
     ],
-    "answer": "有名アーティストや楽曲とのコラボレーション",
-    "explanation": "2026年6月のニュースによると、Aimerが『SAO』の主題歌を担当したことと、「BanG Dream! Our Notes」でAve Mujicaが「残酷な天使のテーゼ」を実装したことは、いずれも有名アーティスト（Aimer、Ave Mujica）や有名楽曲（残酷な天使のテーゼ）をゲームに導入することで、ゲームの魅力を高めるコラボレーション戦略がゲーム業界で広く活用されている共通点を示しています。"
+    "answer": "Minecraftに関する最新情報の一部",
+    "explanation": "2026年6月のニュースによると、「Chaos Cubed ゲームドロップ - Minecraft」は、特定のニュースサイトのMinecraft関連情報のセクションに掲載されています。これは、Minecraftに関する最新情報の一部として扱われていることを示唆しています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "『Full Stride』が「本格ジョッキーゲーム」として7月16日に発売されることと、「モバイルゲームアワード2026の投票が開始」されたことを考慮すると、このアワードの対象となるゲームはどのようなプラットフォームに限定されない可能性を示唆していますか？",
+    "question": "モバイルゲームアワード2026の投票開始を報じた「Mobile Goddess」のニュースタイトルは、どのような形式でしたか？",
     "choices": [
-      "モバイルゲームアワードはモバイルゲームに限定される",
-      "家庭用ゲームも対象となる可能性",
-      "PCゲームも対象となる可能性",
-      "VRゲームも対象となる可能性"
+      "モバイルゲームアワード2026の投票が開始",
+      "2026年モバイルゲームアワード投票開始のお知らせ",
+      "投票開始！モバイルゲームアワード2026、あなたの1票を！",
+      "Mobile Goddessが報じる、モバイルゲームアワード2026投票スタート"
     ],
-    "answer": "モバイルゲームアワードはモバイルゲームに限定される",
-    "explanation": "2026年6月のニュースによると、「モバイルゲームアワード2026」という名称が明確に「モバイルゲーム」を対象としているため、『Full Stride』が家庭用ゲームとして発売されることから、このアワードの対象となる可能性は低いと判断できます。アワードの名称からプラットフォームの限定が示唆されています。"
+    "answer": "モバイルゲームアワード2026の投票が開始",
+    "explanation": "2026年6月のニュースによると、ニュースタイトルは「モバイルゲームアワード2026の投票が開始」でした。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "State of Play June 2, 2026で複数のゲームの最新情報が発表されたことと、「Xbox Partner Preview」がサードパーティー各社の最新ゲーム情報をお届けしたことを比較すると、これらのイベントの役割にどのような共通点と相違点が見られますか？",
+    "question": "『チェンソーマン 刺客篇』の最新PV解禁とスマートフォンゲーム化決定のニュースを報じた「cinema-factory.jp」の記事タイトルに含まれる強調記号は何ですか？",
     "choices": [
-      "両方ともファーストパーティゲームのみを紹介する点で共通",
-      "両方とも新作ゲーム発表の場である点で共通するが、主催プラットフォームが異なる点で相違",
-      "State of Playは技術デモ、Xbox Partner Previewはビジネス会議",
-      "State of Playはユーザー向け、Xbox Partner Previewは開発者向け"
+      "！",
+      "？",
+      "☆",
+      "♪"
     ],
-    "answer": "両方とも新作ゲーム発表の場である点で共通するが、主催プラットフォームが異なる点で相違",
-    "explanation": "2026年6月のニュースによると、State of PlayもXbox Partner Previewも、それぞれ「新発表まとめ」や「最新ゲーム情報をお届け」とあり、新作ゲームの情報を公開する場である点で共通しています。しかし、State of PlayはPlayStation、Xbox Partner PreviewはXboxと、それぞれ異なるプラットフォームが主催するイベントである点で相違があります。"
+    "answer": "！",
+    "explanation": "2026年6月のニュースによると、記事タイトルは「『チェンソーマン 刺客篇』最新PV解禁！スマートフォンゲーム化も決定」でした。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "『進撃の巨人３』が「物語を最初から最後まで描く集大成」として発売決定したことと、『鬼武者』の完全新作の体験版が配信されたことを比較すると、それぞれのゲームがユーザーにアピールする上でどのような戦略の違いが見られますか？",
+    "question": "本格ジョッキーゲーム『Full Stride』の発売決定を報じたYahoo!ニュースの記事で、このゲームのリリース日「7月16日」の直前に書かれている情報はどれですか？",
     "choices": [
-      "『進撃の巨人３』は物語の網羅性、『鬼武者』はゲームプレイの体験",
-      "『進撃の巨人３』はグラフィック、『鬼武者』はサウンド",
-      "『進撃の巨人３』はマルチプレイ、『鬼武者』はシングルプレイ",
-      "両方ともキャラクターデザイン"
+      "『Full Stride』",
+      "本格ジョッキーゲーム",
+      "競馬ファン待望の",
+      "発売決定"
     ],
-    "answer": "『進撃の巨人３』は物語の網羅性、『鬼武者』はゲームプレイの体験",
-    "explanation": "2026年6月のニュースによると、『進撃の巨人３』は「物語を最初から最後まで描く集大成」と発表されており、原作の物語を完全に体験できるという網羅性でユーザーにアピールしています。一方、『鬼武者』の完全新作は「体験版配信」という形で、実際にゲームプレイを試してもらうことで、ゲームシステムやアクションの面白さを体験を通じてアピールする戦略を取っています。"
+    "answer": "『Full Stride』",
+    "explanation": "2026年7月のニュースによると、記事タイトルは「競馬ファン待望の本格ジョッキーゲーム『Full Stride』7月16日発売決定…」でした。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 10,
+    "question": "『チェンソーマン 刺客篇』のスマートフォンゲーム化決定のニュースは、どのメディアで「最新PV解禁！」という見出しと共に報じられましたか？",
+    "choices": [
+      "cinema-factory.jp",
+      "アニメイトタイムズ",
+      "コミックナタリー",
+      "Yahoo!ニュース"
+    ],
+    "answer": "cinema-factory.jp",
+    "explanation": "2026年6月のニュースによると、cinema-factory.jpが「『チェンソーマン 刺客篇』最新PV解禁！スマートフォンゲーム化も決定」と報じています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 10,
+    "question": "ニンテンドースイッチ2の本体情報まとめ記事のURLは、どのドメインで公開されていますか？",
+    "choices": [
+      "gamewith.jp",
+      "nintendo.co.jp",
+      "ign.com",
+      "4gamer.net"
+    ],
+    "answer": "gamewith.jp",
+    "explanation": "2026年6月のニュースによると、GameWithが記事を公開しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 10,
+    "question": "『チェンソーマン 刺客篇』のスマートフォンゲーム化決定のニュースは、どのメディアで「最新PV解禁！」という強調表現と共に報じられましたか？",
+    "choices": [
+      "cinema-factory.jp",
+      "アニメイトタイムズ",
+      "コミックナタリー",
+      "Yahoo!ニュース"
+    ],
+    "answer": "cinema-factory.jp",
+    "explanation": "2026年6月のニュースによると、cinema-factory.jpが「『チェンソーマン 刺客篇』最新PV解禁！スマートフォンゲーム化も決定」と報じています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 10,
+    "question": "『チェンソーマン 刺客篇』のスマートフォンゲーム化決定のニュースは、どのメディアで「最新PV解禁！」という強調表現と共に報じられましたか？",
+    "choices": [
+      "cinema-factory.jp",
+      "アニメイトタイムズ",
+      "コミックナタリー",
+      "Yahoo!ニュース"
+    ],
+    "answer": "cinema-factory.jp",
+    "explanation": "2026年6月のニュースによると、cinema-factory.jpが「『チェンソーマン 刺客篇』最新PV解禁！スマートフォンゲーム化も決定」と報じています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 10,
+    "question": "モバイルゲームアワード2026の投票が開始されたと報じた「Mobile Goddess」は、どのようなタイトルでニュースを公開しましたか？",
+    "choices": [
+      "モバイルゲームアワード2026の投票が開始",
+      "モバイルゲームアワード2026：今すぐ投票！",
+      "投票開始！モバイルゲームアワード2026",
+      "2026年のモバイルゲームアワード、投票受付中"
+    ],
+    "answer": "モバイルゲームアワード2026の投票が開始",
+    "explanation": "2026年6月のニュースによると、「モバイルゲームアワード2026の投票が開始」というタイトルでニュースが報じられました。"
   },
   {
     "category": "世界情勢",
