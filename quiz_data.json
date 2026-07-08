@@ -7087,267 +7087,137 @@
   {
     "category": "ゲーム",
     "difficulty": 1,
-    "question": "2026年6月のニュースによると、Fortniteで配信が決定したホラーマップのタイトルは何ですか？",
-    "choices": [
-      "だぁれかさんとアソぼ？",
-      "みんなで怖がろう？",
-      "一人ぼっちの夜？",
-      "暗闇の迷宮？"
-    ],
-    "answer": "だぁれかさんとアソぼ？",
-    "explanation": "2026年6月のニュースによると、Fortniteのホラーマップとして『だぁれかさんとアソぼ？』の配信が決定しました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "2026年6月9日に発表内容がまとめられたゲームイベントは何ですか？",
-    "choices": [
-      "ニンテンドーダイレクト",
-      "State of Play",
-      "Summer Game Fest",
-      "Xbox Partner Preview"
-    ],
-    "answer": "ニンテンドーダイレクト",
-    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」の発表内容がまとめられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "2026年6月のニュースによると、『キングダム ハーツ』シリーズの最新作として発表されたタイトルは何ですか？",
-    "choices": [
-      "キングダム ハーツIV",
-      "キングダム ハーツIII",
-      "キングダム ハーツ：メロディ オブ メモリー",
-      "キングダム ハーツ ユニオン クロス"
-    ],
-    "answer": "キングダム ハーツIV",
-    "explanation": "2026年6月のニュースによると、『キングダム ハーツIV』がシリーズ最新作として発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "2026年6月2日のState of Playで発売日決定が発表されたゲームのタイトルは何ですか？",
+    "question": "2026年6月2日に開催されたState of Playで、発売日決定が発表されたゲームのタイトルは何ですか？",
     "choices": [
       "エースコンバット8",
       "真・三國無双2",
       "鬼武者",
-      "Marvel's Wolverine"
+      "キングダム ハーツIV"
     ],
     "answer": "エースコンバット8",
-    "explanation": "2026年6月2日のState of Playの発表によると、『エースコンバット8』の発売日決定が発表されました。"
+    "explanation": "2026年6月2日のState of Playのニュースによると、『エースコンバット8』の発売日決定が発表されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 1,
-    "question": "2026年6月のニュースによると、「BanG Dream!」の最新情報が明らかにされたゲームのタイトルは何ですか？",
+    "question": "2026年7月5日にプレミア配信された、ゲーム『ソードアート・オンライン』最新作の長編プロモーションアニメのタイトルは何ですか？",
     "choices": [
-      "BanG Dream! Our Notes",
-      "バンドリ！ ガールズバンドパーティ！",
-      "BanG Dream! Dreamer's Symphony",
-      "BanG Dream! Live Beats"
+      "Unanswered//butterfly",
+      "Sword Art Online: The Movie",
+      "SAO: Alicization Rising",
+      "SAO: Progressive Dawn"
     ],
-    "answer": "BanG Dream! Our Notes",
-    "explanation": "2026年6月のニュースによると、ゲーム「BanG Dream! Our Notes」の最新情報が明らかにされました。"
+    "answer": "Unanswered//butterfly",
+    "explanation": "2026年7月のニュースによると、ゲーム『ソードアート・オンライン』最新作の長編プロモーションアニメは『Unanswered//butterfly』というタイトルで、2026年7月5日にプレミア配信されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 1,
-    "question": "2026年6月のSummer Game Festで発表された『FFVII』シリーズの新作は何ですか？",
-    "choices": [
-      "FFVII リベレーション",
-      "FFVII リバース",
-      "FFVII リメイク",
-      "FFVII エバークライシス"
-    ],
-    "answer": "FFVII リベレーション",
-    "explanation": "2026年6月のSummer Game Festの発表によると、『FFVII リベレーション』が発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "2026年6月のニュースによると、最新情報がまとめられた「グランド・セフト・オート」シリーズのタイトルは何ですか？",
-    "choices": [
-      "グランド・セフト・オートVI",
-      "グランド・セフト・オートV",
-      "グランド・セフト・オートIV",
-      "グランド・セフト・オート：サンアンドレアス"
-    ],
-    "answer": "グランド・セフト・オートVI",
-    "explanation": "2026年6月のニュースによると、「グランド・セフト・オートVI」の最新情報がまとめられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "2026年6月3日のState of Playで最新情報が公開されたゲームのタイトルは何ですか？",
-    "choices": [
-      "Marvel's Wolverine",
-      "Marvel's Spider-Man 2",
-      "Marvel's Avengers",
-      "Marvel's Guardians of the Galaxy"
-    ],
-    "answer": "Marvel's Wolverine",
-    "explanation": "2026年6月3日のState of Playの発表によると、『Marvel's Wolverine』の最新情報が公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "2026年6月のニュースによると、最新のアップデート情報が公開されたゲームは何ですか？",
-    "choices": [
-      "エグリプト",
-      "モンスターストライク",
-      "パズル＆ドラゴンズ",
-      "グランブルーファンタジー"
-    ],
-    "answer": "エグリプト",
-    "explanation": "2026年6月のニュースによると、『エグリプト』の最新のアップデート情報が公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "2026年6月のニュースによると、生放送（予告番組）の最新情報がまとめられたゲームは何ですか？",
-    "choices": [
-      "原神",
-      "崩壊：スターレイル",
-      "アークナイツ",
-      "勝利の女神：NIKKE"
-    ],
-    "answer": "原神",
-    "explanation": "2026年6月のニュースによると、『原神』の生放送（予告番組）の最新情報がまとめられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "2026年6月のニュースによると、Fortniteのホラーマップ『だぁれかさんとアソぼ？』のゲーム体験動画を公開したのは誰ですか？",
-    "choices": [
-      "小國舞羽",
-      "壱原侑子",
-      "坂本真綾",
-      "花澤香菜"
-    ],
-    "answer": "小國舞羽",
-    "explanation": "2026年6月のニュースによると、小國舞羽が『だぁれかさんとアソぼ？』のゲーム体験動画を公開しました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "2026年6月のニュースによると、『キングダム ハーツIV』の発売が発表されたコンソールはどれですか？",
-    "choices": [
-      "Switch2やPS5",
-      "PS5やXbox Series X",
-      "SwitchやPC",
-      "PS4やXbox One"
-    ],
-    "answer": "Switch2やPS5",
-    "explanation": "2026年6月のニュースによると、『キングダム ハーツIV』はSwitch2やPS5などで発売されることが発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "2026年6月2日のState of Playで、体験版の配信が発表された完全新作ゲームは何ですか？",
-    "choices": [
-      "鬼武者",
-      "真・三國無双2",
-      "エースコンバット8",
-      "Marvel's Wolverine"
-    ],
-    "answer": "鬼武者",
-    "explanation": "2026年6月2日のState of Playの発表によると、完全新作『鬼武者』の体験版配信が発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "2026年6月のニュースによると、「空の軌跡 the 2nd」で最新情報が公開された要素は何ですか？",
-    "choices": [
-      "ゲームシステムやキャラクター情報",
-      "ストーリーの結末",
-      "新たな地域とダンジョン",
-      "マルチプレイモードの詳細"
-    ],
-    "answer": "ゲームシステムやキャラクター情報",
-    "explanation": "2026年6月のニュースによると、「空の軌跡 the 2nd」ではゲームシステムや結社《身喰らう蛇》の執行者メンバーらキャラクター情報が公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "2026年6月のニュースによると、「BanG Dream! Our Notes」で実装楽曲として発表されたAve Mujicaの楽曲は何ですか？",
-    "choices": [
-      "残酷な天使のテーゼ",
-      "紅蓮の弓矢",
-      "unravel",
-      "廻廻奇譚"
-    ],
-    "answer": "残酷な天使のテーゼ",
-    "explanation": "2026年6月のニュースによると、「BanG Dream! Our Notes」ではAve Mujicaの「残酷な天使のテーゼ」が実装楽曲として発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "2026年6月のニュースにおいて、「BANDAI CARD GAMES ネクストプラン発表会2026.06」にて最新情報が解禁されたカードゲームは何ですか？",
+    "question": "ブースターパック「世界最強の戦士」【OP-17】の発売記念イベントが開催決定したカードゲームは何ですか？",
     "choices": [
       "ONE PIECEカードゲーム",
-      "ドラゴンボールカードゲーム",
-      "遊戯王カードゲーム",
+      "遊戯王OCG",
+      "デュエル・マスターズ",
       "ポケモンカードゲーム"
     ],
     "answer": "ONE PIECEカードゲーム",
-    "explanation": "2026年6月のニュースによると、「BANDAI CARD GAMES ネクストプラン発表会2026.06」にてONE PIECEカードゲームの最新情報が解禁されました。"
+    "explanation": "最近のニュースによると、『ONE PIECEカードゲーム』のブースターパック「世界最強の戦士」【OP-17】発売記念イベントが開催決定しました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 1,
+    "question": "最近、スマートフォンゲーム化が決定したアニメ『チェンソーマン』の最新PVが解禁された篇のタイトルは何ですか？",
+    "choices": [
+      "刺客篇",
+      "公安篇",
+      "魔人篇",
+      "地獄篇"
+    ],
+    "answer": "刺客篇",
+    "explanation": "最近のニュースによると、『チェンソーマン 刺客篇』の最新PVが解禁され、スマートフォンゲーム化も決定しました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 1,
+    "question": "最近、シリーズ最新作『キングダム ハーツIV』の発売が発表されたゲームシリーズは何ですか？",
+    "choices": [
+      "キングダム ハーツ",
+      "ファイナルファンタジー",
+      "ゼルダの伝説",
+      "テイルズ オブ"
+    ],
+    "answer": "キングダム ハーツ",
+    "explanation": "最近のニュースによると、『キングダム ハーツ』シリーズ最新作『キングダム ハーツIV』の発売が発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 1,
+    "question": "ゲーム『BanG Dream! Our Notes』で実装楽曲として発表された、Ave Mujicaがカバーする楽曲は何ですか？",
+    "choices": [
+      "残酷な天使のテーゼ",
+      "紅蓮の弓矢",
+      "God knows…",
+      "創聖のアクエリオン"
+    ],
+    "answer": "残酷な天使のテーゼ",
+    "explanation": "最近のニュースによると、ゲーム『BanG Dream! Our Notes』で、Ave Mujicaがカバーする『残酷な天使のテーゼ』が実装楽曲として発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 1,
+    "question": "最近、アップデートの最新情報が公開されたゲームのタイトルは何ですか？",
+    "choices": [
+      "エルデンリングナイトレイン",
+      "ダークソウル リマスタード",
+      "ブラッドボーン",
+      "SEKIRO: SHADOWS DIE TWICE"
+    ],
+    "answer": "エルデンリングナイトレイン",
+    "explanation": "最近のニュースによると、『エルデンリングナイトレイン』のアップデートの最新情報が公開されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 1,
+    "question": "2026年6月9日に開催されたゲーム関連のイベントは何ですか？",
+    "choices": [
+      "ニンテンドーダイレクト",
+      "State of Play",
+      "Xbox Games Showcase",
+      "PC Gaming Show"
+    ],
+    "answer": "ニンテンドーダイレクト",
+    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」が開催されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 1,
+    "question": "「進撃の巨人」の物語を最初から最後まで描く集大成として、発売が決定したゲームのタイトルは何ですか？",
+    "choices": [
+      "進撃の巨人３",
+      "進撃の巨人TACTICS",
+      "進撃の巨人 死地からの脱出",
+      "進撃の巨人２ -Final Battle-"
+    ],
+    "answer": "進撃の巨人３",
+    "explanation": "最近のニュースによると、「進撃の巨人」の物語を最初から最後まで描く集大成として、ゲーム『進撃の巨人３』の発売が決定しました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 1,
+    "question": "最近、ゲームシステムやキャラクター情報が公開された『空の軌跡』シリーズのタイトルは何ですか？",
+    "choices": [
+      "空の軌跡 the 2nd",
+      "空の軌跡FC",
+      "空の軌跡SC",
+      "空の軌跡the 3rd"
+    ],
+    "answer": "空の軌跡 the 2nd",
+    "explanation": "最近のニュースによると、『空の軌跡 the 2nd』のゲームシステムやキャラクター情報が公開されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 2,
-    "question": "2026年6月のSummer Game Festで発表された『バイオハザード』シリーズの新作は、どのような形式でのリリースが発表されましたか？",
-    "choices": [
-      "リメイク",
-      "完全新作",
-      "続編",
-      "スピンオフ"
-    ],
-    "answer": "リメイク",
-    "explanation": "2026年6月のSummer Game Festの発表によると、『バイオハザード ベロニカ』のリメイクが発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "2026年6月のSummer Game Festで大型DLCの発表があったゲームは何ですか？",
-    "choices": [
-      "モンハンワイルズ",
-      "FFVII リベレーション",
-      "ステラーブレイド",
-      "GTA6"
-    ],
-    "answer": "モンハンワイルズ",
-    "explanation": "2026年6月のSummer Game Festの発表によると、『モンハンワイルズ』の大型DLCが発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "2026年6月のニュースによると、「ペルソナ5X」の最新アップデートのバージョン番号は何ですか？",
-    "choices": [
-      "Ver.4.4",
-      "Ver.3.0",
-      "Ver.5.5",
-      "Ver.2.1"
-    ],
-    "answer": "Ver.4.4",
-    "explanation": "2026年6月のニュースによると、『ペルソナ5X』の最新アップデートはVer.4.4です。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "2026年6月3日のState of Playで配信されたプログラムの長さはどれくらいでしたか？",
-    "choices": [
-      "60分以上",
-      "30分程度",
-      "90分以上",
-      "45分程度"
-    ],
-    "answer": "60分以上",
-    "explanation": "2026年6月3日のState of Playの発表によると、同番組は60分以上で配信されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年6月のニュースによると、「ONE PIECEカードゲーム」のブースターパックで、発売記念イベントが開催されるパックのナンバリングは何ですか？",
+    "question": "ONE PIECEカードゲームのブースターパック「世界最強の戦士」のパック番号は何ですか？",
     "choices": [
       "OP-17",
       "OP-01",
@@ -7355,77 +7225,428 @@
       "OP-20"
     ],
     "answer": "OP-17",
-    "explanation": "2026年6月のニュースによると、ONE PIECEカードゲームのブースターパック【OP-17】の発売記念イベントが開催されます。"
+    "explanation": "最近のニュースによると、ONE PIECEカードゲームのブースターパック「世界最強の戦士」は【OP-17】として発売記念イベントが開催されます。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 3,
-    "question": "「Xbox Partner Preview」は、主にどのような会社のゲーム情報を届けましたか？",
+    "difficulty": 2,
+    "question": "2026年7月5日にプレミア配信された『Unanswered//butterfly』は、どのゲームシリーズの最新作のプロモーションアニメですか？",
     "choices": [
-      "サード パーティー各社",
-      "ファーストパーティー各社",
-      "インディーゲーム開発会社",
-      "日本のゲーム会社"
+      "ソードアート・オンライン",
+      "ファイナルファンタジー",
+      "テイルズ オブ",
+      "ゴッドイーター"
     ],
-    "answer": "サード パーティー各社",
-    "explanation": "2026年6月のニュースによると、「Xbox Partner Preview」はサード パーティー各社の最新ゲーム情報をお届けしました。"
+    "answer": "ソードアート・オンライン",
+    "explanation": "2026年7月のニュースによると、『Unanswered//butterfly』は『ソードアート・オンライン』ゲーム最新作の長編プロモーションアニメです。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年6月2日のState of Playで、新たに参戦が発表された『真・三國無双2』のキャラクターは誰ですか？",
+    "difficulty": 2,
+    "question": "ゲーム『BanG Dream! Our Notes』の最新情報で、実装楽曲が発表されたバンドグループは何ですか？",
     "choices": [
-      "紫鸞",
-      "呂布",
-      "趙雲",
-      "曹操"
+      "Ave Mujica",
+      "Poppin'Party",
+      "Roselia",
+      "Morfonica"
     ],
-    "answer": "紫鸞",
-    "explanation": "2026年6月2日のState of Playの発表によると、『真・三國無双2』に紫鸞が参戦することが発表されました。"
+    "answer": "Ave Mujica",
+    "explanation": "最近のニュースによると、ゲーム『BanG Dream! Our Notes』の最新情報で、Ave Mujicaによる実装楽曲が発表されました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年6月のニュースによると、「空の軌跡 the 2nd」で情報が公開された結社《身喰らう蛇》のメンバーはどのような立場の人々でしたか？",
+    "difficulty": 2,
+    "question": "『キングダム ハーツIV』の発売が発表されたプラットフォームとして、ニュースで具体的に挙げられた次世代機は何ですか？",
     "choices": [
-      "執行者メンバー",
-      "幹部メンバー",
-      "一般兵士",
-      "科学者"
+      "Switch2とPS5",
+      "PS6とXbox Series X",
+      "SwitchとPS4",
+      "Xbox OneとPC"
     ],
-    "answer": "執行者メンバー",
-    "explanation": "2026年6月のニュースによると、「空の軌跡 the 2nd」では結社《身喰らう蛇》の執行者メンバーらのキャラクター情報が公開されました。"
+    "answer": "Switch2とPS5",
+    "explanation": "最近のニュースによると、『キングダム ハーツIV』はSwitch2やPS5などで発売されると発表されました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年6月のSummer Game Festで、続編の発表があったゲームは何ですか？",
+    "difficulty": 2,
+    "question": "2026年6月2日のState of Playで、完全新作の体験版配信が発表されたゲームのタイトルは何ですか？",
     "choices": [
-      "ステラーブレイド",
-      "FFVII リベレーション",
-      "バイオハザード ベロニカ",
-      "モンハンワイルズ"
+      "鬼武者",
+      "デビルメイクライ",
+      "バイオハザード",
+      "大神"
     ],
-    "answer": "ステラーブレイド",
-    "explanation": "2026年6月のSummer Game Festの発表によると、『ステラーブレイド』の続編が発表されました。"
+    "answer": "鬼武者",
+    "explanation": "2026年6月2日のState of Playのニュースによると、完全新作『鬼武者』の体験版配信が発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 2,
+    "question": "ゲーム『進撃の巨人３』は、原作のどのような内容を描く集大成として発表されましたか？",
+    "choices": [
+      "物語を最初から最後まで",
+      "物語の最終章のみ",
+      "物語の序盤のみ",
+      "オリジナルストーリー"
+    ],
+    "answer": "物語を最初から最後まで",
+    "explanation": "最近のニュースによると、ゲーム『進撃の巨人３』は「進撃の巨人」の物語を最初から最後まで描く集大成として発売が決定しました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 2,
+    "question": "2026年6月2日のState of Playで、紫鸞が参戦することが発表されたゲームのタイトルは何ですか？",
+    "choices": [
+      "真・三國無双2",
+      "戦国無双5",
+      "無双OROCHI3",
+      "ゼルダ無双 厄災の黙示録"
+    ],
+    "answer": "真・三國無双2",
+    "explanation": "2026年6月2日のState of Playのニュースによると、『真・三國無双2』に紫鸞が参戦することが発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 2,
+    "question": "最近、ゲーム開発を終了したと報じられたゲーム会社は、Ubisoftともう一社どこですか？",
+    "choices": [
+      "Red Storm Entertainment",
+      "Electronic Arts",
+      "Activision Blizzard",
+      "Capcom"
+    ],
+    "answer": "Red Storm Entertainment",
+    "explanation": "最近のXRニュースの振り返りによると、Ubisoft、Red Storm Entertainmentのゲーム開発終了が報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 2,
+    "question": "最近、ゲームドロップのニュースがあったMinecraft関連のタイトルは何ですか？",
+    "choices": [
+      "Chaos Cubed",
+      "Minecraft Dungeons",
+      "Minecraft Legends",
+      "Minecraft Earth"
+    ],
+    "answer": "Chaos Cubed",
+    "explanation": "最近のニュースによると、『Chaos Cubed』のゲームドロップがMinecraft関連で報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 2,
+    "question": "「月刊大戦略 SSB2 2025年11月号」として、直近1か月のニュースやゲーム最新情報を届ける動画コンテンツが公開されたゲームのタイトルは何ですか？",
+    "choices": [
+      "大戦略 SSB2",
+      "鋼鉄の咆哮 ウォーシップコマンダー",
+      "萌え萌え2次大戦(略)",
+      "太平洋の嵐"
+    ],
+    "answer": "大戦略 SSB2",
+    "explanation": "最近のニュースによると、「月刊大戦略 SSB2 2025年11月号」の動画コンテンツが『大戦略 SSB2』向けに公開されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 3,
-    "question": "2026年6月のニュースによると、「ONE PIECEカードゲーム」のブースターパック【OP-17】は、どのようなイベントが開催される予定ですか？",
+    "question": "ONE PIECEカードゲームのブースターパック「世界最強の戦士」【OP-17】の発売記念イベントは、どのような種類のイベントとして開催されますか？",
     "choices": [
       "発売記念イベント",
-      "プレリリースイベント",
-      "世界大会予選",
-      "コラボレーションイベント"
+      "オンライン大会",
+      "プロモーションビデオ公開",
+      "限定グッズ販売会"
     ],
     "answer": "発売記念イベント",
-    "explanation": "2026年6月のニュースによると、ONE PIECEカードゲームのブースターパック 世界最強の戦士【OP-17】発売記念イベントが開催決定しました。"
+    "explanation": "最近のニュースによると、ONE PIECEカードゲームのブースターパック「世界最強の戦士」【OP-17】は発売記念イベントが開催決定しました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 3,
-    "question": "2026年6月のニュースによると、『キングダム ハーツIV』が発売されるコンソールとして言及されたのはどれですか？",
+    "question": "『Unanswered//butterfly』がプレミア配信されたのは何曜日ですか？",
+    "choices": [
+      "日曜日",
+      "月曜日",
+      "金曜日",
+      "土曜日"
+    ],
+    "answer": "日曜日",
+    "explanation": "2026年7月のニュースによると、『Unanswered//butterfly』は2026年7月5日（日）にプレミア配信されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "ゲーム『BanG Dream! Our Notes』で最新情報が明らかにされた内容には、実装楽曲の発表の他に何が含まれていましたか？",
+    "choices": [
+      "ゲームシステム",
+      "キャラクターデザイン",
+      "ストーリーの概要",
+      "声優キャスト"
+    ],
+    "answer": "ゲームシステム",
+    "explanation": "最近のニュースによると、ゲーム『BanG Dream! Our Notes』の最新情報では、実装楽曲だけでなくゲームシステムに関する情報も明らかにされました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "『キングダム ハーツIV』の発売が発表されたのは、どのシリーズの最新作としてですか？",
+    "choices": [
+      "キングダム ハーツ",
+      "ファイナルファンタジー",
+      "ゼルダの伝説",
+      "テイルズ オブ"
+    ],
+    "answer": "キングダム ハーツ",
+    "explanation": "最近のニュースによると、『キングダム ハーツ』シリーズの最新作として『キングダム ハーツIV』が発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "2026年6月2日のState of Playで、発売日決定が発表された『エースコンバット8』は、どのような種類の発表でしたか？",
+    "choices": [
+      "発売日決定",
+      "新キャラクター参戦",
+      "体験版配信",
+      "新モード追加"
+    ],
+    "answer": "発売日決定",
+    "explanation": "2026年6月2日のState of Playのニュースによると、『エースコンバット8』の発売日決定が発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "ゲーム『進撃の巨人３』は、「進撃の巨人」の物語のどのような点を描く集大成とされていますか？",
+    "choices": [
+      "物語を最初から最後まで",
+      "物語の結末のみ",
+      "物語の始まりのみ",
+      "スピンオフストーリー"
+    ],
+    "answer": "物語を最初から最後まで",
+    "explanation": "最近のニュースによると、ゲーム『進撃の巨人３』は「進撃の巨人」の物語を最初から最後まで描く集大成として発売が決定しました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "『空の軌跡 the 2nd』の最新情報で公開されたキャラクター情報は、どの結社のメンバーに関するものですか？",
+    "choices": [
+      "結社《身喰らう蛇》",
+      "帝国解放戦線",
+      "赤い星座",
+      "ゼムリア大陸遊撃士協会"
+    ],
+    "answer": "結社《身喰らう蛇》",
+    "explanation": "最近のニュースによると、『空の軌跡 the 2nd』の最新情報で、結社《身喰らう蛇》の執行者メンバーらキャラ情報が公開されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "アニメ『チェンソーマン 刺客篇』の最新PV解禁と同時に決定したゲーム化のプラットフォームは何ですか？",
+    "choices": [
+      "スマートフォン",
+      "PlayStation 5",
+      "Nintendo Switch",
+      "PC"
+    ],
+    "answer": "スマートフォン",
+    "explanation": "最近のニュースによると、『チェンソーマン 刺客篇』の最新PV解禁と同時に、スマートフォンゲーム化が決定しました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "最近、大規模なレイオフを発表したゲーム会社は何ですか？",
+    "choices": [
+      "Epic Games",
+      "Sony Interactive Entertainment",
+      "Nintendo",
+      "Microsoft Xbox"
+    ],
+    "answer": "Epic Games",
+    "explanation": "最近のXRニュースの振り返りによると、Epic Gamesの大規模レイオフが発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "2026年6月9日に発表内容がまとめられた「ニンテンドーダイレクト」は、どのゲームプラットフォームに関するイベントですか？",
+    "choices": [
+      "任天堂",
+      "PlayStation",
+      "Xbox",
+      "PC"
+    ],
+    "answer": "任天堂",
+    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」は任天堂の発表内容をまとめたものでした。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "ONE PIECEカードゲームのブースターパック「世界最強の戦士」【OP-17】の発売記念イベントは、どのような内容のイベントとして期待されますか？",
+    "choices": [
+      "新規カードの体験会や大会",
+      "アニメの先行上映会",
+      "声優トークショー",
+      "原作者のサイン会"
+    ],
+    "answer": "新規カードの体験会や大会",
+    "explanation": "最近のニュースによると、ONE PIECEカードゲームのブースターパック「世界最強の戦士」【OP-17】の発売記念イベントが開催決定したため、新規カードの体験や対戦イベントが期待されます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "ゲーム『ソードアート・オンライン』最新作のプロモーションアニメ『Unanswered//butterfly』のプレミア配信日はいつでしたか？",
+    "choices": [
+      "2026年7月5日",
+      "2026年6月2日",
+      "2026年7月8日",
+      "2026年8月1日"
+    ],
+    "answer": "2026年7月5日",
+    "explanation": "2026年7月のニュースによると、『Unanswered//butterfly』は2026年7月5日（日）にプレミア配信されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "ゲーム『BanG Dream! Our Notes』の最新情報で、実装楽曲として発表された『残酷な天使のテーゼ』をカバーするバンドグループは何ですか？",
+    "choices": [
+      "Ave Mujica",
+      "MyGO!!!!!",
+      "RAISE A SUILEN",
+      "Afterglow"
+    ],
+    "answer": "Ave Mujica",
+    "explanation": "最近のニュースによると、ゲーム『BanG Dream! Our Notes』の最新情報で、Ave Mujicaがカバーする『残酷な天使のテーゼ』が実装楽曲として発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "『キングダム ハーツIV』の発表で、対応プラットフォームとして次世代のNintendoハードウェアが示唆されましたが、その名称は何ですか？",
+    "choices": [
+      "Switch2",
+      "Nintendo Switch Pro",
+      "New Nintendo Switch",
+      "Nintendo Switch U"
+    ],
+    "answer": "Switch2",
+    "explanation": "最近のニュースによると、『キングダム ハーツIV』はSwitch2やPS5などで発売されると発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "2026年6月2日のState of Playで発表された『鬼武者』は、どのような種類のゲームとして体験版が配信されましたか？",
+    "choices": [
+      "完全新作",
+      "リメイク版",
+      "リマスター版",
+      "続編"
+    ],
+    "answer": "完全新作",
+    "explanation": "2026年6月2日のState of Playのニュースによると、完全新作『鬼武者』の体験版配信が発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "ゲーム『進撃の巨人３』が「集大成」と謳われる理由は、どのような点にありますか？",
+    "choices": [
+      "物語を最初から最後まで描く",
+      "マルチエンディングを採用",
+      "全キャラクターを網羅",
+      "VR対応"
+    ],
+    "answer": "物語を最初から最後まで描く",
+    "explanation": "最近のニュースによると、ゲーム『進撃の巨人３』は「進撃の巨人」の物語を最初から最後まで描く集大成として発売が決定しました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "『空の軌跡 the 2nd』の最新情報で、ゲームシステムと共に公開されたのはどのような情報ですか？",
+    "choices": [
+      "キャラクター情報",
+      "アニメーション情報",
+      "サウンドトラック情報",
+      "グッズ情報"
+    ],
+    "answer": "キャラクター情報",
+    "explanation": "最近のニュースによると、『空の軌跡 the 2nd』のゲームシステムなど最新情報が公開され、結社《身喰らう蛇》の執行者メンバーらキャラ情報も含まれていました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "UbisoftとRed Storm Entertainmentのゲーム開発終了は、どのようなニュースの振り返りの中で報じられましたか？",
+    "choices": [
+      "週間振り返りXRニュース",
+      "月刊ゲーム業界レポート",
+      "四半期決算発表",
+      "年間総括ゲーム情報"
+    ],
+    "answer": "週間振り返りXRニュース",
+    "explanation": "最近のXRニュースの振り返りによると、Ubisoft、Red Storm Entertainmentのゲーム開発終了が報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "「月刊大戦略 SSB2 2025年11月号」の動画コンテンツは、どのような情報を提供するものとして公開されましたか？",
+    "choices": [
+      "直近1か月のニュースとゲーム最新情報",
+      "過去のアップデート履歴",
+      "開発秘話",
+      "ユーザーインタビュー"
+    ],
+    "answer": "直近1か月のニュースとゲーム最新情報",
+    "explanation": "最近のニュースによると、「月刊大戦略 SSB2 2025年11月号」は直近1か月のニュース、ゲーム最新情報を届ける動画コンテンツとして公開されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "2026年6月9日のニンテンドーダイレクトでは、どのような種類の発表が行われましたか？",
+    "choices": [
+      "発表内容まとめ",
+      "新作ゲームの個別紹介",
+      "ハードウェアの発表",
+      "開発者インタビュー"
+    ],
+    "answer": "発表内容まとめ",
+    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」は発表内容のまとめとして報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "ONE PIECEカードゲームのブースターパック「世界最強の戦士」【OP-17】の発売記念イベントは、誰を対象としたものと考えられますか？",
+    "choices": [
+      "ONE PIECEカードゲームのプレイヤー",
+      "ONE PIECEのアニメファン",
+      "ONE PIECEの漫画読者",
+      "トレーディングカードゲーム初心者"
+    ],
+    "answer": "ONE PIECEカードゲームのプレイヤー",
+    "explanation": "最近のニュースによると、ONE PIECEカードゲームのブースターパック【OP-17】の発売記念イベントは、主にカードゲームのプレイヤーを対象としたものと推測されます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "『ソードアート・オンライン』ゲーム最新作の長編プロモーションアニメ『Unanswered//butterfly』がプレミア配信された媒体は何ですか？",
+    "choices": [
+      "千葉テレビ放送",
+      "TOKYO MX",
+      "ニコニコ動画",
+      "YouTube"
+    ],
+    "answer": "千葉テレビ放送",
+    "explanation": "2026年7月のニュースによると、『Unanswered//butterfly』は千葉テレビ放送にてプレミア配信されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "ゲーム『BanG Dream! Our Notes』で、Ave Mujicaがカバーする『残酷な天使のテーゼ』が実装楽曲として発表されたのは、どのような種類の情報公開の一部でしたか？",
+    "choices": [
+      "最新情報",
+      "過去の楽曲振り返り",
+      "開発者インタビュー",
+      "ユーザーアンケート結果"
+    ],
+    "answer": "最新情報",
+    "explanation": "最近のニュースによると、ゲーム『BanG Dream! Our Notes』の最新情報として、Ave Mujicaの『残酷な天使のテーゼ』実装が発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "『キングダム ハーツIV』が発売されると発表されたプラットフォームで、PS5と共に具体的に挙げられたのは何ですか？",
     "choices": [
       "Switch2",
       "Xbox Series X",
@@ -7433,956 +7654,735 @@
       "PS4"
     ],
     "answer": "Switch2",
-    "explanation": "2026年6月のニュースによると、『キングダム ハーツIV』はSwitch2やPS5などで発売されることが発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年6月のニュースによると、どのゲームの最新情報が「GAME Watch」と「Yahoo!ニュース」でまとめられましたか？",
-    "choices": [
-      "グランド・セフト・オートVI",
-      "原神",
-      "エグリプト",
-      "ペルソナ5X"
-    ],
-    "answer": "グランド・セフト・オートVI",
-    "explanation": "2026年6月のニュースによると、「グランド・セフト・オートVI」の最新情報まとめはGAME WatchとYahoo!ニュースでまとめられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年6月3日のState of Playは、日本時間の何時から配信されましたか？",
-    "choices": [
-      "午前6時",
-      "午前9時",
-      "午後3時",
-      "午後9時"
-    ],
-    "answer": "午前6時",
-    "explanation": "2026年6月3日のState of Playは、午前6時から配信されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年6月のニュースによると、どのゲームが「生放送(予告番組)の最新情報まとめ」という形で情報が公開されましたか？",
-    "choices": [
-      "原神",
-      "ファイナルファンタジーXIV",
-      "モンスターハンターライズ",
-      "ゼルダの伝説 ティアーズ オブ ザ キングダム"
-    ],
-    "answer": "原神",
-    "explanation": "2026年6月のニュースによると、『原神』は生放送(予告番組)の最新情報まとめとして情報が公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年6月のニュースによると、Fortniteのホラーマップ『だぁれかさんとアソぼ？』のゲーム体験動画を公開したのは誰ですか？",
-    "choices": [
-      "小國舞羽",
-      "壱原侑子",
-      "坂本真綾",
-      "花澤香菜"
-    ],
-    "answer": "小國舞羽",
-    "explanation": "2026年6月のニュースによると、小國舞羽が『だぁれかさんとアソぼ？』のゲーム体験動画を公開しました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」の発表内容をまとめたニュースサイトはどこですか？",
-    "choices": [
-      "GAME Watch",
-      "ファミ通.com",
-      "電撃オンライン",
-      "IGN Japan"
-    ],
-    "answer": "GAME Watch",
-    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」の発表内容はGAME Watchでまとめられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年6月のニュースによると、「Xbox Partner Preview」で最新ゲーム情報をお届けしたのはどのプラットフォームの公式情報源ですか？",
-    "choices": [
-      "XBOX Wire",
-      "PlayStation.Blog",
-      "Nintendo Everything",
-      "Steamニュース"
-    ],
-    "answer": "XBOX Wire",
-    "explanation": "2026年6月のニュースによると、「Xbox Partner Preview」の最新情報はXBOX Wireで公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年6月2日のState of Playで発表された『真・三國無双2』のニュースは何でしたか？",
-    "choices": [
-      "紫鸞参戦",
-      "新作発表",
-      "大型アップデート",
-      "PS5版発売"
-    ],
-    "answer": "紫鸞参戦",
-    "explanation": "2026年6月2日のState of Playの発表によると、『真・三國無双2』に紫鸞が参戦することが発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年6月のニュースによると、「空の軌跡 the 2nd」で情報が公開された結社の名称は何ですか？",
-    "choices": [
-      "《身喰らう蛇》",
-      "《幻影旅団》",
-      "《暁の組織》",
-      "《黒の組織》"
-    ],
-    "answer": "《身喰らう蛇》",
-    "explanation": "2026年6月のニュースによると、「空の軌跡 the 2nd」では結社《身喰らう蛇》の執行者メンバーらキャラクター情報が公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年6月のニュースによると、「BANDAI CARD GAMES ネクストプラン発表会2026.06」で最新情報が解禁されたのは、どの会社のカードゲームでしたか？",
-    "choices": [
-      "BANDAI",
-      "Konami",
-      "Bushiroad",
-      "Nintendo"
-    ],
-    "answer": "BANDAI",
-    "explanation": "2026年6月のニュースによると、「BANDAI CARD GAMES ネクストプラン発表会2026.06」にてONE PIECEカードゲームの最新情報が解禁されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年6月のSummer Game Festで発表された『ステラーブレイド』の新作は、どのような形式でのリリースが発表されましたか？",
-    "choices": [
-      "続編",
-      "リメイク",
-      "DLC",
-      "スピンオフ"
-    ],
-    "answer": "続編",
-    "explanation": "2026年6月のSummer Game Festの発表によると、『ステラーブレイド』の続編が発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年6月のニュースによると、どのゲームが「Ver.4.4のアップデートの最新情報まとめ」という形で情報が公開されましたか？",
-    "choices": [
-      "ペルソナ5X",
-      "原神",
-      "エグリプト",
-      "モンハンワイルズ"
-    ],
-    "answer": "ペルソナ5X",
-    "explanation": "2026年6月のニュースによると、『ペルソナ5X』はVer.4.4のアップデートの最新情報まとめとして情報が公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年6月のニュースによると、どのニュースサイトが「Summer Game Fest 2026」の発表内容をまとめましたか？",
-    "choices": [
-      "ファミ通",
-      "GAME Watch",
-      "電撃オンライン",
-      "IGN Japan"
-    ],
-    "answer": "ファミ通",
-    "explanation": "2026年6月のニュースによると、「Summer Game Fest 2026」の発表内容はファミ通でまとめられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年6月のニュースによると、どのゲームの「最新のアップデート情報」がGameWithで公開されましたか？",
-    "choices": [
-      "エグリプト",
-      "原神",
-      "ペルソナ5X",
-      "モンハンワイルズ"
-    ],
-    "answer": "エグリプト",
-    "explanation": "2026年6月のニュースによると、『エグリプト』の最新のアップデート情報がGameWithで公開されました。"
+    "explanation": "最近のニュースによると、『キングダム ハーツIV』はSwitch2やPS5などで発売されると発表されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 5,
-    "question": "2026年6月のニュースによると、『キングダム ハーツIV』の発売が発表されたコンソールとして、Switch2と他に何が挙げられましたか？",
+    "question": "2026年6月2日のState of Playで、発売日決定が発表された『エースコンバット8』の発表は、どのイベントの一部として報じられましたか？",
     "choices": [
-      "PS5",
-      "Xbox Series X",
-      "PC",
-      "Nintendo Switch"
+      "State of Play",
+      "E3",
+      "Gamescom",
+      "TGS"
     ],
-    "answer": "PS5",
-    "explanation": "2026年6月のニュースによると、『キングダム ハーツIV』はSwitch2やPS5などで発売されることが発表されました。"
+    "answer": "State of Play",
+    "explanation": "2026年6月2日のState of Playのニュースによると、『エースコンバット8』の発売日決定が発表されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 5,
-    "question": "2026年6月のState of Playで、発売日決定が発表されたゲームのジャンルは何ですか？",
+    "question": "ゲーム『進撃の巨人３』が、原作の物語を最初から最後まで描く「集大成」として発売されることについて、どのような期待が持たれますか？",
     "choices": [
-      "フライトシューティング",
-      "アクションRPG",
-      "無双アクション",
-      "サバイバルホラー"
+      "原作ファンが全編をゲームで追体験できる",
+      "特定のキャラクターに焦点を当てる",
+      "オリジナルストーリーが展開される",
+      "マルチプレイ専用となる"
     ],
-    "answer": "フライトシューティング",
-    "explanation": "2026年6月2日のState of Playの発表によると、『エースコンバット8』の発売日決定が発表されました。エースコンバットシリーズはフライトシューティングです。"
+    "answer": "原作ファンが全編をゲームで追体験できる",
+    "explanation": "最近のニュースによると、ゲーム『進撃の巨人３』は「進撃の巨人」の物語を最初から最後まで描く集大成として発売が決定したため、原作ファンが全編をゲームで追体験できると期待されます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 5,
-    "question": "2026年6月のニュースによると、「空の軌跡 the 2nd」で公開された最新情報には、ゲームシステムと他にどのような情報が含まれていましたか？",
+    "question": "『空の軌跡 the 2nd』の最新情報で公開された、結社《身喰らう蛇》のメンバーはどのような役割を持つと明記されましたか？",
     "choices": [
-      "結社《身喰らう蛇》の執行者メンバーらキャラ情報",
-      "次のストーリー展開",
-      "新たなフィールド",
-      "サウンドトラックのリリース日"
+      "執行者メンバー",
+      "幹部メンバー",
+      "一般構成員",
+      "協力者"
     ],
-    "answer": "結社《身喰らう蛇》の執行者メンバーらキャラ情報",
-    "explanation": "2026年6月のニュースによると、「空の軌跡 the 2nd」ではゲームシステムなど最新情報が公開され、結社《身喰らう蛇》の執行者メンバーらキャラ情報も含まれていました。"
+    "answer": "執行者メンバー",
+    "explanation": "最近のニュースによると、『空の軌跡 the 2nd』の最新情報で、結社《身喰らう蛇》の執行者メンバーらキャラ情報が公開されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 5,
-    "question": "2026年6月のニュースによると、「BanG Dream! Our Notes」で実装楽曲として発表されたAve Mujicaの楽曲「残酷な天使のテーゼ」は、どのような情報として公開されましたか？",
+    "question": "アニメ『チェンソーマン 刺客篇』のスマートフォンゲーム化決定のニュースは、何と同時に報じられましたか？",
     "choices": [
-      "実装楽曲",
-      "カバー楽曲",
-      "新曲",
-      "コラボレーション楽曲"
+      "最新PV解禁",
+      "アニメ放送開始",
+      "漫画新刊発売",
+      "キャラクターグッズ発表"
     ],
-    "answer": "実装楽曲",
-    "explanation": "2026年6月のニュースによると、「BanG Dream! Our Notes」ではAve Mujicaの「残酷な天使のテーゼ」が実装楽曲として発表されました。"
+    "answer": "最新PV解禁",
+    "explanation": "最近のニュースによると、『チェンソーマン 刺客篇』の最新PV解禁と同時に、スマートフォンゲーム化が決定しました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 5,
-    "question": "2026年6月のニュースによると、ONE PIECEカードゲームの最新情報が解禁された「BANDAI CARD GAMES ネクストプラン発表会」の開催月は何ですか？",
+    "question": "Epic Gamesの大規模レイオフ発表は、どのゲーム開発会社に影響を及ぼしましたか？",
     "choices": [
-      "6月",
-      "5月",
-      "7月",
-      "8月"
+      "UbisoftとRed Storm Entertainment",
+      "Activision BlizzardとBungie",
+      "Electronic ArtsとRespawn Entertainment",
+      "Take-Two InteractiveとRockstar Games"
     ],
-    "answer": "6月",
-    "explanation": "2026年6月のニュースによると、「BANDAI CARD GAMES ネクストプラン発表会2026.06」にてONE PIECEカードゲームの最新情報が解禁されました。"
+    "answer": "UbisoftとRed Storm Entertainment",
+    "explanation": "最近のXRニュースの振り返りによると、Epic Gamesの大規模レイオフ発表に続き、Ubisoft、Red Storm Entertainmentのゲーム開発終了も報じられました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 5,
-    "question": "2026年6月のSummer Game Festで発表された『FFVII リベレーション』はどのような情報として公開されましたか？",
+    "question": "「月刊大戦略 SSB2 2025年11月号」の動画コンテンツが公開されたのは、どのゲームの最新情報のためですか？",
     "choices": [
-      "発表",
-      "リメイク",
-      "続編",
-      "大型DLC"
+      "大戦略 SSB2",
+      "大戦略パーフェクト",
+      "現代大戦略",
+      "アドバンスド大戦略"
     ],
-    "answer": "発表",
-    "explanation": "2026年6月のSummer Game Festの発表によると、『FFVII リベレーション』が発表されました。（他のタイトルはリメイク、DLC、続編と明記されているため）"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "2026年6月のニュースによると、どのゲームの「生放送(予告番組)」がGameWithで最新情報がまとめられましたか？",
-    "choices": [
-      "原神",
-      "ペルソナ5X",
-      "エグリプト",
-      "モンハンワイルズ"
-    ],
-    "answer": "原神",
-    "explanation": "2026年6月のニュースによると、『原神』の生放送(予告番組)の最新情報がGameWithでまとめられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "2026年6月3日のState of Playの発表によると、『Marvel's Wolverine』のどのような情報が公開されましたか？",
-    "choices": [
-      "最新情報",
-      "発売日",
-      "体験版配信",
-      "新キャラクター"
-    ],
-    "answer": "最新情報",
-    "explanation": "2026年6月3日のState of Playの発表によると、『Marvel's Wolverine』の最新情報が公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "2026年6月のニュースによると、「ONE PIECEカードゲーム」のブースターパック「世界最強の戦士」のナンバリングは何ですか？",
-    "choices": [
-      "OP-17",
-      "OP-16",
-      "OP-18",
-      "OP-15"
-    ],
-    "answer": "OP-17",
-    "explanation": "2026年6月のニュースによると、ONE PIECEカードゲームのブースターパック「世界最強の戦士」は【OP-17】です。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "2026年6月のSummer Game Festで発表された『モンハンワイルズ』の追加コンテンツはどのような種類でしたか？",
-    "choices": [
-      "大型DLC",
-      "無料アップデート",
-      "拡張パック",
-      "シーズンパス"
-    ],
-    "answer": "大型DLC",
-    "explanation": "2026年6月のSummer Game Festの発表によると、『モンハンワイルズ』の大型DLCが発表されました。"
+    "answer": "大戦略 SSB2",
+    "explanation": "最近のニュースによると、「月刊大戦略 SSB2 2025年11月号」の動画コンテンツは『大戦略 SSB2』の最新情報を届けるために公開されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 6,
-    "question": "2026年6月のニュースによると、Fortniteのホラーマップ『だぁれかさんとアソぼ？』のゲーム体験動画で、小國舞羽がどのようなリアクションをしたと報じられましたか？",
+    "question": "ONE PIECEカードゲームのブースターパック「世界最強の戦士」【OP-17】の発売記念イベントは、どのようなタイミングで開催が決定しましたか？",
     "choices": [
-      "絶叫",
-      "爆笑",
-      "無言",
-      "感動"
+      "パック発売に合わせて",
+      "アニメの節目に合わせて",
+      "漫画の連載記念",
+      "カードゲームの周年記念"
     ],
-    "answer": "絶叫",
-    "explanation": "2026年6月のニュースによると、小國舞羽が『だぁれかさんとアソぼ？』のゲーム体験動画で絶叫したと報じられました。"
+    "answer": "パック発売に合わせて",
+    "explanation": "最近のニュースによると、ONE PIECEカードゲームのブースターパック「世界最強の戦士」【OP-17】の発売記念イベントが開催決定したため、パックの発売に合わせて実施されると予想されます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 6,
-    "question": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」の発表内容まとめは、どのニュースサイトのどのセクションで公開されましたか？",
+    "question": "『ソードアート・オンライン』ゲーム最新作の長編プロモーションアニメ『Unanswered//butterfly』の「長編」という表現から、どのような特徴が予想されますか？",
     "choices": [
-      "GAME Watch（Yahoo!ニュース）",
-      "ファミ通.com（速報）",
-      "電撃オンライン（新着情報）",
-      "IGN Japan（ニュース）"
+      "通常のPVよりも上映時間が長い",
+      "複数のエピソードで構成される",
+      "劇場公開が前提となる",
+      "ゲームとは異なる独立した物語"
     ],
-    "answer": "GAME Watch（Yahoo!ニュース）",
-    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」の発表内容まとめはGAME Watch（Yahoo!ニュース）で公開されました。"
+    "answer": "通常のPVよりも上映時間が長い",
+    "explanation": "2026年7月のニュースによると、『Unanswered//butterfly』は「長編」プロモーションアニメとされているため、通常のゲームPVよりも上映時間が長いことが特徴として予想されます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 6,
-    "question": "2026年6月のニュースによると、「Xbox Partner Preview」は、サードパーティー各社のどのような情報をお届けしましたか？",
+    "question": "ゲーム『BanG Dream! Our Notes』で、最新情報が明らかにされた内容には、Ave Mujicaの『残酷な天使のテーゼ』実装以外にどのような情報が含まれていましたか？",
     "choices": [
-      "最新ゲーム情報",
-      "経営戦略",
-      "決算情報",
-      "採用情報"
+      "ゲームシステムやその他実装楽曲",
+      "キャラクターボイスキャスト",
+      "イベントスケジュール",
+      "コラボレーション情報"
     ],
-    "answer": "最新ゲーム情報",
-    "explanation": "2026年6月のニュースによると、「Xbox Partner Preview」はサード パーティー各社の最新ゲーム情報をお届けしました。"
+    "answer": "ゲームシステムやその他実装楽曲",
+    "explanation": "最近のニュースによると、ゲーム『BanG Dream! Our Notes』の最新情報では、Ave Mujicaの『残酷な天使のテーゼ』実装楽曲発表の他に、ゲームシステムなど最新情報が明らかにされました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 6,
-    "question": "2026年6月2日のState of Playで、発売日決定、新キャラクター参戦、体験版配信の発表があったゲームはそれぞれ何ですか？",
+    "question": "『キングダム ハーツIV』の発表で、対応プラットフォームとして次世代のNintendoハードウェアとPlayStationの現行機が挙げられましたが、その組み合わせは何でしたか？",
     "choices": [
-      "エースコンバット8、真・三國無双2、鬼武者",
-      "鬼武者、エースコンバット8、真・三國無双2",
-      "真・三國無双2、鬼武者、エースコンバット8",
-      "Marvel's Wolverine、エースコンバット8、真・三國無双2"
+      "Switch2とPS5",
+      "Switch ProとPS4",
+      "Nintendo SwitchとPS5",
+      "New 3DSとPS Vita"
     ],
-    "answer": "エースコンバット8、真・三國無双2、鬼武者",
-    "explanation": "2026年6月2日のState of Playの発表によると、『エースコンバット8』の発売日決定、『真・三國無双2』に紫鸞参戦、完全新作『鬼武者』体験版配信がありました。"
+    "answer": "Switch2とPS5",
+    "explanation": "最近のニュースによると、『キングダム ハーツIV』はSwitch2やPS5などで発売されると発表されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 6,
-    "question": "2026年6月のニュースによると、「空の軌跡 the 2nd」で公開された最新情報には、ゲームシステムと他に何が含まれていましたか？",
+    "question": "2026年6月2日のState of Playで、完全新作『鬼武者』の体験版配信が発表されましたが、この発表はどのような意味合いを持つと考えられますか？",
     "choices": [
-      "結社《身喰らう蛇》の執行者メンバーらキャラ情報",
-      "次のシリーズの予告",
-      "開発秘話",
-      "サウンドトラック情報"
+      "ゲームの発売が近いことを示唆",
+      "シリーズのリブートを示唆",
+      "新しいジャンルへの挑戦",
+      "VRゲームとしての展開"
     ],
-    "answer": "結社《身喰らう蛇》の執行者メンバーらキャラ情報",
-    "explanation": "2026年6月のニュースによると、「空の軌跡 the 2nd」ではゲームシステムなど最新情報が公開され、結社《身喰らう蛇》の執行者メンバーらキャラ情報も含まれていました。"
+    "answer": "ゲームの発売が近いことを示唆",
+    "explanation": "2026年6月2日のState of Playのニュースによると、完全新作『鬼武者』の体験版配信が発表されたことから、ゲームの発売が近いことを示唆していると考えられます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 6,
-    "question": "2026年6月のニュースによると、「BanG Dream! Our Notes」で実装楽曲として発表されたAve Mujicaの楽曲「残酷な天使のテーゼ」は、どのニュースサイトで報じられましたか？",
+    "question": "ゲーム『進撃の巨人３』が「集大成」として発売されることは、原作ファンにとってどのような体験を提供すると期待されますか？",
     "choices": [
-      "Yahoo!ニュース",
-      "ファミ通.com",
-      "GAME Watch",
-      "オリコンニュース"
+      "原作の物語を追体験し、補完する",
+      "原作とは異なる結末を迎える",
+      "原作に登場しないキャラクターを操作する",
+      "原作の時代背景を自由に探索する"
     ],
-    "answer": "Yahoo!ニュース",
-    "explanation": "2026年6月のニュースによると、ゲーム「BanG Dream! Our Notes」の最新情報において、Ave Mujica「残酷な天使のテーゼ」など実装楽曲もYahoo!ニュースで発表されました。"
+    "answer": "原作の物語を追体験し、補完する",
+    "explanation": "最近のニュースによると、ゲーム『進撃の巨人３』は「進撃の巨人」の物語を最初から最後まで描く集大成として発売が決定したため、原作ファンが物語を追体験し、ゲーム独自の要素で補完する体験が期待されます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 6,
-    "question": "2026年6月のSummer Game Festで発表された中で、リメイク版の発表があったゲームは何ですか？",
+    "question": "『空の軌跡 the 2nd』の最新情報で公開された結社《身喰らう蛇》のメンバー情報は、具体的にどのようなメンバーについてでしたか？",
     "choices": [
-      "バイオハザード ベロニカ",
-      "FFVII リベレーション",
-      "モンハンワイルズ",
-      "ステラーブレイド"
+      "執行者メンバー",
+      "最高幹部",
+      "一般戦闘員",
+      "スパイ"
     ],
-    "answer": "バイオハザード ベロニカ",
-    "explanation": "2026年6月のSummer Game Festの発表によると、『バイオハザード ベロニカ』のリメイクが発表されました。"
+    "answer": "執行者メンバー",
+    "explanation": "最近のニュースによると、『空の軌跡 the 2nd』の最新情報で、結社《身喰らう蛇》の執行者メンバーらキャラ情報が公開されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 6,
-    "question": "2026年6月のニュースによると、「グランド・セフト・オートVI」の最新情報まとめは、どのニュースサイトで公開されましたか？",
+    "question": "Epic Gamesの大規模レイオフ発表、Ubisoft、Red Storm Entertainmentのゲーム開発終了のニュースは、どのような技術分野の振り返りとして報じられましたか？",
     "choices": [
-      "GAME Watch",
-      "ファミ通.com",
-      "電撃オンライン",
-      "IGN Japan"
+      "XRニュース",
+      "AI技術ニュース",
+      "クラウドゲーミングニュース",
+      "eスポーツニュース"
     ],
-    "answer": "GAME Watch",
-    "explanation": "2026年6月のニュースによると、「グランド・セフト・オートVI」の最新情報まとめはGAME Watchで公開されました。"
+    "answer": "XRニュース",
+    "explanation": "最近のXRニュースの振り返りによると、Epic Gamesの大規模レイオフ発表やUbisoft、Red Storm Entertainmentのゲーム開発終了が報じられました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 6,
-    "question": "2026年6月のニュースによると、「ペルソナ5X」Ver.4.4のアップデートの最新情報まとめは、どのニュースサイトで公開されましたか？",
+    "question": "「月刊大戦略 SSB2 2025年11月号」の動画コンテンツは、具体的に何ヶ月分のニュースや情報を届けるものと紹介されましたか？",
     "choices": [
-      "GameWith",
-      "ファミ通.com",
-      "電撃オンライン",
-      "IGN Japan"
+      "直近1か月",
+      "直近3か月",
+      "直近半年",
+      "直近1年"
     ],
-    "answer": "GameWith",
-    "explanation": "2026年6月のニュースによると、『ペルソナ5X』Ver.4.4のアップデートの最新情報まとめはGameWithで公開されました。"
+    "answer": "直近1か月",
+    "explanation": "最近のニュースによると、「月刊大戦略 SSB2 2025年11月号」は直近1か月のニュース、ゲーム最新情報を届ける動画コンテンツとして公開されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 6,
-    "question": "2026年6月3日のState of Playの発表によると、『Marvel's Wolverine』の最新情報などを60分以上でお届けしたニュースサイトはどこですか？",
+    "question": "2026年6月9日のニンテンドーダイレクトの発表内容まとめは、主にどのような情報が期待されるイベントでしたか？",
     "choices": [
-      "GAME Watch",
-      "ファミ通",
-      "IGN Japan",
-      "オリコンニュース"
+      "新作ゲームの発表や既存タイトルのアップデート情報",
+      "任天堂の経営戦略発表",
+      "次世代機の詳細発表",
+      "eスポーツ大会の告知"
     ],
-    "answer": "GAME Watch",
-    "explanation": "2026年6月3日のState of Playの発表によると、『Marvel's Wolverine』最新情報などを60分以上でお届けしたニュースはGAME Watchで公開されました。"
+    "answer": "新作ゲームの発表や既存タイトルのアップデート情報",
+    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」は発表内容まとめとして報じられ、通常は新作ゲーム発表や既存タイトルのアップデート情報が期待されるイベントです。"
   },
   {
     "category": "ゲーム",
     "difficulty": 7,
-    "question": "2026年6月のニュースによると、ONE PIECEカードゲームのブースターパック「世界最強の戦士」【OP-17】発売記念イベントは、どのような情報として公開されましたか？",
+    "question": "ONE PIECEカードゲームのブースターパック「世界最強の戦士」【OP-17】の発売記念イベントに関して、ニュースで言及された内容から、どのような目的で開催されると推測できますか？",
     "choices": [
-      "開催決定",
-      "詳細発表",
-      "参加者募集開始",
-      "事前登録受付中"
+      "新規パックのプロモーションとコミュニティ活性化",
+      "アニメのキャラクター人気投票",
+      "漫画の特別エピソード公開",
+      "カードゲームのルール変更発表"
     ],
-    "answer": "開催決定",
-    "explanation": "2026年6月のニュースによると、ONE PIECEカードゲームのブースターパック 世界最強の戦士【OP-17】発売記念イベントが開催決定として公開されました。"
+    "answer": "新規パックのプロモーションとコミュニティ活性化",
+    "explanation": "最近のニュースによると、ONE PIECEカードゲームのブースターパック【OP-17】発売記念イベントが開催決定したことから、新規パックのプロモーションとプレイヤーコミュニティの活性化が主な目的と推測されます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 7,
-    "question": "2026年6月のニュースによると、『キングダム ハーツIV』の発表はどのニュースサイトで報じられましたか？",
+    "question": "『ソードアート・オンライン』ゲーム最新作の長編プロモーションアニメ『Unanswered//butterfly』が2026年7月5日にプレミア配信されたというニュースは、ゲームのリリース時期に関してどのような示唆を与えますか？",
     "choices": [
-      "オリコンニュース",
-      "ファミ通.com",
-      "GAME Watch",
-      "電撃オンライン"
+      "ゲームのリリースが近いことを示唆している",
+      "アニメのリリースが先行していることを示唆",
+      "ゲーム開発が長期化していることを示唆",
+      "ゲームのリリースは未定であることを示唆"
     ],
-    "answer": "オリコンニュース",
-    "explanation": "2026年6月のニュースによると、『キングダム ハーツIV』の発表はオリコンニュースで報じられました。"
+    "answer": "ゲームのリリースが近いことを示唆している",
+    "explanation": "2026年7月のニュースによると、ゲーム最新作の長編プロモーションアニメがプレミア配信されたことから、ゲーム本体のリリースが近いことを示唆していると考えられます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 7,
-    "question": "2026年6月2日のState of Playで発表された完全新作『鬼武者』のどのような情報が公開されましたか？",
+    "question": "ゲーム『BanG Dream! Our Notes』の最新情報で、Ave Mujicaがカバーする『残酷な天使のテーゼ』が実装楽曲として発表されたことは、どのような反響を呼ぶと予想されますか？",
     "choices": [
-      "体験版配信",
-      "発売日決定",
-      "新キャラクター発表",
-      "プラットフォーム発表"
+      "バンドリファンとエヴァファンの双方からの注目",
+      "ゲームの新規ユーザー層獲得",
+      "既存プレイヤーの離反",
+      "海外市場での不評"
     ],
-    "answer": "体験版配信",
-    "explanation": "2026年6月2日のState of Playの発表によると、完全新作『鬼武者』の体験版配信が発表されました。"
+    "answer": "バンドリファンとエヴァファンの双方からの注目",
+    "explanation": "最近のニュースによると、ゲーム『BanG Dream! Our Notes』でAve Mujicaが人気曲『残酷な天使のテーゼ』をカバーすることが発表されたため、バンドリファンだけでなく、原曲のファンからも注目を集めると予想されます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 7,
-    "question": "2026年6月のニュースによると、「空の軌跡 the 2nd」で最新情報が公開されたのは、どのニュースサイトで報じられましたか？",
+    "question": "『キングダム ハーツIV』がSwitch2やPS5などで発売されるという発表は、シリーズのファン層にどのような影響を与えると予想されますか？",
     "choices": [
-      "GAME Watch",
-      "ファミ通.com",
-      "電撃オンライン",
-      "IGN Japan"
+      "幅広い層にアピールし、新規ファン獲得に繋がる",
+      "既存ファン層の離反を招く",
+      "特定のプラットフォームへの集中を促す",
+      "グラフィック面での期待値を低下させる"
     ],
-    "answer": "GAME Watch",
-    "explanation": "2026年6月のニュースによると、「空の軌跡 the 2nd」の最新情報はGAME Watchで公開されました。"
+    "answer": "幅広い層にアピールし、新規ファン獲得に繋がる",
+    "explanation": "最近のニュースによると、『キングダム ハーツIV』がSwitch2やPS5などの複数のプラットフォームで発売されるため、幅広い層にアピールし、新規ファン獲得に繋がると予想されます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 7,
-    "question": "2026年6月のニュースによると、ONE PIECEカードゲームの最新情報が解禁されたイベントの正確な名称は何ですか？",
+    "question": "2026年6月2日のState of Playで、『真・三國無双2』に紫鸞が参戦することが発表されましたが、これはゲームのどのような要素に対する情報更新と考えられますか？",
     "choices": [
-      "BANDAI CARD GAMES ネクストプラン発表会2026.06",
-      "ONE PIECEカードゲーム 2026年夏発表会",
-      "バンダイナムコエンターテインメント新作発表会",
-      "カードダスフェスタ2026"
+      "プレイアブルキャラクターの追加",
+      "新ストーリーモードの導入",
+      "既存キャラクターのスキル改変",
+      "オンラインマルチプレイ機能の強化"
     ],
-    "answer": "BANDAI CARD GAMES ネクストプラン発表会2026.06",
-    "explanation": "2026年6月のニュースによると、ONE PIECEカードゲームの最新情報が解禁されたイベントは「BANDAI CARD GAMES ネクストプラン発表会2026.06」です。"
+    "answer": "プレイアブルキャラクターの追加",
+    "explanation": "2026年6月2日のState of Playのニュースによると、『真・三國無双2』に紫鸞が参戦することが発表されたことから、プレイアブルキャラクターの追加に関する情報更新と考えられます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 7,
-    "question": "2026年6月のSummer Game Festで発表された『FFVII リベレーション』、『バイオハザード ベロニカ』リメイク、『モンハンワイルズ』大型DLC、『ステラーブレイド』続編は、どのニュースサイトでまとめられましたか？",
+    "question": "ゲーム『進撃の巨人３』が「集大成」として発売されるニュースは、過去の『進撃の巨人』ゲームシリーズと比較してどのような位置づけにあると考えられますか？",
     "choices": [
-      "ファミ通",
-      "GAME Watch",
-      "電撃オンライン",
-      "IGN Japan"
+      "これまでのゲームの集大成であり、決定版",
+      "過去作とは全く異なる新機軸",
+      "原作の特定の時期に特化した作品",
+      "グラフィック面のみを強化したリマスター"
     ],
-    "answer": "ファミ通",
-    "explanation": "2026年6月のニュースによると、「Summer Game Fest 2026」の発表まとめはファミ通で公開されました。"
+    "answer": "これまでのゲームの集大成であり、決定版",
+    "explanation": "最近のニュースによると、ゲーム『進撃の巨人３』は「進撃の巨人」の物語を最初から最後まで描く集大成とされているため、これまでのゲームの決定版としての位置づけにあると考えられます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 7,
-    "question": "2026年6月のニュースによると、「原神」の生放送（予告番組）の最新情報まとめは、どのニュースサイトで公開されましたか？",
+    "question": "『空の軌跡 the 2nd』の最新情報で公開された、結社《身喰らう蛇》の執行者メンバーらキャラ情報は、ゲームのどのような側面への期待を高めますか？",
     "choices": [
-      "GameWith",
-      "ファミ通.com",
-      "電撃オンライン",
-      "IGN Japan"
+      "ストーリーの深掘りとキャラクター描写",
+      "新しいゲームシステムの導入",
+      "グラフィックの進化",
+      "オンライン対戦機能"
     ],
-    "answer": "GameWith",
-    "explanation": "2026年6月のニュースによると、『原神』の生放送（予告番組）の最新情報まとめはGameWithで公開されました。"
+    "answer": "ストーリーの深掘りとキャラクター描写",
+    "explanation": "最近のニュースによると、『空の軌跡 the 2nd』の最新情報で、結社《身喰らう蛇》の執行者メンバーらキャラ情報が公開されたことから、ストーリーの深掘りやキャラクター描写への期待が高まります。"
   },
   {
     "category": "ゲーム",
     "difficulty": 7,
-    "question": "2026年6月3日のState of Playは、どのニュースサイトで「Marvel's Wolverine」の最新情報などを60分以上で報じましたか？",
+    "question": "アニメ『チェンソーマン 刺客篇』のスマートフォンゲーム化が決定したニュースは、どのようなユーザー層をターゲットにしていると考えられますか？",
     "choices": [
-      "GAME Watch",
-      "ファミ通",
-      "IGN Japan",
-      "オリコンニュース"
+      "アニメファンやカジュアルゲーマー",
+      "ハードコアゲーマー",
+      "コンソールゲームユーザー",
+      "PCゲームユーザー"
     ],
-    "answer": "GAME Watch",
-    "explanation": "2026年6月3日のState of Playの発表によると、『Marvel's Wolverine』最新情報などを60分以上でお届けしたニュースはGAME Watchで公開されました。"
+    "answer": "アニメファンやカジュアルゲーマー",
+    "explanation": "最近のニュースによると、『チェンソーマン 刺客篇』のスマートフォンゲーム化が決定したことから、アニメファンや手軽に遊べるカジュアルゲーマー層をターゲットにしていると考えられます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 7,
-    "question": "2026年6月のニュースによると、「エグリプト」の最新のアップデート情報が公開されたのは、どのニュースサイトで報じられましたか？",
+    "question": "Epic Gamesの大規模レイオフ、Ubisoft、Red Storm Entertainmentのゲーム開発終了という一連のニュースは、ゲーム業界全体にどのような影響を示唆していると考えられますか？",
     "choices": [
-      "GameWith",
-      "ファミ通.com",
-      "電撃オンライン",
-      "IGN Japan"
+      "業界全体の構造変化や再編の動き",
+      "特定のジャンルの衰退",
+      "新規企業の参入加速",
+      "開発コストの大幅な削減"
     ],
-    "answer": "GameWith",
-    "explanation": "2026年6月のニュースによると、『エグリプト』の最新のアップデート情報がGameWithで公開されました。"
+    "answer": "業界全体の構造変化や再編の動き",
+    "explanation": "最近のXRニュースの振り返りによると、Epic Gamesの大規模レイオフや複数の大手スタジオのゲーム開発終了が報じられたことから、ゲーム業界全体で構造変化や再編の動きがあることを示唆していると考えられます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 7,
-    "question": "2026年6月のニュースによると、『キングダム ハーツIV』はSwitch2やPS5など「で」発売されると報じられました。この「など」が示唆する追加のプラットフォームは何ですか？",
+    "question": "「月刊大戦略 SSB2 2025年11月号」の動画コンテンツが公開されたのは、どのような目的のためと考えられますか？",
     "choices": [
-      "ニュースには明記されていない",
-      "Xbox Series X",
-      "PC",
-      "Nintendo Switch"
+      "ゲームの継続的な情報提供とコミュニティ維持",
+      "新規プレイヤーの獲得",
+      "ゲームの不具合修正報告",
+      "過去のアップデートのアーカイブ"
     ],
-    "answer": "ニュースには明記されていない",
-    "explanation": "2026年6月のニュースによると、『キングダム ハーツIV』はSwitch2やPS5などで発売されると報じられましたが、それ以外の具体的なプラットフォームは明記されていません。"
+    "answer": "ゲームの継続的な情報提供とコミュニティ維持",
+    "explanation": "最近のニュースによると、「月刊大戦略 SSB2 2025年11月号」は直近のニュースやゲーム最新情報を届ける動画コンテンツとして公開されたため、ゲームの継続的な情報提供とコミュニティ維持が目的と考えられます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 8,
-    "question": "2026年6月のニュースで、Fortniteのホラーマップ『だぁれかさんとアソぼ？』の配信決定が報じられたメディアのドメインは何ですか？",
+    "question": "ONE PIECEカードゲームのブースターパック「世界最強の戦士」【OP-17】発売記念イベントの開催決定は、カードゲームのサイクルにおいてどのような段階を示唆していますか？",
     "choices": [
-      "cinema-factory.jp",
-      "fortnite.com",
-      "gamingnews.jp",
-      "horrorfan.net"
+      "新エキスパンションの導入とその盛り上げ",
+      "既存環境の最終調整",
+      "ルールの大規模な改定",
+      "プロリーグの創設"
     ],
-    "answer": "cinema-factory.jp",
-    "explanation": "2026年6月のニュースによると、『だぁれかさんとアソぼ？』の配信決定はcinema-factory.jpで報じられました。"
+    "answer": "新エキスパンションの導入とその盛り上げ",
+    "explanation": "最近のニュースによると、ONE PIECEカードゲームのブースターパック【OP-17】発売記念イベントが開催決定したことから、これは新エキスパンションの導入とその盛り上げを図る段階にあることを示唆しています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 8,
-    "question": "2026年6月のニュースで言及された「ニンテンドーダイレクト 2026.6.9」の発表内容まとめは、どの企業が運営するニュースポータルサイトの一部として公開されましたか？",
+    "question": "『ソードアート・オンライン』ゲーム最新作の長編プロモーションアニメ『Unanswered//butterfly』のプレミア配信が千葉テレビ放送で行われたことは、プロモーション戦略上どのような意図があると考えられますか？",
     "choices": [
-      "Yahoo!ニュース",
-      "Googleニュース",
-      "MSNニュース",
-      "livedoorニュース"
+      "特定の地域に絞ったプロモーション効果の検証",
+      "全国規模のテレビCMに先立つテストマーケティング",
+      "コアファン層への限定的な情報提供",
+      "地上波での露出による幅広い層へのアピール"
     ],
-    "answer": "Yahoo!ニュース",
-    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」の発表内容まとめは、GAME Watch（Yahoo!ニュース）で公開されました。"
+    "answer": "地上波での露出による幅広い層へのアピール",
+    "explanation": "2026年7月のニュースによると、『Unanswered//butterfly』が千葉テレビ放送でプレミア配信されたことから、地上波での露出を通じて幅広い層へアピールする意図があると考えられます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 8,
-    "question": "2026年6月のニュースによると、「Xbox Partner Preview」は、どのプラットフォームの公式ブログで情報が公開されましたか？",
+    "question": "ゲーム『BanG Dream! Our Notes』の最新情報として、Ave Mujicaがカバーする『残酷な天使のテーゼ』が実装楽曲として発表されたことは、ゲームの音楽性やターゲット層にどのような影響を与えると推測されますか？",
     "choices": [
-      "XBOX Wire",
-      "Xbox.com",
-      "Microsoft.com",
-      "Windows Central"
+      "既存のバンドリ楽曲に加えて、より幅広い世代のJ-POPファンを取り込む可能性",
+      "特定のジャンルに特化し、コアなファンを深化させる",
+      "海外市場向けの楽曲を強化する",
+      "ゲーム内のオリジナル楽曲制作に注力する"
     ],
-    "answer": "XBOX Wire",
-    "explanation": "2026年6月のニュースによると、「Xbox Partner Preview」の最新情報はXBOX Wireで公開されました。"
+    "answer": "既存のバンドリ楽曲に加えて、より幅広い世代のJ-POPファンを取り込む可能性",
+    "explanation": "最近のニュースによると、ゲーム『BanG Dream! Our Notes』でAve Mujicaが人気曲『残酷な天使のテーゼ』をカバーすることが発表されたため、既存のバンドリ楽曲に加えて、より幅広い世代のJ-POPファンを取り込む可能性が推測されます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 8,
-    "question": "2026年6月2日のState of Playで発表された『真・三國無双2』に参戦する「紫鸞」は、どのような情報として公開されましたか？",
+    "question": "『キングダム ハーツIV』がSwitch2やPS5などで発売されるという発表は、ゲームのグラフィックやシステム面でどのような進化が期待されることを示唆していますか？",
     "choices": [
-      "キャラクター参戦",
-      "新武器",
-      "新衣装",
-      "専用ストーリー"
+      "次世代機に合わせた高精細なグラフィックと大規模な世界観",
+      "携帯機での手軽なプレイに特化したシステム",
+      "過去作のグラフィックを維持しつつ安定性を重視",
+      "VR/AR技術の全面的な導入"
     ],
-    "answer": "キャラクター参戦",
-    "explanation": "2026年6月2日のState of Playの発表によると、『真・三國無双2』に紫鸞が参戦することが発表されました。"
+    "answer": "次世代機に合わせた高精細なグラフィックと大規模な世界観",
+    "explanation": "最近のニュースによると、『キングダム ハーツIV』がSwitch2やPS5などの次世代機で発売されるため、高精細なグラフィックと大規模な世界観など、次世代機に合わせた大幅な進化が期待されます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 8,
-    "question": "2026年6月のニュースによると、「空の軌跡 the 2nd」で公開された情報のうち、ゲームシステムと並んで言及された具体的な情報は何ですか？",
+    "question": "2026年6月2日のState of Playで、完全新作『鬼武者』の体験版配信が発表されたことは、シリーズの今後の展開においてどのような可能性を示唆していますか？",
     "choices": [
-      "結社《身喰らう蛇》の執行者メンバーらキャラ情報",
-      "登場人物の声優情報",
-      "ストーリーの序盤",
-      "開発チームのインタビュー"
+      "シリーズの本格的な再始動や新たな方向性の模索",
+      "単発のファンサービス",
+      "既存作のリマスター版への布石",
+      "VR専用タイトルとしての展開"
     ],
-    "answer": "結社《身喰らう蛇》の執行者メンバーらキャラ情報",
-    "explanation": "2026年6月のニュースによると、「空の軌跡 the 2nd」ではゲームシステムなど最新情報が公開され、結社《身喰らう蛇》の執行者メンバーらキャラ情報も含まれていました。"
+    "answer": "シリーズの本格的な再始動や新たな方向性の模索",
+    "explanation": "2026年6月2日のState of Playのニュースによると、完全新作『鬼武者』の体験版配信が発表されたことから、シリーズの本格的な再始動や新たな方向性の模索を示唆していると考えられます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 8,
-    "question": "2026年6月のニュースによると、「BanG Dream! Our Notes」で実装楽曲として発表されたAve Mujicaの楽曲「残酷な天使のテーゼ」は、どのニュースサイトで報じられましたか？",
+    "question": "ゲーム『進撃の巨人３』が「集大成」として発表されたことは、原作の物語がゲームを通じてどのように語り直されることを期待させますか？",
     "choices": [
-      "Yahoo!ニュース",
-      "ファミ通.com",
-      "GAME Watch",
-      "オリコンニュース"
+      "原作の重要な要素を網羅し、ゲームならではの表現で再構築される",
+      "原作とは異なる視点からの物語が描かれる",
+      "原作のキャラクターが全く異なる役割を演じる",
+      "原作の世界観をベースにした全く新しい物語"
     ],
-    "answer": "Yahoo!ニュース",
-    "explanation": "2026年6月のニュースによると、ゲーム「BanG Dream! Our Notes」の最新情報において、Ave Mujica「残酷な天使のテーゼ」など実装楽曲もYahoo!ニュースで発表されました。"
+    "answer": "原作の重要な要素を網羅し、ゲームならではの表現で再構築される",
+    "explanation": "最近のニュースによると、ゲーム『進撃の巨人３』は「進撃の巨人」の物語を最初から最後まで描く集大成とされているため、原作の重要な要素を網羅しつつ、ゲームならではの表現で再構築されることが期待されます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 8,
-    "question": "2026年6月のSummer Game Festで、リメイク版、大型DLC、続編がそれぞれ発表されたゲームは何ですか？",
+    "question": "『空の軌跡 the 2nd』の最新情報で、ゲームシステムと共に結社《身喰らう蛇》の執行者メンバーらキャラ情報が公開されたことは、ゲームのストーリー展開においてどのような影響を与えると予想されますか？",
     "choices": [
-      "バイオハザード ベロニカ、モンハンワイルズ、ステラーブレイド",
-      "FFVII リベレーション、モンハンワイルズ、ステラーブレイド",
-      "ステラーブレイド、バイオハザード ベロニカ、モンハンワイルズ",
-      "モンハンワイルズ、ステラーブレイド、バイオハザード ベロニカ"
+      "敵対勢力の詳細な描写により、物語の深みが増す",
+      "プレイヤーが操作できるキャラクターが増える",
+      "新たなサブクエストが追加される",
+      "ゲームの難易度が大幅に上昇する"
     ],
-    "answer": "バイオハザード ベロニカ、モンハンワイルズ、ステラーブレイド",
-    "explanation": "2026年6月のSummer Game Festの発表によると、『バイオハザード ベロニカ』リメイク、『モンハンワイルズ』大型DLC、『ステラーブレイド』続編が発表されました。"
+    "answer": "敵対勢力の詳細な描写により、物語の深みが増す",
+    "explanation": "最近のニュースによると、『空の軌跡 the 2nd』の最新情報で、結社《身喰らう蛇》の執行者メンバーらキャラ情報が公開されたことから、敵対勢力の詳細な描写により、物語の深みが増すと予想されます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 8,
-    "question": "2026年6月のニュースによると、「グランド・セフト・オートVI」の最新情報まとめは、どのニュースポータルサイトの一部として公開されましたか？",
+    "question": "アニメ『チェンソーマン 刺客篇』のスマートフォンゲーム化決定のニュースは、アニメのプロモーション戦略とどのように連携していると考えられますか？",
     "choices": [
-      "Yahoo!ニュース",
-      "Googleニュース",
-      "MSNニュース",
-      "livedoorニュース"
+      "アニメ放送と連動し、多角的なメディア展開で作品全体の認知度を高める",
+      "アニメとは独立したコンテンツとして、別のファン層を開拓する",
+      "アニメのストーリーを補完する形でゲームが展開される",
+      "アニメのキャラクターをモチーフにしたカジュアルゲームとして展開される"
     ],
-    "answer": "Yahoo!ニュース",
-    "explanation": "2026年6月のニュースによると、「グランド・セフト・オートVI」の最新情報まとめはGAME Watch（Yahoo!ニュース）で公開されました。"
+    "answer": "アニメ放送と連動し、多角的なメディア展開で作品全体の認知度を高める",
+    "explanation": "最近のニュースによると、『チェンソーマン 刺客篇』の最新PV解禁と同時にスマートフォンゲーム化が決定したことから、アニメ放送と連動し、多角的なメディア展開で作品全体の認知度を高める戦略と考えられます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 8,
-    "question": "2026年6月のニュースによると、「ペルソナ5X」のアップデート「Ver.4.4」は、どのような情報として公開されましたか？",
+    "question": "Epic Gamesの大規模レイオフ発表、Ubisoft、Red Storm Entertainmentのゲーム開発終了というニュースは、XR（eXtended Reality）分野のゲーム開発にどのような影響をもたらす可能性がありますか？",
     "choices": [
-      "アップデート情報",
-      "新キャラ情報",
-      "新イベント情報",
-      "バグ修正情報"
+      "XR分野のゲーム開発が停滞または縮小する可能性",
+      "XR分野への投資が加速する可能性",
+      "XR分野での新たな企業が台頭する可能性",
+      "XR分野での開発がコンソールゲームにシフトする可能性"
     ],
-    "answer": "アップデート情報",
-    "explanation": "2026年6月のニュースによると、『ペルソナ5X』はVer.4.4のアップデートの最新情報まとめとして情報が公開されました。"
+    "answer": "XR分野のゲーム開発が停滞または縮小する可能性",
+    "explanation": "最近のXRニュースの振り返りによると、Epic Gamesの大規模レイオフやUbisoft、Red Storm Entertainmentのゲーム開発終了が報じられたことから、特にXR分野におけるゲーム開発が停滞または縮小する可能性があると考えられます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 8,
-    "question": "2026年6月3日のState of Playで、「Marvel's Wolverine」の最新情報などが配信された際に、合わせて報じられた配信時間は何分以上でしたか？",
+    "question": "「月刊大戦略 SSB2 2025年11月号」の動画コンテンツが公開されたタイミングは、ゲームのライフサイクルにおいてどのような意味合いを持つと考えられますか？",
     "choices": [
-      "60分",
-      "30分",
-      "90分",
-      "45分"
+      "発売後の継続的なコンテンツ提供とファンサービス",
+      "発売前のプロモーション活動",
+      "大規模アップデートの予告",
+      "ゲームのサービス終了告知"
     ],
-    "answer": "60分",
-    "explanation": "2026年6月3日のState of Playの発表によると、『Marvel's Wolverine』最新情報などを60分以上でお届けしました。"
+    "answer": "発売後の継続的なコンテンツ提供とファンサービス",
+    "explanation": "最近のニュースによると、「月刊大戦略 SSB2 2025年11月号」は直近1か月のニュース、ゲーム最新情報を届ける動画コンテンツとして公開されたため、発売後の継続的なコンテンツ提供とファンサービスの一環であると考えられます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "2026年6月のニュースによると、ONE PIECEカードゲームの最新情報が解禁された「BANDAI CARD GAMES ネクストプラン発表会2026.06」は、どの公式ウェブサイトで報じられましたか？",
+    "question": "ONE PIECEカードゲームのブースターパック「世界最強の戦士」【OP-17】発売記念イベントの開催決定は、ONE PIECEというIPのメディアミックス戦略においてどのような役割を担うと考えられますか？",
     "choices": [
-      "ONE PIECE.com",
-      "BANDAI CARD GAMES 公式サイト",
-      "バンダイナムコエンターテインメント公式サイト",
-      "集英社ONE PIECE 公式サイト"
+      "カードゲームを通じてIP全体の活性化と新たなファン層の獲得",
+      "アニメや漫画のプロモーションに限定的な影響を与える",
+      "IPのデジタル展開を強化する",
+      "既存のファンコミュニティを維持するのみに留まる"
     ],
-    "answer": "ONE PIECE.com",
-    "explanation": "2026年6月のニュースによると、「BANDAI CARD GAMES ネクストプラン発表会2026.06」にて最新情報解禁がONE PIECE.comで報じられました。"
+    "answer": "カードゲームを通じてIP全体の活性化と新たなファン層の獲得",
+    "explanation": "最近のニュースによると、ONE PIECEカードゲームのブースターパック【OP-17】発売記念イベントが開催決定したことから、カードゲームという媒体を通じてIP全体の活性化と新たなファン層の獲得を狙うメディアミックス戦略の一環であると考えられます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "2026年6月のニュースで、Fortniteのホラーマップ『だぁれかさんとアソぼ？』のゲーム体験動画を公開した小國舞羽について、どのような情報が提供されましたか？",
+    "question": "『ソードアート・オンライン』ゲーム最新作の長編プロモーションアニメ『Unanswered//butterfly』の「長編」という形式は、従来のゲームPVと比較して、視聴者にどのような体験を提供することを意図していると考えられますか？",
     "choices": [
-      "絶叫したこと",
-      "年齢",
-      "所属事務所",
-      "過去の出演作"
+      "ゲームの世界観やストーリーをより深く没入感を持って体験させる",
+      "ゲームのプレイアブル部分を詳細に紹介する",
+      "ゲームの技術的な側面を強調する",
+      "ゲーム開発の舞台裏を公開する"
     ],
-    "answer": "絶叫したこと",
-    "explanation": "2026年6月のニュースによると、小國舞羽が『だぁれかさんとアソぼ？』のゲーム体験動画で絶叫したと報じられました。それ以外の個人情報は提供されていません。"
+    "answer": "ゲームの世界観やストーリーをより深く没入感を持って体験させる",
+    "explanation": "2026年7月のニュースによると、『Unanswered//butterfly』が「長編」プロモーションアニメとしてプレミア配信されたことから、従来のゲームPVよりもゲームの世界観やストーリーをより深く没入感を持って体験させることを意図していると考えられます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」の発表内容まとめが公開されたニュース記事のタイトルは何でしたか？",
+    "question": "ゲーム『BanG Dream! Our Notes』の最新情報で、Ave Mujicaがカバーする『残酷な天使のテーゼ』が実装楽曲として発表されたことは、今後の楽曲実装戦略においてどのような方向性を示唆していると考えられますか？",
     "choices": [
-      "【ニンダイまとめ】「ニンテンドーダイレクト 2026.6.9」発表内容まとめ（GAME Watch）",
-      "ニンテンドーダイレクト 2026.6.9 全発表リスト",
-      "最新情報！2026年6月9日ニンテンドーダイレクト速報",
-      "ニンダイ2026.6.9で発表された注目ゲーム"
+      "オリジナル楽曲と並行して、J-POPやアニソンの人気カバー曲を積極的に取り入れる",
+      "オリジナル楽曲のみに注力し、バンドの世界観を深める",
+      "海外の有名楽曲のカバーを優先する",
+      "特定のジャンルのマイナーな楽曲に焦点を当てる"
     ],
-    "answer": "【ニンダイまとめ】「ニンテンドーダイレクト 2026.6.9」発表内容まとめ（GAME Watch）",
-    "explanation": "2026年6月のニュースによると、ニュース記事のタイトルは「【ニンダイまとめ】「ニンテンドーダイレクト 2026.6.9」発表内容まとめ（GAME Watch）」でした。"
+    "answer": "オリジナル楽曲と並行して、J-POPやアニソンの人気カバー曲を積極的に取り入れる",
+    "explanation": "最近のニュースによると、ゲーム『BanG Dream! Our Notes』でAve Mujicaが人気曲『残酷な天使のテーゼ』をカバーすることが発表されたことから、オリジナル楽曲と並行して、J-POPやアニソンの人気カバー曲を積極的に取り入れる楽曲実装戦略を示唆していると考えられます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "2026年6月のニュースによると、「Xbox Partner Preview」で「サード パーティー各社の最新ゲーム情報をお届け」したのは、どのプラットフォームの運営元ですか？",
+    "question": "『キングダム ハーツIV』がSwitch2やPS5などで発売されるという発表は、スクウェア・エニックスの今後のタイトル展開において、どのようなプラットフォーム戦略を推し進めていることを示唆していますか？",
     "choices": [
-      "Xbox",
-      "PlayStation",
-      "Nintendo",
-      "PC"
+      "主要な次世代機でのマルチプラットフォーム展開を重視",
+      "特定のプラットフォームに独占的に供給",
+      "PCゲーム市場への本格参入",
+      "クラウドゲーミングへの特化"
     ],
-    "answer": "Xbox",
-    "explanation": "2026年6月のニュースによると、「Xbox Partner Preview」はXboxがサード パーティー各社の最新ゲーム情報をお届けしました。"
+    "answer": "主要な次世代機でのマルチプラットフォーム展開を重視",
+    "explanation": "最近のニュースによると、『キングダム ハーツIV』がSwitch2やPS5などの複数のプラットフォームで発売されるため、主要な次世代機でのマルチプラットフォーム展開を重視するスクウェア・エニックスの戦略を示唆していると考えられます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "2026年6月2日のState of Playで発表された『エースコンバット8』の「発売日決定」という情報以外に、同ゲームに関する具体的な内容は発表されましたか？",
+    "question": "2026年6月2日のState of Playで『真・三國無双2』に紫鸞が参戦することが発表されましたが、これはシリーズのキャラクター戦略においてどのような意味合いを持つと考えられますか？",
     "choices": [
-      "発表されていない",
-      "新機体情報",
-      "ストーリーの概要",
-      "対応機種"
+      "新たなオリジナルキャラクターの導入によるシリーズの活性化",
+      "既存の人気キャラクターの再登場",
+      "歴史上の人物の忠実な再現",
+      "他作品とのコラボレーションキャラクター"
     ],
-    "answer": "発表されていない",
-    "explanation": "2026年6月2日のState of Playの発表によると、『エースコンバット8』に関しては「発売日決定」のみが言及され、それ以外の具体的な内容は発表されていません。"
+    "answer": "新たなオリジナルキャラクターの導入によるシリーズの活性化",
+    "explanation": "2026年6月2日のState of Playのニュースによると、『真・三國無双2』に紫鸞が参戦することが発表されたことから、新たなオリジナルキャラクターの導入によるシリーズの活性化を図るキャラクター戦略であると考えられます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "2026年6月のニュースによると、「空の軌跡 the 2nd」の最新情報が公開されたのは、どのニュースサイトのドメインで報じられましたか？",
+    "question": "ゲーム『進撃の巨人３』が「集大成」として発売されるニュースは、IPホルダーである講談社のゲーム展開戦略においてどのような方針を示唆していると考えられますか？",
     "choices": [
-      "GAME Watch",
-      "famitsu.com",
-      "dengekionline.com",
-      "ign.com"
+      "原作の物語をゲームで完結させ、ファンに決定版を提供する",
+      "ゲームを通じて新たな物語を展開する",
+      "アニメや漫画のプロモーションの一環としてゲームを活用する",
+      "ゲーム開発を外部のスタジオに完全に委託する"
     ],
-    "answer": "GAME Watch",
-    "explanation": "2026年6月のニュースによると、「空の軌跡 the 2nd」の最新情報はGAME Watchで報じられました。"
+    "answer": "原作の物語をゲームで完結させ、ファンに決定版を提供する",
+    "explanation": "最近のニュースによると、ゲーム『進撃の巨人３』は「進撃の巨人」の物語を最初から最後まで描く集大成とされているため、IPホルダーは原作の物語をゲームで完結させ、ファンに決定版を提供することを目指していると考えられます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "2026年6月のニュースによると、「BanG Dream! Our Notes」の最新情報が明らかにされたニュースの提供元は何ですか？",
+    "question": "『空の軌跡 the 2nd』の最新情報で、ゲームシステムと共に結社《身喰らう蛇》の執行者メンバーらキャラ情報が公開されたことは、ゲームのプレイヤー体験においてどのような影響を与えると予想されますか？",
     "choices": [
-      "Yahoo!ニュース",
-      "オリコンニュース",
-      "ファミ通.com",
-      "GAME Watch"
+      "敵キャラクターに対する感情移入や戦略的な思考を促す",
+      "プレイヤーキャラクターのカスタマイズの幅が広がる",
+      "ゲームの難易度が低下し、よりカジュアルな体験になる",
+      "オンライン協力プレイが中心となる"
     ],
-    "answer": "Yahoo!ニュース",
-    "explanation": "2026年6月のニュースによると、ゲーム「BanG Dream! Our Notes」最新情報はYahoo!ニュースで明らかにされました。"
+    "answer": "敵キャラクターに対する感情移入や戦略的な思考を促す",
+    "explanation": "最近のニュースによると、『空の軌跡 the 2nd』の最新情報で、結社《身喰らう蛇》の執行者メンバーらキャラ情報が公開されたことから、敵キャラクターに対する感情移入や、彼らとの戦闘における戦略的な思考を促すなど、プレイヤー体験に深みを与えると予想されます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "2026年6月のSummer Game Festで発表された『FFVII リベレーション』、『バイオハザード ベロニカ』リメイク、『モンハンワイルズ』大型DLC、『ステラーブレイド』続編は、どのニュースサイトの「発表まとめ」記事で公開されましたか？",
+    "question": "アニメ『チェンソーマン 刺客篇』のスマートフォンゲーム化決定は、作品のIP展開においてどのようなポジショニングを狙っていると考えられますか？",
     "choices": [
-      "ファミ通",
-      "GAME Watch",
-      "電撃オンライン",
-      "IGN Japan"
+      "アニメ視聴層をゲームに誘導し、IPの収益源を多角化する",
+      "ゲームのオリジナルストーリーで新たなIPを創出する",
+      "アニメのプロモーションに限定的な役割を果たす",
+      "既存のファンコミュニティを維持するのみに留まる"
     ],
-    "answer": "ファミ通",
-    "explanation": "2026年6月のニュースによると、「Summer Game Fest 2026」の発表まとめはファミ通で公開されました。"
+    "answer": "アニメ視聴層をゲームに誘導し、IPの収益源を多角化する",
+    "explanation": "最近のニュースによると、『チェンソーマン 刺客篇』のスマートフォンゲーム化が決定したことから、アニメ視聴層をゲームに誘導し、IPの収益源を多角化するポジショニングを狙っていると考えられます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "2026年6月のニュースによると、「グランド・セフト・オートVI」の最新情報まとめは、どのニュースサイトのタイトルに記載されましたか？",
+    "question": "Epic Gamesの大規模レイオフ発表、Ubisoft、Red Storm Entertainmentのゲーム開発終了という一連のニュースは、ゲーム業界のグローバルな雇用情勢にどのような影響を与えていると考えられますか？",
     "choices": [
-      "GAME Watch",
-      "ファミ通.com",
-      "電撃オンライン",
-      "IGN Japan"
+      "ゲーム業界全体の雇用が縮小傾向にあることを示唆",
+      "特定の地域での雇用が集中していることを示唆",
+      "インディーゲームスタジオでの雇用が増加していることを示唆",
+      "リモートワークの普及により雇用形態が変化していることを示唆"
     ],
-    "answer": "GAME Watch",
-    "explanation": "2026年6月のニュースによると、「グランド・セフト・オートVI」最新情報まとめはGAME Watchのタイトルに記載されました。"
+    "answer": "ゲーム業界全体の雇用が縮小傾向にあることを示唆",
+    "explanation": "最近のXRニュースの振り返りによると、Epic Gamesの大規模レイオフや複数の大手スタジオのゲーム開発終了が報じられたことから、ゲーム業界全体の雇用が縮小傾向にあることを示唆していると考えられます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "2026年6月のニュースによると、「ペルソナ5X」Ver.4.4のアップデートの最新情報まとめは、どのニュースサイトのドメインで報じられましたか？",
+    "question": "「月刊大戦略 SSB2 2025年11月号」の動画コンテンツが公開されたことは、ゲームの長期的な運営戦略においてどのような重要性を持つと考えられますか？",
     "choices": [
-      "GameWith",
-      "famitsu.com",
-      "dengekionline.com",
-      "ign.com"
+      "定期的な情報発信により、プレイヤーのエンゲージメントを維持し、長期的なゲーム寿命を確保する",
+      "新規プレイヤーの獲得を最優先とする",
+      "大規模なアップデートの頻度を減少させる",
+      "ゲームのサービス終了に向けた準備"
     ],
-    "answer": "GameWith",
-    "explanation": "2026年6月のニュースによると、『ペルソナ5X』Ver.4.4のアップデートの最新情報まとめはGameWithで報じられました。"
+    "answer": "定期的な情報発信により、プレイヤーのエンゲージメントを維持し、長期的なゲーム寿命を確保する",
+    "explanation": "最近のニュースによると、「月刊大戦略 SSB2 2025年11月号」は直近1か月のニュース、ゲーム最新情報を届ける動画コンテンツとして公開されたため、定期的な情報発信により、プレイヤーのエンゲージメントを維持し、長期的なゲーム寿命を確保する上で重要であると考えられます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "2026年6月のニュースによると、ONE PIECEカードゲームのブースターパック「世界最強の戦士」【OP-17】発売記念イベントの開催決定は、どの公式ウェブサイトで報じられましたか？",
+    "question": "ONE PIECEカードゲームのブースターパック「世界最強の戦士」【OP-17】発売記念イベントの開催決定は、トレーディングカードゲーム市場におけるONE PIECEカードゲームの競争戦略において、どのような位置づけにあると考えられますか？",
     "choices": [
-      "ONE PIECE.com",
-      "BANDAI CARD GAMES 公式サイト",
-      "バンダイナムコエンターテインメント公式サイト",
-      "ONE PIECE公式Xアカウント"
+      "継続的な新商品展開とイベントによる市場での存在感強化",
+      "既存プレイヤーへの限定的なサービス提供",
+      "新規参入者へのアピールを主眼とする",
+      "デジタル版への移行を促す"
     ],
-    "answer": "ONE PIECE.com",
-    "explanation": "2026年6月のニュースによると、ONE PIECEカードゲームのブースターパック 世界最強の戦士【OP-17】発売記念イベントの開催決定はONE PIECE.comで報じられました。"
+    "answer": "継続的な新商品展開とイベントによる市場での存在感強化",
+    "explanation": "最近のニュースによると、ONE PIECEカードゲームのブースターパック【OP-17】発売記念イベントが開催決定したことから、継続的な新商品展開とイベントを通じて、競争の激しいトレーディングカードゲーム市場での存在感を強化する戦略であると考えられます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」の発表内容まとめ記事は、どのニュースポータルサイトの「GAME Watch」セクションで公開されましたか？",
+    "question": "『ソードアート・オンライン』ゲーム最新作の長編プロモーションアニメ『Unanswered//butterfly』のプレミア配信が千葉テレビ放送で行われたことは、ゲームのプロモーションにおける地域戦略と全国戦略のバランスに関して、どのような示唆を与えますか？",
     "choices": [
-      "Yahoo!ニュース",
-      "Googleニュース",
-      "MSNニュース",
-      "livedoorニュース"
+      "特定の地域での先行露出を通じて、口コミ効果を狙いつつ全国展開へ繋げる",
+      "全国的なプロモーションよりも地域密着型を重視する",
+      "オンライン配信に限定し、地域性を排除する",
+      "海外市場への展開を優先する"
     ],
-    "answer": "Yahoo!ニュース",
-    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」の発表内容まとめは、GAME Watch（Yahoo!ニュース）で公開されました。"
+    "answer": "特定の地域での先行露出を通じて、口コミ効果を狙いつつ全国展開へ繋げる",
+    "explanation": "2026年7月のニュースによると、『Unanswered//butterfly』が千葉テレビ放送でプレミア配信されたことから、特定の地域での先行露出を通じて、口コミ効果を狙いつつ、その後の全国展開へ繋げるというプロモーションにおける地域戦略と全国戦略のバランスを示唆していると考えられます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "2026年6月のニュースによると、「Xbox Partner Preview」でサード パーティー各社の最新ゲーム情報をお届けした「XBOX Wire」は、どのような性質のメディアですか？",
+    "question": "ゲーム『BanG Dream! Our Notes』の最新情報で、Ave Mujicaがカバーする『残酷な天使のテーゼ』が実装楽曲として発表されたことは、コンテンツの長期的な魅力維持と新規層獲得の両面において、どのような戦略的意図があると考えられますか？",
     "choices": [
-      "公式ブログ",
-      "ゲーム情報サイト",
-      "ゲーム雑誌",
-      "コミュニティフォーラム"
+      "人気カバー曲の導入で話題性を創出し、既存ファンを飽きさせず新規層も呼び込む",
+      "オリジナル楽曲の創作を減らし、カバー曲に注力する",
+      "特定のニッチな層にアピールする楽曲を増やす",
+      "ゲーム内イベントの開催頻度を上げる"
     ],
-    "answer": "公式ブログ",
-    "explanation": "2026年6月のニュースによると、「XBOX Wire」はXboxの公式ブログです。"
+    "answer": "人気カバー曲の導入で話題性を創出し、既存ファンを飽きさせず新規層も呼び込む",
+    "explanation": "最近のニュースによると、ゲーム『BanG Dream! Our Notes』でAve Mujicaが人気曲『残酷な天使のテーゼ』をカバーすることが発表されたことから、人気カバー曲の導入によって話題性を創出し、既存ファンを飽きさせずに新規層も呼び込むという、コンテンツの長期的な魅力維持と新規層獲得の両面を狙った戦略的意図があると考えられます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "2026年6月2日のState of Playで発表された『エースコンバット8』の発売日決定、『真・三國無双2』に紫鸞参戦、完全新作『鬼武者』体験版配信は、どのニュースサイトで「新発表まとめ」として報じられましたか？",
+    "question": "『キングダム ハーツIV』がSwitch2やPS5などで発売されるという発表は、シリーズのファンベースの拡大と、開発リソースの配分においてどのような課題と機会をもたらすと予想されますか？",
     "choices": [
-      "ファミ通",
-      "GAME Watch",
-      "電撃オンライン",
-      "IGN Japan"
+      "多様なプラットフォームでの最適化と品質維持の課題、一方で広範なユーザー層への訴求機会",
+      "単一プラットフォームに集中することで開発コストを削減する機会",
+      "特定のプラットフォームの技術的制約に合わせた開発の課題",
+      "オンライン機能の強化に特化する機会"
     ],
-    "answer": "ファミ通",
-    "explanation": "2026年6月2日のState of Play新発表まとめはファミ通で報じられました。"
+    "answer": "多様なプラットフォームでの最適化と品質維持の課題、一方で広範なユーザー層への訴求機会",
+    "explanation": "最近のニュースによると、『キングダム ハーツIV』がSwitch2やPS5などの複数のプラットフォームで発売されるため、多様なプラットフォームでの最適化と品質維持という開発上の課題がある一方で、広範なユーザー層への訴求という大きな機会をもたらすと予想されます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "2026年6月のニュースによると、「空の軌跡 the 2nd」で公開された「結社《身喰らう蛇》の執行者メンバーらキャラ情報」は、具体的にどのような情報に分類されますか？",
+    "question": "2026年6月2日のState of Playで、『真・三國無双2』に紫鸞が参戦することが発表されましたが、これはシリーズの物語性や世界観にどのような影響を与える可能性がありますか？",
     "choices": [
-      "キャラクター情報",
-      "勢力情報",
-      "ストーリー情報",
-      "ゲームプレイ情報"
+      "新たな視点や展開を導入し、物語に深みを加える可能性",
+      "既存の歴史観を厳密に守り、物語の整合性を高める",
+      "過去作のキャラクターの役割を再定義する",
+      "物語の舞台を全く異なる時代に移す"
     ],
-    "answer": "キャラクター情報",
-    "explanation": "2026年6月のニュースによると、「空の軌跡 the 2nd」では結社《身喰らう蛇》の執行者メンバーらキャラ情報が公開されました。"
+    "answer": "新たな視点や展開を導入し、物語に深みを加える可能性",
+    "explanation": "2026年6月2日のState of Playのニュースによると、『真・三國無双2』に紫鸞が参戦することが発表されたことから、新たなオリジナルキャラクターの導入により、物語に新たな視点や展開を導入し、世界観に深みを加える可能性があると考えられます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "2026年6月のニュースによると、「BanG Dream! Our Notes」で実装楽曲として発表されたAve Mujicaの「残酷な天使のテーゼ」は、どのニュースポータルサイトのゲーム情報セクションで「実装楽曲も発表」という形で報じられましたか？",
+    "question": "ゲーム『進撃の巨人３』が「集大成」として発売されるニュースは、ゲームメディアにおける評価や、ファンコミュニティでの議論においてどのような影響を与えると考えられますか？",
     "choices": [
-      "Yahoo!ニュース",
-      "オリコンニュース",
-      "ファミ通.com",
-      "GAME Watch"
+      "原作の完結をゲームでどう描くかという点に注目が集まり、高い評価と活発な議論を呼ぶ",
+      "過去作との比較が避けられず、評価が二分される",
+      "ゲームとしての新規性が乏しく、話題性が限定される",
+      "ファンコミュニティでは原作との乖離が問題視される"
     ],
-    "answer": "Yahoo!ニュース",
-    "explanation": "2026年6月のニュースによると、ゲーム「BanG Dream! Our Notes」の最新情報において、Ave Mujica「残酷な天使のテーゼ」など実装楽曲もYahoo!ニュースで発表されました。"
+    "answer": "原作の完結をゲームでどう描くかという点に注目が集まり、高い評価と活発な議論を呼ぶ",
+    "explanation": "最近のニュースによると、ゲーム『進撃の巨人３』は「進撃の巨人」の物語を最初から最後まで描く集大成とされているため、原作の完結をゲームでどう描くかという点に注目が集まり、高い評価と活発な議論を呼ぶと考えられます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "2026年6月のSummer Game Festで発表された『FFVII リベレーション』、『バイオハザード ベロニカ』リメイク、『モンハンワイルズ』大型DLC、『ステラーブレイド』続編は、どのニュースサイトの「発表まとめ」記事で公開されましたか？",
+    "question": "『空の軌跡 the 2nd』の最新情報で、ゲームシステムと共に結社《身喰らう蛇》の執行者メンバーらキャラ情報が公開されたことは、ゲームのマーケティング戦略においてどのような狙いがあると考えられますか？",
     "choices": [
-      "ファミ通",
-      "GAME Watch",
-      "電撃オンライン",
-      "IGN Japan"
+      "主要な敵役の魅力を早期に伝え、プレイヤーの期待感を高める",
+      "ゲームの難易度が高いことを事前に警告する",
+      "ゲームの発売日を遅らせることを示唆する",
+      "新しいゲームジャンルへの挑戦をアピールする"
     ],
-    "answer": "ファミ通",
-    "explanation": "2026年6月のニュースによると、「Summer Game Fest 2026」の発表まとめはファミ通で公開されました。"
+    "answer": "主要な敵役の魅力を早期に伝え、プレイヤーの期待感を高める",
+    "explanation": "最近のニュースによると、『空の軌跡 the 2nd』の最新情報で、ゲームシステムと共に結社《身喰らう蛇》の執行者メンバーらキャラ情報が公開されたことから、主要な敵役の魅力を早期に伝えることで、プレイヤーの期待感を高めるマーケティング戦略であると考えられます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "2026年6月のニュースによると、「グランド・セフト・オートVI」の最新情報まとめ記事は、どのニュースポータルサイトのゲーム情報セクションで公開されましたか？",
+    "question": "アニメ『チェンソーマン 刺客篇』のスマートフォンゲーム化決定は、IPのビジネスモデルにおいて、どのような収益構造の多角化を意図していると考えられますか？",
     "choices": [
-      "Yahoo!ニュースのGAME Watchセクション",
-      "Googleニュースのゲームカテゴリ",
-      "MSNニュースのエンタメセクション",
-      "livedoorニュースのゲームまとめ"
+      "アニメの視聴料や漫画の売上だけでなく、ゲーム内課金による新たな収益源の確立",
+      "グッズ販売に特化し、ゲームをプロモーションツールとしてのみ利用する",
+      "海外展開を優先し、国内での収益を度外視する",
+      "ゲームを広告媒体として活用し、広告収入を主とする"
     ],
-    "answer": "Yahoo!ニュースのGAME Watchセクション",
-    "explanation": "2026年6月のニュースによると、「グランド・セフト・オートVI」の最新情報まとめはGAME Watch（Yahoo!ニュース）で公開されました。"
+    "answer": "アニメの視聴料や漫画の売上だけでなく、ゲーム内課金による新たな収益源の確立",
+    "explanation": "最近のニュースによると、『チェンソーマン 刺客篇』のスマートフォンゲーム化が決定したことから、アニメの視聴料や漫画の売上だけでなく、ゲーム内課金による新たな収益源の確立を目指す、IPのビジネスモデルにおける収益構造の多角化を意図していると考えられます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "2026年6月のニュースによると、「ペルソナ5X」Ver.4.4のアップデートの最新情報まとめ記事は、どのニュースサイトのゲーム攻略情報セクションで公開されましたか？",
+    "question": "Epic Gamesの大規模レイオフ発表、Ubisoft、Red Storm Entertainmentのゲーム開発終了という一連のニュースは、ゲーム業界における大規模スタジオと中小スタジオのバランスにどのような影響を与えていると考えられますか？",
     "choices": [
-      "GameWith",
-      "ファミ通.com",
-      "電撃オンライン",
-      "IGN Japan"
+      "大規模スタジオの再編が進む一方で、中小スタジオやインディー開発への影響も波及する可能性",
+      "大規模スタジオの寡占化がさらに進む",
+      "中小スタジオが市場から淘汰される",
+      "インディー開発が大幅に減少する"
     ],
-    "answer": "GameWith",
-    "explanation": "2026年6月のニュースによると、『ペルソナ5X』Ver.4.4のアップデートの最新情報まとめはGameWithで公開されました。"
+    "answer": "大規模スタジオの再編が進む一方で、中小スタジオやインディー開発への影響も波及する可能性",
+    "explanation": "最近のXRニュースの振り返りによると、Epic Gamesの大規模レイオフや複数の大手スタジオのゲーム開発終了が報じられたことから、大規模スタジオの再編が進む一方で、中小スタジオやインディー開発にも影響が波及し、業界全体のバランスに変化をもたらす可能性があると考えられます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "2026年6月3日のState of Playで、「Marvel's Wolverine」の最新情報などが「60分以上でお届け」されたニュースは、どのニュースサイトのゲーム情報セクションで報じられましたか？",
+    "question": "「月刊大戦略 SSB2 2025年11月号」の動画コンテンツが公開されたことは、ゲームのブランドイメージ形成においてどのような役割を果たすと考えられますか？",
     "choices": [
-      "GAME Watch（Yahoo!ニュース）",
-      "ファミ通.com（速報）",
-      "IGN Japan（ニュース）",
-      "オリコンニュース（ゲーム）"
+      "プレイヤーとの継続的なコミュニケーションを通じて、ブランドへの信頼感とロイヤルティを高める",
+      "ゲームの知名度を一時的に向上させる",
+      "特定の層にのみアピールするニッチなブランドを確立する",
+      "ブランドイメージを刷新し、新たなターゲット層を獲得する"
     ],
-    "answer": "GAME Watch（Yahoo!ニュース）",
-    "explanation": "2026年6月3日のState of Playの発表によると、『Marvel's Wolverine』最新情報などを60分以上でお届けしたニュースはGAME Watch（Yahoo!ニュース）で公開されました。"
+    "answer": "プレイヤーとの継続的なコミュニケーションを通じて、ブランドへの信頼感とロイヤルティを高める",
+    "explanation": "最近のニュースによると、「月刊大戦略 SSB2 2025年11月号」は直近1か月のニュース、ゲーム最新情報を届ける動画コンテンツとして公開されたため、プレイヤーとの継続的なコミュニケーションを通じて、ブランドへの信頼感とロイヤルティを高める上で重要な役割を果たすと考えられます。"
   },
   {
     "category": "世界情勢",
