@@ -3902,1302 +3902,1952 @@
   {
     "category": "ゲーム",
     "difficulty": 1,
-    "question": "2026年7月9日に本日発売された「SAO」ゲームシリーズ最新作のタイトルは何ですか？",
+    "question": "本日（2026年7月10日）発売された『ソードアート・オンライン』ゲームシリーズ最新作のタイトルは何ですか？",
     "choices": [
       "Echoes of Aincrad",
-      "Sword Art Online: Alicization Lycoris",
-      "Sword Art Online: Fatal Bullet",
-      "Sword Art Online: Integral Factor"
+      "Alicization Rising",
+      "Ordinal Scale",
+      "Hollow Realization"
     ],
     "answer": "Echoes of Aincrad",
-    "explanation": "2026年7月9日のニュースによると、「SAO」ゲームシリーズ最新作「Echoes of Aincrad」が本日発売されたためです。"
+    "explanation": "2026年7月のニュースによると、『ソードアート・オンライン』ゲームシリーズ最新作「Echoes of Aincrad」が本日発売されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 1,
-    "question": "『ONE PIECEカードゲーム』で発売記念イベントが開催決定したブースターパックのタイトルは何ですか？",
+    "question": "2026年7月11日(土)に新発売される『ONE PIECEカードゲーム』のスタートデッキの番号範囲は何ですか？",
     "choices": [
-      "世界最強の戦士【OP-17】",
-      "新時代の主役【OP-05】",
-      "頂上決戦【OP-02】",
-      "謀略の王国【OP-04】"
+      "ST-01～ST-06",
+      "ST-10～ST-15",
+      "ST-31～ST-36",
+      "ST-40～ST-45"
     ],
-    "answer": "世界最強の戦士【OP-17】",
-    "explanation": "2026年7月のニュースによると、『ONE PIECEカードゲーム』のブースターパック「世界最強の戦士【OP-17】」の発売記念イベントが開催決定したためです。"
+    "answer": "ST-31～ST-36",
+    "explanation": "2026年7月のニュースによると、明日7月11日(土)に『ONE PIECEカードゲーム』の6色スタートデッキ【ST-31】～【ST-36】が新発売されます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 1,
-    "question": "2026年7月5日にプレミア配信が決定した、『ソードアート・オンライン』ゲーム最新作の長編プロモーションアニメのタイトルは何ですか？",
+    "question": "2026年Summer Game Festで発表された『ファイナルファンタジーVII』関連の新作ゲームのタイトルは何ですか？",
     "choices": [
-      "Unanswered//butterfly",
-      "SAO Progressive",
-      "SAO Alternative Gun Gale Online",
-      "SAO Alicization War of Underworld"
+      "FFVII リバース",
+      "FFVII リベレーション",
+      "FFVII エバークライシス",
+      "FFVII リメイク"
     ],
-    "answer": "Unanswered//butterfly",
-    "explanation": "2026年7月5日のニュースによると、『ソードアート・オンライン』ゲーム最新作の長編プロモーションアニメ『Unanswered//butterfly』がプレミア配信決定したためです。"
+    "answer": "FFVII リベレーション",
+    "explanation": "2026年Summer Game Festの発表まとめによると、『FFVII リベレーション』が発表されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 1,
-    "question": "物語を最初から最後まで描く集大成として発売決定した『進撃の巨人』シリーズのゲームタイトルは何ですか？",
+    "question": "「進撃の巨人」の物語を最初から最後まで描く集大成として発売が決定したゲームのタイトルは何ですか？",
     "choices": [
-      "進撃の巨人３",
-      "進撃の巨人２",
       "進撃の巨人",
-      "進撃の巨人 Final Battle"
+      "進撃の巨人２",
+      "進撃の巨人３",
+      "進撃の巨人 -Final Battle-"
     ],
     "answer": "進撃の巨人３",
-    "explanation": "2026年7月のニュースによると、「進撃の巨人」の物語を最初から最後まで描く集大成 ゲーム『進撃の巨人３』が発売決定したためです。"
+    "explanation": "2026年7月のニュースによると、「進撃の巨人」の物語を最初から最後まで描く集大成ゲーム『進撃の巨人３』が発売決定しました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 1,
-    "question": "Switch2やPS5などで発売が発表された『キングダム ハーツ』シリーズ最新作のタイトルは何ですか？",
+    "question": "『キングダム ハーツ』シリーズの最新作として発表されたタイトルは何ですか？",
     "choices": [
-      "キングダム ハーツIV",
       "キングダム ハーツIII",
       "キングダム ハーツ メロディ オブ メモリー",
-      "キングダム ハーツ Re:コーデッド"
+      "キングダム ハーツIV",
+      "キングダム ハーツ バース バイ スリープ"
     ],
     "answer": "キングダム ハーツIV",
-    "explanation": "2026年7月のニュースによると、『キングダム ハーツ』シリーズ最新作『キングダム ハーツIV』がSwitch2やPS5などで発売発表されたためです。"
+    "explanation": "2026年7月のニュースによると、『キングダム ハーツ』シリーズ最新作『キングダム ハーツIV』が発表されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 1,
-    "question": "2026年6月2日のState of Playで発売日決定が発表されたゲームタイトルは何ですか？",
+    "question": "2026年6月2日のState of Playで発売日決定が発表されたフライトシューティングゲームのタイトルは何ですか？",
     "choices": [
+      "エースコンバット7",
       "エースコンバット8",
-      "FINAL FANTASY VII REBIRTH",
-      "モンスターハンターワイルズ",
-      "ドラゴンクエストXII 選ばれし運命の炎"
+      "エースコンバット インフィニティ",
+      "エースコンバット ゼロ"
     ],
     "answer": "エースコンバット8",
-    "explanation": "2026年6月2日のState of Playの発表によると、『エースコンバット8』の発売日が決定したためです。"
+    "explanation": "2026年6月2日のState of Playの発表まとめによると、『エースコンバット8』の発売日決定が発表されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 1,
-    "question": "2026年6月2日のState of Playで紫鸞の参戦が発表されたゲームタイトルは何ですか？",
+    "question": "ゲームプレイ情報とリリース日が決定した「マインクラフト」シリーズの新作のタイトルは何ですか？",
     "choices": [
-      "真・三國無双2",
-      "真・三國無双8",
-      "仁王２",
-      "ゼルダ無双 厄災の黙示録"
-    ],
-    "answer": "真・三國無双2",
-    "explanation": "2026年6月2日のState of Playの発表によると、『真・三國無双2』に紫鸞が参戦することが決定したためです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "2026年6月2日のState of Playで完全新作と体験版配信が発表されたゲームシリーズは何ですか？",
-    "choices": [
-      "鬼武者",
-      "バイオハザード",
-      "デビルメイクライ",
-      "ストリートファイター"
-    ],
-    "answer": "鬼武者",
-    "explanation": "2026年6月2日のState of Playの発表によると、完全新作の『鬼武者』の体験版配信が決定したためです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "スマートフォンゲーム化が決定したアニメ『チェンソーマン』の最新PVが解禁された篇のタイトルは何ですか？",
-    "choices": [
-      "刺客篇",
-      "公安対魔特異4課篇",
-      "レゼ篇",
-      "永遠の悪魔篇"
-    ],
-    "answer": "刺客篇",
-    "explanation": "2026年7月のニュースによると、『チェンソーマン 刺客篇』の最新PVが解禁され、スマートフォンゲーム化も決定したためです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "Minecraftの「ゲームドロップ」として発表されたコンテンツのタイトルは何ですか？",
-    "choices": [
-      "Chaos Cubed",
-      "Minecraft Dungeons",
       "Minecraft Legends",
+      "Minecraft Dungeons",
+      "Minecraft Dungeons II",
       "Minecraft Earth"
     ],
-    "answer": "Chaos Cubed",
-    "explanation": "2026年7月のニュースによると、「Chaos Cubed」がMinecraftのゲームドロップとして発表されたためです。"
+    "answer": "Minecraft Dungeons II",
+    "explanation": "2026年7月のニュースによると、『Minecraft Dungeons II (マインクラフト ダンジョンズ 2)』のゲームプレイ情報が解禁され、リリース日も決定しました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 2,
-    "question": "『ソードアート・オンライン』ゲームシリーズの最新作「Echoes of Aincrad」が発売されたのはいつですか？",
+    "difficulty": 1,
+    "question": "本日（2026年7月10日）22時に30周年記念商品の最新情報を紹介する動画が公開されたカードゲームは何ですか？",
     "choices": [
-      "2026年7月9日",
-      "2026年7月5日",
-      "2026年6月2日",
-      "2025年11月"
+      "遊戯王OCG",
+      "デュエル・マスターズ",
+      "ポケモンカードゲーム",
+      "マジック：ザ・ギャザリング"
     ],
-    "answer": "2026年7月9日",
-    "explanation": "2026年7月9日のニュースによると、「SAO」ゲームシリーズ最新作「Echoes of Aincrad」が本日発売されたためです。"
+    "answer": "ポケモンカードゲーム",
+    "explanation": "2026年7月のニュースによると、「ポケモンカードゲーム」30周年記念商品の最新情報を紹介する動画が本日22時に公開されました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 2,
-    "question": "『ONE PIECEカードゲーム』で発売記念イベントが開催決定したブースターパックの具体的な番号は何ですか？",
+    "difficulty": 1,
+    "question": "2026年Summer Game Festでリメイクが発表された『バイオハザード』シリーズのタイトルは何ですか？",
     "choices": [
-      "OP-17",
+      "バイオハザード RE:3",
+      "バイオハザード RE:4",
+      "バイオハザード ベロニカ",
+      "バイオハザード 0"
+    ],
+    "answer": "バイオハザード ベロニカ",
+    "explanation": "2026年Summer Game Festの発表まとめによると、『バイオハザード ベロニカ』のリメイクが発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 1,
+    "question": "サードパーティー各社の最新ゲーム情報が届けられたイベントの名称は何ですか？",
+    "choices": [
+      "PlayStation Showcase",
+      "Nintendo Direct",
+      "Xbox Partner Preview",
+      "PC Gaming Show"
+    ],
+    "answer": "Xbox Partner Preview",
+    "explanation": "2026年7月のニュースによると、「Xbox Partner Preview」にてサードパーティー各社の最新ゲーム情報が届けられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 1,
+    "question": "2026年7月11日(土)に新発売される『ONE PIECEカードゲーム』のスタートデッキは、何色ですか？",
+    "choices": [
+      "赤、緑、青",
+      "赤、緑、青、黄、紫、黒",
+      "白、黒、灰",
+      "金、銀、銅"
+    ],
+    "answer": "赤、緑、青、黄、紫、黒",
+    "explanation": "2026年7月のニュースによると、明日7月11日(土)に『ONE PIECEカードゲーム』の6色スタートデッキ【ST-31】～【ST-36】が新発売されます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 1,
+    "question": "『ONE PIECEカードゲーム』のブースターパック「世界最強の戦士」の発売記念イベントが開催決定しましたが、そのブースターパックの公式番号は何ですか？",
+    "choices": [
+      "OP-01",
       "OP-05",
-      "OP-02",
-      "OP-04"
+      "OP-10",
+      "OP-17"
     ],
     "answer": "OP-17",
-    "explanation": "2026年7月のニュースによると、『ONE PIECEカードゲーム』のブースターパック「世界最強の戦士【OP-17】」の発売記念イベントが開催決定したためです。"
+    "explanation": "2026年7月のニュースによると、ブースターパック 世界最強の戦士【OP-17】発売記念イベントが開催決定しました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 1,
+    "question": "2026年Summer Game Festで発表された『バイオハザード』シリーズのリメイク版のタイトルは何ですか？",
+    "choices": [
+      "バイオハザード RE:2",
+      "バイオハザード RE:3",
+      "バイオハザード ベロニカ",
+      "バイオハザード 0"
+    ],
+    "answer": "バイオハザード ベロニカ",
+    "explanation": "2026年Summer Game Festの発表まとめによると、『バイオハザード ベロニカ』のリメイクが発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 1,
+    "question": "2026年7月5日（日）にプレミア配信された『ソードアート・オンライン』ゲーム最新作の長編プロモーションアニメのタイトルは何ですか？",
+    "choices": [
+      "Unanswered//sword",
+      "Unanswered//butterfly",
+      "Unanswered//memory",
+      "Unanswered//link"
+    ],
+    "answer": "Unanswered//butterfly",
+    "explanation": "2026年7月のニュースによると、『ソードアート・オンライン』ゲーム最新作の長編プロモーションアニメ『Unanswered//butterfly』が2026年7月5日（日）にプレミア配信されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 1,
+    "question": "『ソードアート・オンライン』ゲームシリーズ最新作「Echoes of Aincrad」が本日（2026年7月10日）発売されたことを報じたのは、どのメディアですか？",
+    "choices": [
+      "アニメイトタイムズ",
+      "Yahoo!ニュース",
+      "千葉テレビ放送",
+      "ONE PIECE.com"
+    ],
+    "answer": "Yahoo!ニュース",
+    "explanation": "2026年7月のニュースによると、「SAO」ゲームシリーズ最新作「Echoes of Aincrad」本日発売（GAME Watch） - Yahoo!ニュース と報じられました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 2,
-    "question": "『ソードアート・オンライン』ゲーム最新作の長編プロモーションアニメ『Unanswered//butterfly』のプレミア配信が決定した日付は何ですか？",
+    "question": "『ソードアート・オンライン』ゲームシリーズ最新作「Echoes of Aincrad」の長編プロモーションアニメのタイトルは何ですか？",
     "choices": [
-      "2026年7月5日",
-      "2026年7月9日",
-      "2026年6月2日",
-      "2025年11月"
+      "Unanswered//sword",
+      "Unanswered//butterfly",
+      "Unanswered//memory",
+      "Unanswered//link"
     ],
-    "answer": "2026年7月5日",
-    "explanation": "2026年7月5日のニュースによると、『Unanswered//butterfly』が2026年7月5日（日）にプレミア配信決定したためです。"
+    "answer": "Unanswered//butterfly",
+    "explanation": "2026年7月のニュースによると、『ソードアート・オンライン』ゲーム最新作の長編プロモーションアニメ『Unanswered//butterfly』がプレミア配信されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 2,
-    "question": "『進撃の巨人３』が描く物語の範囲はどのようなものですか？",
+    "question": "2026年7月11日(土)に新発売される『ONE PIECEカードゲーム』のスタートデッキは何色展開ですか？",
     "choices": [
-      "最初から最後まで",
-      "途中から最後まで",
-      "オリジナルストーリー",
-      "外伝のみ"
+      "3色",
+      "4色",
+      "5色",
+      "6色"
     ],
-    "answer": "最初から最後まで",
-    "explanation": "2026年7月のニュースによると、ゲーム『進撃の巨人３』は「進撃の巨人」の物語を最初から最後まで描く集大成であるためです。"
+    "answer": "6色",
+    "explanation": "2026年7月のニュースによると、明日7月11日(土)に『ONE PIECEカードゲーム』の6色スタートデッキが新発売されます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 2,
-    "question": "『キングダム ハーツIV』の発売が発表された主要なプラットフォームは何と何ですか？",
+    "question": "2026年Summer Game Festで大型DLCの発表があった『モンスターハンター』シリーズのゲームタイトルは何ですか？",
     "choices": [
-      "Switch2やPS5など",
-      "Xbox Series XやPCなど",
-      "PS4やNintendo Switchなど",
-      "PCやスマートフォンなど"
+      "モンスターハンターライズ",
+      "モンスターハンターワールド",
+      "モンスターハンターワイルズ",
+      "モンスターハンターフロンティア"
     ],
-    "answer": "Switch2やPS5など",
-    "explanation": "2026年7月のニュースによると、『キングダム ハーツIV』がSwitch2やPS5などで発売されると発表されたためです。"
+    "answer": "モンハンワイルズ",
+    "explanation": "2026年Summer Game Festの発表まとめによると、『モンハンワイルズ』の大型DLCが発表されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 2,
-    "question": "2026年6月2日のState of Playで発表された『鬼武者』に関する最新情報は何ですか？",
+    "question": "『キングダム ハーツIV』が発売予定のゲーム機の一つとして発表されたのは何ですか？",
     "choices": [
-      "完全新作と体験版配信",
-      "リマスター版の発売",
-      "アニメ化の決定",
-      "モバイルゲームの発表"
+      "Nintendo Switch",
+      "PlayStation 4",
+      "Switch2",
+      "Xbox One"
     ],
-    "answer": "完全新作と体験版配信",
-    "explanation": "2026年6月2日のState of Playの発表によると、『鬼武者』は完全新作で体験版の配信も決定したためです。"
+    "answer": "Switch2",
+    "explanation": "2026年7月のニュースによると、『キングダム ハーツIV』はSwitch2やPS5などで発売される予定です。"
   },
   {
     "category": "ゲーム",
     "difficulty": 2,
-    "question": "『空の軌跡 the 2nd』で最新情報が公開された内容には、ゲームシステムと何の情報が含まれていますか？",
+    "question": "2026年6月2日のState of Playで体験版が配信された完全新作ゲームのタイトルは何ですか？",
     "choices": [
-      "結社《身喰らう蛇》の執行者メンバーらキャラ情報",
-      "発売日情報",
-      "限定版特典情報",
-      "アニメ化情報"
+      "仁王",
+      "鬼武者",
+      "戦国BASARA",
+      "龍が如く"
     ],
-    "answer": "結社《身喰らう蛇》の執行者メンバーらキャラ情報",
-    "explanation": "2026年7月のニュースによると、『空の軌跡 the 2nd』のゲームシステムなど最新情報が公開され、結社《身喰らう蛇》の執行者メンバーらキャラ情報も含まれていたためです。"
+    "answer": "鬼武者",
+    "explanation": "2026年6月2日のState of Playの発表まとめによると、完全新作『鬼武者』の体験版が配信されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 2,
-    "question": "『サドンアタック:ゼロポイント』に関して、OnlineGamerで提供されている主な情報は何ですか？",
+    "question": "2026年6月9日に発表内容がまとめられた任天堂のイベントの名称は何ですか？",
     "choices": [
-      "ゲーム情報・評価・レビュー・最新ニュース",
-      "開発秘話・インタビュー",
-      "大会結果・ランキング",
-      "サウンドトラック情報"
-    ],
-    "answer": "ゲーム情報・評価・レビュー・最新ニュース",
-    "explanation": "2026年7月のニュースによると、『サドンアタック:ゼロポイント』のゲーム情報・評価・レビュー・最新ニュースがOnlineGamerで提供されているためです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "『チェンソーマン 刺客篇』の最新PV解禁と同時に発表されたゲーム化の形式は何ですか？",
-    "choices": [
-      "スマートフォンゲーム",
-      "コンソールゲーム",
-      "PCゲーム",
-      "VRゲーム"
-    ],
-    "answer": "スマートフォンゲーム",
-    "explanation": "2026年7月のニュースによると、『チェンソーマン 刺客篇』の最新PV解禁と同時にスマートフォンゲーム化が決定したためです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "ニンテンドースイッチ2に関する情報まとめが公開されたのは、どのような内容についてですか？",
-    "choices": [
-      "本体情報",
-      "発売日情報",
-      "対応ソフト情報",
-      "価格情報"
-    ],
-    "answer": "本体情報",
-    "explanation": "2026年7月のニュースによると、【Switch2】ニンテンドースイッチ2の本体情報まとめが公開されたためです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "「Xbox Partner Preview」で届けられた最新ゲーム情報の対象は何ですか？",
-    "choices": [
-      "サード パーティー各社",
-      "ファースト パーティー",
-      "インディーゲーム開発者",
-      "過去のゲームの続編"
-    ],
-    "answer": "サード パーティー各社",
-    "explanation": "2026年7月のニュースによると、「Xbox Partner Preview」ではサード パーティー各社の最新ゲーム情報が届けられたためです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "『キングダム ハーツIV』が発表されたニュースを報じたメディアはどこですか？",
-    "choices": [
-      "オリコンニュース",
-      "GAME Watch",
-      "ファミ通",
-      "XBOX Wire"
-    ],
-    "answer": "オリコンニュース",
-    "explanation": "2026年7月のニュースによると、『キングダム ハーツ』シリーズ最新作発表 『キングダム ハーツIV』Switch2やPS5などで発売へ - オリコンニュースとあるためです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年6月2日のState of Playの発表で、発売日決定、紫鸞参戦、完全新作『鬼武者』体験版配信が発表されたイベントの名称は何ですか？",
-    "choices": [
-      "State of Play",
       "E3",
-      "Gamescom",
+      "Nintendo Direct",
+      "The Game Awards",
       "Tokyo Game Show"
     ],
-    "answer": "State of Play",
-    "explanation": "2026年6月2日のニュースによると、これらの発表は「State of Play」で行われたためです。"
+    "answer": "Nintendo Direct",
+    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」の発表内容がまとめられました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 3,
-    "question": "『空の軌跡 the 2nd』のキャラクター情報で言及された組織の名称は何ですか？",
+    "difficulty": 2,
+    "question": "『ONE PIECEカードゲーム』で発売記念イベントが開催決定したブースターパックの名称は何ですか？",
     "choices": [
-      "結社《身喰らう蛇》",
-      "遊撃士協会",
-      "リベール王国",
-      "帝国軍"
+      "頂上決戦",
+      "新時代の主役",
+      "世界最強の戦士",
+      "双璧の覇者"
     ],
-    "answer": "結社《身喰らう蛇》",
-    "explanation": "2026年7月のニュースによると、『空の軌跡 the 2nd』のキャラ情報には結社《身喰らう蛇》の執行者メンバーらが含まれていたためです。"
+    "answer": "世界最強の戦士",
+    "explanation": "2026年7月のニュースによると、ブースターパック 世界最強の戦士【OP-17】の発売記念イベントが開催決定しました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 3,
-    "question": "『大戦略 SSB2』に関して、2025年11月号が公開された動画コンテンツのタイトルは何ですか？",
+    "difficulty": 2,
+    "question": "「サドンアタック」シリーズの最新作として情報が公開されたゲームのタイトルは何ですか？",
     "choices": [
-      "月刊大戦略 SSB2",
-      "週刊大戦略 SSB2",
-      "大戦略 SSB2 ニュース",
-      "大戦略 SSB2 スペシャル"
+      "サドンアタック:リロード",
+      "サドンアタック:ゼロポイント",
+      "サドンアタック:ネクスト",
+      "サドンアタック:レガシー"
     ],
-    "answer": "月刊大戦略 SSB2",
-    "explanation": "2026年7月のニュースによると、「大戦略 SSB2」の動画コンテンツ「月刊大戦略 SSB2 2025年11月号」が公開されたためです。"
+    "answer": "サドンアタック:ゼロポイント",
+    "explanation": "2026年7月のニュースによると、『サドンアタック:ゼロポイント』のゲーム情報が公開されています。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 3,
-    "question": "大規模レイオフを発表し、Ubisoft、Red Storm Entertainmentのゲーム開発終了に関わったとされるゲーム会社は何ですか？",
+    "difficulty": 2,
+    "question": "2026年Summer Game Festで続編の発表があったゲームタイトルは何ですか？",
     "choices": [
-      "Epic Games",
-      "Sony Interactive Entertainment",
-      "Microsoft",
-      "Nintendo"
+      "ゴッド・オブ・ウォー",
+      "スパイダーマン",
+      "ステラーブレイド",
+      "ファイナルファンタジーXVI"
     ],
-    "answer": "Epic Games",
-    "explanation": "最新のXRニュースによると、Epic Gamesが大規模レイオフを発表し、Ubisoft、Red Storm Entertainmentのゲーム開発を終了したためです。"
+    "answer": "ステラーブレイド",
+    "explanation": "2026年Summer Game Festの発表まとめによると、『ステラーブレイド』の続編が発表されました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年7月9日に発売された「SAO」ゲームシリーズ最新作のゲームジャンルは何と推測されますか？",
+    "difficulty": 2,
+    "question": "ポケモンカードゲーム30周年記念商品の最新情報動画で画像が公開された2体のポケモンは何ですか？",
     "choices": [
-      "ゲームシリーズ最新作",
-      "カードゲーム",
-      "スマートフォンゲーム",
-      "VRゲーム"
+      "ピカチュウとリザードン",
+      "ミュウとミュウツー",
+      "ルギアとホウオウ",
+      "イーブイとシャワーズ"
     ],
-    "answer": "ゲームシリーズ最新作",
-    "explanation": "2026年7月9日のニュースではジャンルに言及がなく、「ゲームシリーズ最新作」とだけ記載されているため、これが最も正確な情報です。"
+    "answer": "ミュウとミュウツー",
+    "explanation": "2026年7月のニュースによると、ポケモンカードゲーム30周年記念商品の最新情報動画でミュウとミュウツーの画像が公開されました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 3,
-    "question": "『ONE PIECEカードゲーム』のブースターパック「世界最強の戦士【OP-17】」の発売記念イベントは、どのような目的で開催されますか？",
+    "difficulty": 2,
+    "question": "『ソードアート・オンライン』のゲーム最新作「Echoes of Aincrad」に関する情報は、声優、キャラクター、登場人物、ゲーム、最新情報一覧としてどこで確認できますか？",
     "choices": [
-      "新製品の発売を祝うため",
-      "世界大会の予選のため",
-      "開発者との交流のため",
-      "アニメのプロモーションのため"
+      "公式ウェブサイト",
+      "アニメイトタイムズ",
+      "Wikipedia",
+      "YouTube"
     ],
-    "answer": "新製品の発売を祝うため",
-    "explanation": "2026年7月のニュースによると、「発売記念イベント」と記載されているため、新製品の発売を祝うことが目的です。"
+    "answer": "アニメイトタイムズ",
+    "explanation": "2026年7月のニュースによると、「Echoes of Aincrad」に関する声優・キャラクター・登場人物・ゲーム・最新情報一覧がアニメイトタイムズで紹介されています。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 3,
-    "question": "『ソードアート・オンライン』ゲーム最新作の長編プロモーションアニメ『Unanswered//butterfly』のプレミア配信が決定した曜日は何曜日ですか？",
+    "difficulty": 2,
+    "question": "『ソードアート・オンライン』ゲーム最新作の長編プロモーションアニメ『Unanswered//butterfly』がプレミア配信されたのは何曜日でしたか？",
     "choices": [
-      "日曜日",
       "月曜日",
-      "火曜日",
-      "土曜日"
+      "水曜日",
+      "金曜日",
+      "日曜日"
     ],
     "answer": "日曜日",
-    "explanation": "2026年7月5日のニュースによると、プレミア配信は2026年7月5日（日）に決定したためです。"
+    "explanation": "2026年7月のニュースによると、プロモーションアニメ『Unanswered//butterfly』は2026年7月5日（日）にプレミア配信されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 2,
+    "question": "Xbox Partner Previewで発表されたゲーム情報は、主にどの企業からのものでしたか？",
+    "choices": [
+      "ファーストパーティー",
+      "セカンドパーティー",
+      "サードパーティー",
+      "インディーゲーム開発者"
+    ],
+    "answer": "サードパーティー",
+    "explanation": "2026年7月のニュースによると、「Xbox Partner Preview」ではサードパーティー各社の最新ゲーム情報が届けられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 2,
+    "question": "2026年Summer Game Festで発表された『FFVII リベレーション』は、どのシリーズの新作ゲームですか？",
+    "choices": [
+      "ファイナルファンタジーI",
+      "ファイナルファンタジーVII",
+      "ファイナルファンタジーX",
+      "ファイナルファンタジーXIV"
+    ],
+    "answer": "ファイナルファンタジーVII",
+    "explanation": "2026年Summer Game Festの発表まとめによると、『FFVII リベレーション』が発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 2,
+    "question": "『ONE PIECEカードゲーム』のブースターパック「世界最強の戦士」の発売記念イベントが開催決定しましたが、このブースターパックの正式な商品番号は何ですか？",
+    "choices": [
+      "OP-10",
+      "OP-17",
+      "OP-20",
+      "OP-30"
+    ],
+    "answer": "OP-17",
+    "explanation": "2026年7月のニュースによると、ブースターパック 世界最強の戦士【OP-17】発売記念イベントが開催決定しました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 3,
-    "question": "『チェンソーマン 刺客篇』のスマートフォンゲーム化が決定したニュースは、どのジャンルのメディアで報じられましたか？",
+    "question": "『ソードアート・オンライン』ゲームシリーズ最新作「Echoes of Aincrad」に関する情報が掲載されているメディアの一つは何ですか？",
     "choices": [
-      "cinema-factory.jp",
-      "GAME Watch",
-      "ファミ通",
-      "XBOX Wire"
+      "ファミ通.com",
+      "電撃オンライン",
+      "アニメイトタイムズ",
+      "IGN Japan"
     ],
-    "answer": "cinema-factory.jp",
-    "explanation": "2026年7月のニュースによると、『チェンソーマン 刺客篇』最新PV解禁！スマートフォンゲーム化も決定 - cinema-factory.jpとあるためです。"
+    "answer": "アニメイトタイムズ",
+    "explanation": "2026年7月のニュースによると、「Echoes of Aincrad」に関する声優・キャラクター・登場人物・ゲーム・最新情報一覧がアニメイトタイムズで紹介されています。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年7月9日発売の「SAO」ゲームシリーズ最新作「Echoes of Aincrad」は、どのメディアで発売が報じられましたか？",
+    "difficulty": 3,
+    "question": "『ONE PIECEカードゲーム』のブースターパック「世界最強の戦士」の公式な商品番号は何ですか？",
     "choices": [
-      "GAME Watch - Yahoo!ニュース",
+      "OP-01",
+      "OP-07",
+      "OP-17",
+      "OP-27"
+    ],
+    "answer": "OP-17",
+    "explanation": "2026年7月のニュースによると、ブースターパック 世界最強の戦士【OP-17】の発売記念イベントが開催決定しました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "2026年Summer Game Festで発表された『バイオハザード ベロニカ』リメイクは、どのような発表でしたか？",
+    "choices": [
+      "体験版配信",
+      "発売日決定",
+      "リメイク版発表",
+      "アニメ化決定"
+    ],
+    "answer": "リメイク版発表",
+    "explanation": "2026年Summer Game Festの発表まとめによると、『バイオハザード ベロニカ』のリメイクが発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "『進撃の巨人３』は、どのような物語を扱うゲームとして発売が決定しましたか？",
+    "choices": [
+      "番外編の物語",
+      "過去のオリジナルストーリー",
+      "物語の途中から",
+      "最初から最後まで"
+    ],
+    "answer": "最初から最後まで",
+    "explanation": "2026年7月のニュースによると、「進撃の巨人」の物語を最初から最後まで描く集大成ゲーム『進撃の巨人３』が発売決定しました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "『キングダム ハーツIV』が発売予定のゲーム機として、Switch2の他に発表されたのは何ですか？",
+    "choices": [
+      "Xbox Series X",
+      "PlayStation 5",
+      "PC",
+      "Nintendo Switch Lite"
+    ],
+    "answer": "PlayStation 5",
+    "explanation": "2026年7月のニュースによると、『キングダム ハーツIV』はSwitch2やPS5などで発売される予定です。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "2026年6月2日のState of Playで『真・三國無双2』に参戦が発表された新キャラクターの名前は何ですか？",
+    "choices": [
+      "趙雲",
+      "呂布",
+      "紫鸞",
+      "貂蝉"
+    ],
+    "answer": "紫鸞",
+    "explanation": "2026年6月2日のState of Playの発表まとめによると、『真・三國無双2』に紫鸞が参戦することが発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "『Minecraft Dungeons II』に関して、ゲームプレイ情報の他に解禁されたことは何ですか？",
+    "choices": [
+      "キャラクターデザイン",
+      "ストーリーの概要",
+      "リリース日",
+      "マルチプレイモードの詳細"
+    ],
+    "answer": "リリース日",
+    "explanation": "2026年7月のニュースによると、『Minecraft Dungeons II』のゲームプレイ情報解禁と同時にリリース日も決定しました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "ポケモンカードゲーム30周年記念商品の最新情報を紹介する動画が公開された正確な時間（本日）は何時ですか？",
+    "choices": [
+      "18:00",
+      "20:00",
+      "22:00",
+      "24:00"
+    ],
+    "answer": "22:00",
+    "explanation": "2026年7月のニュースによると、「ポケモンカードゲーム」30周年記念商品の最新情報を紹介する動画が本日22時に公開されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "2026年Summer Game Festで発表された『ステラーブレイド』関連のニュースは何ですか？",
+    "choices": [
+      "リメイク版の発表",
+      "スピンオフ作品の発表",
+      "大型DLCの発表",
+      "続編の発表"
+    ],
+    "answer": "続編の発表",
+    "explanation": "2026年Summer Game Festの発表まとめによると、『ステラーブレイド』の続編が発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "2026年6月9日に行われた任天堂のイベントの名称は何ですか？",
+    "choices": [
+      "Nintendo Direct",
+      "Nintendo Live",
+      "Nintendo World",
+      "Nintendo Festival"
+    ],
+    "answer": "Nintendo Direct",
+    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」の発表内容がまとめられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "2026年Summer Game Festで発表された『モンハンワイルズ』の追加コンテンツの種類は何でしたか？",
+    "choices": [
+      "キャラクターパック",
+      "マップパック",
+      "大型DLC",
+      "武器スキン"
+    ],
+    "answer": "大型DLC",
+    "explanation": "2026年Summer Game Festの発表まとめによると、『モンハンワイルズ』の大型DLCが発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "2026年Summer Game Festで発表された『ステラーブレイド』の続編は、どのような種類の発表でしたか？",
+    "choices": [
+      "リメイク",
+      "スピンオフ",
+      "続編",
+      "DLC"
+    ],
+    "answer": "続編",
+    "explanation": "2026年Summer Game Festの発表まとめによると、『ステラーブレイド』の続編が発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "『ソードアート・オンライン』ゲームシリーズ最新作「Echoes of Aincrad」が本日発売されたことを報じたメディアの一つは何ですか？",
+    "choices": [
       "ファミ通.com",
+      "GAME Watch",
       "電撃オンライン",
       "IGN Japan"
     ],
-    "answer": "GAME Watch - Yahoo!ニュース",
-    "explanation": "2026年7月9日のニュースによると、「SAO」ゲームシリーズ最新作「Echoes of Aincrad」本日発売（GAME Watch） - Yahoo!ニュースと報じられたためです。"
+    "answer": "GAME Watch",
+    "explanation": "2026年7月のニュースによると、「SAO」ゲームシリーズ最新作「Echoes of Aincrad」本日発売（GAME Watch）と報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "2026年7月11日(土)に新発売される『ONE PIECEカードゲーム』のスタートデッキは、何種類のキャラクターをフィーチャーしていますか？",
+    "choices": [
+      "3種類",
+      "4種類",
+      "5種類",
+      "6種類"
+    ],
+    "answer": "6種類",
+    "explanation": "2026年7月のニュースによると、明日7月11日(土)に『ONE PIECEカードゲーム』の6色スタートデッキ【ST-31】～【ST-36】が新発売されます。6色ということは6種類のリーダー/キャラクターをフィーチャーしていると解釈できます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "「進撃の巨人」の物語を最初から最後まで描く集大成ゲーム『進撃の巨人３』は、どのようなプラットフォーム向けに発売されますか？",
+    "choices": [
+      "PC専用",
+      "PlayStation専用",
+      "明示されていない",
+      "Nintendo Switch専用"
+    ],
+    "answer": "明示されていない",
+    "explanation": "2026年7月のニュースによると、『進撃の巨人３』の発売決定は報じられましたが、具体的なプラットフォームは明示されていません。"
   },
   {
     "category": "ゲーム",
     "difficulty": 4,
-    "question": "『ONE PIECEカードゲーム』のブースターパック「世界最強の戦士」の公式製品番号は何ですか？",
+    "question": "『ソードアート・オンライン』ゲーム最新作「Echoes of Aincrad」の長編プロモーションアニメ『Unanswered//butterfly』がプレミア配信された日付は何日ですか？",
     "choices": [
-      "OP-17",
-      "OP-01",
-      "OP-08",
-      "OP-10"
-    ],
-    "answer": "OP-17",
-    "explanation": "2026年7月のニュースによると、ブースターパックのタイトルは「世界最強の戦士【OP-17】」であるためです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "『ソードアート・オンライン』ゲーム最新作の長編プロモーションアニメ『Unanswered//butterfly』のプレミア配信を告知した放送局はどこですか？",
-    "choices": [
-      "千葉テレビ放送",
-      "TOKYO MX",
-      "NHK",
-      "テレビ朝日"
-    ],
-    "answer": "千葉テレビ放送",
-    "explanation": "2026年7月5日のニュースによると、千葉テレビ放送がプレミア配信を告知したためです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "『進撃の巨人３』が発売決定したことを報じたウェブサイトのドメインは何ですか？",
-    "choices": [
-      "gamecity.ne.jp",
-      "famitsu.com",
-      "ign.com",
-      "dengekionline.com"
-    ],
-    "answer": "gamecity.ne.jp",
-    "explanation": "2026年7月のニュースによると、「進撃の巨人３』発売決定！ - gamecity.ne.jpと報じられたためです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "『キングダム ハーツIV』が発表されたニュースで、Switch2と共に言及されたもう一つの次世代機は何ですか？",
-    "choices": [
-      "PS5",
-      "Xbox Series X",
-      "PC",
-      "PS4"
-    ],
-    "answer": "PS5",
-    "explanation": "2026年7月のニュースによると、『キングダム ハーツIV』がSwitch2やPS5などで発売されると発表されたためです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年6月2日のState of Playで発表された『真・三國無双2』に参戦する新キャラクターの名前は何ですか？",
-    "choices": [
-      "紫鸞",
-      "貂蝉",
-      "呂布",
-      "趙雲"
-    ],
-    "answer": "紫鸞",
-    "explanation": "2026年6月2日のState of Playの発表によると、『真・三國無双2』に紫鸞が参戦することが決定したためです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "『空の軌跡 the 2nd』の最新情報で公開された、結社《身喰らう蛇》のメンバーの役割は何ですか？",
-    "choices": [
-      "執行者",
-      "総統",
-      "幹部",
-      "構成員"
-    ],
-    "answer": "執行者",
-    "explanation": "2026年7月のニュースによると、結社《身喰らう蛇》の「執行者」メンバーらキャラ情報が公開されたためです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "『サドンアタック:ゼロポイント』のニュースを報じたウェブサイトのドメインは何ですか？",
-    "choices": [
-      "OnlineGamer",
-      "GAME Watch",
-      "ファミ通.com",
-      "4Gamer.net"
-    ],
-    "answer": "OnlineGamer",
-    "explanation": "2026年7月のニュースによると、「サドンアタック:ゼロポイント｜ゲーム情報・評価・レビュー・最新ニュース - OnlineGamer」とあるためです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "『大戦略 SSB2』の動画コンテンツ「月刊大戦略 SSB2」で、最新情報が届けられたのは何年何月号ですか？",
-    "choices": [
-      "2025年11月号",
-      "2026年7月号",
-      "2026年6月号",
-      "2025年12月号"
-    ],
-    "answer": "2025年11月号",
-    "explanation": "2026年7月のニュースによると、「月刊大戦略 SSB2 2025年11月号」が公開されたためです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "Epic Gamesの大規模レイオフによりゲーム開発を終了したと報じられた企業はUbisoftとあとどこですか？",
-    "choices": [
-      "Red Storm Entertainment",
-      "Activision Blizzard",
-      "Electronic Arts",
-      "Capcom"
-    ],
-    "answer": "Red Storm Entertainment",
-    "explanation": "最新のXRニュースによると、Epic Gamesの大規模レイオフにより、Ubisoft、Red Storm Entertainmentのゲーム開発が終了したためです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "2026年7月9日に発売された「SAO」ゲームシリーズ最新作「Echoes of Aincrad」のゲーム内での主要な舞台は何を示唆していますか？",
-    "choices": [
-      "アインクラッド",
-      "アンダーワールド",
-      "ガンゲイル・オンライン",
-      "アルヴヘイム・オンライン"
-    ],
-    "answer": "アインクラッド",
-    "explanation": "2026年7月9日のニュースによると、タイトルが「Echoes of Aincrad」であるため、アインクラッドが舞台であることが示唆されます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "『ONE PIECEカードゲーム』のブースターパック「世界最強の戦士【OP-17】」の発売記念イベントは、どの公式ウェブサイトで情報が公開されましたか？",
-    "choices": [
-      "ONE PIECE.com",
-      "バンダイカードダス公式サイト",
-      "集英社公式サイト",
-      "VジャンプWEB"
-    ],
-    "answer": "ONE PIECE.com",
-    "explanation": "2026年7月のニュースによると、「ONE PIECE.com」で情報が公開されたためです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "『ソードアート・オンライン』ゲーム最新作の長編プロモーションアニメ『Unanswered//butterfly』は、どのようなコンテンツとして配信されますか？",
-    "choices": [
-      "プレミア配信",
-      "劇場公開",
-      "テレビシリーズ",
-      "OVA"
-    ],
-    "answer": "プレミア配信",
-    "explanation": "2026年7月5日のニュースによると、『Unanswered//butterfly』は「プレミア配信」されることが決定したためです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "「Xbox Partner Preview」は、主にどのような目的で開催されるイベントですか？",
-    "choices": [
-      "サード パーティー各社の最新ゲーム情報を提供するため",
-      "Xbox本体の新作発表のため",
-      "Xbox Game Passの新作タイトル発表のため",
-      "Xboxのファーストパーティタイトル発表のため"
-    ],
-    "answer": "サード パーティー各社の最新ゲーム情報を提供するため",
-    "explanation": "2026年7月のニュースによると、「Xbox Partner Preview」はサード パーティー各社の最新ゲーム情報をお届けするイベントであるためです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "『進撃の巨人３』は、どのような物語体験をプレイヤーに提供することを目指していますか？",
-    "choices": [
-      "原作の全ストーリー",
-      "アニメの主要なエピソード",
-      "ゲームオリジナルのストーリー",
-      "特定のキャラクターに焦点を当てた外伝"
-    ],
-    "answer": "原作の全ストーリー",
-    "explanation": "2026年7月のニュースによると、ゲーム『進撃の巨人３』は「進撃の巨人」の物語を最初から最後まで描く集大成であるためです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "『キングダム ハーツIV』の発表に関するニュースは、どのジャンルのメディアで報じられましたか？",
-    "choices": [
-      "オリコンニュース",
-      "ゲーム専門誌",
-      "アニメ情報サイト",
-      "映画情報サイト"
-    ],
-    "answer": "オリコンニュース",
-    "explanation": "2026年7月のニュースによると、「オリコンニュース」というメディアで報じられたためです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "2026年6月2日のState of Playで発表された『鬼武者』の完全新作は、どのような形で提供されますか？",
-    "choices": [
-      "体験版の配信",
-      "フルバージョンの発売",
-      "シーズンパスの発表",
-      "クラウドゲーミング"
-    ],
-    "answer": "体験版の配信",
-    "explanation": "2026年6月2日のState of Playの発表によると、『鬼武者』の完全新作の体験版が配信されるためです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "『空の軌跡 the 2nd』で公開された最新情報に含まれる「結社《身喰らう蛇》」は、ゲーム内でどのような役割を持つ組織ですか？",
-    "choices": [
-      "敵対組織",
-      "友好組織",
-      "中立組織",
-      "プレイヤーが所属する組織"
-    ],
-    "answer": "敵対組織",
-    "explanation": "「結社」という言葉と「執行者」という役職名から、一般的に敵対組織として認識されることが多いですが、ニュースでは具体的な役割は明示されていません。しかし、選択肢の中で最も妥当な解釈として「敵対組織」が挙げられます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "『サドンアタック:ゼロポイント』の最新ニュースは、主にどのような情報に焦点を当てていますか？",
-    "choices": [
-      "ゲームの評価とレビュー",
-      "開発者のインタビュー",
-      "eスポーツ大会の結果",
-      "未来のアップデート計画"
-    ],
-    "answer": "ゲームの評価とレビュー",
-    "explanation": "2026年7月のニュースによると、OnlineGamerは「ゲーム情報・評価・レビュー・最新ニュース」を提供しており、評価とレビューに焦点を当てているためです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "『大戦略 SSB2』の動画コンテンツ「月刊大戦略 SSB2 2025年11月号」は、どのような情報形式で提供されますか？",
-    "choices": [
-      "動画コンテンツ",
-      "雑誌",
-      "ウェブ記事",
-      "ラジオ番組"
-    ],
-    "answer": "動画コンテンツ",
-    "explanation": "2026年7月のニュースによると、「月刊大戦略 SSB2 2025年11月号」は「動画コンテンツ」として公開されたためです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "「SAO」ゲームシリーズ最新作「Echoes of Aincrad」と、その長編プロモーションアニメ『Unanswered//butterfly』の公開日にはどのような関係がありますか？",
-    "choices": [
-      "ゲーム発売日の4日前にアニメがプレミア配信された",
-      "ゲームとアニメが同日発売・配信された",
-      "アニメが先に発表され、ゲームが後から発売された",
-      "アニメはゲームの続編として制作された"
-    ],
-    "answer": "ゲーム発売日の4日前にアニメがプレミア配信された",
-    "explanation": "2026年7月9日のニュースによると「Echoes of Aincrad」は本日発売、2026年7月5日のニュースによると『Unanswered//butterfly』がプレミア配信決定したため、4日前の関係です。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "『ONE PIECEカードゲーム』のブースターパック「世界最強の戦士」は、何番目のパックとしてリリースされますか？",
-    "choices": [
-      "【OP-17】",
-      "【OP-01】",
-      "【OP-10】",
-      "【OP-20】"
-    ],
-    "answer": "【OP-17】",
-    "explanation": "2026年7月のニュースによると、ブースターパックのタイトルは「世界最強の戦士【OP-17】」であるためです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "『ソードアート・オンライン』ゲーム最新作の長編プロモーションアニメ『Unanswered//butterfly』のプレミア配信が決定した具体的な月日は何ですか？",
-    "choices": [
+      "7月1日",
       "7月5日",
-      "7月9日",
-      "6月2日",
-      "7月12日"
+      "7月10日",
+      "7月15日"
     ],
     "answer": "7月5日",
-    "explanation": "2026年7月5日のニュースによると、プレミア配信は2026年7月5日（日）に決定したためです。"
+    "explanation": "2026年7月のニュースによると、『ソードアート・オンライン』ゲーム最新作の長編プロモーションアニメ『Unanswered//butterfly』が2026年7月5日（日）にプレミア配信されました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 6,
-    "question": "『進撃の巨人３』が「物語を最初から最後まで描く集大成」であると発表されたウェブサイトの運営元は何ですか？",
+    "difficulty": 4,
+    "question": "2026年7月11日(土)に新発売される『ONE PIECEカードゲーム』のスタートデッキの総数は何種類ですか？",
     "choices": [
-      "コーエーテクモゲームス",
+      "3種類",
+      "4種類",
+      "5種類",
+      "6種類"
+    ],
+    "answer": "6種類",
+    "explanation": "2026年7月のニュースによると、明日7月11日(土)に『ONE PIECEカードゲーム』の6色スタートデッキ【ST-31】～【ST-36】が新発売されます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "2026年Summer Game Festで発表された新作・続編・リメイクの中で、カプコン関連のタイトルとして挙げられるものは何ですか？",
+    "choices": [
+      "FFVII リベレーションとステラーブレイド続編",
+      "バイオハザード ベロニカ リメイクとモンハンワイルズ大型DLC",
+      "エースコンバット8と鬼武者体験版",
+      "キングダム ハーツIVと進撃の巨人３"
+    ],
+    "answer": "バイオハザード ベロニカ リメイクとモンハンワイルズ大型DLC",
+    "explanation": "2026年Summer Game Festの発表まとめによると、『バイオハザード ベロニカ』リメイクと『モンハンワイルズ』大型DLCが発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "『進撃の巨人３』は、どのゲームメーカーから発売が決定しましたか？",
+    "choices": [
       "カプコン",
       "スクウェア・エニックス",
+      "コーエーテクモゲームス",
       "バンダイナムコエンターテインメント"
     ],
     "answer": "コーエーテクモゲームス",
-    "explanation": "2026年7月のニュースによると、『進撃の巨人３』の発表はgamecity.ne.jpで行われており、これはコーエーテクモゲームスの運営するサイトであるためです。"
+    "explanation": "2026年7月のニュースによると、「gamecity.ne.jp」が『進撃の巨人３』発売決定を報じており、これはコーエーテクモゲームスのドメインです。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 6,
-    "question": "『キングダム ハーツIV』が発表された際に言及されたプラットフォーム「Switch2」とは、具体的にどのようなコンソールを指しますか？",
+    "difficulty": 4,
+    "question": "『キングダム ハーツIV』の発表を報じたメディアの一つは何ですか？",
     "choices": [
-      "ニンテンドースイッチ2",
-      "Xbox Series X",
-      "PlayStation 5",
-      "PC"
+      "ファミ通.com",
+      "オリコンニュース",
+      "GAME Watch",
+      "4Gamer.net"
     ],
-    "answer": "ニンテンドースイッチ2",
-    "explanation": "2026年7月のニュースによると、『キングダム ハーツIV』のプラットフォームとして「Switch2」が言及されており、これはニンテンドースイッチ2を指すことが他のニュース記事（【Switch2】ニンテンドースイッチ2の本体情報まとめ）から確認できるためです。"
+    "answer": "オリコンニュース",
+    "explanation": "2026年7月のニュースによると、『キングダム ハーツ』シリーズ最新作発表『キングダム ハーツIV』Switch2やPS5などで発売へという記事がオリコンニュースで報じられました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 6,
-    "question": "2026年6月2日のState of Playで発表された『エースコンバット8』に関する重要な情報は何ですか？",
+    "difficulty": 4,
+    "question": "2026年6月2日のState of Playで発表された『鬼武者』に関するニュースは何ですか？",
     "choices": [
+      "新作アニメ化",
+      "リメイク版発売",
+      "体験版の配信",
+      "モバイル版発表"
+    ],
+    "answer": "体験版の配信",
+    "explanation": "2026年6月2日のState of Playの発表まとめによると、完全新作『鬼武者』の体験版が配信されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "『Minecraft Dungeons II』のゲームプレイ情報解禁とリリース日決定のニュースは、どの公式サイトで報じられましたか？",
+    "choices": [
+      "Mojang Studios",
+      "Xbox Wire",
+      "Minecraft.net",
+      "Minecraft"
+    ],
+    "answer": "Minecraft",
+    "explanation": "2026年7月のニュースによると、『Minecraft Dungeons II』の情報解禁は「Minecraft」の公式情報として報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "『サドンアタック:ゼロポイント』のゲーム情報・評価・レビュー・最新ニュースが掲載されているサイトは何ですか？",
+    "choices": [
+      "OnlineGamer",
+      "Game*Spark",
+      "Automaton",
+      "IGN Japan"
+    ],
+    "answer": "OnlineGamer",
+    "explanation": "2026年7月のニュースによると、『サドンアタック:ゼロポイント』に関する情報はOnlineGamerで掲載されています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "ポケモンカードゲーム30周年記念商品の最新情報が公開されたのは、本日（2026年7月10日）何を通じてですか？",
+    "choices": [
+      "雑誌記事",
+      "テレビCM",
+      "オンライン動画",
+      "イベント会場"
+    ],
+    "answer": "オンライン動画",
+    "explanation": "2026年7月のニュースによると、「ポケモンカードゲーム」30周年記念商品の最新情報を紹介する動画が本日22時に公開されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "2026年6月9日のニンテンドーダイレクトで発表された内容のまとめが掲載されたメディアは何ですか？",
+    "choices": [
+      "ファミ通",
+      "GAME Watch",
+      "電撃オンライン",
+      "IGN Japan"
+    ],
+    "answer": "GAME Watch",
+    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」発表内容まとめがGAME Watchで報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "「進撃の巨人」の物語を最初から最後まで描く集大成ゲーム『進撃の巨人３』の発売が決定したというニュースは、どの情報源で報じられましたか？",
+    "choices": [
+      "アニメ公式サイト",
+      "gamecity.ne.jp",
+      "漫画出版社",
+      "ゲーム雑誌"
+    ],
+    "answer": "gamecity.ne.jp",
+    "explanation": "2026年7月のニュースによると、「gamecity.ne.jp」にてゲーム『進撃の巨人３』発売決定が報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "「進撃の巨人」の物語を最初から最後まで描く集大成ゲーム『進撃の巨人３』は、どのようなメディアでその発売決定が報じられましたか？",
+    "choices": [
+      "テレビニュース",
+      "新聞広告",
+      "ゲーム情報サイト",
+      "SNS"
+    ],
+    "answer": "ゲーム情報サイト",
+    "explanation": "2026年7月のニュースによると、「gamecity.ne.jp」というゲーム情報サイトでゲーム『進撃の巨人３』発売決定が報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "2026年7月11日(土)に新発売される『ONE PIECEカードゲーム』のスタートデッキの番号は【ST-31】～【ST-36】ですが、これは何種類のデッキを意味しますか？",
+    "choices": [
+      "3種類",
+      "4種類",
+      "5種類",
+      "6種類"
+    ],
+    "answer": "6種類",
+    "explanation": "2026年7月のニュースによると、明日7月11日(土)に『ONE PIECEカードゲーム』の6色スタートデッキ【ST-31】～【ST-36】が新発売されます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "『キングダム ハーツIV』がSwitch2やPS5などで発売されるというニュースは、どのメディアで報じられましたか？",
+    "choices": [
+      "ファミ通",
+      "オリコンニュース",
+      "GAME Watch",
+      "4Gamer.net"
+    ],
+    "answer": "オリコンニュース",
+    "explanation": "2026年7月のニュースによると、『キングダム ハーツ』シリーズ最新作発表『キングダム ハーツIV』Switch2やPS5などで発売へという記事がオリコンニュースで報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "『キングダム ハーツ』シリーズ最新作『キングダム ハーツIV』が発表されたニュースは、どの情報源によって報じられましたか？",
+    "choices": [
+      "GAME Watch",
+      "オリコンニュース",
+      "ファミ通",
+      "4Gamer.net"
+    ],
+    "answer": "オリコンニュース",
+    "explanation": "2026年7月のニュースによると、『キングダム ハーツ』シリーズ最新作発表 『キングダム ハーツIV』Switch2やPS5などで発売へ - オリコンニュース と報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "『ソードアート・オンライン』ゲーム最新作の長編プロモーションアニメ『Unanswered//butterfly』のプレミア配信を報じたテレビ局は何ですか？",
+    "choices": [
+      "TOKYO MX",
+      "日本テレビ",
+      "千葉テレビ放送",
+      "フジテレビ"
+    ],
+    "answer": "千葉テレビ放送",
+    "explanation": "2026年7月のニュースによると、『ソードアート・オンライン』ゲーム最新作の長編プロモーションアニメ『Unanswered//butterfly』のプレミア配信が千葉テレビ放送で報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "『ONE PIECEカードゲーム』のブースターパック「世界最強の戦士」の発売記念イベントは、どのような形式で開催が決定しましたか？",
+    "choices": [
+      "オンライン大会",
+      "全国ツアーイベント",
+      "店頭イベント",
+      "限定カフェ"
+    ],
+    "answer": "店頭イベント",
+    "explanation": "2026年7月のニュースによると、ブースターパック 世界最強の戦士【OP-17】発売記念イベントが開催決定とあり、これは一般的に店頭でのイベントを指します。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "2026年Summer Game Festで発表された『FFVII リベレーション』は、どのような種類の発表でしたか？",
+    "choices": [
+      "完全新作",
+      "リメイク",
+      "スピンオフ",
+      "大型DLC"
+    ],
+    "answer": "完全新作",
+    "explanation": "2026年Summer Game Festの発表まとめによると、『FFVII リベレーション』が発表され、これは新作として報じられています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "『進撃の巨人３』が「集大成ゲーム」として発売が決定した理由は何ですか？",
+    "choices": [
+      "物語の全てのキャラクターが登場するから",
+      "物語の全てのステージが再現されるから",
+      "物語を最初から最後まで描くから",
+      "物語の最終章に特化しているから"
+    ],
+    "answer": "物語を最初から最後まで描くから",
+    "explanation": "2026年7月のニュースによると、「進撃の巨人」の物語を最初から最後まで描く集大成ゲーム『進撃の巨人３』が発売決定しました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "『キングダム ハーツIV』の発表は、どのようなイベントや配信の中で行われましたか？",
+    "choices": [
+      "E3 2026",
+      "State of Play",
+      "Summer Game Fest 2026",
+      "明示されていない"
+    ],
+    "answer": "明示されていない",
+    "explanation": "2026年7月のニュースによると、『キングダム ハーツIV』の発表は報じられましたが、どのイベントでの発表かは明示されていません。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "2026年6月2日のState of Playで発表された『エースコンバット8』のニュース内容は具体的に何でしたか？",
+    "choices": [
+      "体験版配信",
+      "新機体発表",
       "発売日決定",
-      "新機体情報",
-      "マルチプレイモードの詳細",
-      "ストーリーの概要"
+      "オンラインモード詳細"
     ],
     "answer": "発売日決定",
-    "explanation": "2026年6月2日のState of Playの発表によると、『エースコンバット8』の「発売日決定」が発表されたためです。"
+    "explanation": "2026年6月2日のState of Playの発表まとめによると、『エースコンバット8』の発売日決定が発表されました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 6,
-    "question": "『空の軌跡 the 2nd』の最新情報で公開された、ゲームシステムに関する具体的な内容はどのようなものと推測されますか？",
+    "difficulty": 5,
+    "question": "『Minecraft Dungeons II』のゲームプレイ情報解禁とリリース日決定のニュースが報じられた媒体のカテゴリは何ですか？",
     "choices": [
-      "戦闘システム",
-      "キャラ育成システム",
-      "ストーリー進行システム",
-      "ミニゲームシステム"
+      "専門誌",
+      "公式ブログ",
+      "ゲーム情報サイト",
+      "YouTubeチャンネル"
     ],
-    "answer": "戦闘システム",
-    "explanation": "「ゲームシステムなど最新情報」とあるため、具体的な内容は明示されていませんが、一般的にゲームシステム情報では戦闘システムが重要な要素として扱われます。"
+    "answer": "公式ブログ",
+    "explanation": "2026年7月のニュースによると、『Minecraft Dungeons II』のゲームプレイ情報解禁とリリース日決定はMinecraftの公式情報源で報じられています。通常、このような情報は公式ブログで発表されます。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 6,
-    "question": "『チェンソーマン 刺客篇』のスマートフォンゲーム化が決定したニュースは、どのような媒体で報じられましたか？",
+    "difficulty": 5,
+    "question": "『サドンアタック:ゼロポイント』の最新情報が記載されているサイト「OnlineGamer」の主要な機能は何ですか？",
     "choices": [
-      "cinema-factory.jp",
-      "ゲーム雑誌",
-      "テレビニュース",
+      "ゲーム販売",
+      "ゲーム開発",
+      "ゲーム情報・評価・レビュー",
+      "ゲーム配信"
+    ],
+    "answer": "ゲーム情報・評価・レビュー",
+    "explanation": "2026年7月のニュースによると、「OnlineGamer」は『サドンアタック:ゼロポイント』のゲーム情報・評価・レビュー・最新ニュースを掲載しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "ポケモンカードゲーム30周年記念商品の最新情報動画が公開されたのは、本日（2026年7月10日）のどの媒体上でしたか？",
+    "choices": [
+      "テレビ",
+      "ラジオ",
+      "ウェブサイト",
       "新聞"
     ],
-    "answer": "cinema-factory.jp",
-    "explanation": "2026年7月のニュースによると、『チェンソーマン 刺客篇』最新PV解禁！スマートフォンゲーム化も決定 - cinema-factory.jpとあるためです。"
+    "answer": "ウェブサイト",
+    "explanation": "2026年7月のニュースによると、ポケモンカードゲーム30周年記念商品の最新情報を紹介する動画が本日22時に公開されました。これはウェブ上での動画配信を指します。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "2026年6月9日のニンテンドーダイレクトで発表された内容のまとめ記事は、どの情報源によって提供されましたか？",
+    "choices": [
+      "ファミ通",
+      "GAME Watch",
+      "電撃オンライン",
+      "IGN Japan"
+    ],
+    "answer": "GAME Watch",
+    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」発表内容まとめ（GAME Watch）と記載されています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "『キングダム ハーツ』シリーズ最新作『キングダム ハーツIV』が発売予定のプラットフォームとして、PS5の他に発表されたのは何ですか？",
+    "choices": [
+      "Xbox Series X",
+      "Nintendo Switch",
+      "Switch2",
+      "PC"
+    ],
+    "answer": "Switch2",
+    "explanation": "2026年7月のニュースによると、『キングダム ハーツIV』はSwitch2やPS5などで発売される予定です。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "『キングダム ハーツIV』が発表されたニュースで、発売予定のプラットフォームとして言及されたのは主にどのようなカテゴリのゲーム機ですか？",
+    "choices": [
+      "携帯ゲーム機のみ",
+      "最新世代の据え置き型ゲーム機と次世代携帯ゲーム機",
+      "PC専用",
+      "旧世代ゲーム機のみ"
+    ],
+    "answer": "最新世代の据え置き型ゲーム機と次世代携帯ゲーム機",
+    "explanation": "2026年7月のニュースによると、『キングダム ハーツIV』はSwitch2やPS5などで発売される予定とあり、これらは最新世代の据え置き型ゲーム機と次世代携帯ゲーム機に該当します。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "2026年Summer Game Festで発表された『モンハンワイルズ』の大型DLCは、どのようなイベントで発表されましたか？",
+    "choices": [
+      "State of Play",
+      "Nintendo Direct",
+      "Summer Game Fest",
+      "Xbox Partner Preview"
+    ],
+    "answer": "Summer Game Fest",
+    "explanation": "2026年Summer Game Festの発表まとめによると、『モンハンワイルズ』大型DLCが発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "2026年6月2日のState of Playで『真・三國無双2』に紫鸞が参戦するという発表は、このシリーズのどのような展開を示唆していますか？",
+    "choices": [
+      "リメイク版の発売",
+      "スピンオフ作品の制作",
+      "既存タイトルの継続的なアップデート",
+      "アニメ化の計画"
+    ],
+    "answer": "既存タイトルの継続的なアップデート",
+    "explanation": "2026年6月2日のState of Playの発表まとめによると、『真・三國無双2』に紫鸞参戦とあり、これは既存のゲームへの新キャラクター追加という形で、既存タイトルの継続的なアップデートを示唆しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "2026年6月2日のState of Playで発売日決定が発表された『エースコンバット8』は、どのようなジャンルのゲームですか？",
+    "choices": [
+      "レースゲーム",
+      "フライトシューティング",
+      "RPG",
+      "ストラテジー"
+    ],
+    "answer": "フライトシューティング",
+    "explanation": "2026年6月2日のState of Playの発表まとめによると、『エースコンバット8』の発売日決定が発表されました。『エースコンバット』シリーズはフライトシューティングゲームです。"
   },
   {
     "category": "ゲーム",
     "difficulty": 6,
-    "question": "ニンテンドースイッチ2の本体情報まとめが公開されたウェブサイトは何ですか？",
+    "question": "『ソードアート・オンライン』ゲームシリーズの最新作「Echoes of Aincrad」とプロモーションアニメ『Unanswered//butterfly』に関する情報が、それぞれ異なるメディアで報じられた主な理由は何ですか？",
     "choices": [
-      "GameWith",
-      "ファミ通.com",
-      "IGN Japan",
-      "電撃オンライン"
+      "開発会社が異なるため",
+      "配信時期が異なるため",
+      "ゲームとアニメという異なる形式のため",
+      "ターゲット層が異なるため"
     ],
-    "answer": "GameWith",
-    "explanation": "2026年7月のニュースによると、【Switch2】ニンテンドースイッチ2の本体情報まとめ - GameWithとあるためです。"
+    "answer": "ゲームとアニメという異なる形式のため",
+    "explanation": "2026年7月のニュースによると、「Echoes of Aincrad」はゲーム情報サイトで、プロモーションアニメ『Unanswered//butterfly』はテレビ局で報じられており、これはゲームとアニメという異なるメディア展開によるものです。"
   },
   {
     "category": "ゲーム",
     "difficulty": 6,
-    "question": "Epic Gamesの大規模レイオフと、Ubisoft、Red Storm Entertainmentのゲーム開発終了に関するニュースを報じたのはどのジャンルのメディアですか？",
+    "question": "『ONE PIECEカードゲーム』の6色スタートデッキ【ST-31】～【ST-36】が新発売される日付が2026年7月11日(土)であることから、本日（2026年7月10日）はどのような日と位置づけられますか？",
     "choices": [
-      "XRニュース",
-      "一般経済ニュース",
-      "ゲーム業界専門誌",
-      "テクノロジーニュース"
+      "発売日",
+      "予約開始日",
+      "発売前日",
+      "イベント最終日"
     ],
-    "answer": "XRニュース",
-    "explanation": "最新のXRニュースによると、Epic Games大規模レイオフ発表、Ubisoft、Red Storm Entertainmentのゲーム開発を終了ほかー 週間振り返りXRニュース - Mogura VRとあるためです。"
+    "answer": "発売前日",
+    "explanation": "2026年7月のニュースによると、明日7月11日(土)に『ONE PIECEカードゲーム』の6色スタートデッキが新発売されるため、本日7月10日はその発売前日となります。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 7,
-    "question": "2026年7月に発表されたゲーム関連ニュースの中で、本日発売されたゲームとプレミア配信が決定したプロモーションアニメの両方を持つシリーズは何ですか？",
+    "difficulty": 6,
+    "question": "2026年Summer Game Festで発表された『FFVII リベレーション』と『バイオハザード ベロニカ』リメイクは、それぞれどのゲームメーカーのタイトルですか？",
     "choices": [
-      "ソードアート・オンライン",
-      "ONE PIECE",
-      "進撃の巨人",
-      "キングダム ハーツ"
+      "スクウェア・エニックスとカプコン",
+      "カプコンとスクウェア・エニックス",
+      "バンダイナムコとスクウェア・エニックス",
+      "セガとカプコン"
     ],
-    "answer": "ソードアート・オンライン",
-    "explanation": "2026年7月9日のニュースで「Echoes of Aincrad」が本日発売、2026年7月5日のニュースで『Unanswered//butterfly』がプレミア配信決定と報じられたためです。"
+    "answer": "スクウェア・エニックスとカプコン",
+    "explanation": "2026年Summer Game Festの発表まとめによると、『FFVII リベレーション』はスクウェア・エニックス、『バイオハザード ベロニカ』リメイクはカプコンのタイトルです。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 7,
-    "question": "『ONE PIECEカードゲーム』のブースターパック「世界最強の戦士【OP-17】」の発売記念イベントは、どのような種類のイベントですか？",
+    "difficulty": 6,
+    "question": "ゲーム『進撃の巨人３』が「集大成」と銘打たれていることから、このゲームが対象としているファン層はどのような層だと推測されますか？",
     "choices": [
-      "発売記念イベント",
-      "公式大会",
-      "ファンミーティング",
-      "開発者サイン会"
-    ],
-    "answer": "発売記念イベント",
-    "explanation": "2026年7月のニュースによると、「発売記念イベント」が開催決定したためです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "『進撃の巨人３』が「物語を最初から最後まで描く集大成」として発売決定したことは、どのような意味合いを持ちますか？",
-    "choices": [
-      "シリーズの完結編であること",
-      "シリーズの始まりの物語であること",
-      "シリーズの中間部分を描くこと",
-      "シリーズの番外編であること"
-    ],
-    "answer": "シリーズの完結編であること",
-    "explanation": "2026年7月のニュースによると、「物語を最初から最後まで描く集大成」とあるため、シリーズの完結編であることを意味します。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "『キングダム ハーツIV』が発表されたニュースで、プラットフォームとして「Switch2やPS5など」と記載された「など」には、どのような可能性が示唆されますか？",
-    "choices": [
-      "他のコンソールやPC",
-      "モバイルデバイス",
-      "過去のコンソール",
-      "クラウドゲーミングサービス"
-    ],
-    "answer": "他のコンソールやPC",
-    "explanation": "2026年7月のニュースによると、「など」という表記は、Switch2やPS5以外の複数のプラットフォーム（例えばXbox Series XやPCなど）での展開の可能性を示唆しています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "2026年6月2日のState of Playで発表された『真・三國無双2』に関するニュースは、何に焦点を当てたものですか？",
-    "choices": [
-      "新キャラクターの参戦",
-      "新たなゲームモード",
-      "グラフィックの改善",
-      "ストーリーの追加"
-    ],
-    "answer": "新キャラクターの参載",
-    "explanation": "2026年6月2日のState of Playの発表によると、『真・三國無双2』に紫鸞が参戦することが決定したためです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "『空の軌跡 the 2nd』の最新情報で公開された「結社《身喰らう蛇》の執行者メンバーらキャラ情報」は、主にどのようなプレイヤー層をターゲットとした情報ですか？",
-    "choices": [
-      "シリーズファン",
       "新規プレイヤー",
-      "アクションゲームファン",
-      "カジュアルゲーマー"
+      "カジュアルプレイヤー",
+      "原作ファンおよびシリーズ経験者",
+      "海外プレイヤー"
     ],
-    "answer": "シリーズファン",
-    "explanation": "2026年7月のニュースによると、特定の組織のメンバー情報が公開されたことは、シリーズのストーリーやキャラクターに深い関心を持つ既存のファン層をターゲットとしていると考えられます。"
+    "answer": "原作ファンおよびシリーズ経験者",
+    "explanation": "2026年7月のニュースによると、『進撃の巨人３』は「物語を最初から最後まで描く集大成」とされており、これは原作を深く知るファンやこれまでのゲームシリーズをプレイしてきた層を強く意識した表現です。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "『キングダム ハーツIV』がSwitch2やPS5などで発売されるというニュースは、どのような媒体で報じられましたか？",
+    "choices": [
+      "アニメ専門サイト",
+      "映画情報サイト",
+      "ゲーム情報サイト",
+      "音楽情報サイト"
+    ],
+    "answer": "ゲーム情報サイト",
+    "explanation": "2026年7月のニュースによると、『キングダム ハーツ』シリーズ最新作発表『キングダム ハーツIV』Switch2やPS5などで発売へという記事がオリコンニュースで報じられましたが、これはゲーム関連のニュースとして扱われています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "2026年6月2日のState of Playで『真・三國無双2』に紫鸞が参戦するという発表は、このゲームにとってどのような意味合いを持ちますか？",
+    "choices": [
+      "新作の発表",
+      "リマスター版の発表",
+      "既存作品への追加コンテンツ",
+      "スピンオフ作品の発表"
+    ],
+    "answer": "既存作品への追加コンテンツ",
+    "explanation": "2026年6月2日のState of Playの発表まとめによると、『真・三國無双2』に紫鸞参戦とあり、これは既存のゲームへの新キャラクター追加を意味します。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "『Minecraft Dungeons II』のゲームプレイ情報解禁とリリース日決定のニュースが報じられたことで、ファンが最も期待する情報は何かと考えられますか？",
+    "choices": [
+      "サウンドトラック情報",
+      "グッズ情報",
+      "ゲームシステムの詳細と発売日",
+      "アニメ化情報"
+    ],
+    "answer": "ゲームシステムの詳細と発売日",
+    "explanation": "2026年7月のニュースによると、『Minecraft Dungeons II』のゲームプレイ情報とリリース日が決定したとあり、ファンはこれらの詳細な情報を最も期待すると考えられます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "『サドンアタック:ゼロポイント』の「ゲーム情報・評価・レビュー・最新ニュース」が掲載されているOnlineGamerは、主にどのようなゲームを扱うサイトですか？",
+    "choices": [
+      "家庭用ゲーム",
+      "モバイルゲーム",
+      "オンラインゲーム",
+      "ボードゲーム"
+    ],
+    "answer": "オンラインゲーム",
+    "explanation": "2026年7月のニュースによると、『サドンアタック:ゼロポイント』はOnlineGamerで扱われており、「サドンアタック」シリーズはオンラインFPSであることから、OnlineGamerはオンラインゲームを主に扱うサイトと推測されます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "ポケモンカードゲーム30周年記念商品の最新情報動画が公開されたのは本日（2026年7月10日）ですが、この情報公開の目的は何だと考えられますか？",
+    "choices": [
+      "過去商品の再販告知",
+      "新ゲームモードの紹介",
+      "記念商品の期待感醸成",
+      "次期アニメシリーズの発表"
+    ],
+    "answer": "記念商品の期待感醸成",
+    "explanation": "2026年7月のニュースによると、ポケモンカードゲーム30周年記念商品の最新情報動画が公開され、ミュウとミュウツーの画像も公開されたとあり、これは記念商品への関心を高めるためのものです。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "2026年6月9日のニンテンドーダイレクトで発表された内容のまとめ記事は、主にどのような情報を提供していますか？",
+    "choices": [
+      "任天堂の経営戦略",
+      "新作ゲームの発表やアップデート情報",
+      "過去のゲームの歴史",
+      "開発者のインタビュー"
+    ],
+    "answer": "新作ゲームの発表やアップデート情報",
+    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」発表内容まとめとあり、ニンテンドーダイレクトは通常、新作ゲームの発表や既存ゲームのアップデート情報を中心に提供します。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "2026年6月2日のState of Playで『真・三國無双2』に参戦が発表された紫鸞は、どのようなタイプのキャラクターだと推測されますか？",
+    "choices": [
+      "歴史上の実在人物",
+      "オリジナルキャラクター",
+      "ファン投票で選ばれたキャラクター",
+      "他ゲームからのゲストキャラクター"
+    ],
+    "answer": "オリジナルキャラクター",
+    "explanation": "2026年6月2日のState of Playの発表まとめによると、『真・三國無双2』に紫鸞参戦とあり、既存の武将名鑑にない名前であるため、新たなオリジナルキャラクターであると推測されます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "2026年6月2日のState of Playで『エースコンバット8』の発売日決定が発表されたことは、このシリーズのファンにとってどのような意味合いを持ちますか？",
+    "choices": [
+      "新作への期待が高まる",
+      "シリーズの終了を示唆",
+      "eスポーツへの参入",
+      "VR専用ゲームへの移行"
+    ],
+    "answer": "新作への期待が高まる",
+    "explanation": "2026年6月2日のState of Playの発表まとめによると、『エースコンバット8』の発売日決定は、ファンが待ち望んでいた新作のリリースが近づいていることを意味し、期待感を高めます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "「進撃の巨人」の物語を最初から最後まで描く集大成ゲーム『進撃の巨人３』の発売決定は、どのようなゲーム体験をファンに提供しようとしていると推測されますか？",
+    "choices": [
+      "原作漫画の追体験",
+      "アニメの追体験",
+      "完全なオリジナルストーリー",
+      "VRでの戦闘体験"
+    ],
+    "answer": "原作漫画の追体験",
+    "explanation": "2026年7月のニュースによると、『進撃の巨人３』は「物語を最初から最後まで描く集大成」とされており、これは原作の壮大な物語をゲームで追体験できることを示唆しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "『Minecraft Dungeons II』のゲームプレイ情報解禁とリリース日決定のニュースが報じられたことで、このゲームが前作と比較してどのような点が進化していると期待されますか？",
+    "choices": [
+      "グラフィックの大幅な向上",
+      "より多様なゲームプレイ要素と拡張された物語",
+      "PvPモードの追加",
+      "VR対応"
+    ],
+    "answer": "より多様なゲームプレイ要素と拡張された物語",
+    "explanation": "2026年7月のニュースによると、『Minecraft Dungeons II』のゲームプレイ情報解禁とリリース日決定とあり、続編であることから、前作からさらに多様なゲームプレイ要素や拡張された物語が期待されます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "『Minecraft Dungeons II』のゲームプレイ情報解禁とリリース日決定のニュースが報じられたことで、このゲームがどのようなプレイヤー層をターゲットにしていると推測されますか？",
+    "choices": [
+      "ハードコアゲーマー",
+      "マインクラフトファンとアクションRPGファン",
+      "eスポーツプレイヤー",
+      "クリエイター"
+    ],
+    "answer": "マインクラフトファンとアクションRPGファン",
+    "explanation": "2026年7月のニュースによると、『Minecraft Dungeons II』は『Minecraft Dungeons』の続編であり、マインクラフトの世界観とアクションRPGの要素を組み合わせていることから、マインクラフトファンとアクションRPGファンをターゲットにしていると推測されます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 7,
-    "question": "『サドンアタック:ゼロポイント』の「ゲーム情報・評価・レビュー・最新ニュース」は、どのような段階のプレイヤーに役立つ情報ですか？",
+    "question": "『ソードアート・オンライン』のゲーム最新作「Echoes of Aincrad」とプロモーションアニメ『Unanswered//butterfly』が2026年7月に発表されたことで、SAOファンにとってどのような期待が高まりますか？",
     "choices": [
-      "新規プレイヤーと既存プレイヤーの両方",
-      "主に新規プレイヤー",
-      "主に既存プレイヤー",
-      "ゲーム開発者"
+      "VR技術の進化",
+      "アニメ新シーズンの開始",
+      "ゲームとアニメのメディアミックス展開の強化",
+      "原作小説の完結"
     ],
-    "answer": "新規プレイヤーと既存プレイヤーの両方",
-    "explanation": "2026年7月のニュースによると、「ゲーム情報・評価・レビュー・最新ニュース」は、ゲームの概要を知りたい新規プレイヤーから、最新の動向や評価を知りたい既存プレイヤーまで、幅広く役立つ情報です。"
+    "answer": "ゲームとアニメのメディアミックス展開の強化",
+    "explanation": "2026年7月のニュースによると、ゲームとプロモーションアニメが同時期に発表されたことで、SAOのメディアミックス展開が今後さらに強化されるという期待が高まります。"
   },
   {
     "category": "ゲーム",
     "difficulty": 7,
-    "question": "『チェンソーマン 刺客篇』のスマートフォンゲーム化決定は、アニメの最新PV解禁と同時に発表されましたが、これはどのようなプロモーション戦略と見なせますか？",
+    "question": "『ONE PIECEカードゲーム』のブースターパック「世界最強の戦士【OP-17】」の発売記念イベントが開催されることと、6色スタートデッキ【ST-31】～【ST-36】が新発売されることは、カードゲーム市場においてどのような影響を与えると考えられますか？",
     "choices": [
-      "メディアミックス戦略",
-      "ゲーム単独プロモーション",
-      "アニメ先行プロモーション",
-      "漫画先行プロモーション"
+      "市場の飽和を招く",
+      "新規プレイヤーの獲得と既存プレイヤーの活性化",
+      "価格競争の激化",
+      "他社カードゲームの衰退"
     ],
-    "answer": "メディアミックス戦略",
-    "explanation": "2026年7月のニュースによると、アニメのPV解禁と同時にゲーム化が発表されたことから、複数のメディア（アニメとゲーム）を連携させたメディアミックス戦略と見なせます。"
+    "answer": "新規プレイヤーの獲得と既存プレイヤーの活性化",
+    "explanation": "2026年7月のニュースによると、新しいスタートデッキの発売は新規参入を促し、ブースターパックのイベントは既存プレイヤーの継続的な関与を促すため、市場の活性化に繋がると考えられます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 7,
-    "question": "ニンテンドースイッチ2の「本体情報まとめ」が公開されたのは、どのような時期における情報提供と推測されますか？",
+    "question": "2026年Summer Game Festで発表された『FFVII リベレーション』、『バイオハザード ベロニカ』リメイク、『モンハンワイルズ』大型DLC、『ステラーブレイド』続編は、ゲーム業界のどのようなトレンドを示唆していますか？",
     "choices": [
-      "発売前情報",
-      "発売後情報",
-      "開発初期情報",
-      "販売終了情報"
+      "VRゲームの台頭",
+      "モバイルゲームへのシフト",
+      "既存人気IPの継続的な展開と強化",
+      "インディーゲームの隆盛"
     ],
-    "answer": "発売前情報",
-    "explanation": "2026年7月のニュースによると、「本体情報まとめ」が公開されたことは、今後の発売に向けての期待感を高める発売前情報と推測されます。"
+    "answer": "既存人気IPの継続的な展開と強化",
+    "explanation": "2026年Summer Game Festの発表まとめによると、これらは全て既存の人気IPの新作、リメイク、続編、DLCであり、ゲーム業界における既存IPの継続的な展開と強化のトレンドを示唆しています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 7,
-    "question": "Epic Gamesの大規模レイオフに関連して、ゲーム開発が終了したと報じられたUbisoftとRed Storm Entertainmentは、どのような関係性を持つ企業ですか？",
+    "question": "ゲーム『進撃の巨人３』が「集大成」として物語を最初から最後まで描くことから、この作品はどのようなゲームジャンルに属すると予想されますか？",
     "choices": [
-      "Ubisoftの子会社",
-      "競合他社",
-      "提携関係",
-      "全く関係のない会社"
+      "格闘ゲーム",
+      "シミュレーションゲーム",
+      "アドベンチャーゲーム",
+      "アクションRPG"
     ],
-    "answer": "Ubisoftの子会社",
-    "explanation": "最新のXRニュースによると、UbisoftとRed Storm Entertainmentのゲーム開発が終了したとありますが、Red Storm EntertainmentはUbisoftの子会社であるためです。"
+    "answer": "アクションRPG",
+    "explanation": "2026年7月のニュースによると、『進撃の巨人３』は「物語を最初から最後まで描く集大成ゲーム」とあり、原作の世界観と物語の進行を考慮すると、アクション要素とロールプレイング要素を組み合わせたジャンルが最も適していると予想されます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "『キングダム ハーツIV』がSwitch2やPS5などで発売されるというニュースは、任天堂の次世代機に対するどのような期待を示唆していますか？",
+    "choices": [
+      "高性能なグラフィック性能",
+      "独自の操作性",
+      "幅広いゲームタイトルへの対応",
+      "モバイルゲームとの連携強化"
+    ],
+    "answer": "高性能なグラフィック性能",
+    "explanation": "2026年7月のニュースによると、『キングダム ハーツIV』のようなグラフィック重視のタイトルがSwitch2で発売されることは、任天堂の次世代機がPS5に匹敵する、あるいはそれに近い高性能なグラフィック性能を持つことへの期待を示唆しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "2026年6月2日のState of Playで『真・三國無双2』に紫鸞が参戦するという発表があったことから、このゲームのファン層にどのような影響が考えられますか？",
+    "choices": [
+      "新規プレイヤーの大幅な増加",
+      "既存プレイヤーの離反",
+      "懐かしさと新鮮さの共存による活性化",
+      "eスポーツへの参入"
+    ],
+    "answer": "懐かしさと新鮮さの共存による活性化",
+    "explanation": "2026年6月2日のState of Playの発表まとめによると、古いタイトルへの新キャラクター参戦は、既存のファンに懐かしさを与えつつ、新しい要素で新鮮さを提供し、再活性化を図る狙いがあると考えられます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "『Minecraft Dungeons II』のゲームプレイ情報解禁とリリース日決定のニュースは、どのゲームイベントの発表とは関連していませんか？",
+    "choices": [
+      "Xbox Partner Preview",
+      "State of Play",
+      "Summer Game Fest",
+      "ニンテンドーダイレクト"
+    ],
+    "answer": "State of Play",
+    "explanation": "2026年7月のニュースによると、『Minecraft Dungeons II』の情報は独自に解禁されており、State of Playの発表内容には含まれていません。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "『サドンアタック:ゼロポイント』の「ゲーム情報・評価・レビュー・最新ニュース」がOnlineGamerで提供されることで、このゲームの市場展開において最も重視される側面は何だと考えられますか？",
+    "choices": [
+      "パッケージ販売の促進",
+      "プレイヤーコミュニティの形成と情報共有",
+      "オフラインイベントの開催",
+      "コンソール版の展開"
+    ],
+    "answer": "プレイヤーコミュニティの形成と情報共有",
+    "explanation": "2026年7月のニュースによると、OnlineGamerのようなオンラインゲーム専門サイトでの情報提供は、オンラインゲームのプレイヤーコミュニティ形成と情報共有を促進することを重視していると考えられます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "ポケモンカードゲーム30周年記念商品の最新情報動画でミュウとミュウツーの画像が公開されたことは、この記念商品がどのようなテーマを持つと推測されますか？",
+    "choices": [
+      "特定の地方のポケモン",
+      "伝説のポケモンや初期の象徴的なポケモン",
+      "最新世代のポケモン",
+      "トレーナーカード"
+    ],
+    "answer": "伝説のポケモンや初期の象徴的なポケモン",
+    "explanation": "2026年7月のニュースによると、ポケモンカードゲーム30周年記念商品の情報でミュウとミュウツーがフィーチャーされていることから、これらが初期の象徴的な伝説のポケモンであり、記念商品がシリーズの歴史を祝うテーマを持つと推測されます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "2026年6月のニンテンドーダイレクトとState of Playで発表されたゲームニュースを比較した場合、それぞれのイベントが主に焦点を当てているプラットフォームの違いは何ですか？",
+    "choices": [
+      "ニンテンドーダイレクトはPC、State of Playはモバイル",
+      "ニンテンドーダイレクトは任天堂プラットフォーム、State of PlayはPlayStationプラットフォーム",
+      "ニンテンドーダイレクトはXbox、State of PlayはPC",
+      "両者とも全プラットフォーム共通"
+    ],
+    "answer": "ニンテンドーダイレクトは任天堂プラットフォーム、State of PlayはPlayStationプラットフォーム",
+    "explanation": "2026年6月のニュースによると、ニンテンドーダイレクトは任天堂、State of PlayはPlayStationの公式発表イベントであり、それぞれが自社プラットフォーム向けの情報を中心に扱います。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "『Minecraft Dungeons II』のゲームプレイ情報解禁とリリース日決定のニュースは、どのゲームの続編として発表されましたか？",
+    "choices": [
+      "Minecraft",
+      "Minecraft Earth",
+      "Minecraft Dungeons",
+      "Minecraft Legends"
+    ],
+    "answer": "Minecraft Dungeons",
+    "explanation": "2026年7月のニュースによると、『Minecraft Dungeons II (マインクラフト ダンジョンズ 2)』は『Minecraft Dungeons』の続編として情報が解禁されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "『Minecraft Dungeons II』のゲームプレイ情報解禁とリリース日決定のニュースが報じられたことで、このゲームのどのような特徴が強調されると考えられますか？",
+    "choices": [
+      "建設要素",
+      "サバイバル要素",
+      "アクションRPG要素",
+      "クリエイティブ要素"
+    ],
+    "answer": "アクションRPG要素",
+    "explanation": "2026年7月のニュースによると、『Minecraft Dungeons II』は『Minecraft Dungeons』の続編であり、前作がアクションRPGであったことから、続編もその要素を強調すると考えられます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "『キングダム ハーツIV』がSwitch2やPS5などで発売されるというニュースは、このシリーズの今後の展開において、どのようなプラットフォーム戦略を重視していることを示唆していますか？",
+    "choices": [
+      "単一プラットフォームへの集中",
+      "最新技術を追求したハイエンド機での展開",
+      "過去作のプラットフォームを網羅",
+      "モバイルゲーム市場への参入"
+    ],
+    "answer": "最新技術を追求したハイエンド機での展開",
+    "explanation": "2026年7月のニュースによると、『キングダム ハーツIV』がSwitch2やPS5といった最新かつ高性能なプラットフォームで発売されることから、シリーズが最新技術を活かしたグラフィックとゲーム体験を重視していることが示唆されます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "ポケモンカードゲーム30周年記念商品の最新情報動画でミュウとミュウツーの画像が公開されたことは、この記念商品がどのような価値観を重視していると推測されますか？",
+    "choices": [
+      "新規性",
+      "革新性",
+      "伝統と歴史",
+      "実用性"
+    ],
+    "answer": "伝統と歴史",
+    "explanation": "2026年7月のニュースによると、30周年という節目にミュウとミュウツーという初期の象徴的なポケモンをフィーチャーしたことは、ブランドの伝統と歴史を重視していることを強く示唆しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "『サドンアタック:ゼロポイント』の「ゲーム情報・評価・レビュー・最新ニュース」がOnlineGamerで提供されるという報道は、このゲームがどのようなプレイ体験を重視していることを示唆していますか？",
+    "choices": [
+      "シングルプレイヤーキャンペーン",
+      "ストーリー重視のRPG",
+      "オンラインでの競争と協力",
+      "オフラインでの対戦"
+    ],
+    "answer": "オンラインでの競争と協力",
+    "explanation": "2026年7月のニュースによると、『サドンアタック』シリーズはオンラインFPSであり、OnlineGamerのようなサイトで情報が提供されることから、『サドンアタック:ゼロポイント』もオンラインでの競争と協力を重視したプレイ体験を提供すると推測されます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 8,
-    "question": "2026年7月のニュースで、新作ゲームの発売と、その新作ゲームのプロモーションアニメのプレミア配信がほぼ同時期に報じられたゲームシリーズは何ですか？",
+    "question": "『ソードアート・オンライン』のゲーム最新作「Echoes of Aincrad」が本日（2026年7月10日）発売され、長編プロモーションアニメ『Unanswered//butterfly』が2026年7月5日にプレミア配信された一連の発表は、SAOブランドにとってどのような戦略的意味合いを持ちますか？",
     "choices": [
-      "ソードアート・オンライン",
-      "ONE PIECE",
-      "進撃の巨人",
-      "キングダム ハーツ"
+      "アニメの再放送を促す",
+      "原作小説の販売を促進する",
+      "ゲームとアニメの相乗効果でブランド価値を最大化する",
+      "新たなジャンルへの挑戦"
     ],
-    "answer": "ソードアート・オンライン",
-    "explanation": "2026年7月9日のニュースで「SAO Echoes of Aincrad」が発売、2026年7月5日のニュースで「SAO」ゲーム最新作の長編プロモーションアニメ『Unanswered//butterfly』がプレミア配信決定と報じられたためです。"
+    "answer": "ゲームとアニメの相乗効果でブランド価値を最大化する",
+    "explanation": "2026年7月のニュースによると、ゲーム発売とアニメ配信が近接していることは、両方で話題を創出し、メディアミックス戦略によってSAOブランド全体の価値を最大化する意図があると考えられます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 8,
-    "question": "『ONE PIECEカードゲーム』のブースターパック「世界最強の戦士【OP-17】」の発売記念イベントが開催決定したニュースは、どのような種類の情報提供として位置づけられますか？",
+    "question": "『ONE PIECEカードゲーム』の6色スタートデッキ【ST-31】～【ST-36】の発売とブースターパック「世界最強の戦士【OP-17】」のイベント開催が報じられたのは、どの公式サイトからですか？",
     "choices": [
-      "製品プロモーション",
-      "ユーザーコミュニティ活性化",
-      "eスポーツイベント",
-      "企業IR情報"
+      "集英社",
+      "ONE PIECE.com",
+      "バンダイナムコエンターテインメント",
+      "東映アニメーション"
     ],
-    "answer": "製品プロモーション",
-    "explanation": "2026年7月のニュースによると、「発売記念イベント」は新製品の発売に合わせて行われるため、製品プロモーションの一環として位置づけられます。"
+    "answer": "ONE PIECE.com",
+    "explanation": "2026年7月のニュースによると、これらの情報は「ONE PIECE.com」から提供されています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 8,
-    "question": "『ソードアート・オンライン』ゲーム最新作の長編プロモーションアニメ『Unanswered//butterfly』のプレミア配信を決定した「千葉テレビ放送」は、どのような形式のメディアですか？",
+    "question": "2026年Summer Game Festで発表された『FFVII リベレーション』が「リベレーション」というサブタイトルを持つことから、この作品が『FFVII』のどのような側面を掘り下げると推測されますか？",
     "choices": [
-      "地方テレビ局",
-      "全国ネットワークテレビ局",
-      "インターネット配信サービス",
-      "衛星放送局"
+      "過去の未解明な出来事や隠された真実",
+      "未来の新しい物語",
+      "キャラクターの日常",
+      "戦闘システムのみに焦点を当てる"
     ],
-    "answer": "地方テレビ局",
-    "explanation": "2026年7月5日のニュースによると、「千葉テレビ放送」は地方テレビ局であるためです。"
+    "answer": "過去の未解明な出来事や隠された真実",
+    "explanation": "2026年Summer Game Festの発表まとめによると、『FFVII リベレーション』というサブタイトルは、「解放」や「啓示」を意味し、物語の過去の未解明な出来事や隠された真実を掘り下げる内容であると推測されます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 8,
-    "question": "「Xbox Partner Preview」は、Xbox Wireで報じられましたが、これはどのような情報源ですか？",
+    "question": "ゲーム『進撃の巨人３』が「集大成」として物語を最初から最後まで描くというコンセプトは、どのような制作上の課題を伴うと考えられますか？",
     "choices": [
-      "マイクロソフトの公式ブログ",
-      "第三者ゲームメディア",
-      "業界団体ニュース",
-      "ゲーム開発者フォーラム"
+      "声優のキャスティング",
+      "グラフィックの向上",
+      "長大な原作を一つのゲームに収めることと、その表現",
+      "販売戦略の立案"
     ],
-    "answer": "マイクロソフトの公式ブログ",
-    "explanation": "2026年7月のニュースによると、「XBOX Wire」はXboxの公式ブログであるためです。"
+    "answer": "長大な原作を一つのゲームに収めることと、その表現",
+    "explanation": "2026年7月のニュースによると、『進撃の巨人３』は「物語を最初から最後まで描く集大成」とされており、非常に長大な原作を一つのゲームにまとめ上げ、その全てを忠実に、かつ魅力的に表現することが最大の課題となると考えられます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 8,
-    "question": "『進撃の巨人３』が「物語を最初から最後まで描く集大成」として発売決定したことは、既存の『進撃の巨人』ゲームシリーズと比べてどのような位置づけになりますか？",
+    "question": "『キングダム ハーツIV』がSwitch2やPS5などで発売されるというニュースは、スクウェア・エニックスの今後のプラットフォーム戦略においてどのような方向性を示唆していますか？",
     "choices": [
-      "これまでのゲームの集大成または完結編",
-      "完全に新しい物語の始まり",
-      "過去作のリメイク",
-      "外伝的な位置づけ"
+      "PCゲームへの完全移行",
+      "クラウドゲーミングへの注力",
+      "複数プラットフォームでの展開強化",
+      "特定のプラットフォーム独占戦略"
     ],
-    "answer": "これまでのゲームの集大成または完結編",
-    "explanation": "2026年7月のニュースによると、「物語を最初から最後まで描く集大成」とあるため、既存のゲームシリーズにおける集大成または完結編としての位置づけになります。"
+    "answer": "複数プラットフォームでの展開強化",
+    "explanation": "2026年7月のニュースによると、『キングダム ハーツIV』がSwitch2やPS5など複数の主要プラットフォームで発売されることは、スクウェア・エニックスが幅広いユーザー層にリーチするために、複数プラットフォームでの展開を強化する戦略を示唆しています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 8,
-    "question": "『キングダム ハーツIV』がSwitch2やPS5などで発売されることがオリコンニュースで報じられましたが、これはどのようなメディアにおける発表ですか？",
+    "question": "2026年6月2日のState of Playで『真・三國無双2』に紫鸞が参戦するという発表は、このゲームの既存ファンにとってどのような驚きをもたらしたと考えられますか？",
     "choices": [
-      "一般エンタメニュース",
-      "ゲーム業界専門ニュース",
-      "経済ニュース",
-      "テクノロジーニュース"
+      "グラフィックの劇的な進化",
+      "古いタイトルへの継続的なサポートと新要素の追加",
+      "全く新しいゲームジャンルへの挑戦",
+      "オンライン対戦機能の強化"
     ],
-    "answer": "一般エンタメニュース",
-    "explanation": "2026年7月のニュースによると、「オリコンニュース」は一般エンターテイメントニュースを扱うメディアであるためです。"
+    "answer": "古いタイトルへの継続的なサポートと新要素の追加",
+    "explanation": "2026年6月2日のState of Playの発表まとめによると、『真・三國無双2』という比較的古いタイトルに新キャラクターが参戦することは、多くの既存ファンにとって、過去作品への継続的なサポートと予期せぬ新要素の追加という点で大きな驚きをもたらしたと考えられます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 8,
-    "question": "2026年6月2日のState of Playで『エースコンバット8』の発売日決定、『真・三國無双2』に紫鸞参戦、『鬼武者』完全新作体験版配信が発表されましたが、これら3つの発表に共通するイベントの主催者と推測される企業は何ですか？",
+    "question": "『Minecraft Dungeons II』のゲームプレイ情報解禁とリリース日決定のニュースが、公式ブログで報じられたと推測されることから、この発表形式はどのような意図があると考えられますか？",
     "choices": [
-      "ソニー・インタラクティブエンタテインメント",
-      "マイクロソフト",
-      "任天堂",
-      "Epic Games"
+      "大手ゲームショーでの発表を避けるため",
+      "コミュニティへの直接的な情報提供とエンゲージメント",
+      "マスメディアへの露出を最小限にするため",
+      "開発の遅延を隠すため"
     ],
-    "answer": "ソニー・インタラクティブエンタテインメント",
-    "explanation": "2026年6月2日のニュースによると、「State of Play」はソニー・インタラクティブエンタテインメントが主催するゲーム発表イベントであるためです。"
+    "answer": "コミュニティへの直接的な情報提供とエンゲージメント",
+    "explanation": "2026年7月のニュースによると、『Minecraft Dungeons II』の情報が公式から直接発表されたことは、ゲームコミュニティへの迅速かつ直接的な情報提供と、それによるファンとのエンゲージメント強化を意図していると考えられます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 8,
-    "question": "『空の軌跡 the 2nd』の最新情報で公開された「結社《身喰らう蛇》の執行者メンバーらキャラ情報」は、このゲームがどのようなジャンルである可能性を示唆していますか？",
+    "question": "『サドンアタック:ゼロポイント』の「ゲーム情報・評価・レビュー・最新ニュース」がOnlineGamerで提供されるという報道は、このゲームがどのようなビジネスモデルを採用する可能性が高いことを示唆していますか？",
+    "choices": [
+      "フルプライス買い切り型",
+      "月額課金制",
+      "基本プレイ無料のアイテム課金型",
+      "クラウドゲーミングサブスクリプション"
+    ],
+    "answer": "基本プレイ無料のアイテム課金型",
+    "explanation": "2026年7月のニュースによると、『サドンアタック』シリーズはオンラインFPSであり、OnlineGamerのようなサイトでレビューされるオンラインゲームは、多くの場合、基本プレイ無料でアイテム課金型を採用しています。これはオンラインゲームの一般的なビジネスモデルです。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "ポケモンカードゲーム30周年記念商品の最新情報動画でミュウとミュウツーの画像が公開されたことは、この記念商品がどのようなコレクターズアイテムとなる可能性を示唆していますか？",
+    "choices": [
+      "実用性重視のデッキ強化パック",
+      "限定性の高いアートワークやレアリティを持つアイテム",
+      "初心者向けの構築済みデッキ",
+      "イベント配布専用カード"
+    ],
+    "answer": "限定性の高いアートワークやレアリティを持つアイテム",
+    "explanation": "2026年7月のニュースによると、30周年記念商品としてミュウとミュウツーといった象徴的なポケモンがフィーチャーされることは、コレクター向けに限定性の高いアートワークや高いレアリティを持つアイテムとして展開される可能性が高いことを示唆しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "2026年6月のニンテンドーダイレクトとState of Playがそれぞれ「発表内容まとめ」として報じられたことから、これらのイベントがゲーム業界において持つ主要な役割は何だと考えられますか？",
+    "choices": [
+      "業界の技術動向を発表する場",
+      "主要なゲーム企業が新作を大々的に発表する場",
+      "開発者向けの情報共有の場",
+      "ゲーム販売の最終決定を行う場"
+    ],
+    "answer": "主要なゲーム企業が新作を大々的に発表する場",
+    "explanation": "2026年6月のニュースによると、これらはいずれも「発表内容まとめ」として報じられており、多くの新作ゲームや主要アップデートが発表される、ゲーム業界における重要な情報発信イベントとしての役割を担っていると考えられます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "『サドンアタック:ゼロポイント』の「ゲーム情報・評価・レビュー・最新ニュース」がOnlineGamerで提供されるという報道は、このゲームがどのようなジャンルに属する可能性が高いことを示唆していますか？",
+    "choices": [
+      "MMORPG",
+      "FPS (First-Person Shooter)",
+      "RTS (Real-Time Strategy)",
+      "MOBA (Multiplayer Online Battle Arena)"
+    ],
+    "answer": "FPS (First-Person Shooter)",
+    "explanation": "2026年7月のニュースによると、『サドンアタック』シリーズはオンラインFPSとして知られており、『サドンアタック:ゼロポイント』もその系譜を継ぐFPSである可能性が高いことを示唆しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "『サドンアタック:ゼロポイント』の「ゲーム情報・評価・レビュー・最新ニュース」がOnlineGamerで提供されるという報道は、このゲームのプロモーションにおいて、どのような媒体が重視されていることを示唆していますか？",
+    "choices": [
+      "テレビCM",
+      "新聞広告",
+      "オンラインゲーム専門メディア",
+      "ラジオCM"
+    ],
+    "answer": "オンラインゲーム専門メディア",
+    "explanation": "2026年7月のニュースによると、OnlineGamerはオンラインゲーム専門メディアであり、そこで情報が提供されることは、プロモーションにおいてオンラインゲーム専門メディアが重視されていることを示唆しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "2026年6月2日のState of Playで体験版が配信された完全新作『鬼武者』は、どのようなゲームジャンルに属すると推測されますか？",
     "choices": [
       "RPG",
-      "アクションゲーム",
-      "シミュレーションゲーム",
-      "パズルゲーム"
+      "アクションアドベンチャー",
+      "シミュレーション",
+      "パズル"
     ],
-    "answer": "RPG",
-    "explanation": "2026年7月のニュースによると、「空の軌跡」シリーズはRPGであり、キャラクター情報や組織の背景が重要な要素となるため、RPGである可能性を示唆しています。"
+    "answer": "アクションアドベンチャー",
+    "explanation": "2026年6月2日のState of Playの発表まとめによると、完全新作『鬼武者』体験版配信とあり、『鬼武者』シリーズはアクションアドベンチャーゲームとして知られているため、その系譜を継ぐものと推測されます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 8,
-    "question": "『チェンソーマン 刺客篇』のスマートフォンゲーム化決定のニュースは、アニメの最新PV解禁と同時に報じられましたが、これはどのようなターゲット層へのアピールを意図していますか？",
+    "question": "2026年Summer Game Festで発表された『ステラーブレイド』の続編は、前作のどのような要素をさらに発展させると推測されますか？",
     "choices": [
-      "アニメファンとゲームファン双方",
-      "主にアニメファン",
-      "主にゲームファン",
-      "漫画ファン"
+      "オンラインマルチプレイ",
+      "ストーリーとアクション要素",
+      "生活シミュレーション",
+      "パズル要素"
     ],
-    "answer": "アニメファンとゲームファン双方",
-    "explanation": "2026年7月のニュースによると、アニメのPV解禁とゲーム化発表が同時に行われたため、アニメとゲームの両方のファン層へのアピールを意図していると考えられます。"
+    "answer": "ストーリーとアクション要素",
+    "explanation": "2026年Summer Game Festの発表まとめによると、『ステラーブレイド』の続編が発表されました。前作がストーリー重視のアクションRPGであったことから、続編もその要素をさらに発展させると推測されます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 8,
-    "question": "Epic Gamesの大規模レイオフとゲーム開発終了のニュースが「Mogura VR」で報じられましたが、これはどのようなジャンルのメディアですか？",
+    "question": "ポケモンカードゲーム30周年記念商品の最新情報動画でミュウとミュウツーの画像が公開されたことは、このブランドが今後どのような年齢層のファンにアピールしようとしていると推測されますか？",
     "choices": [
-      "VR/AR/XR専門ニュース",
-      "一般ゲームニュース",
-      "経済ニュース",
-      "ビジネスニュース"
+      "主に子供層",
+      "主に大人層",
+      "幅広い年齢層",
+      "高齢者層"
     ],
-    "answer": "VR/AR/XR専門ニュース",
-    "explanation": "最新のXRニュースによると、Mogura VRはXR（VR/AR/MR）に関するニュースを専門とするメディアであるためです。"
+    "answer": "幅広い年齢層",
+    "explanation": "2026年7月のニュースによると、30周年という節目にミュウとミュウツーといった初期の象徴的なポケモンをフィーチャーしたことは、初期からのファン（大人層）と現在の子供層の両方にアピールし、幅広い年齢層のファンを獲得・維持しようとしていると推測されます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "2026年7月に発表されたゲーム関連ニュースの中で、発売日や配信日が「本日」「2026年7月5日」など具体的な日付で報じられた2つの異なるゲームシリーズまたは関連コンテンツは何ですか？",
+    "question": "『ソードアート・オンライン』のゲーム最新作「Echoes of Aincrad」が本日（2026年7月10日）発売、長編プロモーションアニメ『Unanswered//butterfly』が2026年7月5日にプレミア配信された一連の発表は、SAOのメディアミックス戦略において、どのような長期的な目標を達成しようとしていると推測されますか？",
     "choices": [
-      "SAO Echoes of AincradとSAO Unanswered//butterfly",
-      "ONE PIECEカードゲームと進撃の巨人３",
-      "キングダム ハーツIVとエースコンバット8",
-      "サドンアタック:ゼロポイントと大戦略 SSB2"
+      "原作小説の完結を急ぐ",
+      "ゲームとアニメの独立性を高める",
+      "ファン層の世代交代を促進する",
+      "複数のメディアを通じた持続的なブランド価値向上と新規ファン獲得"
     ],
-    "answer": "SAO Echoes of AincradとSAO Unanswered//butterfly",
-    "explanation": "2026年7月9日のニュースで「SAO Echoes of Aincrad」が本日発売、2026年7月5日のニュースで『Unanswered//butterfly』がプレミア配信決定と報じられたためです。"
+    "answer": "複数のメディアを通じた持続的なブランド価値向上と新規ファン獲得",
+    "explanation": "2026年7月のニュースによると、ゲームとアニメの同時期展開は、既存ファンへのアピールと同時に、それぞれのメディアから新規ファンを獲得し、長期的にSAOブランドの価値を持続的に向上させることを目標としていると推測されます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "『ONE PIECEカードゲーム』のブースターパック「世界最強の戦士【OP-17】」の発売記念イベントは、ニュースの記述から判断して、どのような規模のイベントと推測できますか？",
+    "question": "『ONE PIECEカードゲーム』の6色スタートデッキ【ST-31】～【ST-36】の新発売とブースターパック「世界最強の戦士【OP-17】」の発売記念イベント開催が、2026年7月にONE PIECE.comで報じられたのは、コンテンツホルダーがカードゲーム事業にどのような戦略的重点を置いていることを示唆していますか？",
     "choices": [
-      "全国規模のプロモーション",
-      "地域限定イベント",
-      "オンラインイベントのみ",
-      "小規模な店舗イベント"
+      "アニメや漫画のプロモーションの一環",
+      "カードゲーム事業そのものの独立した成長",
+      "コレクターズアイテムとしての価値向上",
+      "eスポーツへの参入準備"
     ],
-    "answer": "全国規模のプロモーション",
-    "explanation": "2026年7月のニュースではイベントの規模は明示されていませんが、「ONE PIECE.com」という公式ポータルサイトで発表されていることから、ある程度の規模の全国規模のプロモーションであると推測されます。"
+    "answer": "カードゲーム事業そのものの独立した成長",
+    "explanation": "2026年7月のニュースによると、スタートデッキとブースターパックの発売、そしてイベント開催がONE PIECE.comで積極的に報じられていることは、カードゲーム事業が単なるプロモーションではなく、独立した収益源として成長させる戦略的重点が置かれていることを示唆しています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "『ソードアート・オンライン』ゲーム最新作の長編プロモーションアニメ『Unanswered//butterfly』のプレミア配信決定を報じた「千葉テレビ放送」は、どのような影響を狙った情報発信と推測されますか？",
+    "question": "2026年Summer Game Festで発表された『FFVII リベレーション』、『バイオハザード ベロニカ』リメイク、『モンハンワイルズ』大型DLC、『ステラーブレイド』続編は、今日のゲーム開発におけるどのような課題と機会を同時に提示していますか？",
     "choices": [
-      "地域密着型プロモーション",
-      "全国的な話題作り",
-      "海外市場へのアピール",
-      "特定のファン層への限定アピール"
+      "新作IP創出の難しさと既存IPの強み",
+      "ハードウェアの進化と旧作の互換性",
+      "グローバル市場とローカル市場のバランス",
+      "開発期間の短縮と品質の維持"
     ],
-    "answer": "地域密着型プロモーション",
-    "explanation": "2026年7月5日のニュースによると、「千葉テレビ放送」は地方テレビ局であるため、地域密着型のプロモーションを意図していると推測されます。"
+    "answer": "新作IP創出の難しさと既存IPの強み",
+    "explanation": "2026年Summer Game Festの発表まとめによると、これらのタイトルは全て既存の人気IPであり、新作IPをゼロから成功させる難しさがある一方で、確立されたIPが持つ強力なブランド力とファンベースを活用する機会を示しています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "「Xbox Partner Preview」でサード パーティー各社の最新ゲーム情報が届けられましたが、このイベントの開催形式は、ニュースの記述から判断してどのようなものと推測されますか？",
+    "question": "ゲーム『進撃の巨人３』が「集大成」として物語を最初から最後まで描くというコンセプトは、既存の『進撃の巨人』ゲームシリーズのファンにとって、どのような点で最も期待される要素と考えられますか？",
     "choices": [
-      "オンライン配信イベント",
-      "オフライン展示会",
-      "プレス向け限定発表会",
-      "開発者会議"
+      "よりリアルな巨人描写",
+      "オンラインマルチプレイの充実",
+      "原作の結末までをゲームで体験できること",
+      "オリジナルキャラクターの登場"
     ],
-    "answer": "オンライン配信イベント",
-    "explanation": "2026年7月のニュースによると、XBOX Wireで情報が届けられたことから、オンライン配信イベントであると推測されます。"
+    "answer": "原作の結末までをゲームで体験できること",
+    "explanation": "2026年7月のニュースによると、『進撃の巨人３』が「物語を最初から最後まで描く集大成」と謳われていることから、原作の結末までをゲームで体験できることは、既存のファンにとって最も待ち望まれる要素であると推測されます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "『進撃の巨人３』が「物語を最初から最後まで描く集大成」として発売決定したことは、アニメの物語がどこまで進行していることを前提とした発表と推測されますか？",
+    "question": "『キングダム ハーツIV』がSwitch2やPS5などで発売されるというニュースは、任天堂の次世代機「Switch2」が、従来の任天堂ハードのイメージをどのように変化させる可能性を秘めていると推測されますか？",
     "choices": [
-      "アニメが完結している、または完結間近であること",
-      "アニメがまだ序盤であること",
-      "アニメとは独立した物語であること",
-      "アニメの進行とは関係なく制作されたこと"
+      "カジュアルゲームに特化",
+      "ハイエンドなグラフィックとゲーム体験を提供",
+      "携帯性に特化",
+      "ファミリー向けコンテンツの強化"
     ],
-    "answer": "アニメが完結している、または完結間近であること",
-    "explanation": "2026年7月のニュースによると、「物語を最初から最後まで描く集大成」とあるため、アニメの物語が完結しているか、それに近い状態であることを前提とした発表と推測されます。"
+    "answer": "ハイエンドなグラフィックとゲーム体験を提供",
+    "explanation": "2026年7月のニュースによると、『キングダム ハーツIV』のようなグラフィック重視のAAAタイトルがSwitch2で発売されることは、任天堂の次世代機が従来のカジュアル・ファミリー向けというイメージだけでなく、ハイエンドなグラフィックとゲーム体験も提供できるハードになる可能性を示唆しています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "『キングダム ハーツIV』がSwitch2やPS5などで発売されることがオリコンニュースで報じられましたが、この発表はゲーム業界にとってどのような意味を持ちますか？",
+    "question": "2026年6月2日のState of Playで『真・三國無双2』に紫鸞が参戦するという発表がされたことで、コーエーテクモゲームスが古いタイトルに対してどのようなビジネス戦略を模索していると推測されますか？",
     "choices": [
-      "次世代コンソールでの主要タイトルの展開",
-      "既存コンソールでの継続的な展開",
-      "モバイルゲーム市場への参入",
-      "クラウドゲーミングの普及"
+      "リメイク版の発表に向けた布石",
+      "旧作のデジタル再販とコンテンツ追加による収益化",
+      "新しいIP開発のためのテストマーケティング",
+      "eスポーツタイトルとしての再評価"
     ],
-    "answer": "次世代コンソールでの主要タイトルの展開",
-    "explanation": "2026年7月のニュースによると、Switch2やPS5といった次世代コンソールでの発売が発表されたことは、今後のゲーム業界において主要タイトルが次世代機で展開されることを意味します。"
+    "answer": "旧作のデジタル再販とコンテンツ追加による収益化",
+    "explanation": "2026年6月2日のState of Playの発表まとめによると、『真・三國無双2』という古いタイトルに新キャラクターを参戦させることは、旧作をデジタル配信などで再販し、追加コンテンツによって収益を上げるというビジネス戦略を模索している可能性が高いと推測されます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "2026年6月2日のState of Playで発表された『鬼武者』の完全新作と体験版配信は、このシリーズにとってどのような位置づけの発表と推測されますか？",
+    "question": "『Minecraft Dungeons II』のゲームプレイ情報解禁とリリース日決定のニュースが、大手ゲームイベントではなく公式ブログで発表されたことの最も大きなメリットは何ですか？",
     "choices": [
-      "シリーズの再始動",
-      "シリーズの継続",
-      "過去作のリメイク",
-      "外伝的な作品"
+      "メディア露出のコスト削減",
+      "競合他社との情報競争を避ける",
+      "開発の柔軟性を高める",
+      "ファンコミュニティとの直接的な対話と迅速な情報伝達"
     ],
-    "answer": "シリーズの再始動",
-    "explanation": "2026年6月2日のState of Playの発表によると、「完全新作」かつ「体験版配信」という形式は、シリーズの再始動を強く示唆するものであると推測されます。"
+    "answer": "ファンコミュニティとの直接的な対話と迅速な情報伝達",
+    "explanation": "2026年7月のニュースによると、公式ブログでの発表は、大手イベントの制約を受けずに、ファンコミュニティに対して迅速かつ直接的に情報を届け、彼らの反応をダイレクトに受け止めることができるという点で大きなメリットがあります。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "『空の軌跡 the 2nd』の最新情報で「結社《身喰らう蛇》の執行者メンバーらキャラ情報」が公開されたのは、どのような意図があると推測されますか？",
+    "question": "『サドンアタック:ゼロポイント』の「ゲーム情報・評価・レビュー・最新ニュース」がOnlineGamerで提供されるという報道は、このゲームがどのような市場で成功を目指していることを示唆していますか？",
     "choices": [
-      "物語の深掘りとファンへのサービス",
-      "新規プレイヤーへのアピール",
-      "ゲームシステムの説明",
-      "発売日の告知"
+      "オフラインのアーケード市場",
+      "コンソールゲームのパッケージ市場",
+      "PCオンラインゲーム市場",
+      "VRゲーム市場"
     ],
-    "answer": "物語の深掘りとファンへのサービス",
-    "explanation": "2026年7月のニュースによると、特定の組織のキャラクター情報が公開されたことは、シリーズの深い物語を好むファン層へのサービスであり、物語をさらに深掘りする意図があると推測されます。"
+    "answer": "PCオンラインゲーム市場",
+    "explanation": "2026年7月のニュースによると、『サドンアタック』シリーズはPCオンラインFPSであり、OnlineGamerのようなサイトで情報が提供されることから、『サドンアタック:ゼロポイント』もPCオンラインゲーム市場での成功を目指していることを強く示唆しています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "『大戦略 SSB2』の動画コンテンツ「月刊大戦略 SSB2 2025年11月号」が2026年7月に公開されたニュースは、どのような情報発信のパターンを示していますか？",
+    "question": "ポケモンカードゲーム30周年記念商品の最新情報動画でミュウとミュウツーの画像が公開されたことは、今後のポケモンカードゲームの戦略においてどのような影響を与えると推測されますか？",
     "choices": [
-      "過去のコンテンツのアーカイブ公開",
-      "リアルタイムでの月刊情報",
-      "不定期なスペシャルコンテンツ",
-      "開発中の進捗報告"
+      "新たなルール体系の導入",
+      "初期の人気ポケモンを軸としたプロモーションの強化",
+      "アニメシリーズとの連携強化",
+      "世界大会の開催頻度増加"
     ],
-    "answer": "過去のコンテンツのアーカイブ公開",
-    "explanation": "2026年7月のニュースで「2025年11月号」が公開されたとあるため、これは過去に制作されたコンテンツのアーカイブ公開であると推測されます。"
+    "answer": "初期の人気ポケモンを軸としたプロモーションの強化",
+    "explanation": "2026年7月のニュースによると、30周年という節目にミュウとミュウツーという初期の象徴的なポケモンをフィーチャーしたことは、今後のプロモーションにおいても、初期の人気ポケモンを軸に据え、幅広い世代のファンにアピールする戦略を強化する可能性が高いと推測されます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "Epic Gamesの大規模レイオフによりUbisoftとRed Storm Entertainmentのゲーム開発が終了したニュースは、ゲーム業界においてどのような影響を与えると推測されますか？",
+    "question": "2026年6月のニンテンドーダイレクトとState of Playがそれぞれ「発表内容まとめ」として報じられたことから、これらのイベントがゲーム業界のマーケティングにおいてどのような役割を担っていると推測されますか？",
     "choices": [
-      "ゲーム開発の縮小と業界再編の可能性",
-      "新たなゲームタイトルの増加",
-      "特定のジャンルのゲーム開発の活性化",
-      "ゲーム会社の合併・買収の減少"
+      "ゲームの価格決定会議",
+      "ゲームの発売延期発表",
+      "新たなゲーム体験のトレンドセッター",
+      "開発者間の情報交換会"
     ],
-    "answer": "ゲーム開発の縮小と業界再編の可能性",
-    "explanation": "最新のXRニュースによると、大規模なレイオフと特定のゲーム開発終了は、ゲーム開発の縮小や業界再編の可能性を示唆していると推測されます。"
+    "answer": "新たなゲーム体験のトレンドセッター",
+    "explanation": "2026年6月のニュースによると、これらのイベントで発表される新作や技術は、しばしばその年のゲーム業界のトレンドを形成し、新たなゲーム体験の方向性を示す重要な役割を担っていると推測されます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 9,
+    "question": "ポケモンカードゲーム30周年記念商品の最新情報動画でミュウとミュウツーの画像が公開されたことは、ポケモンカードゲームの歴史においてこれらのポケモンが持つ特別な意味合いをどのように強調していると推測されますか？",
+    "choices": [
+      "初期のゲームを代表する伝説のポケモンであり、ブランドの原点を示す象徴",
+      "最新世代のポケモンとのコラボレーションの象徴",
+      "競技シーンにおけるパワーカードの象徴",
+      "アニメ版の主人公のパートナーポケモンの象徴"
+    ],
+    "answer": "初期のゲームを代表する伝説のポケモンであり、ブランドの原点を示す象徴",
+    "explanation": "2026年7月のニュースによると、30周年という節目にミュウとミュウツーという初期の伝説のポケモンをフィーチャーしたことは、ポケモンカードゲームの原点と歴史を強調し、ブランドの長い歩みを象徴する意味合いが強いと推測されます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 9,
+    "question": "ポケモンカードゲーム30周年記念商品の最新情報動画でミュウとミュウツーの画像が公開されたことは、このブランドが今後どのような方向性で展開していく可能性を示唆していますか？",
+    "choices": [
+      "新世代のポケモンに特化",
+      "過去の人気ポケモンを再評価し、新旧ファン層を繋ぐ",
+      "競技性を排除したコレクターズアイテムに注力",
+      "アニメとの完全連動"
+    ],
+    "answer": "過去の人気ポケモンを再評価し、新旧ファン層を繋ぐ",
+    "explanation": "2026年7月のニュースによると、30周年という節目にミュウとミュウツーといった初期の象徴的なポケモンをフィーチャーしたことは、過去の人気ポケモンを再評価し、それを通じて新旧のファン層を繋ぎ、ブランドの持続的な成長を図る方向性を示唆しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 9,
+    "question": "『Minecraft Dungeons II』のゲームプレイ情報解禁とリリース日決定のニュースが報じられたことで、このゲームが「マインクラフト」ブランドの中でどのような位置づけを強化しようとしていると推測されますか？",
+    "choices": [
+      "クリエイティブなサンドボックス体験",
+      "物語性のあるアクションアドベンチャー体験",
+      "教育的なプログラミング体験",
+      "大規模なマルチプレイヤー対戦体験"
+    ],
+    "answer": "物語性のあるアクションアドベンチャー体験",
+    "explanation": "2026年7月のニュースによると、『Minecraft Dungeons II』は『Minecraft Dungeons』の続編であり、Dungeonsシリーズはマインクラフトの世界観をベースにした物語性のあるアクションアドベンチャーゲームであるため、この位置づけを強化しようとしていると推測されます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 9,
+    "question": "2026年6月9日のニンテンドーダイレクトの発表内容まとめがGAME Watchで報じられたことは、任天堂がゲーム業界においてどのような立ち位置を維持しようとしていると推測されますか？",
+    "choices": [
+      "ニッチ市場の開拓者",
+      "革新的なゲーム体験の提供者",
+      "他社IPのライセンス提供者",
+      "既存IPの再利用に特化"
+    ],
+    "answer": "革新的なゲーム体験の提供者",
+    "explanation": "2026年6月のニュースによると、ニンテンドーダイレクトは任天堂の新作発表イベントであり、常に新しいゲームや体験を発表することで、ゲーム業界における革新的な体験の提供者としての立ち位置を維持しようとしていると推測されます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 9,
+    "question": "2026年Summer Game Festで発表された『FFVII リベレーション』、『バイオハザード ベロニカ』リメイク、『モンハンワイルズ』大型DLC、『ステラーブレイド』続編のラインナップは、今日のゲーム市場における消費者の購買行動にどのような影響を与えると推測されますか？",
+    "choices": [
+      "新規IPへの積極的な投資を促す",
+      "既存IPに対する継続的な支出を促す",
+      "ゲームのサブスクリプションサービスへの移行を加速させる",
+      "モバイルゲームへの関心を高める"
+    ],
+    "answer": "既存IPに対する継続的な支出を促す",
+    "explanation": "2026年Summer Game Festの発表まとめによると、これらは全て既存の人気IPの新作、リメイク、続編、DLCであり、消費者が既に親しみのあるブランドに対して、新作や追加コンテンツとして継続的に支出する傾向を強めると推測されます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "2026年7月9日のニュースで、本日発売された「SAO Echoes of Aincrad」と、同シリーズの長編プロモーションアニメ『Unanswered//butterfly』が2026年7月5日にプレミア配信されたことは、ゲームのリリースサイクルにおいてどのような戦略を示唆していますか？",
+    "question": "本日（2026年7月10日）発売された『ソードアート・オンライン』ゲームシリーズ最新作「Echoes of Aincrad」と、2026年7月5日にプレミア配信されたプロモーションアニメ『Unanswered//butterfly』の発表が、SAOブランド全体に及ぼす短期的な影響と長期的な影響について、最も適切に説明しているのはどれですか？",
     "choices": [
-      "ゲーム発売直前のメディアミックス集中戦略",
-      "アニメとゲームの同時進行開発戦略",
-      "アニメを先行させてゲームの期待を高める戦略",
-      "ゲーム発売後のファンサービス戦略"
+      "短期的な売上向上と長期的なファン層の固定化",
+      "短期的な話題性創出と長期的なブランドの多角化",
+      "短期的なメディア露出の増加と長期的なコンテンツの陳腐化",
+      "短期的なコスト増加と長期的な開発資源の集中"
     ],
-    "answer": "ゲーム発売直前のメディアミックス集中戦略",
-    "explanation": "2026年7月9日のニュースによるとゲームが本日発売、2026年7月5日のニュースによるとアニメがプレミア配信されたため、ゲーム発売直前にアニメで盛り上げるメディアミックス集中戦略と推測されます。"
+    "answer": "短期的な話題性創出と長期的なブランドの多角化",
+    "explanation": "2026年7月のニュースによると、近接した時期にゲームとアニメの発表を行うことで、短期的に大きな話題性を創出し、長期的にSAOブランドをゲーム、アニメ、その他関連コンテンツへと多角的に展開し、それぞれの分野で基盤を強化する効果が期待されます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "『ONE PIECEカードゲーム』のブースターパック「世界最強の戦士【OP-17】」の発売記念イベントが開催決定したことは、ONE PIECEブランドにとってどのような意味合いを持ちますか？",
+    "question": "『ONE PIECEカードゲーム』の6色スタートデッキ【ST-31】～【ST-36】の新発売とブースターパック「世界最強の戦士【OP-17】」の発売記念イベント開催が、ONE PIECE.comで報じられたニュースは、カードゲーム市場におけるIP（知的財産）の活用戦略について、どのような示唆を与えていますか？",
     "choices": [
-      "ブランドの継続的な活性化と収益確保",
-      "新たなファン層の獲得",
-      "既存ファンへの感謝",
-      "eスポーツ市場への本格参入"
+      "人気IPはカードゲーム化すれば必ず成功する",
+      "IPの力を借りつつ、カードゲームとしての独自性と継続的なサポートが重要",
+      "カードゲームはあくまでIPの二次的なプロモーションツールに過ぎない",
+      "IPホルダーはカードゲーム開発に直接関与すべきではない"
     ],
-    "answer": "ブランドの継続的な活性化と収益確保",
-    "explanation": "2026年7月のニュースによると、ブースターパックの発売記念イベントは、人気ブランドの継続的な製品展開とそれによる収益確保、ブランド活性化の一環と推測されます。"
+    "answer": "IPの力を借りつつ、カードゲームとしての独自性と継続的なサポートが重要",
+    "explanation": "2026年7月のニュースによると、ONE PIECEという強力なIPを活用しつつ、新しいスタートデッキやブースターパック、イベント開催といったカードゲーム独自の展開を継続的に行うことで、IPの力を借りつつもカードゲームとしての市場を確立し、成長させる戦略を示唆しています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "「Xbox Partner Preview」や「State of Play」のようなイベントが頻繁に開催されることは、ゲーム業界の発表形式においてどのようなトレンドを示していますか？",
+    "question": "2026年Summer Game Festで発表された『FFVII リベレーション』、『バイオハザード ベロニカ』リメイク、『モンハンワイルズ』大型DLC、『ステラーブレイド』続編のラインナップは、ゲーム業界の将来的な成長において、どのような戦略が最も効果的であると示唆していますか？",
     "choices": [
-      "オンラインでの直接的な情報発信の重視",
-      "大規模なオフラインイベントへの回帰",
-      "第三者メディアを通じた情報発信の強化",
-      "特定のゲームジャンルに特化した発表の増加"
+      "新規IPのみに投資する戦略",
+      "既存の成功したIPを多角的に展開・深化させる戦略",
+      "小規模なインディーゲームに注力する戦略",
+      "VR/AR専用ゲームの開発に集中する戦略"
     ],
-    "answer": "オンラインでの直接的な情報発信の重視",
-    "explanation": "2026年7月のニュースによると、これらイベントはオンライン形式での情報発信が主流であり、ゲーム会社が直接ユーザーに情報を届けるトレンドを示唆しています。"
+    "answer": "既存の成功したIPを多角的に展開・深化させる戦略",
+    "explanation": "2026年Summer Game Festの発表まとめによると、これらは全て既存の人気IPの新作、リメイク、続編、DLCであり、既に確立されたIPを様々な形で展開し、深化させることで、安定した収益と長期的な成長を確保する戦略が効果的であることを示唆しています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "『進撃の巨人３』が「物語を最初から最後まで描く集大成」として発売決定したことは、版権元がゲームを通じて作品の世界観をどのように展開しようとしていると推測されますか？",
+    "question": "ゲーム『進撃の巨人３』が「集大成」として物語を最初から最後まで描くというコンセプトは、他のアニメ原作ゲームと比較して、どのような点で画期的なアプローチであると考えられますか？",
     "choices": [
-      "ゲームを最終的な物語体験の場と位置づけている",
-      "アニメや漫画と並行して異なる解釈を提供している",
-      "ゲームを新たな物語の出発点としている",
-      "ゲームをプロモーションの一環として利用している"
+      "アニメのグラフィックを完全に再現している点",
+      "原作の完結後にゲームで全編を描くという異例のタイミング",
+      "実写映画のような演出を取り入れている点",
+      "キャラクターボイスを全て新録している点"
     ],
-    "answer": "ゲームを最終的な物語体験の場と位置づけている",
-    "explanation": "2026年7月のニュースによると、「物語を最初から最後まで描く集大成」という表現は、ゲームが作品の最終的な物語体験の場として位置づけられていることを示唆しています。"
+    "answer": "原作の完結後にゲームで全編を描くという異例のタイミング",
+    "explanation": "2026年7月のニュースによると、『進撃の巨人３』は「物語を最初から最後まで描く集大成」とされており、原作アニメや漫画が既に完結している中で、その全編をゲームで体験できるというアプローチは、他のアニメ原作ゲームではあまり見られない画期的な試みであると考えられます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "『キングダム ハーツIV』がSwitch2やPS5などで発表されたことは、スクウェア・エニックスの今後のゲーム開発戦略においてどのような方向性を示していると推測されますか？",
+    "question": "『キングダム ハーツIV』がSwitch2やPS5などで発売されるというニュースは、クロスプラットフォーム開発の観点から、ゲーム開発スタジオにどのような技術的・戦略的課題を提起すると考えられますか？",
     "choices": [
-      "次世代コンソールへの積極的な移行と技術投資",
-      "マルチプラットフォーム戦略の強化",
-      "特定のコンソールへの集中",
-      "モバイルゲーム開発へのシフト"
+      "プラットフォーム間のグラフィック差の吸収と最適化",
+      "異なるユーザーインターフェースの統一",
+      "各プラットフォームのオンラインサービスへの対応",
+      "開発チームの規模拡大"
     ],
-    "answer": "次世代コンソールへの積極的な移行と技術投資",
-    "explanation": "2026年7月のニュースによると、次世代コンソールであるSwitch2やPS5での発表は、スクウェア・エニックスが次世代技術への投資と移行を積極的に行っていることを示唆しています。"
+    "answer": "プラットフォーム間のグラフィック差の吸収と最適化",
+    "explanation": "2026年7月のニュースによると、『キングダム ハーツIV』がSwitch2やPS5など異なる性能を持つプラットフォームで展開される場合、それぞれのハードウェア特性に合わせてグラフィック品質やパフォーマンスを最適化し、ユーザー体験の差を最小限に抑えることが重要な技術的課題となります。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "2026年6月2日のState of Playで『エースコンバット8』の発売日決定、『真・三國無双2』に紫鸞参戦、『鬼武者』完全新作体験版配信が発表されたことは、ゲーム業界の多様なジャンルにおけるどのような動向を示していますか？",
+    "question": "2026年6月2日のState of Playで『真・三國無双2』に紫鸞が参戦するという発表が、ゲームファンコミュニティで最も活発な議論を呼んだ側面は何だと推測されますか？",
     "choices": [
-      "既存シリーズの継続と新作の投入の両立",
-      "特定のジャンルへの集中",
-      "リメイクやリマスターの増加",
-      "インディーゲームの台頭"
+      "紫鸞のキャラクターデザインの賛否",
+      "古いゲームに新要素を追加する意義と妥当性",
+      "『真・三國無双2』のリマスター版の可能性",
+      "他の無双シリーズへの新キャラ追加の期待"
     ],
-    "answer": "既存シリーズの継続と新作の投入の両立",
-    "explanation": "2026年6月2日のState of Playの発表によると、エースコンバットや真・三國無双といった既存シリーズのアップデートと、鬼武者のような完全新作の投入が同時に行われており、既存シリーズの継続と新作の投入の両立を示唆しています。"
+    "answer": "古いゲームに新要素を追加する意義と妥当性",
+    "explanation": "2026年6月2日のState of Playの発表まとめによると、『真・三國無双2』というかなり昔のタイトルに新キャラクターが参戦するという異例の発表は、なぜ今このタイミングで古いゲームに手を加えるのか、その意義や妥当性についてファンコミュニティで活発な議論を呼んだと推測されます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "『空の軌跡 the 2nd』の最新情報で「結社《身喰らう蛇》の執行者メンバーらキャラ情報」が公開されたことは、このゲームがストーリーテリングにおいてどのような手法を用いる可能性が高いと推測されますか？",
+    "question": "『Minecraft Dungeons II』のゲームプレイ情報解禁とリリース日決定のニュースが、大手ゲームイベントではなく公式ブログで発表されたことは、ゲーム業界のマーケティング戦略において、どのようなパラダイムシフトを示唆していますか？",
     "choices": [
-      "複雑な人間関係と組織間の対立を重視する",
-      "シンプルな善悪の対立を描く",
-      "プレイヤーの選択が物語を大きく変える",
-      "ユーモアを中心とした明るい物語"
+      "従来の広告手法の衰退",
+      "インフルエンサーマーケティングの台頭",
+      "デベロッパー主導の直接的なファンコミュニケーションの重視",
+      "ゲームメディアの役割の終焉"
     ],
-    "answer": "複雑な人間関係と組織間の対立を重視する",
-    "explanation": "2026年7月のニュースによると、特定の組織とそのメンバーに関する詳細情報が公開されたことは、複雑な人間関係や組織間の対立を重視したストーリーテリング手法を用いる可能性が高いと推測されます。"
+    "answer": "デベロッパー主導の直接的なファンコミュニケーションの重視",
+    "explanation": "2026年7月のニュースによると、大手イベントを介さず公式ブログで情報を直接発信することは、ゲームデベロッパーが中間メディアを介さずにファンと直接コミュニケーションを取り、情報をコントロールするマーケティング戦略へのシフトを示唆しています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "『サドンアタック:ゼロポイント』の「ゲーム情報・評価・レビュー・最新ニュース」が継続的に提供されていることは、このゲームの運営においてどのような方針がとられていると推測されますか？",
+    "question": "『サドンアタック:ゼロポイント』の「ゲーム情報・評価・レビュー・最新ニュース」がOnlineGamerで提供されるという報道は、PCオンラインゲーム市場における情報流通の特性について、どのような洞察を与えていますか？",
     "choices": [
-      "長期的なサービス運営とユーザーエンゲージメントの維持",
-      "短期的な売上最大化",
-      "開発費用の回収",
-      "新作ゲームへの移行準備"
+      "専門メディアがプレイヤーの意思決定に大きな影響を与える",
+      "SNSが唯一の情報源となっている",
+      "ゲーム雑誌が最も重要な情報源",
+      "公式発表のみが信頼される"
     ],
-    "answer": "長期的なサービス運営とユーザーエンゲージメントの維持",
-    "explanation": "2026年7月のニュースによると、「最新ニュース」を含む継続的な情報提供は、長期的なサービス運営とユーザーエンゲージメントの維持を重視している方針と推測されます。"
+    "answer": "専門メディアがプレイヤーの意思決定に大きな影響を与える",
+    "explanation": "2026年7月のニュースによると、OnlineGamerのような専門メディアが『サドンアタック:ゼロポイント』のようなPCオンラインゲームの「情報・評価・レビュー・最新ニュース」を提供することは、この市場において専門メディアがプレイヤーのゲーム選択や継続プレイの意思決定に依然として大きな影響力を持っていることを示唆しています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "ニンテンドースイッチ2の「本体情報まとめ」が公開されたGameWithのようなゲーム情報サイトは、次世代コンソールの市場投入においてどのような役割を担っていますか？",
+    "question": "ポケモンカードゲーム30周年記念商品の最新情報動画でミュウとミュウツーの画像が公開されたことは、ポケモンカードゲームの長期的なブランド戦略において、どのような要素を最も重要視していると推測されますか？",
     "choices": [
-      "製品情報の事前提供とユーザーの期待醸成",
-      "販売促進の直接的な支援",
-      "競合製品との比較分析",
-      "開発者からのフィードバック収集"
+      "新規カードの性能バランス",
+      "競技プレイヤーの育成",
+      "ノスタルジーとブランドの歴史的価値の訴求",
+      "国際的なイベントの開催"
     ],
-    "answer": "製品情報の事前提供とユーザーの期待醸成",
-    "explanation": "2026年7月のニュースによると、発売前の「本体情報まとめ」の公開は、ユーザーの期待感を高め、市場投入をスムーズにするための事前情報提供の役割を担っていると推測されます。"
+    "answer": "ノスタルジーとブランドの歴史的価値の訴求",
+    "explanation": "2026年7月のニュースによると、30周年という節目にミュウとミュウツーという初期の象徴的なポケモンをフィーチャーしたことは、長期的なブランド戦略において、初期からのファンに対するノスタルジーを喚起し、ポケモンの歴史的価値を訴求することを最も重要視していると推測されます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "Epic Gamesの大規模レイオフとUbisoft、Red Storm Entertainmentのゲーム開発終了のニュースは、ゲーム業界の雇用市場においてどのような影響を与える可能性がありますか？",
+    "question": "2026年6月のニンテンドーダイレクトとState of Playがそれぞれ「発表内容まとめ」として報じられたことから、これらのイベントがゲーム業界全体のエコシステムにおいて担う最も重要な機能は何だと考えられますか？",
     "choices": [
-      "ゲーム開発者の雇用機会の減少と業界内の競争激化",
-      "新たなスタジオ設立の促進",
-      "特定のスキルを持つ開発者の需要増加",
-      "フリーランス開発者の増加"
+      "ゲームの流通と販売の独占",
+      "開発者の技術交流の促進",
+      "プラットフォームホルダー主導による市場の活性化と方向性の提示",
+      "ゲームメディアの存在意義の低下"
     ],
-    "answer": "ゲーム開発者の雇用機会の減少と業界内の競争激化",
-    "explanation": "最新のXRニュースによると、大規模なレイオフと開発終了は、ゲーム開発者の雇用機会の減少と業界内の競争激化につながる可能性があると推測されます。"
+    "answer": "プラットフォームホルダー主導による市場の活性化と方向性の提示",
+    "explanation": "2026年6月のニュースによると、ニンテンドーダイレクトとState of Playはそれぞれ任天堂とPlayStationというプラットフォームホルダーが主催するイベントであり、自社プラットフォームを通じて市場を活性化させ、今後のゲーム開発や消費の方向性を提示する最も重要な機能を担っていると考えられます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 10,
+    "question": "2026年6月9日のニンテンドーダイレクトの発表内容まとめがGAME Watchで報じられたことから、このようなイベントの「まとめ記事」がゲームメディアにおいて果たす最も重要な役割は何だと考えられますか？",
+    "choices": [
+      "ゲーム販売の広告塔となること",
+      "イベントの全情報を網羅し、ユーザーに効率的に伝えること",
+      "独自の視点でゲームを批評すること",
+      "ゲーム開発者へのフィードバックを提供すること"
+    ],
+    "answer": "イベントの全情報を網羅し、ユーザーに効率的に伝えること",
+    "explanation": "2026年6月のニュースによると、ニンテンドーダイレクトのような大規模イベントの「発表内容まとめ」は、膨大な情報を整理し、ユーザーが短時間で主要な発表内容を把握できるよう効率的に伝えるという、ゲームメディアにとって非常に重要な役割を担っています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 10,
+    "question": "2026年6月9日のニンテンドーダイレクトの発表内容まとめがGAME Watchで報じられたことは、今日のゲーム情報流通において、ゲームメディアがどのような役割を担っていることを最もよく表していますか？",
+    "choices": [
+      "ゲーム開発のスポンサー",
+      "公式発表を客観的に分析し、ユーザーに解釈を提供する役割",
+      "ゲームの販売代理店",
+      "イベントの主催者"
+    ],
+    "answer": "公式発表を客観的に分析し、ユーザーに解釈を提供する役割",
+    "explanation": "2026年6月のニュースによると、ニンテンドーダイレクトのような公式発表イベントの「まとめ記事」をゲームメディアが提供することは、単に情報を伝えるだけでなく、その情報を分析し、ユーザーにとって分かりやすい形に解釈して提供するという重要な役割を担っていることを示しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 10,
+    "question": "『サドンアタック:ゼロポイント』の「ゲーム情報・評価・レビュー・最新ニュース」がOnlineGamerで提供されるという報道は、PCオンラインゲームのライフサイクルにおいて、情報流通がどのような段階で最も重要であると示唆していますか？",
+    "choices": [
+      "開発初期段階",
+      "リリース直前から初期段階",
+      "サービス終了間際",
+      "イベント開催時のみ"
+    ],
+    "answer": "リリース直前から初期段階",
+    "explanation": "2026年7月のニュースによると、ゲーム情報・評価・レビュー・最新ニュースが提供されることは、ゲームのリリース直前から初期段階において、新規プレイヤー獲得と継続的な関心維持のために情報流通が最も重要であることを示唆しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 10,
+    "question": "Xbox Partner Previewでサードパーティー各社の最新ゲーム情報が届けられたというニュースは、Xboxプラットフォームがゲーム市場においてどのような戦略的アプローチを強化していると推測されますか？",
+    "choices": [
+      "ファーストパーティータイトルのみに注力",
+      "独占タイトル戦略を強化",
+      "幅広いゲームラインナップと多様なコンテンツ提供を重視",
+      "レトロゲームの互換性強化"
+    ],
+    "answer": "幅広いゲームラインナップと多様なコンテンツ提供を重視",
+    "explanation": "2026年7月のニュースによると、Xbox Partner Previewでサードパーティー各社の最新ゲーム情報が積極的に紹介されたことは、Xboxが自社タイトルだけでなく、幅広いデベロッパーからの多様なコンテンツを提供することで、プラットフォームの魅力を高め、ユーザー層を拡大する戦略を強化していることを示唆しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 10,
+    "question": "Xbox Partner Previewでサードパーティー各社の最新ゲーム情報が届けられたというニュースは、Xboxプラットフォームの将来的なエコシステム構築において、どのような要素が最も重要であると示唆していますか？",
+    "choices": [
+      "自社スタジオの拡大",
+      "他社との協力関係の深化",
+      "ハードウェアの独自技術開発",
+      "クラウドゲーミングの独占"
+    ],
+    "answer": "他社との協力関係の深化",
+    "explanation": "2026年7月のニュースによると、Xbox Partner Previewでサードパーティー各社の情報が届けられたことは、Xboxが自社だけでなく他社との協力関係を深化させ、多様なゲームをプラットフォームに呼び込むことで、エコシステムを豊かにすることを重視していると示唆しています。"
   },
   {
     "category": "世界情勢",
