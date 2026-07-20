@@ -4942,189 +4942,904 @@
   {
     "category": "ゲーム",
     "difficulty": 1,
-    "question": "本日（2026年7月19日）発売された「SAO」ゲームシリーズ最新作のタイトルは何でしょう？",
+    "question": "アストン マーティンが発表し、最新ゲームに登場予定のV12オフローダーの名称は何ですか？",
     "choices": [
-      "Sword Art Online: Alicization Lycoris",
-      "Sword Art Online: Fatal Bullet",
-      "SAO: Echoes of Aincrad",
-      "Sword Art Online: Hollow Realization"
+      "タイタン",
+      "ドレッドノート",
+      "コロッサス",
+      "レベナント"
     ],
-    "answer": "SAO: Echoes of Aincrad",
-    "explanation": "2026年7月のニュースによると、「SAO」ゲームシリーズ最新作「Echoes of Aincrad」が本日発売されました。"
+    "answer": "ドレッドノート",
+    "explanation": "2026年のニュースによると、アストン マーティンが発表したV12オフローダーは『ドレッドノート』で、最新ゲームに登場予定です。"
   },
   {
     "category": "ゲーム",
     "difficulty": 1,
-    "question": "2026年6月2日のState of Playで発売日決定が発表されたフライトシューティングゲームのタイトルは何でしょう？",
+    "question": "Nintendo Switchの公式の最新情報を有効活用する方法として、GameWithが紹介したのは何ですか？",
     "choices": [
-      "エースコンバット7",
+      "オンラインストアのセール情報",
+      "ゲームニュースの使い方",
+      "フレンド機能の活用法",
+      "スクリーンショットの共有方法"
+    ],
+    "answer": "ゲームニュースの使い方",
+    "explanation": "2026年のニュースによると、GameWithはSwitchのゲームニュースの使い方を紹介しました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 1,
+    "question": "埼玉新聞が報じた、最近人気が高まっているゲームのジャンルは何ですか？",
+    "choices": [
+      "eスポーツタイトル",
+      "VRゲーム",
+      "インディーゲーム",
+      "MMORPG"
+    ],
+    "answer": "インディーゲーム",
+    "explanation": "2026年のニュースによると、埼玉新聞は「インディーゲーム」の高まる人気を報じています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 1,
+    "question": "2026年6月2日のState of Playで発売日決定が発表されたゲームは何ですか？",
+    "choices": [
+      "ファイナルファンタジーXVI",
+      "グランツーリスモ8",
       "エースコンバット8",
-      "トップガン：マベリック",
-      "プロジェクト ウィングマン"
+      "ゴッドオブウォー新作"
     ],
     "answer": "エースコンバット8",
-    "explanation": "2026年6月のニュースによると、State of Play新発表まとめにて『エースコンバット8』の発売日決定が発表されました。"
+    "explanation": "2026年6月2日のState of Playのニュースによると、『エースコンバット8』の発売日決定が発表されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 1,
-    "question": "2026年Summer Game Festで発表された『バイオハザード』シリーズのリメイク作品のタイトルは何でしょう？",
+    "question": "2026年6月2日のState of Playで『真・三國無双2』に参戦が発表されたキャラクターは誰ですか？",
     "choices": [
-      "バイオハザード RE:3",
-      "バイオハザード RE:4",
-      "バイオハザード ベロニカ",
-      "バイオハザード RE:2"
+      "曹操",
+      "紫鸞",
+      "呂布",
+      "関羽"
     ],
-    "answer": "バイオハザード ベロニカ",
-    "explanation": "2026年6月のニュースによると、「Summer Game Fest 2026」にて『バイオハザード ベロニカ』リメイクが発表されました。"
+    "answer": "紫鸞",
+    "explanation": "2026年6月2日のState of Playのニュースによると、『真・三國無双2』には紫鸞が参戦すると発表されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 1,
-    "question": "2026年6月に発表された『キングダム ハーツ』シリーズ最新作のタイトルは何でしょう？",
+    "question": "2026年6月2日のState of Playで体験版配信が発表された完全新作ゲームは何ですか？",
     "choices": [
-      "キングダム ハーツIII",
-      "キングダム ハーツIV",
-      "キングダム ハーツ メロディ オブ メモリー",
-      "キングダム ハーツ ユニオン クロス"
+      "ストリートファイター6",
+      "鬼武者",
+      "鉄拳8",
+      "サイレントヒル2リメイク"
     ],
-    "answer": "キングダム ハーツIV",
-    "explanation": "2026年6月のニュースによると、『キングダム ハーツ』シリーズ最新作『キングダム ハーツIV』が発表されました。"
+    "answer": "鬼武者",
+    "explanation": "2026年6月2日のState of Playのニュースによると、完全新作『鬼武者』の体験版配信が発表されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 1,
-    "question": "2026年6月3日のState of Playで最新映像が公開されたマーベルのキャラクターを題材としたゲームは何でしょう？",
+    "question": "『進撃の巨人』の物語を最初から最後まで描く集大成として発売が決定したゲームのタイトルは何ですか？",
     "choices": [
-      "Marvel's Spider-Man 2",
-      "Marvel's Avengers",
-      "Marvel's Wolverine",
-      "Marvel's Guardians of the Galaxy"
-    ],
-    "answer": "Marvel's Wolverine",
-    "explanation": "2026年6月のニュースによると、「State of Play」にて『マーベル ウルヴァリン』の最新映像が公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "2026年6月に発売決定が発表された『進撃の巨人』の物語を最初から最後まで描く集大成ゲームのタイトルは何でしょう？",
-    "choices": [
-      "進撃の巨人",
+      "進撃の巨人０",
       "進撃の巨人２",
       "進撃の巨人３",
-      "進撃の巨人 The Final"
+      "進撃の巨人：ファイナル"
     ],
     "answer": "進撃の巨人３",
-    "explanation": "2026年6月のニュースによると、『進撃の巨人』の物語を最初から最後まで描く集大成 ゲーム『進撃の巨人３』の発売が決定しました。"
+    "explanation": "2026年のニュースによると、「進撃の巨人」の物語を最初から最後まで描く集大成として、ゲーム『進撃の巨人３』の発売が決定しました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 1,
-    "question": "アークシステムワークスが「ARC SYSTEM WORKS Showcase」で最新情報を公開した新作ゲームのタイトルは何でしょう？",
+    "question": "『キングダム ハーツ』シリーズ最新作『キングダム ハーツIV』が発売されると発表されたハードは何ですか？",
     "choices": [
-      "ギルティギア ストライブ",
-      "ブレイブルー",
+      "Xbox Series X/Sのみ",
+      "PCのみ",
+      "Switch2やPS5",
+      "PS4やXbox One"
+    ],
+    "answer": "Switch2やPS5",
+    "explanation": "2026年のニュースによると、『キングダム ハーツIV』はSwitch2やPS5などで発売されると発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 1,
+    "question": "「SAO」ゲームシリーズ最新作として本日発売されたタイトルの名称は何ですか？",
+    "choices": [
+      "Sword Art Online: Alicization Rising",
+      "Echoes of Aincrad",
+      "Sword Art Online: Fatal Bullet 2",
+      "Sword Art Online: Unital Ring"
+    ],
+    "answer": "Echoes of Aincrad",
+    "explanation": "2026年のニュースによると、「SAO」ゲームシリーズ最新作「Echoes of Aincrad」が本日発売されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 1,
+    "question": "「Summer Game Fest 2026」で発表された『FFVII』シリーズの新作のタイトルは何ですか？",
+    "choices": [
+      "FFVII リバース",
+      "FFVII リベレーション",
+      "FFVII リユニオン",
+      "FFVII リコレクション"
+    ],
+    "answer": "FFVII リベレーション",
+    "explanation": "2026年の「Summer Game Fest 2026」のニュースによると、『FFVII リベレーション』が発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 2,
+    "question": "アストン マーティンが発表した、最新ゲームに登場予定の『ドレッドノート』は、どのようなタイプの乗り物ですか？",
+    "choices": [
+      "電気自動車",
+      "V12オフローダー",
+      "ジェット機",
+      "宇宙船"
+    ],
+    "answer": "V12オフローダー",
+    "explanation": "2026年のニュースによると、アストン マーティンが発表した『ドレッドノート』はV12オフローダーで、最新ゲームに登場予定です。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 2,
+    "question": "GameWithが「Switchのゲームニュースの使い方」について記事を公開した目的は何ですか？",
+    "choices": [
+      "セール情報を告知するため",
+      "公式の最新情報を有効活用するため",
+      "ゲームのレビューを掲載するため",
+      "攻略情報を共有するため"
+    ],
+    "answer": "公式の最新情報を有効活用するため",
+    "explanation": "2026年のニュースによると、GameWithはSwitchのゲームニュースを「公式の最新情報を有効活用する方法」として紹介しました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 2,
+    "question": "埼玉新聞が報じた「インディーゲーム」の人気が高まっている状況は、どのような媒体で伝えられましたか？",
+    "choices": [
+      "テレビニュース",
+      "雑誌記事",
+      "新聞記事",
+      "ウェブサイトのみ"
+    ],
+    "answer": "新聞記事",
+    "explanation": "2026年のニュースによると、埼玉新聞が「インディーゲーム」の人気について報じました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 2,
+    "question": "2026年6月2日のState of Playで発表された『真・三國無双2』のニュースは何に関するものでしたか？",
+    "choices": [
+      "新モードの追加",
+      "新キャラクターの参戦",
+      "グラフィックの改善",
+      "発売延期"
+    ],
+    "answer": "新キャラクターの参戦",
+    "explanation": "2026年6月2日のState of Playのニュースによると、『真・三國無双2』に紫鸞が参戦することが発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 2,
+    "question": "2026年6月2日のState of Playで、完全新作『鬼武者』に関して発表された内容は何ですか？",
+    "choices": [
+      "予約開始日",
+      "体験版の配信",
+      "アニメ化決定",
+      "映画化決定"
+    ],
+    "answer": "体験版の配信",
+    "explanation": "2026年6月2日のState of Playのニュースによると、完全新作『鬼武者』の体験版配信が発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 2,
+    "question": "ゲーム『進撃の巨人３』は、原作のどのような要素を特徴としていますか？",
+    "choices": [
+      "オリジナルストーリーの追加",
+      "外伝の物語を収録",
+      "物語を最初から最後まで描く集大成",
+      "登場キャラクターの完全網羅"
+    ],
+    "answer": "物語を最初から最後まで描く集大成",
+    "explanation": "2026年のニュースによると、ゲーム『進撃の巨人３』は「進撃の巨人」の物語を最初から最後まで描く集大成として発売が決定しました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 2,
+    "question": "『キングダム ハーツIV』の発表を報じたニュースメディアの一つは何ですか？",
+    "choices": [
+      "ファミ通",
+      "電撃オンライン",
+      "オリコンニュース",
+      "IGN Japan"
+    ],
+    "answer": "オリコンニュース",
+    "explanation": "2026年のニュースによると、オリコンニュースが『キングダム ハーツ』シリーズ最新作『キングダム ハーツIV』の発表を報じました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 2,
+    "question": "GameWithが「NTE」のアップデート最新情報をまとめた記事で取り上げられたゲームの愛称は何ですか？",
+    "choices": [
+      "ネオテラ",
+      "ネバエバ",
+      "ネクストエッジ",
+      "ナイトエスケープ"
+    ],
+    "answer": "ネバエバ",
+    "explanation": "2026年のニュースによると、GameWithは「NTE（ネバエバ）」のアップデート最新情報をまとめました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 2,
+    "question": "「Summer Game Fest 2026」でリメイク版の発表があったゲームは何ですか？",
+    "choices": [
+      "バイオハザード RE:2",
+      "バイオハザード ベロニカ",
+      "バイオハザード RE:3",
+      "バイオハザード4"
+    ],
+    "answer": "バイオハザード ベロニカ",
+    "explanation": "2026年の「Summer Game Fest 2026」のニュースによると、『バイオハザード ベロニカ』のリメイクが発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 2,
+    "question": "アークシステムワークスが「ARC SYSTEM WORKS Showcase」で公開した新作ゲームの一つは何ですか？",
+    "choices": [
+      "ギルティギア ストライブ2",
       "神貌のクリファ",
+      "ブレイブルー オルタナティブ",
       "くにおくん ザ・ワールド"
     ],
     "answer": "神貌のクリファ",
-    "explanation": "2026年6月のニュースによると、アークシステムワークスは「ARC SYSTEM WORKS Showcase」で新作「神貌のクリファ」などの最新情報を公開しました。"
+    "explanation": "2026年のニュースによると、アークシステムワークスは「ARC SYSTEM WORKS Showcase」で新作「神貌のクリファ」などの最新情報を公開しました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 1,
-    "question": "2026年Summer Game Festで発表された『ステラーブレイド』の展開は何でしょう？",
+    "difficulty": 3,
+    "question": "アストン マーティンが発表したV12オフローダー『ドレッドノート』は、最新ゲームに登場する他にどのような可能性が言及されていますか？",
     "choices": [
-      "リメイク",
-      "DLC",
-      "続編",
-      "スピンオフ"
+      "アニメ化の可能性",
+      "実車化の可能性も理論上はあり得る",
+      "映画化の可能性",
+      "テーマパークでのアトラクション化"
     ],
-    "answer": "続編",
-    "explanation": "2026年6月のニュースによると、「Summer Game Fest 2026」にて『ステラーブレイド』の続編が発表されました。"
+    "answer": "実車化の可能性も理論上はあり得る",
+    "explanation": "2026年のニュースによると、アストン マーティンが発表した『ドレッドノート』は、最新ゲーム登場に加え、実車化の可能性も理論上はあり得るとされています。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 1,
-    "question": "2026年6月9日に発表内容がまとめられた任天堂の発表イベントの名称は何でしょう？",
+    "difficulty": 3,
+    "question": "「インディーゲーム」の人気が高まっているというニュースは、どの新聞社が報じましたか？",
     "choices": [
-      "Nintendo Direct",
-      "Nintendo Treehouse: Live",
-      "Nintendo World",
-      "Nintendo Spotlight"
+      "朝日新聞",
+      "読売新聞",
+      "埼玉新聞",
+      "日本経済新聞"
     ],
-    "answer": "Nintendo Direct",
-    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」の発表内容がまとめられました。"
+    "answer": "埼玉新聞",
+    "explanation": "2026年のニュースによると、埼玉新聞が「インディーゲーム」の高まる人気を報じました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 1,
-    "question": "2026年6月のニュースで人気が高まっていると報じられたゲームのジャンルは何でしょう？",
+    "difficulty": 3,
+    "question": "2026年6月2日のState of Playで発表された『エースコンバット8』に関する最も重要な情報はどれですか？",
     "choices": [
-      "AAAタイトル",
-      "MMORPG",
-      "eスポーツ",
-      "インディーゲーム"
+      "新機体の追加",
+      "発売日決定",
+      "オンラインモードの詳細",
+      "新たな敵パイロット"
     ],
-    "answer": "インディーゲーム",
-    "explanation": "2026年6月のニュースによると、「インディーゲーム」の人気が高まっていると報じられました。"
+    "answer": "発売日決定",
+    "explanation": "2026年6月2日のState of Playのニュースによると、『エースコンバット8』の発売日決定が発表されました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 2,
-    "question": "本日（2026年7月19日）発売された『SAO: Echoes of Aincrad』の主題歌を担当するアーティストは誰でしょう？",
+    "difficulty": 3,
+    "question": "ゲーム『進撃の巨人３』は、どのウェブサイトで発売決定が報じられましたか？",
     "choices": [
-      "LiSA",
-      "藍井エイル",
-      "Aimer",
-      "春奈るな"
+      "famitsu.com",
+      "dengekionline.com",
+      "gamecity.ne.jp",
+      "ign.com"
     ],
-    "answer": "Aimer",
-    "explanation": "2026年7月のニュースによると、Aimerが『SAO』家庭用ゲーム最新作『Echoes of Aincrad』の主題歌を担当しています。"
+    "answer": "gamecity.ne.jp",
+    "explanation": "2026年のニュースによると、gamecity.ne.jpがゲーム『進撃の巨人３』の発売決定を報じました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 2,
-    "question": "2026年6月2日のState of Playで『真・三國無双2』に参戦が発表された新キャラクターの名前は何でしょう？",
+    "difficulty": 3,
+    "question": "『キングダム ハーツIV』が発表された際、発売予定のプラットフォームとして具体的に挙げられたのは何ですか？",
     "choices": [
-      "呂玲綺",
-      "王元姫",
-      "紫鸞",
-      "甄姫"
+      "PS4とXbox One",
+      "SwitchとPC",
+      "Switch2とPS5",
+      "Xbox Series X/SとPC"
     ],
-    "answer": "紫鸞",
-    "explanation": "2026年6月のニュースによると、State of Play新発表まとめにて『真・三國無双2』に紫鸞参戦が発表されました。"
+    "answer": "Switch2とPS5",
+    "explanation": "2026年のニュースによると、『キングダム ハーツIV』はSwitch2やPS5などで発売されると発表されました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 2,
-    "question": "2026年6月に発表された『キングダム ハーツIV』が発売される予定のプラットフォームの一つは何でしょう？",
+    "difficulty": 3,
+    "question": "「SAO」ゲームシリーズ最新作「Echoes of Aincrad」の発売を報じたメディアの一つは何ですか？",
     "choices": [
-      "Xbox Series X/S",
-      "PC",
-      "Switch2",
-      "PlayStation 4"
+      "ファミ通",
+      "電撃オンライン",
+      "GAME Watch",
+      "4Gamer.net"
     ],
-    "answer": "Switch2",
-    "explanation": "2026年6月のニュースによると、『キングダム ハーツIV』はSwitch2やPS5などで発売される予定です。"
+    "answer": "GAME Watch",
+    "explanation": "2026年のニュースによると、GAME Watchが「SAO」ゲームシリーズ最新作「Echoes of Aincrad」の本日発売を報じました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 2,
-    "question": "2026年Summer Game Festで発表された『モンハンワイルズ』の追加コンテンツの種類は何でしょう？",
+    "difficulty": 3,
+    "question": "「Summer Game Fest 2026」で発表された『モンハンワイルズ』に関する情報はどのような内容でしたか？",
     "choices": [
-      "新マップ",
-      "キャラクターパック",
+      "新作発表",
       "大型DLC",
-      "シーズンパス"
+      "リマスター版",
+      "スマホ版"
     ],
     "answer": "大型DLC",
-    "explanation": "2026年6月のニュースによると、「Summer Game Fest 2026」にて『モンハンワイルズ』の大型DLCが発表されました。"
+    "explanation": "2026年の「Summer Game Fest 2026」のニュースによると、『モンハンワイルズ』の大型DLCが発表されました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 2,
-    "question": "2026年6月3日に開催された「State of Play」の配信時間について、どの程度の長さが報じられましたか？",
+    "difficulty": 3,
+    "question": "「Summer Game Fest 2026」で発表された『ステラーブレイド』に関する情報はどのような内容でしたか？",
+    "choices": [
+      "リマスター版",
+      "続編",
+      "スピンオフ",
+      "VR対応"
+    ],
+    "answer": "続編",
+    "explanation": "2026年の「Summer Game Fest 2026」のニュースによると、『ステラーブレイド』の続編が発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "GameWithが最新のアップデート情報をまとめたゲーム「ブロスタ」は、どのような情報が提供されましたか？",
+    "choices": [
+      "新キャラクター情報",
+      "パッチノート",
+      "イベント情報",
+      "開発者インタビュー"
+    ],
+    "answer": "パッチノート",
+    "explanation": "2026年のニュースによると、GameWithは「ブロスタ」の最新のアップデート（パッチノート）情報をまとめました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "2026年6月3日午前6時から配信されたState of Playで、60分以上かけて最新情報が届けられたゲームは何ですか？",
+    "choices": [
+      "スパイダーマン2",
+      "Marvel's Wolverine",
+      "ゴーストオブツシマ2",
+      "FINAL FANTASY VII REBIRTH"
+    ],
+    "answer": "Marvel's Wolverine",
+    "explanation": "2026年6月3日のState of Playのニュースによると、「Marvel's Wolverine」の最新情報が60分以上かけて届けられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "carview!のニュースによると、アストン マーティンが発表した『ドレッドノート』は、何のエンジンを搭載したオフローダーとして言及されていますか？",
+    "choices": [
+      "V6",
+      "V8",
+      "V10",
+      "V12"
+    ],
+    "answer": "V12",
+    "explanation": "2026年のニュースによると、carview!はアストン マーティンが発表した『ドレッドノート』を「V12オフローダー」と報じています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "GameWithが紹介した「Switchのゲームニュースの使い方」は、主にどのような目的で利用することが推奨されていますか？",
+    "choices": [
+      "ゲームの裏技を探すため",
+      "公式の最新情報を効率的に得るため",
+      "他のプレイヤーと交流するため",
+      "過去のニュースを閲覧するため"
+    ],
+    "answer": "公式の最新情報を効率的に得るため",
+    "explanation": "2026年のニュースによると、GameWithはSwitchのゲームニュースを「公式の最新情報を有効活用する方法」として紹介しました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "2026年6月2日のState of Playで発表された3つの主要なゲームに関する情報のうち、体験版配信が発表されたのはどのゲームですか？",
+    "choices": [
+      "エースコンバット8",
+      "真・三國無双2",
+      "鬼武者",
+      "すべて"
+    ],
+    "answer": "鬼武者",
+    "explanation": "2026年6月2日のState of Playのニュースによると、『エースコンバット8』発売日決定、『真・三國無双2』に紫鸞参戦、そして完全新作『鬼武者』体験版配信が発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "ゲーム『進撃の巨人３』は、その物語のどの範囲をカバーすると発表されましたか？",
+    "choices": [
+      "序盤のみ",
+      "中盤まで",
+      "終盤のみ",
+      "最初から最後まで"
+    ],
+    "answer": "最初から最後まで",
+    "explanation": "2026年のニュースによると、ゲーム『進撃の巨人３』は「進撃の巨人」の物語を最初から最後まで描く集大成として発売が決定しました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "『キングダム ハーツIV』が発表された際、オリコンニュースはどのシリーズの最新作であると報じましたか？",
+    "choices": [
+      "ファイナルファンタジー",
+      "キングダム ハーツ",
+      "ブレイブリーデフォルト",
+      "ゼノギアス"
+    ],
+    "answer": "キングダム ハーツ",
+    "explanation": "2026年のニュースによると、オリコンニュースは『キングダム ハーツ』シリーズ最新作『キングダム ハーツIV』の発表を報じました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "「SAO」ゲームシリーズ最新作「Echoes of Aincrad」の発売を報じたYahoo!ニュースの元記事提供元は何ですか？",
+    "choices": [
+      "ファミ通.com",
+      "GAME Watch",
+      "電撃オンライン",
+      "4Gamer.net"
+    ],
+    "answer": "GAME Watch",
+    "explanation": "2026年のニュースによると、Yahoo!ニュースはGAME Watchからの情報として「SAO」ゲームシリーズ最新作「Echoes of Aincrad」の本日発売を報じました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "「Summer Game Fest 2026」で発表された『バイオハザード ベロニカ』は、どのような形態でのリリースが予定されていますか？",
+    "choices": [
+      "続編",
+      "リメイク",
+      "スピンオフ",
+      "アニメ化"
+    ],
+    "answer": "リメイク",
+    "explanation": "2026年の「Summer Game Fest 2026」のニュースによると、『バイオハザード ベロニカ』のリメイクが発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "アークシステムワークスが開催した「ARC SYSTEM WORKS Showcase」で、新作「神貌のクリファ」の発表以外にどのような情報が公開されましたか？",
+    "choices": [
+      "過去作のセール情報",
+      "最新情報",
+      "社内開発秘話",
+      "採用情報"
+    ],
+    "answer": "最新情報",
+    "explanation": "2026年のニュースによると、アークシステムワークスは「ARC SYSTEM WORKS Showcase」で新作「神貌のクリファ」などの「最新情報」を公開しました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "2026年6月9日に開催された「ニンテンドーダイレクト」の内容をまとめたのはどのメディアですか？",
+    "choices": [
+      "ファミ通.com",
+      "GAME Watch",
+      "IGN Japan",
+      "電撃オンライン"
+    ],
+    "answer": "GAME Watch",
+    "explanation": "2026年6月9日のニュースによると、GAME Watchが「ニンテンドーダイレクト 2026.6.9」の発表内容をまとめました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "Bloombergが報じた任天堂の株価低迷は、ゲーム業界全体にとってどのような状況を示唆しているとされていますか？",
+    "choices": [
+      "黄金時代",
+      "成長期",
+      "暗い時代",
+      "安定期"
+    ],
+    "answer": "暗い時代",
+    "explanation": "2026年のニュースによると、Bloombergは任天堂の株価低迷がゲーム業界の「暗い時代」を示唆していると報じました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "アストン マーティンが発表したV12オフローダー『ドレッドノート』が「実車化の可能性も理論上はあり得る」と報じたメディアは何ですか？",
+    "choices": [
+      "Yahoo!ニュース",
+      "Bloomberg",
+      "carview!",
+      "GameWith"
+    ],
+    "answer": "carview!",
+    "explanation": "2026年のニュースによると、carview!がアストン マーティン『ドレッドノート』の実車化の可能性について報じました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "埼玉新聞が「インディーゲーム」の人気が高まっていると報じたのは、どのような文脈での言及でしたか？",
+    "choices": [
+      "業界トレンドの分析記事",
+      "新しいビジネスモデルの紹介",
+      "「高まる人気」という見出し",
+      "開発者インタビュー"
+    ],
+    "answer": "「高まる人気」という見出し",
+    "explanation": "2026年のニュースによると、埼玉新聞は「インディーゲーム」に関する記事を「高まる人気」という見出しで報じました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "2026年6月2日のState of Playで発表された『真・三國無双2』に関するニュースは、何シリーズのゲームについてでしたか？",
+    "choices": [
+      "戦国無双",
+      "無双OROCHI",
+      "真・三國無双",
+      "ガンダム無双"
+    ],
+    "answer": "真・三國無双",
+    "explanation": "2026年6月2日のState of Playのニュースによると、『真・三國無双2』に紫鸞が参戦すると発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "ゲーム『進撃の巨人３』が「集大成」として発売される決定は、どのゲーム情報サイトが報じましたか？",
+    "choices": [
+      "famitsu.com",
+      "gamecity.ne.jp",
+      "dengekionline.com",
+      "4gamer.net"
+    ],
+    "answer": "gamecity.ne.jp",
+    "explanation": "2026年のニュースによると、gamecity.ne.jpがゲーム『進撃の巨人３』の発売決定を報じました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "『キングダム ハーツIV』が発表された際、言及されたプラットフォームのうち、次世代機と目されるものは何ですか？",
+    "choices": [
+      "PS4",
+      "Xbox One",
+      "Switch2",
+      "PC"
+    ],
+    "answer": "Switch2",
+    "explanation": "2026年のニュースによると、『キングダム ハーツIV』はSwitch2やPS5などで発売されると発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "「SAO」ゲームシリーズ最新作「Echoes of Aincrad」の発売を報じたGAME Watchの記事は、その発売日をどのように表現していましたか？",
+    "choices": [
+      "今冬発売",
+      "近日発売",
+      "本日発売",
+      "発売日未定"
+    ],
+    "answer": "本日発売",
+    "explanation": "2026年のニュースによると、GAME Watchは「SAO」ゲームシリーズ最新作「Echoes of Aincrad」が「本日発売」と報じました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "GameWithが最新情報をまとめた「NTE（ネバエバ）」は、どのような種類の情報が提供されましたか？",
+    "choices": [
+      "キャラクター紹介",
+      "開発秘話",
+      "アップデート情報",
+      "サウンドトラック情報"
+    ],
+    "answer": "アップデート情報",
+    "explanation": "2026年のニュースによると、GameWithは「NTE（ネバエバ）」のアップデート最新情報をまとめました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "「Summer Game Fest 2026」で発表された『モンハンワイルズ』の「大型DLC」は、どのシリーズのゲームに関するものですか？",
+    "choices": [
+      "ファイナルファンタジー",
+      "モンスターハンター",
+      "ゼルダの伝説",
+      "ポケットモンスター"
+    ],
+    "answer": "モンスターハンター",
+    "explanation": "2026年の「Summer Game Fest 2026」のニュースによると、『モンハンワイルズ』の大型DLCが発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "アークシステムワークスが「ARC SYSTEM WORKS Showcase」で公開した「神貌のクリファ」は、どのような種類の情報として扱われましたか？",
+    "choices": [
+      "リマスター版",
+      "新作",
+      "DLC",
+      "シーズンパス"
+    ],
+    "answer": "新作",
+    "explanation": "2026年のニュースによると、アークシステムワークスは「ARC SYSTEM WORKS Showcase」で「新作」の「神貌のクリファ」などの最新情報を公開しました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "Bloombergが報じた任天堂の株価低迷に関するニュースは、どの金融情報サイトで閲覧できますか？",
+    "choices": [
+      "Google Finance",
+      "Yahoo!ファイナンス",
+      "楽天証券",
+      "SBI証券"
+    ],
+    "answer": "Yahoo!ファイナンス",
+    "explanation": "2026年のニュースによると、Bloombergが報じた任天堂の株価低迷に関するニュースはYahoo!ファイナンスで閲覧できます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "最新ゲームに登場予定のアストン マーティン『ドレッドノート』は、そのエンジンタイプと合わせてどのような車両として紹介されましたか？",
+    "choices": [
+      "V8スポーツカー",
+      "V12オフローダー",
+      "V6ハイブリッド車",
+      "電気SUV"
+    ],
+    "answer": "V12オフローダー",
+    "explanation": "2026年のニュースによると、アストン マーティン『ドレッドノート』は「V12オフローダー」として最新ゲームに登場予定と報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "GameWithがNintendo Switchのゲームニュースの活用法を紹介した記事で、特に強調されていたのは何からの情報活用ですか？",
+    "choices": [
+      "非公式",
+      "ユーザー",
+      "公式",
+      "インフルエンサー"
+    ],
+    "answer": "公式",
+    "explanation": "2026年のニュースによると、GameWithはSwitchのゲームニュースを「公式の最新情報を有効活用する方法」として紹介しました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "2026年6月2日のState of Playで発表された『エースコンバット8』、『真・三國無双2』、『鬼武者』の3タイトルは、どのゲーム情報サイトによってまとめられましたか？",
+    "choices": [
+      "IGN Japan",
+      "電撃オンライン",
+      "ファミ通",
+      "4Gamer.net"
+    ],
+    "answer": "ファミ通",
+    "explanation": "2026年6月2日のState of Playのニュースによると、ファミ通がこれらの新発表をまとめました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "ゲーム『進撃の巨人３』の発表は、原作のどの部分からどの部分までを網羅すると言及されましたか？",
+    "choices": [
+      "序盤から中盤",
+      "中盤から終盤",
+      "最初から最後まで",
+      "外伝の物語のみ"
+    ],
+    "answer": "最初から最後まで",
+    "explanation": "2026年のニュースによると、ゲーム『進撃の巨人３』は「進撃の巨人」の物語を「最初から最後まで」描く集大成とされています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "『キングダム ハーツIV』の発表を報じたオリコンニュースの記事は、この作品をどのシリーズの最新作として紹介しましたか？",
+    "choices": [
+      "ファイナルファンタジー",
+      "キングダム ハーツ",
+      "ブレイブリーデフォルト",
+      "ゼノギアス"
+    ],
+    "answer": "キングダム ハーツ",
+    "explanation": "2026年のニュースによると、オリコンニュースは『キングダム ハーツ』シリーズ最新作『キングダム ハーツIV』の発表を報じました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "「SAO」ゲームシリーズ最新作「Echoes of Aincrad」の発売日を「本日発売」と報じたGAME Watchの記事は、その情報をさらにどのメディアが配信しましたか？",
+    "choices": [
+      "Googleニュース",
+      "Yahoo!ニュース",
+      "MSNニュース",
+      "ライブドアニュース"
+    ],
+    "answer": "Yahoo!ニュース",
+    "explanation": "2026年のニュースによると、GAME Watchが報じた「Echoes of Aincrad」の発売情報はYahoo!ニュースでも配信されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "「Summer Game Fest 2026」で発表された『FFVII リベレーション』と『バイオハザード ベロニカ』リメイクは、どのゲーム情報サイトによってまとめられましたか？",
+    "choices": [
+      "電撃オンライン",
+      "4Gamer.net",
+      "ファミ通",
+      "IGN Japan"
+    ],
+    "answer": "ファミ通",
+    "explanation": "2026年の「Summer Game Fest 2026」のニュースによると、ファミ通がこれらの発表をまとめました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "アークシステムワークスが「ARC SYSTEM WORKS Showcase」で公開した「神貌のクリファ」は、どのような種類の情報を伝えるイベントで発表されましたか？",
+    "choices": [
+      "株主総会",
+      "決算発表会",
+      "最新情報公開イベント",
+      "社内表彰式"
+    ],
+    "answer": "最新情報公開イベント",
+    "explanation": "2026年のニュースによると、アークシステムワークスは「ARC SYSTEM WORKS Showcase」で「神貌のクリファ」などの最新情報を公開しました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "2026年6月9日の「ニンテンドーダイレクト」の発表内容をまとめたGAME Watchの記事は、その情報をさらにどのメディアが配信しましたか？",
+    "choices": [
+      "MSNニュース",
+      "Yahoo!ニュース",
+      "Googleニュース",
+      "SmartNews"
+    ],
+    "answer": "Yahoo!ニュース",
+    "explanation": "2026年6月9日のニュースによると、GAME Watchがまとめた「ニンテンドーダイレクト」の発表内容はYahoo!ニュースでも配信されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "2026年6月3日午前6時から配信されたState of Playで「Marvel's Wolverine」の最新情報が届けられた時間は、具体的にどれくらいでしたか？",
+    "choices": [
+      "30分未満",
+      "30分から60分",
+      "60分以上",
+      "90分以上"
+    ],
+    "answer": "60分以上",
+    "explanation": "2026年6月3日のState of Playのニュースによると、「Marvel's Wolverine」の最新情報は「60分以上」届けられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "アストン マーティンが発表したV12オフローダー『ドレッドノート』について、「実車化の可能性も理論上はあり得る」という言及は、主にどのような文脈でなされましたか？",
+    "choices": [
+      "環境規制への対応策として",
+      "モータースポーツへの参戦計画として",
+      "最新ゲームへの登場予定と並列して",
+      "次世代技術のデモンストレーションとして"
+    ],
+    "answer": "最新ゲームへの登場予定と並列して",
+    "explanation": "2026年のニュースによると、アストン マーティン『ドレッドノート』は最新ゲームに登場予定であり、実車化の可能性も理論上あり得ると報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "埼玉新聞が「インディーゲーム」の人気について報じた際、その記事の見出しは具体的に何でしたか？",
+    "choices": [
+      "「インディーゲーム」新たな潮流",
+      "「インディーゲーム」高まる人気",
+      "「インディーゲーム」市場拡大",
+      "「インディーゲーム」成功の秘訣"
+    ],
+    "answer": "「インディーゲーム」高まる人気",
+    "explanation": "2026年のニュースによると、埼玉新聞は「『インディーゲーム』高まる人気」という見出しで記事を報じました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "2026年6月2日のState of Playで発表された『エースコンバット8』、『真・三國無双2』紫鸞参戦、『鬼武者』体験版配信の3つの発表は、どの見出しの下でまとめられましたか？",
+    "choices": [
+      "ゲーム業界の未来",
+      "新世代ゲームの展望",
+      "State of Play新発表まとめ",
+      "最新ゲームトレンド分析"
+    ],
+    "answer": "State of Play新発表まとめ",
+    "explanation": "2026年6月2日のState of Playのニュースによると、ファミ通が「State of Play新発表まとめ」としてこれらの情報を報じました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "ゲーム『進撃の巨人３』が「集大成」として発売される決定は、どのゲームシリーズに関するものですか？",
+    "choices": [
+      "ファイナルファンタジー",
+      "キングダム ハーツ",
+      "進撃の巨人",
+      "ゼルダの伝説"
+    ],
+    "answer": "進撃の巨人",
+    "explanation": "2026年のニュースによると、ゲーム『進撃の巨人３』は「進撃の巨人」の物語を最初から最後まで描く集大成として発売が決定しました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "『キングダム ハーツIV』が発表された際、発売予定のプラットフォームとして言及されたのは、現行機と次世代機の組み合わせとしてどのようなものでしたか？",
+    "choices": [
+      "PS4とSwitch",
+      "PS5とXbox Series X/S",
+      "PS5とSwitch2",
+      "PCとSwitch"
+    ],
+    "answer": "PS5とSwitch2",
+    "explanation": "2026年のニュースによると、『キングダム ハーツIV』はSwitch2やPS5などで発売されると発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "「SAO」ゲームシリーズ最新作「Echoes of Aincrad」の発売を報じたGAME Watchの記事は、さらにどのメディアのニュースとして配信されましたか？",
+    "choices": [
+      "Googleニュース",
+      "Yahoo!ニュース",
+      "MSNニュース",
+      "ライブドアニュース"
+    ],
+    "answer": "Yahoo!ニュース",
+    "explanation": "2026年のニュースによると、GAME Watchが報じた「SAO」ゲームシリーズ最新作「Echoes of Aincrad」の発売情報はYahoo!ニュースでも配信されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "「Summer Game Fest 2026」で発表された『FFVII リベレーション』、『バイオハザード ベロニカ』リメイク、『モンハンワイルズ』大型DLC、『ステラーブレイド』続編の4つの発表は、どの見出しの下でまとめられましたか？",
+    "choices": [
+      "ゲームの祭典ハイライト",
+      "「Summer Game Fest 2026」発表まとめ",
+      "最新ゲーム情報速報",
+      "注目タイトル一挙公開"
+    ],
+    "answer": "Summer Game Fest 2026」発表まとめ",
+    "explanation": "2026年の「Summer Game Fest 2026」のニュースによると、ファミ通が「Summer Game Fest 2026」発表まとめとしてこれらの情報を報じました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "GameWithが最新のアップデート情報をまとめたゲーム「ブロスタ」は、どのような種類の情報として提供されましたか？",
+    "choices": [
+      "新キャラクター情報",
+      "イベント情報",
+      "パッチノート",
+      "開発者インタビュー"
+    ],
+    "answer": "パッチノート",
+    "explanation": "2026年のニュースによると、GameWithは「ブロスタ」の最新のアップデート（パッチノート）情報をまとめました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "任天堂の株価低迷が「ゲーム業界の暗い時代」を示唆していると報じたBloombergの記事は、どのような要因が「流れを変える」と見られていないと指摘しましたか？",
+    "choices": [
+      "新たなゲーム機の発表",
+      "主要タイトルの発売",
+      "要因が見えない",
+      "他社との提携"
+    ],
+    "answer": "要因が見えない",
+    "explanation": "2026年のニュースによると、Bloombergは任天堂の株価低迷がゲーム業界の暗い時代を示唆しており、「流れを変える要因が見えない」と報じました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "2026年6月3日午前6時から配信されたState of Playで、「Marvel's Wolverine」の最新情報が配信された配信時間は、正確には何分以上でしたか？",
     "choices": [
       "30分以上",
       "45分以上",
@@ -5132,1112 +5847,397 @@
       "90分以上"
     ],
     "answer": "60分以上",
-    "explanation": "2026年6月のニュースによると、「State of Play」は60分以上でお届けすると報じられました。"
+    "explanation": "2026年6月3日のState of Playのニュースによると、「Marvel's Wolverine」の最新情報は「60分以上」届けられました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 2,
-    "question": "『怪獣8号ゲーム』で定期的に公開されている情報の一つは何でしょう？",
+    "difficulty": 8,
+    "question": "アストン マーティンが発表したV12オフローダー『ドレッドノート』は、最新ゲームに登場する予定ですが、この情報の出典となったメディアは何ですか？",
     "choices": [
-      "キャラクター紹介",
-      "開発秘話",
-      "最新アップデート/アプデ情報",
-      "サウンドトラック情報"
+      "GameWith",
+      "ファミ通",
+      "carview!",
+      "IGN Japan"
     ],
-    "answer": "最新アップデート/アプデ情報",
-    "explanation": "2026年6月のニュースによると、『怪獣8号ゲーム』の最新アップデート/アプデ情報がまとめられています。"
+    "answer": "carview!",
+    "explanation": "2026年のニュースによると、carview!がアストン マーティン『ドレッドノート』の最新ゲーム登場予定について報じました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 2,
-    "question": "「ARC SYSTEM WORKS Showcase」で公開された新作タイトルの一つは何でしょう？",
+    "difficulty": 8,
+    "question": "GameWithが「Switchのゲームニュースの使い方」を解説した記事は、その有効活用法を「公式の最新情報を有効活用する方法をご紹介！」という形で紹介しています。この記事のタイトルに含まれるキーワードは何ですか？",
     "choices": [
-      "ブレイブルー クロノファンタズマ",
-      "神貌のクリファ",
-      "GUILTY GEAR -STRIVE-",
-      "ドラゴンボール ファイターズ"
+      "攻略情報",
+      "公式の最新情報",
+      "コミュニティ機能",
+      "ゲームレビュー"
     ],
-    "answer": "神貌のクリファ",
-    "explanation": "2026年6月のニュースによると、アークシステムワークスは「ARC SYSTEM WORKS Showcase」で新作「神貌のクリファ」などの最新情報を公開しました。"
+    "answer": "公式の最新情報",
+    "explanation": "2026年のニュースによると、GameWithは「Switchのゲームニュースの使い方！公式の最新情報を有効活用する方法をご紹介！」というタイトルで記事を公開しました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 2,
-    "question": "『エースコンバット8』の発売日決定が発表されたイベントは何でしょう？",
+    "difficulty": 8,
+    "question": "2026年6月2日のState of Playのまとめ記事を掲載したファミ通は、その日付をどのように明記していましたか？",
     "choices": [
-      "E3 2026",
-      "Gamescom 2026",
-      "State of Play June 2, 2026",
-      "Tokyo Game Show 2026"
+      "June 2nd",
+      "2026年6月2日",
+      "2026.06.02",
+      "June 2, 2026"
     ],
-    "answer": "State of Play June 2, 2026",
-    "explanation": "2026年6月のニュースによると、『エースコンバット8』の発売日決定はState of Play新発表まとめで報じられました。"
+    "answer": "June 2, 2026",
+    "explanation": "2026年6月2日のState of Playのニュースによると、ファミ通は「ステートオブプレイ June 2, 2026」と日付を明記してまとめ記事を掲載しました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 2,
-    "question": "『バイオハザード ベロニカ』リメイクが発表されたイベントは何でしょう？",
+    "difficulty": 8,
+    "question": "『キングダム ハーツIV』が発表された際、オリコンニュースは「Switch2やPS5などで発売へ」と報じましたが、「など」に含まれる可能性のあるプラットフォームについては具体的に言及していません。この情報から確実に言える発売プラットフォームは何ですか？",
     "choices": [
-      "PlayStation Showcase",
-      "Xbox Games Showcase",
-      "Summer Game Fest 2026",
-      "Capcom Highlights"
-    ],
-    "answer": "Summer Game Fest 2026",
-    "explanation": "2026年6月のニュースによると、「Summer Game Fest 2026」にて『バイオハザード ベロニカ』リメイクが発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "2026年6月9日に発表内容がまとめられたイベントの名称は何でしょう？",
-    "choices": [
-      "Nintendo Direct 2026.6.9",
-      "PlayStation State of Play",
-      "Xbox Games Showcase",
-      "Summer Game Fest"
-    ],
-    "answer": "Nintendo Direct 2026.6.9",
-    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」の発表内容がまとめられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "本日（2026年7月19日）発売された『SAO: Echoes of Aincrad』の主題歌のタイトルは何でしょう？",
-    "choices": [
-      "crossing field",
-      "ADAMAS",
-      "Live to Survive",
-      "IGNITE"
-    ],
-    "answer": "Live to Survive",
-    "explanation": "2026年7月のニュースによると、Aimerが『SAO』家庭用ゲーム最新作『Echoes of Aincrad』の主題歌「Live to Survive」をデジタルリリースしました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年6月のState of Playで発表された『鬼武者』の完全新作として公開された内容は、何に関するものでしょう？",
-    "choices": [
-      "発売日",
-      "キャラクター情報",
-      "体験版配信",
-      "DLC情報"
-    ],
-    "answer": "体験版配信",
-    "explanation": "2026年6月のニュースによると、State of Play新発表まとめにて、完全新作『鬼武者』の体験版配信が発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "『進撃の巨人３』が目指す物語の範囲は、どのようなものと発表されていますか？",
-    "choices": [
-      "原作の序盤",
-      "原作の中盤まで",
-      "原作の終盤まで",
-      "物語を最初から最後まで"
-    ],
-    "answer": "物語を最初から最後まで",
-    "explanation": "2026年6月のニュースによると、『進撃の巨人３』は「進撃の巨人」の物語を最初から最後まで描く集大成ゲームとして発売決定しました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年Summer Game Festで発表された『FFVII』シリーズの新作タイトルは何でしょう？",
-    "choices": [
-      "FFVII リメイク",
-      "FFVII リバース",
-      "FFVII リベレーション",
-      "FFVII エバークライシス"
-    ],
-    "answer": "FFVII リベレーション",
-    "explanation": "2026年6月のニュースによると、「Summer Game Fest 2026」にて『FFVII リベレーション』が発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年6月3日のState of Playで『マーベル ウルヴァリン』の最新映像が公開されましたが、このイベントの主な目的は何でしょう？",
-    "choices": [
-      "発売日発表",
-      "新キャラクター発表",
-      "最新情報のお届け",
-      "DLC情報公開"
-    ],
-    "answer": "最新情報のお届け",
-    "explanation": "2026年6月のニュースによると、「State of Play」は「Marvel's Wolverine」最新情報などをお届けすると報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年6月のニュースで「高まる人気」と報じられたゲームのジャンルは何でしょう？",
-    "choices": [
-      "RPG",
-      "アクションゲーム",
-      "インディーゲーム",
-      "シミュレーションゲーム"
-    ],
-    "answer": "インディーゲーム",
-    "explanation": "2026年6月のニュースによると、「インディーゲーム」の人気が高まっていると報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年6月3日のState of Playで発表されたシリーズ最新作は何でしょう？",
-    "choices": [
-      "ゴッド・オブ・ウォー",
-      "スパイダーマン",
-      "Horizon",
-      "Ghost of Tsushima"
-    ],
-    "answer": "ゴッド・オブ・ウォー",
-    "explanation": "2026年6月のニュースによると、「State of Play 2026.6.3まとめ」にて『ゴッド・オブ・ウォー』シリーズ最新作が発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "『ブロスタ』で公開されている最新情報は何に関するものでしょう？",
-    "choices": [
-      "新キャラクター情報",
-      "イベントスケジュール",
-      "アップデート(パッチノート)情報",
-      "開発者インタビュー"
-    ],
-    "answer": "アップデート(パッチノート)情報",
-    "explanation": "2026年6月のニュースによると、『ブロスタ』の最新のアップデート(パッチノート)情報がまとめられています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年6月に『キングダム ハーツIV』が発表された際の主な対応プラットフォームは何と報じられましたか？",
-    "choices": [
-      "PS4とSwitch",
-      "PCとXbox One",
+      "PCとXbox Series X/S",
       "Switch2とPS5",
-      "Xbox Series XとPC"
+      "PS4とXbox One",
+      "Switchのみ"
     ],
     "answer": "Switch2とPS5",
-    "explanation": "2026年6月のニュースによると、『キングダム ハーツIV』はSwitch2やPS5などで発売されると報じられました。"
+    "explanation": "2026年のニュースによると、オリコンニュースは『キングダム ハーツIV』がSwitch2やPS5などで発売されると報じました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 3,
-    "question": "『怪獣8号ゲーム』で定期的にまとめられている情報の一つは何でしょう？",
+    "difficulty": 8,
+    "question": "「SAO」ゲームシリーズ最新作「Echoes of Aincrad」の発売を「本日発売」と報じたGAME Watchのニュースは、そのゲームのシリーズ名をどのように記載していましたか？",
     "choices": [
-      "登場キャラクターの能力",
-      "最新イベント情報",
-      "ゲーム攻略のヒント",
-      "公式グッズ情報"
+      "ソードアート・オンライン",
+      "SAOゲームシリーズ",
+      "SAOオンライン",
+      "アインクラッド・オンライン"
     ],
-    "answer": "最新イベント情報",
-    "explanation": "2026年6月のニュースによると、『怪獣8号ゲーム』の最新イベント情報がまとめられています。"
+    "answer": "SAOゲームシリーズ",
+    "explanation": "2026年のニュースによると、GAME Watchは「SAO」ゲームシリーズ最新作「Echoes of Aincrad」の本日発売を報じました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 4,
-    "question": "Aimerが歌う『SAO Echoes of Aincrad』の主題歌「Live to Survive」のデジタルリリースと同時に公開されたものは何でしょう？",
+    "difficulty": 8,
+    "question": "GameWithが「NTE（ネバエバ）」の「アップデート最新情報まとめ」を公開した際、記事のタイトルに含まれるキーワードは何でしたか？",
     "choices": [
-      "メイキング映像",
-      "Lyric Video",
-      "ショートアニメ",
-      "ゲームプレイ映像"
+      "攻略ガイド",
+      "イベント情報",
+      "アップデート最新情報",
+      "キャラクターデータ"
     ],
-    "answer": "Lyric Video",
-    "explanation": "2026年7月のニュースによると、Aimerの主題歌「Live to Survive」デジタルリリースと同時にLyric Videoが公開されました。"
+    "answer": "アップデート最新情報",
+    "explanation": "2026年のニュースによると、GameWithは「【NTE】アップデート最新情報まとめ【ネバエバ】」というタイトルで記事を公開しました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年6月2日のState of Playで発売日決定が発表されたのは、『エースコンバット8』と何という『鬼武者』シリーズのゲームでしょう？",
+    "difficulty": 8,
+    "question": "「Summer Game Fest 2026」で発表された『FFVII リベレーション』、『バイオハザード ベロニカ』リメイク、『モンハンワイルズ』大型DLC、『ステラーブレイド』続編の発表をまとめたファミ通の記事は、そのイベント名をどのように明記していましたか？",
     "choices": [
-      "鬼武者",
-      "鬼武者2",
-      "鬼武者WoS",
-      "新 鬼武者"
+      "Summer Game Festival",
+      "Summer Game Fest 2026",
+      "Game Fest Summer",
+      "2026 Summer Game Show"
     ],
-    "answer": "鬼武者WoS",
-    "explanation": "2026年6月のニュースによると、State of Playまとめにて『エースコンバット8』と『鬼武者WoS』の発売日公開が報じられました。"
+    "answer": "Summer Game Fest 2026",
+    "explanation": "2026年の「Summer Game Fest 2026」のニュースによると、ファミ通は「Summer Game Fest 2026」発表まとめとしてこれらの情報を報じました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 4,
-    "question": "『キングダム ハーツIV』が発売される予定のゲーム機「Switch2」とは、どの企業の製品でしょうか？",
+    "difficulty": 8,
+    "question": "アークシステムワークスが「ARC SYSTEM WORKS Showcase」で「神貌のクリファ」などの最新情報を公開した際、その情報の提供元となったメディアは何ですか？",
     "choices": [
-      "ソニー",
-      "マイクロソフト",
-      "任天堂",
-      "セガ"
+      "ファミ通",
+      "電撃オンライン",
+      "GAME Watch",
+      "4Gamer.net"
     ],
-    "answer": "任天堂",
-    "explanation": "2026年6月のニュースによると、『キングダム ハーツIV』はSwitch2やPS5などで発売されると報じられており、Switchは任天堂のゲーム機です。"
+    "answer": "GAME Watch",
+    "explanation": "2026年のニュースによると、GAME Watchがアークシステムワークスによる新作「神貌のクリファ」などの最新情報公開を報じました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年Summer Game Festで発表された『ステラーブレイド』の続編について、どのような形で情報が公開されましたか？",
+    "difficulty": 8,
+    "question": "2026年6月9日の「ニンテンドーダイレクト」の発表内容をまとめたGAME Watchの記事は、そのイベントの日付をどのように明記していましたか？",
     "choices": [
-      "詳細なゲームプレイ映像",
-      "タイトルとロゴのみ",
+      "2026/06/09",
+      "2026年6月9日",
+      "2026.6.9",
+      "6月9日"
+    ],
+    "answer": "2026.6.9",
+    "explanation": "2026年6月9日のニュースによると、GAME Watchは「ニンテンドーダイレクト 2026.6.9」の発表内容をまとめました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "2026年6月3日午前6時から配信されたState of Playは、「Marvel's Wolverine」の最新情報などを配信しましたが、このイベントの開催時間を報じたメディアは何ですか？",
+    "choices": [
+      "ファミ通",
+      "電撃オンライン",
+      "GAME Watch",
+      "IGN Japan"
+    ],
+    "answer": "GAME Watch",
+    "explanation": "2026年6月3日のニュースによると、GAME WatchがState of Playの開催時間と内容を報じました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 9,
+    "question": "carview!のニュースで、アストン マーティンがV12オフローダー『ドレッドノート』を発表し、最新ゲームに登場予定と報じられた際、実車化の可能性についても言及がありましたが、それはどのような前提に基づくとされましたか？",
+    "choices": [
+      "技術的に困難だが挑戦する",
+      "理論上はあり得る",
+      "市場の需要があれば",
+      "政府の支援があれば"
+    ],
+    "answer": "理論上はあり得る",
+    "explanation": "2026年のニュースによると、アストン マーティン『ドレッドノート』の実車化の可能性は「理論上はあり得る」と報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 9,
+    "question": "GameWithが「Switchのゲームニュースの使い方」を解説した記事のタイトルに含まれる、Switchの「公式の最新情報を有効活用する方法」というフレーズは、その記事でどのような役割を担っていますか？",
+    "choices": [
+      "記事の読者層を絞る",
+      "記事の目的を明確にする",
+      "記事のボリュームを示す",
+      "記事の難易度を伝える"
+    ],
+    "answer": "記事の目的を明確にする",
+    "explanation": "2026年のニュースによると、GameWithは「Switchのゲームニュースの使い方！公式の最新情報を有効活用する方法をご紹介！」というタイトルで、記事の目的を明確にしました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 9,
+    "question": "2026年6月2日のState of Playのまとめ記事で、ファミ通が言及した『エースコンバット8』、『真・三國無双2』に紫鸞参戦、『鬼武者』体験版配信の発表は、イベントのどの部分でなされたものとして示唆されていますか？",
+    "choices": [
+      "プレショー",
+      "新発表",
       "開発者インタビュー",
-      "発表のみ"
+      "ファンイベント"
     ],
-    "answer": "発表のみ",
-    "explanation": "2026年6月のニュースによると、「Summer Game Fest 2026」にて『ステラーブレイド』続編の発表が報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "『真・三國無双2』に参戦が発表された紫鸞は、どのイベントで発表されましたか？",
-    "choices": [
-      "Summer Game Fest",
-      "Nintendo Direct",
-      "State of Play",
-      "Tokyo Game Show"
-    ],
-    "answer": "State of Play",
-    "explanation": "2026年6月のニュースによると、State of Play新発表まとめにて『真・三國無双2』に紫鸞参戦が発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "『進撃の巨人３』の発売決定を発表したゲームメーカーのウェブサイトドメインは何でしょう？",
-    "choices": [
-      "square-enix.com",
-      "capcom.co.jp",
-      "gamecity.ne.jp",
-      "bandainamcoent.co.jp"
-    ],
-    "answer": "gamecity.ne.jp",
-    "explanation": "2026年6月のニュースによると、『進撃の巨人３』の発売決定はgamecity.ne.jpで報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "『GTA6』に関する最新情報がまとめられているメディアは何でしょう？",
-    "choices": [
-      "IGN",
-      "ファミ通",
-      "GAME Watch",
-      "電撃オンライン"
-    ],
-    "answer": "GAME Watch",
-    "explanation": "2026年6月のニュースによると、「グランド・セフト・オートVI」最新情報まとめがGAME Watchで報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "「ARC SYSTEM WORKS Showcase」で新作『神貌のクリファ』の最新情報を公開したのは、どのような企業でしょう？",
-    "choices": [
-      "カプコン",
-      "スクウェア・エニックス",
-      "アークシステムワークス",
-      "バンダイナムコエンターテインメント"
-    ],
-    "answer": "アークシステムワークス",
-    "explanation": "2026年6月のニュースによると、アークシステムワークスが「ARC SYSTEM WORKS Showcase」で新作「神貌のクリファ」などの最新情報を公開しました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年6月3日に配信された「State of Play」の配信時間（分）はどのくらいと報じられましたか？",
-    "choices": [
-      "約30分",
-      "約45分",
-      "60分以上",
-      "約90分"
-    ],
-    "answer": "60分以上",
-    "explanation": "2026年6月のニュースによると、「State of Play」は60分以上でお届けすると報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年7月19日現在、『SAO Echoes of Aincrad』が本日発売されたことを報じているニュースメディアは何でしょう？",
-    "choices": [
-      "ファミ通",
-      "電撃オンライン",
-      "GAME Watch",
-      "IGN Japan"
-    ],
-    "answer": "GAME Watch",
-    "explanation": "2026年7月のニュースによると、「SAO」ゲームシリーズ最新作「Echoes of Aincrad」本日発売（GAME Watch）と報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "Aimerが歌う『SAO Echoes of Aincrad』の主題歌「Live to Survive」のLyric Videoが公開された具体的な時間は何時と報じられましたか？",
-    "choices": [
-      "18時",
-      "19時",
-      "20時",
-      "21時"
-    ],
-    "answer": "20時",
-    "explanation": "2026年7月のニュースによると、Aimerの主題歌「Live to Survive」のLyric Videoが20時に公開されると報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "2026年6月2日のState of Playで『真・三國無双2』に参戦する新キャラクターの名前は何でしょう？",
-    "choices": [
-      "夏侯姫",
-      "呂玲綺",
-      "紫鸞",
-      "星彩"
-    ],
-    "answer": "紫鸞",
-    "explanation": "2026年6月のニュースによると、State of Play新発表まとめにて『真・三國無双2』に紫鸞参戦が発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "『キングダム ハーツIV』がSwitch2やPS5などで発売されることが報じられたニュースメディアは何でしょう？",
-    "choices": [
-      "ファミ通",
-      "電撃オンライン",
-      "オリコンニュース",
-      "GAME Watch"
-    ],
-    "answer": "オリコンニュース",
-    "explanation": "2026年6月のニュースによると、『キングダム ハーツ』シリーズ最新作発表『キングダム ハーツIV』Switch2やPS5などで発売へ（オリコンニュース）と報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "2026年Summer Game Festで発表された『バイオハザード ベロニカ』リメイクの正確な発表形式は何でしょう？",
-    "choices": [
-      "新作",
-      "続編",
-      "リメイク",
-      "スピンオフ"
-    ],
-    "answer": "リメイク",
-    "explanation": "2026年6月のニュースによると、「Summer Game Fest 2026」にて『バイオハザード ベロニカ』リメイクが発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "『進撃の巨人３』が「集大成」と表現されている理由は何でしょう？",
-    "choices": [
-      "過去作の総集編であるため",
-      "全てのキャラクターが登場するため",
-      "物語を最初から最後まで描くため",
-      "グラフィックが最も優れているため"
-    ],
-    "answer": "物語を最初から最後まで描くため",
-    "explanation": "2026年6月のニュースによると、『進撃の巨人３』は「進撃の巨人」の物語を最初から最後まで描く集大成ゲームとして発売決定しました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "2026年6月3日のState of Playで『マーベル ウルヴァリン』の最新映像が公開されましたが、このイベントの配信時間についての言及は何でしょう？",
-    "choices": [
-      "30分間",
-      "45分間",
-      "60分以上",
-      "90分間"
-    ],
-    "answer": "60分以上",
-    "explanation": "2026年6月のニュースによると、「State of Play」は「Marvel's Wolverine」最新情報などを60分以上でお届けすると報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "『怪獣8号ゲーム』の最新アップデート情報がまとめられているメディアは何でしょう？",
-    "choices": [
-      "ファミ通",
-      "電撃オンライン",
-      "GameWith",
-      "IGN Japan"
-    ],
-    "answer": "GameWith",
-    "explanation": "2026年6月のニュースによると、『怪獣8号ゲーム』の最新アップデート情報まとめがGameWithで報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "「ARC SYSTEM WORKS Showcase」で公開された新作タイトル「神貌のクリファ」はどのようなジャンルのゲームとして紹介されましたか？",
-    "choices": [
-      "格闘ゲーム",
-      "RPG",
-      "アクションゲーム",
-      "ジャンルは明記されていない"
-    ],
-    "answer": "ジャンルは明記されていない",
-    "explanation": "2026年6月のニュースによると、「ARC SYSTEM WORKS Showcase」で新作「神貌のクリファ」などの最新情報が公開されましたが、ジャンルは具体的に明記されていません。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "『モンハンワイルズ』の大型DLCが発表されたイベントは何でしょう？",
-    "choices": [
-      "Capcom Showcase",
-      "E3 2026",
-      "Summer Game Fest 2026",
-      "The Game Awards"
-    ],
-    "answer": "Summer Game Fest 2026",
-    "explanation": "2026年6月のニュースによると、「Summer Game Fest 2026」にて『モンハンワイルズ』大型DLCが発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "2026年6月9日に発表内容がまとめられた「ニンテンドーダイレクト」を報じたメディアは何でしょう？",
-    "choices": [
-      "ファミ通",
-      "電撃オンライン",
-      "GAME Watch",
-      "オリコンニュース"
-    ],
-    "answer": "GAME Watch",
-    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」発表内容まとめ（GAME Watch）と報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "Aimerが歌う『SAO Echoes of Aincrad』の主題歌「Live to Survive」をデジタルリリースしたのは誰でしょう？",
-    "choices": [
-      "LiSA",
-      "Aimer",
-      "藍井エイル",
-      "ReoNa"
-    ],
-    "answer": "Aimer",
-    "explanation": "2026年7月のニュースによると、Aimerが『SAO』家庭用ゲーム最新作『Echoes of Aincrad』主題歌「Live to Survive」をデジタルリリースしました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "2026年6月2日のState of Playで『エースコンバット8』の発売日決定が発表されたが、この情報が報じられたゲーム情報サイトは何でしょう？",
-    "choices": [
-      "GAME Watch",
-      "電撃オンライン",
-      "ファミ通",
-      "IGN Japan"
-    ],
-    "answer": "ファミ通",
-    "explanation": "2026年6月のニュースによると、State of Play新発表まとめ。『エースコンバット8』発売日決定…（ファミ通）と報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "『キングダム ハーツIV』がSwitch2やPS5などで発売されることが発表されたイベント名は何でしょう？",
-    "choices": [
-      "E3 2026",
-      "Summer Game Fest 2026",
-      "State of Play",
-      "特定のイベント名は明記されていない"
-    ],
-    "answer": "特定のイベント名は明記されていない",
-    "explanation": "2026年6月のニュースによると、『キングダム ハーツ』シリーズ最新作発表『キングダム ハーツIV』Switch2やPS5などで発売へ（オリコンニュース）と報じられましたが、特定のイベント名は明記されていません。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "2026年Summer Game Festで発表された『FFVII リベレーション』は、どのようなカテゴリの作品として発表されましたか？",
-    "choices": [
-      "リメイク",
-      "リマスター",
-      "新作",
-      "DLC"
-    ],
-    "answer": "新作",
-    "explanation": "2026年6月のニュースによると、「Summer Game Fest 2026」にて『FFVII リベレーション』が発表されました。（リメイク/リマスター/DLCとは明記されていないため、新作として扱います）"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "『鬼武者』の完全新作体験版が配信されることが発表されたイベントは何でしょう？",
-    "choices": [
-      "Capcom Showcase",
-      "State of Play June 2, 2026",
-      "Tokyo Game Show",
-      "The Game Awards"
-    ],
-    "answer": "State of Play June 2, 2026",
-    "explanation": "2026年6月のニュースによると, State of Play新発表まとめにて、完全新作『鬼武者』体験版配信が発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "2026年7月19日時点で人気が高まっている「インディーゲーム」について報じた新聞社は何でしょう？",
-    "choices": [
-      "読売新聞",
-      "朝日新聞",
-      "埼玉新聞",
-      "日本経済新聞"
-    ],
-    "answer": "埼玉新聞",
-    "explanation": "2026年6月のニュースによると、「インディーゲーム」高まる人気 - 埼玉新聞と報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "『ゴッド・オブ・ウォー』シリーズ最新作が発表されたのは、どのイベントのまとめ記事で報じられましたか？",
-    "choices": [
-      "Summer Game Fest",
-      "State of Play 2026.6.3",
-      "Nintendo Direct",
-      "The Game Awards"
-    ],
-    "answer": "State of Play 2026.6.3",
-    "explanation": "2026年6月のニュースによると、「State of Play 2026.6.3まとめ」にて『ゴッド・オブ・ウォー』シリーズ最新作が発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "『ブロスタ』の最新アップデート情報がまとめられているのは、どのような形式のノートでしょう？",
-    "choices": [
-      "開発ノート",
-      "パッチノート",
-      "ロードマップノート",
-      "コミュニティノート"
-    ],
-    "answer": "パッチノート",
-    "explanation": "2026年6月のニュースによると、『ブロスタ』の最新のアップデート(パッチノート)情報がまとめられています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "『進撃の巨人３』が発売決定したことを報じた公式ウェブサイトのドメインは何でしょう？",
-    "choices": [
-      "shingeki.com",
-      "koei.jp",
-      "gamecity.ne.jp",
-      "attackontitan.jp"
-    ],
-    "answer": "gamecity.ne.jp",
-    "explanation": "2026年6月のニュースによると、『進撃の巨人３』の発売決定はgamecity.ne.jpで報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "『GTA6』の最新情報がまとめられているゲーム情報サイトは何でしょう？",
-    "choices": [
-      "ファミ通",
-      "電撃オンライン",
-      "GAME Watch",
-      "IGN Japan"
-    ],
-    "answer": "GAME Watch",
-    "explanation": "2026年6月のニュースによると、「グランド・セフト・オートVI」最新情報まとめがGAME Watchで報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "Aimerが歌う『SAO Echoes of Aincrad』の主題歌「Live to Survive」のLyric Videoが公開されたのは、デジタルリリースからどのくらいの時間後と報じられましたか？",
-    "choices": [
-      "1時間後",
-      "数時間後",
-      "同日20時",
-      "翌日"
-    ],
-    "answer": "同日20時",
-    "explanation": "2026年7月のニュースによると、Aimerの主題歌「Live to Survive」デジタルリリースと同時にLyric Videoが20時に公開されると報じられました。デジタルリリースも本日なので、同日です。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "2026年6月2日のState of Playで『真・三國無双2』に参戦が発表された紫鸞は、どのようなキャラクターとして紹介されましたか？",
-    "choices": [
-      "新たな主人公",
-      "既存キャラクターの別バージョン",
-      "新勢力の武将",
-      "参戦とだけ報じられ、詳細は不明"
-    ],
-    "answer": "参戦とだけ報じられ、詳細は不明",
-    "explanation": "2026年6月のニュースによると、State of Play新発表まとめにて『真・三國無双2』に紫鸞参戦と報じられましたが、具体的なキャラクター詳細は記載されていません。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "『キングダム ハーツIV』の発表において、対応プラットフォームとして明確に名前が挙げられた次世代機は何か？",
-    "choices": [
-      "PS5とXbox Series X",
-      "Switch2とPS5",
-      "PS5とPC",
-      "Xbox Series XとSwitch2"
-    ],
-    "answer": "Switch2とPS5",
-    "explanation": "2026年6月のニュースによると、『キングダム ハーツIV』はSwitch2やPS5などで発売されると報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "2026年Summer Game Festで発表された『バイオハザード ベロニカ』リメイクは、どのシリーズのリメイクか？",
-    "choices": [
-      "バイオハザード0",
-      "バイオハザード コード:ベロニカ",
-      "バイオハザード アウトブレイク",
-      "バイオハザード ガンサバイバー"
-    ],
-    "answer": "バイオハザード コード:ベロニカ",
-    "explanation": "2026年6月のニュースによると、「Summer Game Fest 2026」にて『バイオハザード ベロニカ』リメイクが発表されました。これは「バイオハザード コード:ベロニカ」のリメイクを指します。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "『鬼武者』の完全新作体験版の配信が発表された「State of Play」で、他に発売日決定が報じられた『鬼武者』シリーズのゲームタイトルは何でしょう？",
-    "choices": [
-      "鬼武者",
-      "鬼武者2",
-      "鬼武者3",
-      "鬼武者WoS"
-    ],
-    "answer": "鬼武者WoS",
-    "explanation": "2026年6月のニュースによると, State of Play新発表まとめにて完全新作『鬼武者』体験版配信に加え、『鬼武者WoS』の発売日も公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "「State of Play」が6月3日6時から配信されたことを報じたゲーム情報サイトは何でしょう？",
-    "choices": [
-      "ファミ通",
-      "電撃オンライン",
-      "GAME Watch",
-      "IGN Japan"
-    ],
-    "answer": "GAME Watch",
-    "explanation": "2026年6月のニュースによると、「State of Play」6月3日6時から配信。「Marvel's Wolverine」最新情報などを60分以上でお届け（GAME Watch）と報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "『怪獣8号ゲーム』の最新イベント情報がまとめられているメディアは何でしょう？",
-    "choices": [
-      "ファミ通",
-      "電撃オンライン",
-      "GameWith",
-      "IGN Japan"
-    ],
-    "answer": "GameWith",
-    "explanation": "2026年6月のニュースによると、『怪獣8号ゲーム』の最新イベント情報まとめがGameWithで報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "アークシステムワークスが「ARC SYSTEM WORKS Showcase」で最新情報を公開した新作「神貌のクリファ」は、どのようなイベントで発表されましたか？",
-    "choices": [
-      "E3 2026",
-      "自社オンラインイベント",
-      "Tokyo Game Show",
-      "Gamescom"
-    ],
-    "answer": "自社オンラインイベント",
-    "explanation": "2026年6月のニュースによると、アークシステムワークスは自社の「ARC SYSTEM WORKS Showcase」で新作「神貌のクリファ」などの最新情報を公開しました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "『モンハンワイルズ』の大型DLCが発表された「Summer Game Fest 2026」は、どのようなイベントのまとめ記事で報じられましたか？",
-    "choices": [
-      "PlayStationのイベント",
-      "Xboxのイベント",
-      "マルチプラットフォームのイベント",
-      "特定のプラットフォームは明記されていない"
-    ],
-    "answer": "マルチプラットフォームのイベント",
-    "explanation": "2026年6月のニュースによると、「Summer Game Fest 2026」は『FFVII リベレーション』、『バイオハザード ベロニカ』リメイク、『モンハンワイルズ』大型DLC、『ステラーブレイド』続編など、複数のプラットフォームの発表をまとめたイベントとして報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "2026年6月9日に発表内容がまとめられた「ニンテンドーダイレクト」を報じたメディアが属するポータルサイトは何でしょう？",
-    "choices": [
-      "Yahoo!ニュース",
-      "Googleニュース",
-      "MSNニュース",
-      "livedoorニュース"
-    ],
-    "answer": "Yahoo!ニュース",
-    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」発表内容まとめ（GAME Watch） - Yahoo!ニュースと報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "本日（2026年7月19日）発売された『SAO Echoes of Aincrad』の主題歌「Live to Survive」がデジタルリリースされたのはいつと報じられましたか？",
-    "choices": [
-      "本日（7月19日）",
-      "7月18日",
-      "7月12日",
-      "6月30日"
-    ],
-    "answer": "本日（7月19日）",
-    "explanation": "2026年7月のニュースによると、Aimerの主題歌「Live to Survive」が本日（7月19日）デジタルリリースされたと報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "2026年6月2日のState of Playで発表された『エースコンバット8』の発売日決定と、『真・三國無双2』への紫鸞参戦は、どのゲーム情報サイトのまとめ記事で報じられましたか？",
-    "choices": [
-      "GAME Watch",
-      "電撃オンライン",
-      "ファミ通",
-      "IGN Japan"
-    ],
-    "answer": "ファミ通",
-    "explanation": "2026年6月のニュースによると, State of Play新発表まとめ。『エースコンバット8』発売日決定、『真・三國無双2』に紫鸞参戦…（ファミ通）と報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "『キングダム ハーツIV』がSwitch2やPS5などで発売されることが発表されたオリコンニュースの記事タイトルの一部は何でしょう？",
-    "choices": [
-      "『キングダム ハーツ』新作発表",
-      "『キングダム ハーツIV』Switch2/PS5で発売",
-      "『キングダム ハーツ』シリーズ最新作発表",
-      "『キングダム ハーツ』次世代機対応"
-    ],
-    "answer": "『キングダム ハーツ』シリーズ最新作発表",
-    "explanation": "2026年6月のニュースによると、『キングダム ハーツ』シリーズ最新作発表 『キングダム ハーツIV』Switch2やPS5などで発売へ - オリコンニュースと報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "2026年Summer Game Festで発表された『FFVII リベレーション』、『バイオハザード ベロニカ』リメイク、『モンハンワイルズ』大型DLC、『ステラーブレイド』続編は、どのゲーム情報サイトのまとめ記事で報じられましたか？",
-    "choices": [
-      "GAME Watch",
-      "電撃オンライン",
-      "ファミ通",
-      "IGN Japan"
-    ],
-    "answer": "ファミ通",
-    "explanation": "2026年6月のニュースによると、「Summer Game Fest 2026」発表まとめ。『FFVII リベレーション』『バイオハザード ベロニカ』リメイク、『モンハンワイルズ』大型DLC、『ステラーブレイド』続編など発表！（ファミ通）と報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "『鬼武者』の完全新作体験版の配信が発表された「State of Play」は、何月何日のイベントと報じられましたか？",
-    "choices": [
-      "6月2日",
-      "6月3日",
-      "6月9日",
-      "7月19日"
-    ],
-    "answer": "6月2日",
-    "explanation": "2026年6月のニュースによると, State of Play新発表まとめ。『エースコンバット8』発売日決定、『真・三國無双2』に紫鸞参戦、完全新作『鬼武者』体験版配信など【ステートオブプレイ June 2, 2026】（ファミ通）と報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "2026年6月3日6時から配信された「State of Play」は、何分以上の内容が予定されていたと報じられましたか？",
-    "choices": [
-      "30分",
-      "45分",
-      "60分",
-      "90分"
-    ],
-    "answer": "60分",
-    "explanation": "2026年6月のニュースによると、「State of Play」6月3日6時から配信。「Marvel's Wolverine」最新情報などを60分以上でお届け（GAME Watch）と報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "『怪獣8号ゲーム』の最新アップデート情報と最新イベント情報がまとめられているメディア名は何でしょう？",
-    "choices": [
-      "ファミ通",
-      "GameWith",
-      "電撃オンライン",
-      "IGN Japan"
-    ],
-    "answer": "GameWith",
-    "explanation": "2026年6月のニュースによると、【怪獣8号ゲーム】最新アップデート/アプデ情報まとめ【怪獣8G】 - GameWith、および【怪獣8号ゲーム】最新イベント情報まとめ【怪獣8G】 - GameWithと報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "アークシステムワークスが「ARC SYSTEM WORKS Showcase」で公開した新作「神貌のクリファ」以外の最新情報は、どのようなものだったと報じられましたか？",
-    "choices": [
-      "新規IPの発表",
-      "既存タイトルのDLC情報",
-      "その他の最新情報",
-      "開発中の作品のデモ"
-    ],
-    "answer": "その他の最新情報",
-    "explanation": "2026年6月のニュースによると、アークシステムワークスは「ARC SYSTEM WORKS Showcase」で新作「神貌のクリファ」などの「最新情報」を公開しました。「など」とあるため、神貌のクリファ以外の情報も含まれますが、具体的な内容はニュースには記載されていません。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "「Summer Game Fest 2026」で発表された『ステラーブレイド』の続編は、どのような展開として報じられましたか？",
-    "choices": [
-      "完全新作",
-      "大型DLC",
-      "続編",
-      "リマスター"
-    ],
-    "answer": "続編",
-    "explanation": "2026年6月のニュースによると、「Summer Game Fest 2026」にて『ステラーブレイド』続編が発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "2026年6月9日に発表内容がまとめられた「ニンテンドーダイレクト」を報じたGAME Watchは、どのポータルサイトに掲載されていると報じられましたか？",
-    "choices": [
-      "Google",
-      "Yahoo!",
-      "MSN",
-      "livedoor"
-    ],
-    "answer": "Yahoo!",
-    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」発表内容まとめ（GAME Watch） - Yahoo!ニュースと報じられました。"
+    "answer": "新発表",
+    "explanation": "2026年6月2日のState of Playのニュースによると、ファミ通はこれらの発表を「新発表まとめ」として報じています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "Aimerが歌う『SAO Echoes of Aincrad』の主題歌「Live to Survive」がデジタルリリースされたのはいつと報じられましたか？",
+    "question": "ゲーム『進撃の巨人３』が「集大成」として発売される決定は、「進撃の巨人」の物語のどの側面を強調していますか？",
     "choices": [
-      "2026年7月12日",
-      "2026年7月19日",
-      "2026年6月3日",
-      "2026年6月9日"
+      "キャラクターの多様性",
+      "全編網羅",
+      "グラフィックの美しさ",
+      "自由度の高さ"
     ],
-    "answer": "2026年7月19日",
-    "explanation": "2026年7月のニュースによると、Aimerの主題歌「Live to Survive」がデジタルリリースされたのは、ゲーム発売日と同じ本日（2026年7月19日）と報じられました。"
+    "answer": "全編網羅",
+    "explanation": "2026年のニュースによると、ゲーム『進撃の巨人３』は「進撃の巨人」の物語を「最初から最後まで描く集大成」とされており、全編網羅を強調しています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "2026年6月2日のState of Playで発表された『ゴッド・オブ・ウォー』シリーズ最新作と『マーベル ウルヴァリン』最新映像は、どのゲーム情報サイトのまとめ記事で報じられましたか？",
+    "question": "『キングダム ハーツ』シリーズ最新作『キングダム ハーツIV』の発表を報じたオリコンニュースの記事タイトルで、このゲームの発売が示唆されたプラットフォームはどのように表現されていましたか？",
     "choices": [
-      "ファミ通",
-      "電撃オンライン",
-      "GAME Watch",
-      "IGN Japan"
+      "Switch2とPS5で発売",
+      "Switch2やPS5などで発売へ",
+      "PS5とPCで発売",
+      "Switch2独占発売"
     ],
-    "answer": "電撃オンライン",
-    "explanation": "2026年6月のニュースによると、【State of Play 2026.6.3まとめ】『ゴッド・オブ・ウォー』シリーズ最新作が発表。『マーベル ウルヴァリン』最新映像…（電撃オンライン）と報じられました。"
+    "answer": "Switch2やPS5などで発売へ",
+    "explanation": "2026年のニュースによると、オリコンニュースは『キングダム ハーツIV』の発表を「Switch2やPS5などで発売へ」と報じました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "『キングダム ハーツIV』がSwitch2やPS5などで発売されることが発表されたが、このニュースを報じたオリコンニュースは、どのような種類の情報メディアか？",
+    "question": "「SAO」ゲームシリーズ最新作「Echoes of Aincrad」の発売を報じたGAME Watchの記事は、Yahoo!ニュースに転載されましたが、その記事の見出しはどのような形式でしたか？",
     "choices": [
-      "ゲーム専門メディア",
-      "アニメ専門メディア",
-      "エンタメ特化型情報メディア",
-      "IT総合情報メディア"
+      "SAO最新作「Echoes of Aincrad」登場",
+      "「Echoes of Aincrad」本日発売！SAOシリーズ最新作",
+      "「SAO」ゲームシリーズ最新作「Echoes of Aincrad」本日発売",
+      "SAO新章「Echoes of Aincrad」本日解禁"
     ],
-    "answer": "エンタメ特化型情報メディア",
-    "explanation": "2026年6月のニュースによると、オリコンニュースは『キングダム ハーツ』シリーズ最新作発表を報じており、エンタメ特化型情報メディアとして知られています。"
+    "answer": "「SAO」ゲームシリーズ最新作「Echoes of Aincrad」本日発売",
+    "explanation": "2026年のニュースによると、GAME Watchの「SAO」ゲームシリーズ最新作「Echoes of Aincrad」本日発売という見出しの記事がYahoo!ニュースに転載されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "2026年Summer Game Festで発表された『バイオハザード ベロニカ』のリメイクは、どのゲーム情報サイトのまとめ記事の見出しで「リメイク」と明記されていますか？",
+    "question": "「Summer Game Fest 2026」の発表まとめ記事を掲載したファミ通は、このイベントでの『FFVII リベレーション』、『バイオハザード ベロニカ』リメイク、『モンハンワイルズ』大型DLC、『ステラーブレイド』続編の発表を、どのような見出しの下でまとめましたか？",
     "choices": [
-      "GAME Watch",
-      "電撃オンライン",
-      "ファミ通",
-      "IGN Japan"
+      "「Summer Game Fest 2026」発表まとめ",
+      "2026年夏ゲームフェス速報",
+      "注目ゲームタイトル発表",
+      "次世代ゲームの展望"
     ],
-    "answer": "ファミ通",
-    "explanation": "2026年6月のニュースによると、「Summer Game Fest 2026」発表まとめ。『FFVII リベレーション』『バイオハザード ベロニカ』リメイク…（ファミ通）と報じられました。"
+    "answer": "「Summer Game Fest 2026」発表まとめ",
+    "explanation": "2026年の「Summer Game Fest 2026」のニュースによると、ファミ通は「「Summer Game Fest 2026」発表まとめ」という見出しでこれらの情報を報じました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "『鬼武者WoS』の発売日公開が発表された「State of Play」は、具体的に何月何日に配信されたと報じられましたか？",
+    "question": "アークシステムワークスが「ARC SYSTEM WORKS Showcase」で新作「神貌のクリファ」などの最新情報を公開した際、このイベントはどのような目的で開催されたと推測できますか？",
     "choices": [
-      "6月2日",
-      "6月3日",
-      "6月9日",
-      "7月19日"
+      "株主への業績報告",
+      "自社タイトルの情報公開",
+      "業界の動向分析",
+      "他社とのコラボ発表"
     ],
-    "answer": "6月3日",
-    "explanation": "2026年6月のニュースによると、【State of Play 2026.6.3まとめ】…『エースコンバット8』や『鬼武者WoS』発売日も公開（電撃オンライン）と報じられました。"
+    "answer": "自社タイトルの情報公開",
+    "explanation": "2026年のニュースによると、アークシステムワークスは「ARC SYSTEM WORKS Showcase」で新作「神貌のクリファ」などの最新情報を公開しており、自社タイトルの情報公開が目的です。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "2026年6月3日の「State of Play」の配信時間60分以上という情報は、どのゲーム情報サイトで報じられましたか？",
+    "question": "Bloombergが報じた任天堂の株価低迷に関するニュースにおいて、「流れを変える要因が見えず」と指摘されたのは、どのような状況に対するものでしたか？",
     "choices": [
-      "ファミ通",
-      "電撃オンライン",
-      "GAME Watch",
-      "IGN Japan"
+      "ゲーム業界の暗い時代",
+      "新たな競合の台頭",
+      "任天堂の経営戦略",
+      "消費者の嗜好の変化"
     ],
-    "answer": "GAME Watch",
-    "explanation": "2026年6月のニュースによると、「State of Play」6月3日6時から配信。「Marvel's Wolverine」最新情報などを60分以上でお届け（GAME Watch）と報じられました。"
+    "answer": "ゲーム業界の暗い時代",
+    "explanation": "2026年のニュースによると、Bloombergは任天堂の株価低迷がゲーム業界の「暗い時代」を示唆しており、「流れを変える要因が見えず」と報じました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "『怪獣8号ゲーム』の最新アップデート情報と最新イベント情報がまとめられているGameWithは、どのようなコンテンツを提供しているメディアですか？",
+    "question": "2026年6月3日午前6時から配信されたState of Playは、「Marvel's Wolverine」の最新情報などを60分以上で届けましたが、このイベントの配信開始時刻は日本時間で何時でしたか？",
     "choices": [
-      "ゲームニュースサイト",
-      "ゲーム攻略サイト",
-      "ゲームレビューサイト",
-      "ゲーム動画配信サイト"
+      "午前3時",
+      "午前6時",
+      "午前9時",
+      "午後0時"
     ],
-    "answer": "ゲーム攻略サイト",
-    "explanation": "2026年6月のニュースによると、GameWithは『怪獣8号ゲーム』のアップデート/アプデ情報まとめやイベント情報まとめを提供しており、これはゲーム攻略サイトの役割です。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 9,
-    "question": "「ARC SYSTEM WORKS Showcase」で新作「神貌のクリファ」などの最新情報を公開したのは、どの企業でしょう？",
-    "choices": [
-      "カプコン",
-      "スクウェア・エニックス",
-      "アークシステムワークス",
-      "バンダイナムコエンターテインメント"
-    ],
-    "answer": "アークシステムワークス",
-    "explanation": "2026年6月のニュースによると、アークシステムワークスが、新作「神貌のクリファ」などの最新情報を「ARC SYSTEM WORKS Showcase」で公開しました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 9,
-    "question": "「Summer Game Fest 2026」で発表された『モンハンワイルズ』の大型DLCは、どのようなイベントのまとめ記事に掲載されましたか？",
-    "choices": [
-      "単独発表会",
-      "カプコンのイベント",
-      "マルチプラットフォームの大型発表会",
-      "任天堂のイベント"
-    ],
-    "answer": "マルチプラットフォームの大型発表会",
-    "explanation": "2026年6月のニュースによると、「Summer Game Fest 2026」は『FFVII リベレーション』、『バイオハザード ベロニカ』リメイク、『モンハンワイルズ』大型DLC、『ステラーブレイド』続編など、様々なメーカーの発表をまとめた大型イベントとして報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 9,
-    "question": "『ブロスタ』の最新アップデート情報がまとめられている「パッチノート」は、どのような形式のドキュメントですか？",
-    "choices": [
-      "ゲームの変更履歴",
-      "開発者の日記",
-      "ユーザーからのフィードバック集",
-      "今後のロードマップ"
-    ],
-    "answer": "ゲームの変更履歴",
-    "explanation": "2026年6月のニュースによると、『ブロスタ』の最新のアップデート(パッチノート)情報がまとめられており、パッチノートは通常、ゲームの変更履歴を記載するドキュメントです。"
+    "answer": "午前6時",
+    "explanation": "2026年6月3日のニュースによると、State of Playは「6月3日6時から配信」されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "Aimerが歌う『SAO Echoes of Aincrad』の主題歌「Live to Survive」のLyric Videoが「20時に公開」と報じられましたが、これは何日の20時を指すでしょう？",
+    "question": "carview!のニュースで、アストン マーティンがV12オフローダー『ドレッドノート』を発表し、最新ゲームに登場予定と報じられた際、実車化の可能性も理論上あり得るとされましたが、この文脈において「理論上」という言葉が示唆していることは何ですか？",
     "choices": [
-      "2026年7月18日",
-      "2026年7月19日",
-      "2026年6月3日",
-      "2026年6月9日"
+      "既に開発が進行中",
+      "技術的には可能だが、実現は未定",
+      "あくまで夢物語に過ぎない",
+      "限定的に発売される予定"
     ],
-    "answer": "2026年7月19日",
-    "explanation": "2026年7月のニュースによると、Aimerの主題歌「Live to Survive」のデジタルリリースが本日（7月19日）行われ、Lyric Videoが20時に公開されると報じられました。"
+    "answer": "技術的には可能だが、実現は未定",
+    "explanation": "2026年のニュースによると、アストン マーティン『ドレッドノート』の実車化は「理論上はあり得る」とされており、技術的には可能だが実現は未定であることを示唆しています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "2026年6月2日のState of Playで『真・三國無双2』に「紫鸞参戦」が発表されたニュースは、どのゲーム情報サイトのまとめ記事で報じられましたか？",
+    "question": "GameWithが紹介した「Switchのゲームニュースの使い方」は、その記事のタイトルに「公式の最新情報を有効活用する方法をご紹介！」とありますが、この「公式」という言葉が指す情報源は主に何ですか？",
     "choices": [
-      "GAME Watch",
-      "電撃オンライン",
-      "ファミ通",
-      "IGN Japan"
+      "ゲームメディア",
+      "ファンコミュニティ",
+      "任天堂およびゲーム開発元",
+      "インフルエンサー"
     ],
-    "answer": "ファミ通",
-    "explanation": "2026年6月のニュースによると, State of Play新発表まとめ。『エースコンバット8』発売日決定、『真・三國無双2』に紫鸞参戦…（ファミ通）と報じられました。"
+    "answer": "任天堂およびゲーム開発元",
+    "explanation": "2026年のニュースによると、GameWithはSwitchの「公式の最新情報」の活用法を紹介しており、これは任天堂やゲーム開発元からの情報を指します。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "『キングダム ハーツIV』がSwitch2やPS5などで発売されることが発表されたニュースを報じたオリコンニュースの記事タイトルで、「キングダム ハーツ」シリーズの何作目と明記されていますか？",
+    "question": "2026年6月2日のState of Playで発表された『エースコンバット8』の発売日決定、『真・三國無双2』に紫鸞参戦、完全新作『鬼武者』体験版配信の3つの発表は、ファミ通のまとめ記事において、どのようなカテゴリの発表として扱われましたか？",
     "choices": [
-      "最新作",
-      "第3作",
-      "第4作",
-      "第5作"
+      "過去作のリメイク",
+      "新発表",
+      "今後の展望",
+      "開発者からのメッセージ"
     ],
-    "answer": "最新作",
-    "explanation": "2026年6月のニュースによると、『キングダム ハーツ』シリーズ最新作発表 『キングダム ハーツIV』Switch2やPS5などで発売へ - オリコンニュースと報じられました。記事タイトルには「最新作」と明記されています。"
+    "answer": "新発表",
+    "explanation": "2026年6月2日のState of Playのニュースによると、ファミ通はこれらの情報を「新発表まとめ」として扱いました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "2026年Summer Game Festで発表された『FFVII リベレーション』は、どのようなタイトルと並んで発表されましたか？（複数回答で最も適切なものを選ぶ）",
+    "question": "ゲーム『進撃の巨人３』が「集大成」として発売される決定は、原作の物語を「最初から最後まで描く」とされていますが、これは過去のゲーム作品と比較してどのような特徴を示唆していますか？",
     "choices": [
-      "バイオハザード RE:4とモンハンライズ",
-      "バイオハザード ベロニカ リメイクとモンハンワイルズ大型DLC",
-      "ファイナルファンタジーXVIとステラーブレイド",
-      "ゼルダの伝説とスーパーマリオ"
+      "過去作では描かれなかった終盤の物語も含む",
+      "原作とは異なるオリジナル展開",
+      "主要キャラクターの視点に限定される",
+      "物語の特定の期間のみを深く掘り下げる"
     ],
-    "answer": "バイオハザード ベロニカ リメイクとモンハンワイルズ大型DLC",
-    "explanation": "2026年6月のニュースによると、「Summer Game Fest 2026」発表まとめにて、『FFVII リベレーション』『バイオハザード ベロニカ』リメイク、『モンハンワイルズ』大型DLC、『ステラーブレイド』続編などが発表されました。"
+    "answer": "過去作では描かれなかった終盤の物語も含む",
+    "explanation": "2026年のニュースによると、ゲーム『進撃の巨人３』は原作の物語を「最初から最後まで描く集大成」とされており、これは過去作では描かれなかった終盤の物語も含むことを示唆しています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "『鬼武者』の完全新作体験版配信が発表された「State of Play」と、『鬼武者WoS』の発売日公開が発表された「State of Play」は、同じイベントを指すか異なるイベントを指すか？",
+    "question": "『キングダム ハーツ』シリーズ最新作『キングダム ハーツIV』の発表を報じたオリコンニュースの記事タイトルで、「Switch2やPS5などで発売へ」という表現が用いられましたが、「など」という言葉が使われたことの意図は何ですか？",
     "choices": [
-      "同じイベント",
-      "異なるイベント",
-      "情報が不足している",
-      "一部同じで一部異なる"
+      "発売プラットフォームが未確定である",
+      "他のプラットフォームでの発売可能性も示唆",
+      "Switch2とPS5が主要プラットフォームである",
+      "機種名を省略した表現"
     ],
-    "answer": "異なるイベント",
-    "explanation": "2026年6月のニュースによると、ファミ通は「State of Play June 2, 2026」で完全新作『鬼武者』体験版配信を報じ、電撃オンラインは「State of Play 2026.6.3まとめ」で『鬼武者WoS』発売日公開を報じているため、異なるイベントを指します。"
+    "answer": "他のプラットフォームでの発売可能性も示唆",
+    "explanation": "2026年のニュースによると、オリコンニュースは『キングダム ハーツIV』の発売を「Switch2やPS5などで発売へ」と報じており、「など」は他のプラットフォームでの発売可能性も示唆しています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "「State of Play」が6月3日6時から配信され、「Marvel's Wolverine」最新情報などを60分以上でお届けすると報じたGAME Watchの記事タイトルに含まれるイベント名は何でしょう？",
+    "question": "「SAO」ゲームシリーズ最新作「Echoes of Aincrad」が「本日発売」と報じられた際、このニュースはGAME Watchによって配信され、その後Yahoo!ニュースにも転載されましたが、この「本日」という表現は、ニュースが報じられた時点を基準としています。このニュースが掲載されたのはいつの時点を指していると解釈できますか？",
     "choices": [
-      "State of Play",
-      "PlayStation Showcase",
-      "Sony Game Event",
-      "Marvel Game Showcase"
+      "2026年7月20日以降の特定の日",
+      "2026年7月20日以前の特定の日",
+      "ニュース配信日と発売日が一致しない",
+      "2026年末の発売日"
     ],
-    "answer": "State of Play",
-    "explanation": "2026年6月のニュースによると、「State of Play」6月3日6時から配信。「Marvel's Wolverine」最新情報などを60分以上でお届け（GAME Watch）と報じられました。"
+    "answer": "2026年7月20日以前の特定の日",
+    "explanation": "2026年のニュースによると、「Echoes of Aincrad」が「本日発売」と報じられました。これは、ニュースが掲載された2026年7月20日以前の特定の日を指します。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "『怪獣8号ゲーム』の最新アップデート情報と最新イベント情報がまとめられているGameWithは、ニュース記事でどのような略称でゲームタイトルを表記していますか？",
+    "question": "「Summer Game Fest 2026」で発表された『FFVII リベレーション』、『バイオハザード ベロニカ』リメイク、『モンハンワイルズ』大型DLC、『ステラーブレイド』続編の4つの発表は、ファミ通のまとめ記事において、どのような種類の発表として扱われましたか？",
     "choices": [
-      "怪獣8G",
-      "KAIJU8",
-      "怪獣ゲーム",
-      "8号ゲーム"
+      "今後の開発計画",
+      "主要な発表",
+      "コンセプトアート",
+      "過去の振り返り"
     ],
-    "answer": "怪獣8G",
-    "explanation": "2026年6月のニュースによると、【怪獣8号ゲーム】最新アップデート/アプデ情報まとめ【怪獣8G】 - GameWithと表記されています。"
+    "answer": "主要な発表",
+    "explanation": "2026年の「Summer Game Fest 2026」のニュースによると、ファミ通はこれらの情報を「発表まとめ」として扱っており、イベントの主要な発表であることを示唆しています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "アークシステムワークスが「ARC SYSTEM WORKS Showcase」で新作「神貌のクリファ」の最新情報を公開した際、その「Showcase」の名称はどのようなものと報じられましたか？",
+    "question": "アークシステムワークスが「ARC SYSTEM WORKS Showcase」で新作「神貌のクリファ」などの最新情報を公開した際、このイベント名に「Showcase」という言葉が使われたことの意図は何ですか？",
     "choices": [
-      "ARC FEST",
-      "ARC LIVE",
-      "ARC SYSTEM WORKS Showcase",
-      "ARC NEXT"
+      "単一の目玉タイトルのみを扱う",
+      "特定のジャンルに特化する",
+      "複数の新作や情報をまとめて披露する場",
+      "開発過程を公開する場"
     ],
-    "answer": "ARC SYSTEM WORKS Showcase",
-    "explanation": "2026年6月のニュースによると、アークシステムワークスは新作「神貌のクリファ」などの最新情報を「ARC SYSTEM WORKS Showcase」で公開しました。"
+    "answer": "複数の新作や情報をまとめて披露する場",
+    "explanation": "2026年のニュースによると、アークシステムワークスは「ARC SYSTEM WORKS Showcase」で「神貌のクリファ」などの最新情報を公開しており、「Showcase」は複数の新作や情報をまとめて披露する場であることを示唆しています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "「Summer Game Fest 2026」で発表された『ステラーブレイド』の続編は、どのゲーム情報サイトのまとめ記事で「続編」と明記されていますか？",
+    "question": "任天堂の株価低迷が「ゲーム業界の暗い時代」を示唆しているというBloombergの報道で、「流れを変える要因が見えず」とあったのは、どのような現状認識に基づいていますか？",
     "choices": [
-      "GAME Watch",
-      "電撃オンライン",
-      "ファミ通",
-      "IGN Japan"
+      "新たな技術革新が起こらない",
+      "既存の戦略では状況改善が見込めない",
+      "消費者の興味が薄れている",
+      "競合他社が圧倒的に優位である"
     ],
-    "answer": "ファミ通",
-    "explanation": "2026年6月のニュースによると、「Summer Game Fest 2026」発表まとめ。『FFVII リベレーション』『バイオハザード ベロニカ』リメイク、『モンハンワイルズ』大型DLC、『ステラーブレイド』続編など発表！（ファミ通）と報じられました。"
+    "answer": "既存の戦略では状況改善が見込めない",
+    "explanation": "2026年のニュースによると、Bloombergは任天堂の株価低迷がゲーム業界の「暗い時代」を示唆しており、「流れを変える要因が見えず」と報じることで、既存の戦略では状況改善が見込めないという現状認識を示しています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "2026年6月9日に発表内容がまとめられた「ニンテンドーダイレクト」を報じたGAME Watchのニュースは、どのポータルサイトのニュースとして掲載されましたか？",
+    "question": "2026年6月3日午前6時から配信されたState of Playで、「Marvel's Wolverine」の最新情報が60分以上で届けられましたが、この配信が「60分以上」と明記されたことの意図は何ですか？",
     "choices": [
-      "livedoorニュース",
-      "Googleニュース",
-      "Yahoo!ニュース",
-      "MSNニュース"
+      "配信時間が非常に長かったことを示す",
+      "詳細な情報提供があったことを強調",
+      "他の発表が少なかったことを示唆",
+      "視聴者の期待値を高めるため"
     ],
-    "answer": "Yahoo!ニュース",
-    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」発表内容まとめ（GAME Watch） - Yahoo!ニュースと報じられました。"
+    "answer": "詳細な情報提供があったことを強調",
+    "explanation": "2026年6月3日のState of Playのニュースによると、「Marvel's Wolverine」の最新情報が「60分以上」届けられたとあり、詳細な情報提供があったことを強調しています。"
   },
   {
     "category": "世界情勢",
