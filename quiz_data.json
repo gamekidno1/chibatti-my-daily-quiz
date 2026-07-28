@@ -2602,77 +2602,64 @@
   {
     "category": "エンタテイメント",
     "difficulty": 1,
-    "question": "最新のニュースによると、メディア・エンターテインメント分野における生成系AI市場は、2025年に推定いくらの規模に達するとされていますか？",
+    "question": "『CENTRAL MUSIC & ENTERTAINMENT FESTIVAL 2026』のタイムテーブルが公開された公演地はどこですか？",
     "choices": [
-      "4,100億1,000万米ドル",
-      "2京1,453兆1,987億9,000万米ドル",
-      "4,100万1,000米ドル",
-      "2兆1,453億1,987万9,000米ドル"
+      "クアラルンプールと台北",
+      "東京と大阪",
+      "ソウルと北京",
+      "シンガポールとバンコク"
     ],
-    "answer": "4,100億1,000万米ドル",
-    "explanation": "最新の市場予測によると、メディア・エンターテインメント分野における生成系AI市場は、2025年に4,100億1,000万米ドルと推定されています。"
+    "answer": "クアラルンプールと台北",
+    "explanation": "最新のニュースによると、『CENTRAL MUSIC & ENTERTAINMENT FESTIVAL 2026』のタイムテーブルはクアラルンプールと台北公演について公開されました。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 1,
-    "question": "ぴあが日本国内独占エージェントに就任したフィリピン発のP-POPグループは何ですか？",
+    "question": "キム・シフンがリリースした4th Digital Singleのタイトルは何ですか？",
     "choices": [
-      "VXON",
-      "SB19",
-      "BGYO",
-      "ALAMAT"
+      "Dizzy State",
+      "Sunny Days",
+      "Midnight Glow",
+      "Starry Night"
     ],
-    "answer": "VXON",
-    "explanation": "最新のニュースによると、ぴあはフィリピン発P-POPグループ「VXON」の日本国内独占エージェントに就任しました。"
+    "answer": "Dizzy State",
+    "explanation": "最新のニュースによると、キム・シフンは4th Digital Single『Dizzy State』をリリースしました。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 1,
-    "question": "臓器移植で超能力を得るヒーロー・エンターテインメント映画『ハイファイブ！』の日本公開日はいつですか？",
+    "question": "「LEE YUN SEO BIRTHDAY FAN MEETING IN TOKYO」の公演レポートが公開されましたが、このイベントの開催地はどこですか？",
     "choices": [
-      "10月16日",
-      "9月16日",
-      "11月16日",
-      "12月16日"
+      "東京",
+      "大阪",
+      "ソウル",
+      "台北"
     ],
-    "answer": "10月16日",
-    "explanation": "最新のニュースによると、ヒーロー・エンターテインメント映画『ハイファイブ！』は10月16日に日本公開が決定しています。"
+    "answer": "東京",
+    "explanation": "最新のニュースによると、「LEE YUN SEO BIRTHDAY FAN MEETING IN TOKYO」は東京で開催されました。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 1,
-    "question": "SMエンタテインメントが10月3日に開催するイベントの名称は何ですか？",
+    "question": "横須賀芸術劇場ほかで開催される『YOKOSUKA Re:EM CLUB』に出演が決定したアーティストグループの一つは何ですか？",
     "choices": [
-      "SMRUN 26",
-      "SMTOWN LIVE",
-      "SM FES",
-      "SM PLAY"
+      "スカパラ",
+      "BTS",
+      "YOASOBI",
+      "Official髭男dism"
     ],
-    "answer": "SMRUN 26",
-    "explanation": "最新のニュースによると、SMエンタテインメントは10月3日に「SMRUN 26」を開催する予定です。"
+    "answer": "スカパラ",
+    "explanation": "最新のニュースによると、『YOKOSUKA Re:EM CLUB』にはスカパラ、OKAMOTO‘S、BREIMENらが出演します。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 1,
-    "question": "リヤドでエンターテインメントに新たな風を吹き込んでいると報じられたゲーミングセンターの名称は何ですか？",
-    "choices": [
-      "Ress Gaming Center",
-      "Riyadh Gaming Hub",
-      "Saudi Esports Arena",
-      "Desert Game Zone"
-    ],
-    "answer": "Ress Gaming Center",
-    "explanation": "最新のニュースによると、リヤドの「Ress Gaming Center」がエンターテインメントに新たな風を吹き込んでいると報じられています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 1,
-    "question": "Sony Pictures Entertainmentが最新作品情報を公開した、米国映画業界最大級のイベントの名称は何ですか？",
+    "question": "Sony Pictures Entertainmentが最新作品情報を公開した、米国映画業界最大級のイベントは何ですか？",
     "choices": [
       "CinemaCon 2026",
-      "Comic-Con International",
-      "Sundance Film Festival",
-      "Academy Awards"
+      "Tokyo Film Festival",
+      "Cannes Film Festival",
+      "Sundance Film Festival"
     ],
     "answer": "CinemaCon 2026",
     "explanation": "最新のニュースによると、Sony Pictures Entertainmentは米国映画業界最大級のイベント「CinemaCon 2026」で最新作品情報を公開しました。"
@@ -2680,618 +2667,683 @@
   {
     "category": "エンタテイメント",
     "difficulty": 1,
-    "question": "『Mr.都市伝説 関暁夫の裏都市伝説』の新作「裏社会を支える資金洗浄」が配信開始されたプラットフォームは何ですか？",
+    "question": "日経エンタテインメント！が発表した年間ランキングの名称は何ですか？",
     "choices": [
-      "タテドラ",
-      "YouTube",
-      "Netflix",
-      "Prime Video"
+      "2025年エンタメベスト10",
+      "2026年ヒット予測ランキング",
+      "2024年音楽チャート",
+      "2025年映画興行収入ランキング"
     ],
-    "answer": "タテドラ",
-    "explanation": "2026年7月のニュースによると、『Mr.都市伝説 関暁夫の裏都市伝説』の新作は「タテドラ」で配信開始されました。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 1,
-    "question": "日経エンタテインメント！が発表した「2025年エンタメベスト10」は何年のヒットランキングですか？",
-    "choices": [
-      "2025年",
-      "2024年",
-      "2026年",
-      "2023年"
-    ],
-    "answer": "2025年",
+    "answer": "2025年エンタメベスト10",
     "explanation": "最新のニュースによると、日経エンタテインメント！は「2025年エンタメベスト10」を発表しました。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 1,
-    "question": "渡邊渚が「緊急搬送」で欠席したと報じられた番組の名称は何ですか？",
+    "question": "齊藤なぎさが移籍した芸能事務所の名称は何ですか？",
     "choices": [
-      "REAL VALUE",
-      "VALUE TIME",
-      "TRUE VALUE",
-      "LIVE VALUE"
+      "エヴァーグリーン・エンタテイメント",
+      "ホリプロ",
+      "スターダストプロモーション",
+      "アミューズ"
     ],
-    "answer": "REAL VALUE",
-    "explanation": "最新のニュースによると、渡邊渚は『REAL VALUE』の最新回を「緊急搬送」で欠席しました。"
+    "answer": "エヴァーグリーン・エンタテイメント",
+    "explanation": "最新のニュースによると、齊藤なぎさは「エヴァーグリーン・エンタテイメント」に移籍しました。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 1,
-    "question": "株式会社バンダイナムコエンターテインメントが最新情報を届けた「塊魂」シリーズは何周年を迎えますか？",
+    "question": "Amazon Prime Videoの2026年の新着配信コンテンツは、何月分が発表されましたか？",
+    "choices": [
+      "6月",
+      "7月",
+      "8月",
+      "9月"
+    ],
+    "answer": "6月",
+    "explanation": "最新のニュースによると、Amazon Prime Videoは2026年6月に楽しめる新着配信コンテンツを発表しました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 1,
+    "question": "リヤドにあり、エンターテインメントに新たな風を吹き込むと紹介された施設は何ですか？",
+    "choices": [
+      "Ress Gaming Center",
+      "Riyadh Entertainment Hub",
+      "Desert Arcade",
+      "Kingdom Gameplex"
+    ],
+    "answer": "Ress Gaming Center",
+    "explanation": "最新のニュースによると、リヤドの「Ress Gaming Center」がエンターテインメントに新たな風を吹き込むと紹介されました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 1,
+    "question": "大規模レイオフを発表したゲーム関連企業はどこですか？",
+    "choices": [
+      "Epic Games",
+      "Sony Interactive Entertainment",
+      "Bandai Namco Entertainment",
+      "Ubisoft"
+    ],
+    "answer": "Epic Games",
+    "explanation": "最新のニュースによると、Epic Gamesが大規模レイオフを発表しました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 1,
+    "question": "株式会社バンダイナムコエンターテインメントが最新情報を届ける「塊魂」シリーズは、何周年を迎えますか？",
     "choices": [
       "22周年",
-      "20周年",
-      "25周年",
-      "30周年"
+      "10周年",
+      "15周年",
+      "20周年"
     ],
     "answer": "22周年",
-    "explanation": "最新のニュースによると、「塊魂」シリーズは22周年を迎えます。"
+    "explanation": "最新のニュースによると、「塊魂」シリーズは22周年を迎えるにあたり、株式会社バンダイナムコエンターテインメントが最新情報を届けます。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 1,
-    "question": "最新のニュースによると、メディア・エンターテインメント分野における生成系AI市場の予測期間の最終年は何年ですか？",
+    "question": "ソニー・インタラクティブエンタテインメントが発売する「toio™」の最新作の名称は何ですか？",
     "choices": [
-      "2036年",
-      "2026年",
+      "トイオ・プレイグラウンド コマンド",
+      "トイオ・クリエイティブキット",
+      "トイオ・ロボティクス",
+      "トイオ・アドベンチャー"
+    ],
+    "answer": "トイオ・プレイグラウンド コマンド",
+    "explanation": "最新のニュースによると、ソニー・インタラクティブエンタテインメントは「toio™」の最新作「トイオ・プレイグラウンド コマンド」を発売しました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 1,
+    "question": "ダンスエンターテイメント演劇『PASSION ― 北斎の描く夢 ―』で美術コンセプトデザインに参加が決定した現代美術作家は誰ですか？",
+    "choices": [
+      "大巻伸嗣",
+      "草間彌生",
+      "奈良美智",
+      "村上隆"
+    ],
+    "answer": "大巻伸嗣",
+    "explanation": "最新のニュースによると、ダンスエンターテイメント演劇『PASSION ― 北斎の描く夢 ―』の美術コンセプトデザインには現代美術作家・大巻伸嗣の参加が決定しました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 1,
+    "question": "退団選手のお知らせを発表したチームは何ですか？",
+    "choices": [
+      "ジークスター東京",
+      "東京ヴェルディ",
+      "FC東京",
+      "読売ジャイアンツ"
+    ],
+    "answer": "ジークスター東京",
+    "explanation": "最新のニュースによると、ジークスター東京が退団選手のお知らせを発表しました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 2,
+    "question": "2026年に開催される『CENTRAL MUSIC & ENTERTAINMENT FESTIVAL』で公開された情報は何ですか？",
+    "choices": [
+      "タイムテーブル",
+      "出演アーティストの追加発表",
+      "チケット販売開始日",
+      "会場マップ"
+    ],
+    "answer": "タイムテーブル",
+    "explanation": "最新のニュースによると、2026年開催の『CENTRAL MUSIC & ENTERTAINMENT FESTIVAL』では、クアラルンプール・台北公演のタイムテーブルが公開されました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 2,
+    "question": "Moomooで言及されたエンターテインメント企業の株式は、クラスAのどのティッカーで示されていますか？",
+    "choices": [
+      "AMC.US",
+      "SONY.US",
+      "EPIC.US",
+      "AMZN.US"
+    ],
+    "answer": "AMC.US",
+    "explanation": "最新のニュースによると、$AMCエンターテインメント クラスA (AMC.US)$が言及されました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 2,
+    "question": "『Dizzy State』をリリースしたアーティストは誰ですか？",
+    "choices": [
+      "キム・シフン",
+      "LEE YUN SEO",
+      "齊藤なぎさ",
+      "大貫勇輔"
+    ],
+    "answer": "キム・シフン",
+    "explanation": "最新のニュースによると、キム・シフンが4th Digital Single『Dizzy State』をリリースしました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 2,
+    "question": "東京でバースデーファンミーティングを開催したアーティストは誰ですか？",
+    "choices": [
+      "LEE YUN SEO",
+      "齊藤なぎさ",
+      "キム・シフン",
+      "大貫勇輔"
+    ],
+    "answer": "LEE YUN SEO",
+    "explanation": "最新のニュースによると、LEE YUN SEOが「LEE YUN SEO BIRTHDAY FAN MEETING IN TOKYO」を開催しました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 2,
+    "question": "『YOKOSUKA Re:EM CLUB ～ ENTERTAINMENT & MUSIC LIVE ～』の開催地はどこですか？",
+    "choices": [
+      "横須賀芸術劇場ほか",
+      "東京ドーム",
+      "さいたまスーパーアリーナ",
+      "パシフィコ横浜"
+    ],
+    "answer": "横須賀芸術劇場ほか",
+    "explanation": "最新のニュースによると、『YOKOSUKA Re:EM CLUB』は横須賀芸術劇場ほかにて開催されます。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 2,
+    "question": "2026年のCinemaConで最新作品情報を公開した企業はどこですか？",
+    "choices": [
+      "Sony Pictures Entertainment",
+      "Warner Bros.",
+      "Universal Pictures",
+      "Disney"
+    ],
+    "answer": "Sony Pictures Entertainment",
+    "explanation": "最新のニュースによると、Sony Pictures Entertainmentが「CinemaCon 2026」で最新作品情報を公開しました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 2,
+    "question": "日経エンタテインメント！が発表した「7大ジャンル年間ヒットランキング」は何年のものですか？",
+    "choices": [
       "2025年",
-      "2030年"
-    ],
-    "answer": "2036年",
-    "explanation": "最新の市場予測によると、メディア・エンターテインメント分野における生成系AI市場の予測期間は2026年～2036年です。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 1,
-    "question": "ぴあが日本国内独占エージェントに就任したP-POPグループ「VXON」は、何に関するグループですか？",
-    "choices": [
-      "音楽",
-      "映画",
-      "ゲーム",
-      "演劇"
-    ],
-    "answer": "音楽",
-    "explanation": "最新のニュースによると、ぴあはフィリピン発のP-POPグループ「VXON」の日本国内独占エージェントに就任しました。P-POPはフィリピンのポップ音楽を指します。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 1,
-    "question": "映画『ハイファイブ！』は、どのようなビジュアルと特報が到着したと報じられましたか？",
-    "choices": [
-      "超覚醒ビジュアル＆超スーパー特報",
-      "最新予告編＆メイキング映像",
-      "キャラクター紹介＆主題歌情報",
-      "舞台挨拶映像＆インタビュー"
-    ],
-    "answer": "超覚醒ビジュアル＆超スーパー特報",
-    "explanation": "最新のニュースによると、映画『ハイファイブ！』には『超覚醒ビジュアル＆超スーパー特報』が到着しています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 1,
-    "question": "SMエンタテインメントが「SMRUN 26」を開催する月は何月ですか？",
-    "choices": [
-      "10月",
-      "9月",
-      "11月",
-      "12月"
-    ],
-    "answer": "10月",
-    "explanation": "最新のニュースによると、SMエンタテインメントは10月3日に「SMRUN 26」を開催する予定です。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 1,
-    "question": "ユヴェントスとトリノ工科大学が共同でスタートさせる修士課程の名称に含まれる「Sport」と「Entertainment」の間に使われている接続詞は何ですか？",
-    "choices": [
-      "&",
-      "and",
-      "or",
-      "with"
-    ],
-    "answer": "&",
-    "explanation": "最新のニュースによると、修士課程の名称は「International Executive Master in Systems Thinking for Sport & Entertainment」です。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 1,
-    "question": "Sony Pictures Entertainmentが最新作品情報を公開した「CinemaCon 2026」は、何年のイベントですか？",
-    "choices": [
+      "2024年",
       "2026年",
-      "2025年",
-      "2027年",
-      "2024年"
+      "発表年は未定"
     ],
-    "answer": "2026年",
-    "explanation": "最新のニュースによると、Sony Pictures Entertainmentが最新作品情報を公開したのは「CinemaCon 2026」です。"
+    "answer": "2025年",
+    "explanation": "最新のニュースによると、日経エンタテインメント！は「7大ジャンル年間ヒットランキング」を2025年のものとして公開しました。"
   },
   {
     "category": "エンタテイメント",
-    "difficulty": 1,
-    "question": "『Mr.都市伝説 関暁夫の裏都市伝説』の新作のタイトルは何ですか？",
+    "difficulty": 2,
+    "question": "「役者としても、一人の人間としても成長していけるよう頑張ります」とコメントして事務所移籍を発表した人物は誰ですか？",
     "choices": [
-      "裏社会を支える資金洗浄",
-      "世界の裏側",
-      "都市伝説の真実",
-      "秘密結社の謎"
+      "齊藤なぎさ",
+      "LEE YUN SEO",
+      "キム・シフン",
+      "柚希礼音"
     ],
-    "answer": "裏社会を支える資金洗浄",
-    "explanation": "2026年7月のニュースによると、『Mr.都市伝説 関暁夫の裏都市伝説』の新作は「裏社会を支える資金洗浄」です。"
+    "answer": "齊藤なぎさ",
+    "explanation": "最新のニュースによると、齊藤なぎさはエヴァーグリーン・エンタテイメントへの移籍に際して上記コメントを発表しました。"
   },
   {
     "category": "エンタテイメント",
-    "difficulty": 1,
-    "question": "日経エンタテインメント！が「年間ヒットランキング」を発表したジャンル数はいくつですか？",
-    "choices": [
-      "7大ジャンル",
-      "4ジャンル",
-      "10ジャンル",
-      "5ジャンル"
-    ],
-    "answer": "7大ジャンル",
-    "explanation": "最新のニュースによると、日経エンタテインメント！は「7大ジャンル年間ヒットランキング」を公開しました。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 1,
-    "question": "渡邊渚が欠席した番組『REAL VALUE』のレギュラーを「降板」の不安が報じられたのは、地上波レギュラーとして何カ月目のことですか？",
-    "choices": [
-      "2カ月",
-      "3カ月",
-      "半年",
-      "1カ月"
-    ],
-    "answer": "2カ月",
-    "explanation": "最新のニュースによると、渡邊渚の地上波レギュラーは2カ月で“降板”の不安が報じられています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 1,
-    "question": "AmazonのPrime Videoが2026年6月に楽しめる新着配信コンテンツを発表しましたが、このサービスはAmazonの何というサービスの一部ですか？",
+    "difficulty": 2,
+    "question": "2026年6月に新着配信コンテンツが楽しめることを発表した動画配信サービスは何ですか？",
     "choices": [
       "Prime Video",
-      "Amazon Music",
-      "Kindle Unlimited",
-      "Amazon Fresh"
+      "Netflix",
+      "Hulu",
+      "Disney+"
     ],
     "answer": "Prime Video",
-    "explanation": "2026年6月のニュースによると、AmazonのPrime Videoが2026年6月に楽しめる新着配信コンテンツを発表しました。"
+    "explanation": "最新のニュースによると、AmazonのPrime Videoが2026年6月の新着配信コンテンツを発表しました。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 2,
-    "question": "メディア・エンターテインメント分野における生成系AI市場の予測期間はいつからいつまでとされていますか？",
+    "question": "22周年を迎えるにあたり最新情報が届けられるゲームシリーズは何ですか？",
     "choices": [
-      "2026年～2036年",
-      "2025年～2035年",
-      "2024年～2034年",
-      "2027年～2037年"
+      "塊魂",
+      "スーパーマリオ",
+      "ファイナルファンタジー",
+      "ポケットモンスター"
     ],
-    "answer": "2026年～2036年",
-    "explanation": "最新の市場予測によると、メディア・エンターテインメント分野における生成系AI市場の予測期間は2026年～2036年です。"
+    "answer": "塊魂",
+    "explanation": "最新のニュースによると、「塊魂」シリーズは22周年を迎えるにあたり最新情報が届けられます。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 2,
-    "question": "ぴあが日本国内独占エージェントに就任したP-POPグループ「VXON」は、どこの国発のグループですか？",
+    "question": "「塊魂」シリーズの最新情報を届ける企業はどこですか？",
     "choices": [
-      "フィリピン",
-      "韓国",
-      "日本",
-      "タイ"
+      "株式会社バンダイナムコエンターテインメント",
+      "任天堂",
+      "スクウェア・エニックス",
+      "カプコン"
     ],
-    "answer": "フィリピン",
-    "explanation": "最新のニュースによると、ぴあが日本国内独占エージェントに就任した「VXON」はフィリピン発のP-POPグループです。"
+    "answer": "株式会社バンダイナムコエンターテインメント",
+    "explanation": "最新のニュースによると、「塊魂」シリーズの最新情報は株式会社バンダイナムコエンターテインメントから届けられます。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 2,
-    "question": "映画『ハイファイブ！』でヒーローが超能力を得るきっかけとなる設定は何ですか？",
+    "question": "「トイオ・プレイグラウンド コマンド」向けのプログラミング教材『プログラミングブック』を製造・販売している企業はどこですか？",
     "choices": [
-      "臓器移植",
-      "遺伝子操作",
-      "宇宙からの放射線",
-      "特殊な訓練"
+      "B Inc.",
+      "Sony Interactive Entertainment",
+      "Bandai Namco Entertainment",
+      "Epic Games"
     ],
-    "answer": "臓器移植",
-    "explanation": "最新のニュースによると、映画『ハイファイブ！』は“臓器移植”で超能力を得るヒーロー・エンターテインメントです。"
+    "answer": "B Inc.",
+    "explanation": "最新のニュースによると、「トイオ・プレイグラウンド コマンド」向けのプログラミング教材『プログラミングブック』はB Inc.が製造・販売しています。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 2,
-    "question": "SMエンタテインメントが「SMRUN 26」を開催する具体的な日付は何ですか？",
+    "question": "『PASSION ― 北斎の描く夢 ―』でメインビジュアルが解禁された出演者は次のうち誰ですか？",
     "choices": [
-      "10月3日",
-      "10月13日",
-      "10月23日",
-      "11月3日"
+      "大貫勇輔",
+      "齊藤なぎさ",
+      "キム・シフン",
+      "LEE YUN SEO"
     ],
-    "answer": "10月3日",
-    "explanation": "最新のニュースによると、SMエンタテインメントは10月3日に「SMRUN 26」を開催する予定です。"
+    "answer": "大貫勇輔",
+    "explanation": "最新のニュースによると、『PASSION ― 北斎の描く夢 ―』では大貫勇輔、柚希礼音、KELOのメインビジュアルが解禁されました。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 2,
-    "question": "ユヴェントスとトリノ工科大学が共同でスタートさせる修士課程の分野は何ですか？",
+    "question": "Newscast.jpで報じられたジークスター東京に関するニュースの具体的な内容は？",
     "choices": [
-      "Sport & Entertainment",
-      "Science & Technology",
-      "Art & Culture",
-      "Business & Management"
+      "退団選手の発表",
+      "新監督就任",
+      "ホームスタジアムの改修",
+      "ファンクラブ会員募集"
     ],
-    "answer": "Sport & Entertainment",
-    "explanation": "最新のニュースによると、ユヴェントスとトリノ工科大学は「International Executive Master in Systems Thinking for Sport & Entertainment」をスタートさせます。"
+    "answer": "退団選手の発表",
+    "explanation": "最新のニュースによると、Newscast.jpはジークスター東京の退団選手のお知らせを報じました。"
   },
   {
     "category": "エンタテイメント",
-    "difficulty": 2,
-    "question": "Sony Pictures Entertainmentが最新作品情報を公開した「CinemaCon 2026」は、どこの国の映画業界イベントですか？",
+    "difficulty": 3,
+    "question": "『CENTRAL MUSIC & ENTERTAINMENT FESTIVAL 2026』に関するニュースを報じたメディアは次のうちどれですか？",
     "choices": [
-      "米国",
-      "日本",
-      "イギリス",
-      "フランス"
-    ],
-    "answer": "米国",
-    "explanation": "最新のニュースによると、Sony Pictures Entertainmentが最新作品情報を公開したのは、米国映画業界最大級のイベント「CinemaCon 2026」です。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 2,
-    "question": "『Mr.都市伝説 関暁夫の裏都市伝説』の新作「裏社会を支える資金洗浄」の全話数は何話ですか？",
-    "choices": [
-      "13話",
-      "10話",
-      "15話",
-      "20話"
-    ],
-    "answer": "13話",
-    "explanation": "2026年7月のニュースによると、『Mr.都市伝説 関暁夫の裏都市伝説』新作「裏社会を支える資金洗浄」は全13話です。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 2,
-    "question": "日経エンタテインメント！が発表した「2025年エンタメベスト10」以外に公開されたランキングとして、「年間ヒットランキング」は何大ジャンルに関するものですか？",
-    "choices": [
-      "7大ジャンル",
-      "5大ジャンル",
-      "10大ジャンル",
-      "3大ジャンル"
-    ],
-    "answer": "7大ジャンル",
-    "explanation": "最新のニュースによると、日経エンタテインメント！は「7大ジャンル年間ヒットランキング」を公開しました。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 2,
-    "question": "AmazonのPrime Videoが2026年6月に楽しめる新着配信コンテンツを発表しましたが、これは何月の情報ですか？",
-    "choices": [
-      "2026年6月",
-      "2026年5月",
-      "2026年7月",
-      "2025年6月"
-    ],
-    "answer": "2026年6月",
-    "explanation": "2026年6月のニュースによると、AmazonのPrime Videoは2026年6月に楽しめる新着配信コンテンツを発表しました。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 2,
-    "question": "AMCエンターテインメントホールディングスが発表した最新の決算は、何年度の第何四半期のものですか？",
-    "choices": [
-      "2026年度第2四半期",
-      "2025年度第4四半期",
-      "2026年度第1四半期",
-      "2027年度第1四半期"
-    ],
-    "answer": "2026年度第2四半期",
-    "explanation": "最新のニュースによると、AMCエンターテインメントホールディングスは2026年度第2四半期の決算を発表しました。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 2,
-    "question": "メディア・エンターテインメント分野における生成系AI市場の2025年推定値の単位は何ですか？",
-    "choices": [
-      "米ドル",
-      "日本円",
-      "ユーロ",
-      "人民元"
-    ],
-    "answer": "米ドル",
-    "explanation": "最新の市場予測によると、メディア・エンターテインメント分野における生成系AI市場の2025年推定値は4,100億1,000万米ドルです。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 2,
-    "question": "ぴあが日本国内独占エージェントに就任したP-POPグループ「VXON」は、どの企業のプレスリリースで報じられましたか？",
-    "choices": [
-      "ぴあ株式会社",
-      "ソニー株式会社",
-      "バンダイナムコエンターテインメント",
-      "SMエンタテインメント"
-    ],
-    "answer": "ぴあ株式会社",
-    "explanation": "最新のニュースによると、ぴあ株式会社のプレスリリースで「VXON」の日本国内独占エージェント就任が報じられました。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 2,
-    "question": "映画『ハイファイブ！』の日本公開決定を報じたメディアの一つは、Yahoo!ニュースのどのセクションですか？",
-    "choices": [
-      "クランクイン！",
-      "MOVIE WALKER PRESS",
+      "エンタメ特化型情報メディア スパイス",
+      "Yahoo!ニュース",
       "Moomoo",
       "PR TIMES"
     ],
-    "answer": "クランクイン！",
-    "explanation": "最新のニュースによると、映画『ハイファイブ！』の日本公開決定はYahoo!ニュースの「クランクイン！」によって報じられました。"
+    "answer": "エンタメ特化型情報メディア スパイス",
+    "explanation": "最新のニュースによると、『CENTRAL MUSIC & ENTERTAINMENT FESTIVAL 2026』に関する情報はエンタメ特化型情報メディア スパイスで公開されました。"
   },
   {
     "category": "エンタテイメント",
-    "difficulty": 2,
-    "question": "AMCエンターテインメントの株価情報が言及されているMoomooは、主にどのような情報を提供しているサービスですか？",
+    "difficulty": 3,
+    "question": "最新の金融ニュースで言及されたエンターテインメント関連企業の株式ティッカーは何ですか？",
     "choices": [
-      "金融情報",
-      "映画レビュー",
-      "ゲーム攻略",
-      "音楽ストリーミング"
+      "AMC.US",
+      "SONY.US",
+      "EPIC.US",
+      "AMZN.US"
     ],
-    "answer": "金融情報",
-    "explanation": "最新のニュースによると、Moomooは$AMCエンターテインメント クラスA (AMC.US)$の株価情報を扱っており、金融情報サービスです。"
+    "answer": "AMC.US",
+    "explanation": "最新のニュースによると、$AMCエンターテインメント クラスA (AMC.US)$が言及されました。"
   },
   {
     "category": "エンタテイメント",
-    "difficulty": 2,
-    "question": "ユヴェントスとトリノ工科大学が共同でスタートさせる修士課程の名称に含まれる「Executive Master」とは、どのような対象者向けの課程ですか？",
+    "difficulty": 3,
+    "question": "キム・シフンの最新リリースは、何枚目のデジタルシングルですか？",
     "choices": [
-      "実務経験のある社会人",
-      "大学を卒業したばかりの学生",
-      "高校生",
-      "特定の専門分野の初心者"
+      "4th",
+      "1st",
+      "2nd",
+      "3rd"
     ],
-    "answer": "実務経験のある社会人",
-    "explanation": "最新のニュースによると、「Executive Master」は通常、実務経験のある社会人向けの専門職大学院課程を指します。"
+    "answer": "4th",
+    "explanation": "最新のニュースによると、キム・シフンは4th Digital Single『Dizzy State』をリリースしました。"
   },
   {
     "category": "エンタテイメント",
-    "difficulty": 2,
-    "question": "Sony Pictures Entertainmentが最新作品情報を公開した「CinemaCon 2026」は、どこの映画業界のイベントですか？",
+    "difficulty": 3,
+    "question": "LEE YUN SEOが東京で開催したイベントの種類は何ですか？",
     "choices": [
-      "米国",
-      "日本",
-      "イギリス",
-      "フランス"
+      "バースデーファンミーティング",
+      "デジタルシングルリリースイベント",
+      "ライブツアー",
+      "映画試写会"
     ],
-    "answer": "米国",
+    "answer": "バースデーファンミーティング",
+    "explanation": "最新のニュースによると、LEE YUN SEOは東京でバースデーファンミーティングを開催しました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 3,
+    "question": "『YOKOSUKA Re:EM CLUB』に出演が決定したアーティストとして、ニュースで言及されたのは次のうち誰ですか？",
+    "choices": [
+      "OKAMOTO‘S",
+      "BUMP OF CHICKEN",
+      "Official髭男dism",
+      "King Gnu"
+    ],
+    "answer": "OKAMOTO‘S",
+    "explanation": "最新のニュースによると、『YOKOSUKA Re:EM CLUB』にはスカパラ、OKAMOTO‘S、BREIMENらが出演します。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 3,
+    "question": "「CinemaCon 2026」は、どのようなイベントとして説明されていますか？",
+    "choices": [
+      "米国映画業界最大級のイベント",
+      "音楽業界の祭典",
+      "ゲーム開発者会議",
+      "アニメーション見本市"
+    ],
+    "answer": "米国映画業界最大級のイベント",
     "explanation": "最新のニュースによると、「CinemaCon 2026」は米国映画業界最大級のイベントです。"
   },
   {
     "category": "エンタテイメント",
-    "difficulty": 2,
-    "question": "『Mr.都市伝説 関暁夫の裏都市伝説』の新作「裏社会を支える資金洗浄」が配信開始された曜日は何曜日ですか？",
+    "difficulty": 3,
+    "question": "日経エンタテインメント！が公開したデータ分析の対象ジャンル数はいくつですか？",
     "choices": [
-      "金曜日",
-      "月曜日",
-      "水曜日",
-      "日曜日"
+      "4ジャンル",
+      "7ジャンル",
+      "10ジャンル",
+      "3ジャンル"
     ],
-    "answer": "金曜日",
-    "explanation": "2026年7月のニュースによると、『Mr.都市伝説 関暁夫の裏都市伝説』の新作は7月24日(金)より配信開始されました。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 2,
-    "question": "日経エンタテインメント！が発表した「2025年エンタメベスト10」と共に公開された「データ分析2025」の対象ジャンル数はいくつですか？",
-    "choices": [
-      "注目4ジャンル",
-      "7大ジャンル",
-      "10大ジャンル",
-      "3大ジャンル"
-    ],
-    "answer": "注目4ジャンル",
+    "answer": "4ジャンル",
     "explanation": "最新のニュースによると、日経エンタテインメント！は「注目4ジャンルデータ分析2025」を公開しました。"
   },
   {
     "category": "エンタテイメント",
-    "difficulty": 2,
-    "question": "渡邊渚が欠席した番組『REAL VALUE』のレギュラーを「降板」の不安と報じられたメディアはどの種類に分類されますか？",
-    "choices": [
-      "週刊誌系ウェブメディア",
-      "新聞社系ウェブメディア",
-      "テレビ局系ウェブメディア",
-      "専門情報サイト"
-    ],
-    "answer": "週刊誌系ウェブメディア",
-    "explanation": "最新のニュースによると、渡邊渚に関する情報はsmart-flash.jpで報じられており、これは週刊誌系のウェブメディアです。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 2,
-    "question": "株式会社バンダイナムコエンターテインメントが最新情報を届けた「塊魂」シリーズは、主にどのようなジャンルのゲームですか？",
-    "choices": [
-      "アクションパズル",
-      "RPG",
-      "シューティング",
-      "レース"
-    ],
-    "answer": "アクションパズル",
-    "explanation": "最新のニュースによると、「塊魂」シリーズはアクションパズルゲームとして知られています。"
-  },
-  {
-    "category": "エンタテイメント",
     "difficulty": 3,
-    "question": "メディア・エンターテインメント分野における生成系AI市場は、2036年までにいくらに達すると予測されていますか？",
+    "question": "齊藤なぎさの事務所移籍に関するニュースを報じたメディアはどれですか？",
     "choices": [
-      "2京1,453兆1,987億9,000万米ドル",
-      "2兆1,453億1,987万9,000米ドル",
-      "214兆5,319億8,790万米ドル",
-      "21京4,531兆9,879億米ドル"
-    ],
-    "answer": "2京1,453兆1,987億9,000万米ドル",
-    "explanation": "最新の市場予測によると、メディア・エンターテインメント分野における生成系AI市場は、2036年までに2京1,453兆1,987億9,000万米ドルに達すると予測されています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 3,
-    "question": "ぴあが日本国内独占エージェントに就任したP-POPグループ「VXON」を報じたメディアはどこですか？",
-    "choices": [
-      "ぴあ株式会社",
       "Yahoo!ニュース",
       "Newscast.jp",
-      "wowKorea"
+      "アットプレス",
+      "Moomoo"
     ],
-    "answer": "ぴあ株式会社",
-    "explanation": "最新のニュースによると、ぴあ株式会社が自社のプレスリリースでP-POPグループ「VXON」の日本国内独占エージェント就任を報じました。"
+    "answer": "Yahoo!ニュース",
+    "explanation": "最新のニュースによると、齊藤なぎさの事務所移籍に関するニュースはYahoo!ニュースで報じられました。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 3,
-    "question": "映画『ハイファイブ！』の日本公開決定を報じたメディアの一つは何ですか？",
+    "question": "Amazon Prime Videoが2026年6月に新着配信コンテンツを発表しましたが、この情報が公開されたのはどこですか？",
     "choices": [
-      "クランクイン！",
-      "MOVIE WALKER PRESS",
+      "About Amazon Japan",
+      "Yahoo!ニュース",
       "Moomoo",
       "PR TIMES"
     ],
-    "answer": "クランクイン！",
-    "explanation": "最新のニュースによると、映画『ハイファイブ！』の日本公開決定は「クランクイン！」によって報じられました。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 3,
-    "question": "AMCエンターテインメントの株価情報について言及している金融情報サービスは何ですか？",
-    "choices": [
-      "Moomoo",
-      "Bloomberg",
-      "Reuters",
-      "The Wall Street Journal"
-    ],
-    "answer": "Moomoo",
-    "explanation": "最新のニュースによると、Moomooが$AMCエンターテインメント クラスA (AMC.US)$について言及しています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 3,
-    "question": "ユヴェントスとトリノ工科大学が共同で開始する修士課程の完全な名称は何ですか？",
-    "choices": [
-      "International Executive Master in Systems Thinking for Sport & Entertainment",
-      "Global Master in Sports Management",
-      "Executive Master in Entertainment Business",
-      "Advanced Diploma in Sport Systems"
-    ],
-    "answer": "International Executive Master in Systems Thinking for Sport & Entertainment",
-    "explanation": "最新のニュースによると、ユヴェントスとトリノ工科大学は「International Executive Master in Systems Thinking for Sport & Entertainment」をスタートさせます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 3,
-    "question": "『Mr.都市伝説 関暁夫の裏都市伝説』の新作「裏社会を支える資金洗浄」が配信開始された具体的な日付は何ですか？",
-    "choices": [
-      "7月24日(金)",
-      "7月20日(月)",
-      "8月1日(金)",
-      "7月15日(水)"
-    ],
-    "answer": "7月24日(金)",
-    "explanation": "2026年7月のニュースによると、『Mr.都市伝説 関暁夫の裏都市伝説』の新作は7月24日(金)より配信開始されました。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 3,
-    "question": "日経エンタテインメント！が「2025年エンタメベスト10」と共に公開した、データ分析の対象ジャンル数はいくつですか？",
-    "choices": [
-      "注目4ジャンル",
-      "7大ジャンル",
-      "10大ジャンル",
-      "3大ジャンル"
-    ],
-    "answer": "注目4ジャンル",
-    "explanation": "最新のニュースによると、日経エンタテインメント！は「注目4ジャンルデータ分析2025」を公開しました。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 3,
-    "question": "渡邊渚が欠席した番組『REAL VALUE』での「降板」の不安は、地上波レギュラーとして何カ月での状況と報じられましたか？",
-    "choices": [
-      "2カ月",
-      "3カ月",
-      "半年",
-      "1年"
-    ],
-    "answer": "2カ月",
-    "explanation": "最新のニュースによると、渡邊渚の地上波レギュラーは2カ月で“降板”の不安が報じられています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 3,
-    "question": "AmazonのPrime Videoの2026年6月新着配信コンテンツに関する情報を提供しているのは、どのウェブサイトですか？",
-    "choices": [
-      "About Amazon Japan",
-      "Amazon.com",
-      "PrimeVideo.com",
-      "Yahoo!ニュース"
-    ],
     "answer": "About Amazon Japan",
-    "explanation": "2026年6月のニュースによると、AmazonのPrime Videoの2026年6月新着配信コンテンツに関する情報は「About Amazon Japan」で公開されました。"
+    "explanation": "最新のニュースによると、Amazon Prime Videoの2026年6月の新着配信コンテンツ情報はAbout Amazon Japanで公開されました。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 3,
-    "question": "株式会社バンダイナムコエンターテインメントが「塊魂」シリーズの最新情報をお届けしたと報じたメディアは何ですか？",
+    "question": "「Ress Gaming Center」はどこに位置していますか？",
     "choices": [
-      "PR TIMES",
-      "ファミ通.com",
-      "電撃オンライン",
-      "Game Watch"
+      "リヤド",
+      "ドバイ",
+      "アブダビ",
+      "ドーハ"
     ],
-    "answer": "PR TIMES",
-    "explanation": "最新のニュースによると、株式会社バンダイナムコエンターテインメントはプレスリリースサービス「PR TIMES」を通じて「塊魂」シリーズの最新情報をお届けしました。"
+    "answer": "リヤド",
+    "explanation": "最新のニュースによると、「Ress Gaming Center」はリヤドにあります。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 3,
-    "question": "メディア・エンターテインメント分野における生成系AI市場の2036年までの予測値の単位は何ですか？",
+    "question": "PR TIMESで報じられた株式会社バンダイナムコエンターテインメントのプレスリリースに関するゲームシリーズは何ですか？",
     "choices": [
-      "米ドル",
-      "日本円",
-      "ユーロ",
-      "人民元"
+      "塊魂",
+      "テイルズ オブ シリーズ",
+      "アイドルマスター",
+      "パックマン"
     ],
-    "answer": "米ドル",
-    "explanation": "最新の市場予測によると、メディア・エンターテインメント分野における生成系AI市場の2036年予測値は2京1,453兆1,987億9,000万米ドルです。"
+    "answer": "塊魂",
+    "explanation": "最新のニュースによると、PR TIMESで報じられた株式会社バンダイナムコエンターテインメントのプレスリリースは「塊魂」シリーズに関するものでした。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 3,
-    "question": "ぴあが日本国内独占エージェントに就任したP-POPグループ「VXON」に関するニュースは、何社のプレスリリースとして配信されましたか？",
+    "question": "『プログラミングブック』が製造・販売されているプログラミング教材の対象となるのは、どの製品の最新作ですか？",
     "choices": [
-      "ぴあ株式会社",
-      "複数の企業",
-      "フィリピンの企業",
-      "日本の他のエンタメ企業"
+      "toio™",
+      "PlayStation",
+      "Walkman",
+      "AIBO"
     ],
-    "answer": "ぴあ株式会社",
-    "explanation": "最新のニュースによると、この情報は「ぴあ株式会社のプレスリリース」として配信されました。"
+    "answer": "toio™",
+    "explanation": "最新のニュースによると、『プログラミングブック』はソニー・インタラクティブエンタテインメントが発売する「toio™」の最新作向けです。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 3,
-    "question": "映画『ハイファイブ！』の日本公開決定が報じられたメディアの一つは、MOVIE WALKER PRESSですが、このメディアは主に何に関する情報を提供していますか？",
+    "question": "ダンスエンターテイメント演劇『PASSION ― 北斎の描く夢 ―』でメインビジュアルが解禁された人物として、ニュースで言及されたのは誰ですか？",
     "choices": [
-      "映画",
-      "音楽",
-      "ゲーム",
-      "アニメ"
+      "柚希礼音",
+      "齊藤なぎさ",
+      "キム・シフン",
+      "LEE YUN SEO"
     ],
-    "answer": "映画",
-    "explanation": "最新のニュースによると、MOVIE WALKER PRESSは映画『ハイファイブ！』の公開決定を報じており、主に映画情報を提供しています。"
+    "answer": "柚希礼音",
+    "explanation": "最新のニュースによると、『PASSION ― 北斎の描く夢 ―』では大貫勇輔、柚希礼音、KELOのメインビジュアルが解禁されました。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 3,
-    "question": "AMCエンターテインメントは、Moomooでどのようなクラスの株として言及されていますか？",
+    "question": "ジークスター東京が発表した「退団選手のお知らせ」は、どの種類のチームからの発表として報じられましたか？",
+    "choices": [
+      "スポーツチーム",
+      "eスポーツチーム",
+      "音楽グループ",
+      "劇団"
+    ],
+    "answer": "スポーツチーム",
+    "explanation": "最新のニュースによると、ジークスター東京は「退団選手のお知らせ」を発表しており、これは選手に関する情報であるためスポーツチームからの発表と判断できます。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 4,
+    "question": "『CENTRAL MUSIC & ENTERTAINMENT FESTIVAL 2026』のタイムテーブルが公開されたのは、アジアのどの地域にある都市の公演についてですか？",
+    "choices": [
+      "東南アジアと東アジア",
+      "東アジアと南アジア",
+      "西アジアと北アジア",
+      "南米と北米"
+    ],
+    "answer": "東南アジアと東アジア",
+    "explanation": "最新のニュースによると、『CENTRAL MUSIC & ENTERTAINMENT FESTIVAL 2026』のタイムテーブルはクアラルンプールと台北公演について公開されました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 4,
+    "question": "アットプレスで報じられた、キム・シフンの最新の音楽活動に関する情報はどれですか？",
+    "choices": [
+      "4th Digital Single『Dizzy State』のリリース",
+      "初のライブツアー開催",
+      "映画主題歌の担当",
+      "新アルバムの発表"
+    ],
+    "answer": "4th Digital Single『Dizzy State』のリリース",
+    "explanation": "最新のニュースによると、アットプレスはキム・シフンの4th Digital Single『Dizzy State』リリースを報じました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 4,
+    "question": "Newscast.jpで報じられたLEE YUN SEOに関するニュースの具体的な内容は？",
+    "choices": [
+      "東京でのバースデーファンミーティング公演レポート",
+      "新曲のミュージックビデオ公開",
+      "ドラマ出演決定",
+      "写真集発売イベント"
+    ],
+    "answer": "東京でのバースデーファンミーティング公演レポート",
+    "explanation": "最新のニュースによると、Newscast.jpは「LEE YUN SEO BIRTHDAY FAN MEETING IN TOKYO」の公演レポートを報じました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 4,
+    "question": "『YOKOSUKA Re:EM CLUB』はどのようなイベントとして紹介されていますか？",
+    "choices": [
+      "エンターテイメント＆ミュージックライブ",
+      "映画祭",
+      "演劇フェスティバル",
+      "アートエキシビション"
+    ],
+    "answer": "エンターテイメント＆ミュージックライブ",
+    "explanation": "最新のニュースによると、『YOKOSUKA Re:EM CLUB ～ ENTERTAINMENT & MUSIC LIVE ～』はエンターテイメントとミュージックのライブイベントです。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 4,
+    "question": "Sony Pictures Entertainmentが「CinemaCon 2026」で公開した情報の種類は何ですか？",
+    "choices": [
+      "最新作品情報",
+      "新技術の発表",
+      "企業買収のニュース",
+      "人事異動の発表"
+    ],
+    "answer": "最新作品情報",
+    "explanation": "最新のニュースによると、Sony Pictures Entertainmentは「CinemaCon 2026」で最新作品情報を公開しました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 4,
+    "question": "日経エンタテインメント！が発表した「2025年エンタメベスト10」に関するニュースを報じたのはどこですか？",
+    "choices": [
+      "日経BP",
+      "Yahoo!ニュース",
+      "Moomoo",
+      "PR TIMES"
+    ],
+    "answer": "日経BP",
+    "explanation": "最新のニュースによると、日経エンタテインメント！の発表は日経BPから公開されました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 4,
+    "question": "齊藤なぎさが移籍先で目指す成長の側面として、ニュースで言及されたのは何ですか？",
+    "choices": [
+      "役者として、そして一人の人間として",
+      "歌手として、そしてダンサーとして",
+      "モデルとして、そしてクリエイターとして",
+      "脚本家として、そして演出家として"
+    ],
+    "answer": "役者として、そして一人の人間として",
+    "explanation": "最新のニュースによると、齊藤なぎさは移籍に際し「役者としても、一人の人間としても成長していけるよう頑張ります」とコメントしました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 4,
+    "question": "About Amazon Japanで報じられた2026年のPrime Videoに関するニュースの具体的な内容は？",
+    "choices": [
+      "2026年6月の新着配信コンテンツ",
+      "料金プランの変更",
+      "オリジナル作品の制作発表",
+      "デバイス対応の拡大"
+    ],
+    "answer": "2026年6月の新着配信コンテンツ",
+    "explanation": "最新のニュースによると、About Amazon JapanはAmazon Prime Videoの2026年6月の新着配信コンテンツを報じました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 4,
+    "question": "株式会社バンダイナムコエンターテインメントが最新情報を届ける「塊魂」シリーズは、何周年を迎えますか？",
+    "choices": [
+      "22周年",
+      "10周年",
+      "15周年",
+      "20周年"
+    ],
+    "answer": "22周年",
+    "explanation": "最新のニュースによると、「塊魂」シリーズは22周年を迎えるにあたり、株式会社バンダイナムコエンターテインメントが最新情報を届けます。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 4,
+    "question": "「Ress Gaming Center」がもたらすと期待されているものは何ですか？",
+    "choices": [
+      "エンターテインメントに新たな風",
+      "最新の映画体験",
+      "伝統文化の復興",
+      "スポーツイベントの誘致"
+    ],
+    "answer": "エンターテインメントに新たな風",
+    "explanation": "最新のニュースによると、リヤドの「Ress Gaming Center」はエンターテインメントに新たな風を吹き込むとされています。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 4,
+    "question": "「Ress Gaming Center」がもたらすと期待されているものは何ですか？",
+    "choices": [
+      "エンターテインメントに新たな風",
+      "最新の映画体験",
+      "伝統文化の復興",
+      "スポーツイベントの誘致"
+    ],
+    "answer": "エンターテイメントに新たな風",
+    "explanation": "最新のニュースによると、リヤドの「Ress Gaming Center」はエンターテインメントに新たな風を吹き込むとされています。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 4,
+    "question": "「toio™（トイオ）」の最新作「トイオ・プレイグラウンド コマンド」を発売したのはどの企業ですか？",
+    "choices": [
+      "ソニー・インタラクティブエンタテインメント",
+      "B Inc.",
+      "ソニー・ピクチャーズ エンタテインメント",
+      "ソニーミュージック"
+    ],
+    "answer": "ソニー・インタラクティブエンタテインメント",
+    "explanation": "最新のニュースによると、「toio™」の最新作「トイオ・プレイグラウンド コマンド」はソニー・インタラクティブエンタテインメントが発売しました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 4,
+    "question": "『PASSION ― 北斎の描く夢 ―』でメインビジュアルが解禁された出演者の一人である KELO は、どのようなジャンルの演劇に出演しますか？",
+    "choices": [
+      "ダンスエンターテイメント演劇",
+      "ミュージカル",
+      "ストレートプレイ",
+      "オペラ"
+    ],
+    "answer": "ダンスエンターテイメント演劇",
+    "explanation": "最新のニュースによると、『PASSION ― 北斎の描く夢 ―』はダンスエンターテイメント演劇です。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 4,
+    "question": "Newscast.jpが報じたジークスター東京のニュースは、チームのどのような動きに関するものでしたか？",
+    "choices": [
+      "選手構成の変更",
+      "経営陣の交代",
+      "新プロジェクトの開始",
+      "資金調達の成功"
+    ],
+    "answer": "選手構成の変更",
+    "explanation": "最新のニュースによると、Newscast.jpはジークスター東京の退団選手のお知らせを報じました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 5,
+    "question": "『CENTRAL MUSIC & ENTERTAINMENT FESTIVAL 2026』のニュースで言及された公演地は、以下のどの組み合わせですか？",
+    "choices": [
+      "クアラルンプールと台北",
+      "バンコクとシンガポール",
+      "ソウルと東京",
+      "香港とマニラ"
+    ],
+    "answer": "クアラルンプールと台北",
+    "explanation": "最新のニュースによると、『CENTRAL MUSIC & ENTERTAINMENT FESTIVAL 2026』のタイムテーブルはクアラルンプールと台北公演について公開されました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 5,
+    "question": "Moomooで言及された、エンターテインメント業界の企業が発行する株式のクラスは何ですか？",
     "choices": [
       "クラスA",
       "クラスB",
@@ -3299,1892 +3351,1073 @@
       "クラスD"
     ],
     "answer": "クラスA",
-    "explanation": "最新のニュースによると、Moomooでは$AMCエンターテインメント クラスA (AMC.US)$として言及されています。"
+    "explanation": "最新のニュースによると、$AMCエンターテインメント クラスA (AMC.US)$が言及されました。"
   },
   {
     "category": "エンタテイメント",
-    "difficulty": 3,
-    "question": "SMエンタテインメントが「SMRUN 26」を10月3日に開催すると報じられましたが、このイベントは何年に開催されるものとして「26」という数字が使われていますか？",
+    "difficulty": 5,
+    "question": "LEE YUN SEOが東京で開催したイベントの種類は何ですか？",
     "choices": [
-      "2026年",
+      "バースデーファンミーティング",
+      "デジタルシングルリリースイベント",
+      "ライブツアー",
+      "映画試写会"
+    ],
+    "answer": "バースデーファンミーティング",
+    "explanation": "最新のニュースによると、LEE YUN SEOは東京でバースデーファンミーティングを開催しました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 5,
+    "question": "横須賀芸術劇場で開催されるライブイベント『YOKOSUKA Re:EM CLUB』で、出演が決定したバンドは次のうちどれですか？",
+    "choices": [
+      "BREIMEN",
+      "緑黄色社会",
+      "Official髭男dism",
+      "King Gnu"
+    ],
+    "answer": "BREIMEN",
+    "explanation": "最新のニュースによると、『YOKOSUKA Re:EM CLUB』にはスカパラ、OKAMOTO‘S、BREIMENらが出演します。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 5,
+    "question": "「CinemaCon 2026」が開催された国はどこですか？",
+    "choices": [
+      "米国",
+      "日本",
+      "フランス",
+      "韓国"
+    ],
+    "answer": "米国",
+    "explanation": "最新のニュースによると、Sony Pictures Entertainmentは米国映画業界最大級のイベント「CinemaCon 2026」で最新作品情報を公開しました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 5,
+    "question": "日経エンタテインメント！が公開した情報で、「注目4ジャンルデータ分析」の対象年は何年ですか？",
+    "choices": [
       "2025年",
-      "2027年",
-      "2024年"
+      "2024年",
+      "2026年",
+      "2023年"
     ],
-    "answer": "2026年",
-    "explanation": "最新のニュースによると、SMエンタテインメントは10月3日に「SMRUN 26」を開催する予定であり、「26」は2026年を示唆しています。"
+    "answer": "2025年",
+    "explanation": "最新のニュースによると、日経エンタテインメント！は「注目4ジャンルデータ分析2025」を公開しました。"
   },
   {
     "category": "エンタテイメント",
-    "difficulty": 3,
-    "question": "ユヴェントスとトリノ工科大学が共同でスタートさせる修士課程の名称に含まれる「International」とは、どのような性質の課程ですか？",
+    "difficulty": 5,
+    "question": "エヴァーグリーン・エンタテイメントに移籍したと報じられた人物は誰ですか？",
     "choices": [
-      "国際的な",
-      "国内限定の",
-      "オンラインのみの",
-      "短期集中の"
+      "齊藤なぎさ",
+      "LEE YUN SEO",
+      "キム・シフン",
+      "大貫勇輔"
     ],
-    "answer": "国際的な",
-    "explanation": "最新のニュースによると、修士課程の名称は「International Executive Master in Systems Thinking for Sport & Entertainment」であり、「International」は国際的な性質を示します。"
+    "answer": "齊藤なぎさ",
+    "explanation": "最新のニュースによると、齊藤なぎさは「エヴァーグリーン・エンタテイメント」に移籍しました。"
   },
   {
     "category": "エンタテイメント",
-    "difficulty": 3,
-    "question": "Sony Pictures Entertainmentが最新作品情報を公開した「CinemaCon 2026」は、何に関するイベントですか？",
+    "difficulty": 5,
+    "question": "株式会社バンダイナムコエンターテインメントが最新情報を届ける「塊魂」シリーズは、何周年という節目を迎えますか？",
     "choices": [
-      "映画",
+      "22周年",
+      "20周年",
+      "15周年",
+      "25周年"
+    ],
+    "answer": "22周年",
+    "explanation": "最新のニュースによると、「塊魂」シリーズは22周年を迎えるにあたり、株式会社バンダイナムコエンターテインメントが最新情報を届けます。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 5,
+    "question": "arabnews.jpで紹介された、リヤドの新しいエンターテインメント施設は何ですか？",
+    "choices": [
+      "Ress Gaming Center",
+      "Riyadh Sports Arena",
+      "Desert Concert Hall",
+      "Kingdom Theme Park"
+    ],
+    "answer": "Ress Gaming Center",
+    "explanation": "最新のニュースによると、arabnews.jpはリヤドの「Ress Gaming Center」を紹介しました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 5,
+    "question": "ソニー・インタラクティブエンタテインメントが発売する「toio™」の最新作の名称は何ですか？",
+    "choices": [
+      "トイオ・プレイグラウンド コマンド",
+      "トイオ・クリエイティブキット",
+      "トイオ・ロボティクス",
+      "トイオ・アドベンチャー"
+    ],
+    "answer": "トイオ・プレイグラウンド コマンド",
+    "explanation": "最新のニュースによると、ソニー・インタラクティブエンタテインメントは「toio™」の最新作「トイオ・プレイグラウンド コマンド」を発売しました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 5,
+    "question": "Epic Gamesのレイオフ発表に関連して、ゲーム開発を終了すると報じられた企業の一つは何ですか？",
+    "choices": [
+      "Red Storm Entertainment",
+      "Naughty Dog",
+      "Insomniac Games",
+      "Sucker Punch Productions"
+    ],
+    "answer": "Red Storm Entertainment",
+    "explanation": "最新のニュースによると、Epic Gamesのレイオフ発表に関連して、Ubisoft傘下のRed Storm Entertainmentのゲーム開発終了が報じられました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 5,
+    "question": "jig.jpで報じられたB Inc.の活動に関するニュースの具体的な内容は？",
+    "choices": [
+      "toio™最新作向けプログラミング教材の製造・販売",
+      "新しいゲーム機の開発発表",
+      "VRコンテンツの配信開始",
+      "教育用ロボットの販売開始"
+    ],
+    "answer": "toio™最新作向けプログラミング教材の製造・販売",
+    "explanation": "最新のニュースによると、jig.jpはB Inc.がtoio™最新作向けプログラミング教材の製造・販売を行っていることを報じました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 5,
+    "question": "エンタメ特化型情報メディア スパイスが報じたダンスエンターテイメント演劇に関するニュースのタイトルは何ですか？",
+    "choices": [
+      "PASSION ― 北斎の描く夢 ―",
+      "Dizzy State",
+      "YOKOSUKA Re:EM CLUB",
+      "CENTRAL MUSIC & ENTERTAINMENT FESTIVAL"
+    ],
+    "answer": "PASSION ― 北斎の描く夢 ―",
+    "explanation": "最新のニュースによると、エンタメ特化型情報メディア スパイスはダンスエンターテイメント演劇『PASSION ― 北斎の描く夢 ―』に関するニュースを報じました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 5,
+    "question": "『CENTRAL MUSIC & ENTERTAINMENT FESTIVAL 2026』のニュースで言及された公演地は、以下のどの組み合わせですか？",
+    "choices": [
+      "クアラルンプールと台北",
+      "バンコクとシンガポール",
+      "ソウルと東京",
+      "香港とマニラ"
+    ],
+    "answer": "クアラルンプールと台北",
+    "explanation": "最新のニュースによると、『CENTRAL MUSIC & ENTERTAINMENT FESTIVAL 2026』のタイムテーブルはクアラルンプールと台北公演について公開されました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 6,
+    "question": "エンタメ特化型情報メディア スパイスが報じた『CENTRAL MUSIC & ENTERTAINMENT FESTIVAL 2026』に関する具体的な内容は？",
+    "choices": [
+      "クアラルンプール・台北公演のタイムテーブル公開",
+      "全公演のチケット販売開始日",
+      "ヘッドライナーアーティストの発表",
+      "フェスティバル公式グッズ情報"
+    ],
+    "answer": "クアラルンプール・台北公演のタイムテーブル公開",
+    "explanation": "最新のニュースによると、エンタメ特化型情報メディア スパイスは『CENTRAL MUSIC & ENTERTAINMENT FESTIVAL 2026』のクアラルンプール・台北公演のタイムテーブル公開を報じました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 6,
+    "question": "キム・シフンがリリースした『Dizzy State』は、彼のキャリアにおいて何枚目のデジタルシングルに当たりますか？",
+    "choices": [
+      "4枚目",
+      "1枚目",
+      "2枚目",
+      "3枚目"
+    ],
+    "answer": "4枚目",
+    "explanation": "最新のニュースによると、キム・シフンは4th Digital Single『Dizzy State』をリリースしました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 6,
+    "question": "Newscast.jpで報じられたLEE YUN SEOのイベントは、東京でどのような目的で開催されましたか？",
+    "choices": [
+      "バースデーを祝うファンミーティング",
+      "新曲発表会",
+      "ドラマのファンイベント",
+      "チャリティーコンサート"
+    ],
+    "answer": "バースデーを祝うファンミーティング",
+    "explanation": "最新のニュースによると、Newscast.jpは「LEE YUN SEO BIRTHDAY FAN MEETING IN TOKYO」の公演レポートを報じました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 6,
+    "question": "『YOKOSUKA Re:EM CLUB ～ ENTERTAINMENT & MUSIC LIVE ～』の開催場所は、横須賀芸術劇場と「ほか」とありますが、これは何を意味しますか？",
+    "choices": [
+      "横須賀芸術劇場以外の複数の場所でも開催される可能性",
+      "横須賀芸術劇場がメイン会場で、サブ会場は未定",
+      "横須賀芸術劇場の別館",
+      "オンライン配信も含む"
+    ],
+    "answer": "横須賀芸術劇場以外の複数の場所でも開催される可能性",
+    "explanation": "最新のニュースによると、『YOKOSUKA Re:EM CLUB ～ ENTERTAINMENT & MUSIC LIVE ～』は横須賀芸術劇場『ほか』にて開催されます。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 6,
+    "question": "Sony Pictures Entertainmentが「CinemaCon 2026」で発表した情報の主な対象は何でしたか？",
+    "choices": [
+      "自社の最新映画作品",
+      "ゲームタイトルの新作",
+      "テレビドラマシリーズ",
+      "音楽アーティストの契約"
+    ],
+    "answer": "自社の最新映画作品",
+    "explanation": "最新のニュースによると、Sony Pictures Entertainmentは「CinemaCon 2026」で最新作品情報を一挙に公開しました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 6,
+    "question": "日経エンタテインメント！が発表した「7大ジャンル年間ヒットランキング」と「注目4ジャンルデータ分析」は、どちらも何年を対象としていますか？",
+    "choices": [
+      "2025年",
+      "2024年",
+      "2026年",
+      "発表年は未定"
+    ],
+    "answer": "2025年",
+    "explanation": "最新のニュースによると、日経エンタテインメント！は「2025年エンタメベスト10」、「7大ジャンル年間ヒットランキング」、「注目4ジャンルデータ分析2025」を発表しました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 6,
+    "question": "齊藤なぎさが移籍を発表した際、「役者としても、一人の人間としても成長していけるよう頑張ります」というコメントは、どのような意気込みを示していますか？",
+    "choices": [
+      "芸能活動と人格形成の両面での向上",
+      "歌手としてのスキルアップ",
+      "国際的な活動への意欲",
+      "新しいジャンルへの挑戦"
+    ],
+    "answer": "芸能活動と人格形成の両面での向上",
+    "explanation": "最新のニュースによると、齊藤なぎさは移籍に際し「役者としても、一人の人間としても成長していけるよう頑張ります」とコメントしました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 6,
+    "question": "PR TIMESで報じられた「塊魂」シリーズのニュースで、最新情報が届けられるとされたのは何周年記念に向けてですか？",
+    "choices": [
+      "22周年",
+      "10周年",
+      "15周年",
+      "20周年"
+    ],
+    "answer": "22周年",
+    "explanation": "最新のニュースによると、「塊魂」シリーズは22周年を迎えるにあたり、株式会社バンダイナムコエンターテインメントが最新情報を届けることが報じられました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 6,
+    "question": "リヤドの「Ress Gaming Center」が「エンターテインメントに新たな風を吹き込む」と紹介されていますが、これはどのような意味合いですか？",
+    "choices": [
+      "革新的な娯楽体験の提供",
+      "伝統的なゲームの復興",
+      "地域文化の推進",
+      "海外からの観光客誘致"
+    ],
+    "answer": "革新的な娯楽体験の提供",
+    "explanation": "最新のニュースによると、リヤドの「Ress Gaming Center」はエンターテインメントに新たな風を吹き込むとされています。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 6,
+    "question": "Epic Gamesが大規模レイオフを発表したことと、Red Storm Entertainmentのゲーム開発終了は、どのようなニュースカテゴリで報じられましたか？",
+    "choices": [
+      "XRニュースの週間振り返り",
+      "金融市場の動向",
+      "ゲーム業界のイベント速報",
+      "テクノロジー企業の経営戦略"
+    ],
+    "answer": "XRニュースの週間振り返り",
+    "explanation": "最新のニュースによると、Epic Gamesの大規模レイオフ発表とRed Storm Entertainmentのゲーム開発終了は、週間振り返りXRニュースで報じられました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 6,
+    "question": "Red Storm Entertainmentのゲーム開発終了が報じられましたが、同社が開発終了したゲームの親会社はどこですか？",
+    "choices": [
+      "Ubisoft",
+      "Epic Games",
+      "Sony",
+      "Microsoft"
+    ],
+    "answer": "Ubisoft",
+    "explanation": "最新のニュースによると、Red Storm Entertainmentのゲーム開発終了はUbisoftの関連として報じられました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 6,
+    "question": "ソニー・インタラクティブエンタテインメントが発売する「toio™」の最新作「トイオ・プレイグラウンド コマンド」は、どのような学習を目的とした製品ですか？",
+    "choices": [
+      "プログラミング",
+      "絵画",
       "音楽",
-      "ゲーム",
-      "アニメ"
+      "ダンス"
     ],
-    "answer": "映画",
-    "explanation": "最新のニュースによると、「CinemaCon 2026」は米国映画業界最大級のイベントであり、映画に関する情報が公開されました。"
+    "answer": "プログラミング",
+    "explanation": "最新のニュースによると、「toio™」の最新作「トイオ・プレイグラウンド コマンド」向けにプログラミング教材が製造・販売されています。"
   },
   {
     "category": "エンタテイメント",
-    "difficulty": 3,
-    "question": "『Mr.都市伝説 関暁夫の裏都市伝説』の新作「裏社会を支える資金洗浄」を配信開始したメディアは、茨城新聞のどのセクションで報じられましたか？",
+    "difficulty": 6,
+    "question": "ダンスエンターテイメント演劇『PASSION ― 北斎の描く夢 ―』で美術コンセプトデザインに参加する大巻伸嗣は、どのような肩書きの人物ですか？",
     "choices": [
-      "PR TIMES エンタテイメント ネットサービス・アプリ",
-      "茨城新聞トップニュース",
-      "茨城新聞経済面",
-      "茨城新聞地域情報"
+      "現代美術作家",
+      "振付師",
+      "演出家",
+      "脚本家"
     ],
-    "answer": "PR TIMES エンタテイメント ネットサービス・アプリ",
-    "explanation": "2026年7月のニュースによると、茨城新聞クロスアイの「PR TIMES エンタテイメント ネットサービス・アプリ」で報じられました。"
+    "answer": "現代美術作家",
+    "explanation": "最新のニュースによると、ダンスエンターテイメント演劇『PASSION ― 北斎の描く夢 ―』の美術コンセプトデザインには現代美術作家・大巻伸嗣の参加が決定しました。"
   },
   {
     "category": "エンタテイメント",
-    "difficulty": 3,
-    "question": "日経エンタテインメント！が「2025年エンタメベスト10」を発表しましたが、この雑誌を出版しているのはどの会社ですか？",
+    "difficulty": 6,
+    "question": "キム・シフンがリリースした『Dizzy State』は、彼のキャリアにおいて何枚目のデジタルシングルに当たりますか？",
     "choices": [
-      "日経BP",
-      "日経新聞社",
-      "日本経済新聞社",
-      "日本放送協会"
+      "4枚目",
+      "1枚目",
+      "2枚目",
+      "3枚目"
     ],
-    "answer": "日経BP",
-    "explanation": "最新のニュースによると、日経エンタテインメント！は日経BPから発行されています。"
+    "answer": "4枚目",
+    "explanation": "最新のニュースによると、キム・シフンは4th Digital Single『Dizzy State』をリリースしました。"
   },
   {
     "category": "エンタテイメント",
-    "difficulty": 3,
-    "question": "AmazonのPrime Videoが2026年6月に楽しめる新着配信コンテンツを発表しましたが、この情報はAmazonのどの部門から提供されましたか？",
+    "difficulty": 7,
+    "question": "『CENTRAL MUSIC & ENTERTAINMENT FESTIVAL 2026』のニュースで公開された「タイムテーブル」は、具体的に何に関する情報を提供していますか？",
     "choices": [
-      "About Amazon Japan",
-      "Amazon Studios",
-      "Amazon Web Services",
-      "Amazon Logistics"
+      "公演のスケジュール",
+      "チケットの価格帯",
+      "会場へのアクセス方法",
+      "アーティストのサイン会情報"
     ],
-    "answer": "About Amazon Japan",
-    "explanation": "2026年6月のニュースによると、この情報は「About Amazon Japan」から提供されました。"
+    "answer": "公演のスケジュール",
+    "explanation": "最新のニュースによると、『CENTRAL MUSIC & ENTERTAINMENT FESTIVAL 2026』ではクアラルンプール・台北公演のタイムテーブルが公開されました。"
   },
   {
     "category": "エンタテイメント",
-    "difficulty": 4,
-    "question": "メディア・エンターテインメント分野における生成系AI市場の2025年推定値と2036年予測値を比較すると、およそ何倍に成長すると予測されていますか？",
+    "difficulty": 7,
+    "question": "アットプレスが報じたキム・シフンの『Dizzy State』リリースは、どのような形態の音楽作品でしたか？",
     "choices": [
-      "約50倍",
-      "約100倍",
-      "約200倍",
-      "約500倍"
+      "デジタルシングル",
+      "フルアルバム",
+      "ミニアルバム",
+      "アナログレコード"
     ],
-    "answer": "約50倍",
-    "explanation": "最新の市場予測によると、2025年の推定値が4,100億1,000万米ドル、2036年の予測値が2京1,453兆1,987億9,000万米ドルであるため、約52倍の成長が見込まれます。"
+    "answer": "デジタルシングル",
+    "explanation": "最新のニュースによると、キム・シフンは4th Digital Single『Dizzy State』をリリースしました。"
   },
   {
     "category": "エンタテイメント",
-    "difficulty": 4,
-    "question": "P-POPグループ「VXON」の日本国内独占エージェントに就任したぴあは、主にどのような事業を行っている企業として知られていますか？",
+    "difficulty": 7,
+    "question": "「LEE YUN SEO BIRTHDAY FAN MEETING IN TOKYO」のニュースで言及された、イベントのタイプは何でしたか？",
     "choices": [
-      "チケット販売・エンタメ事業",
-      "映画配給事業",
-      "ゲーム開発事業",
-      "音楽レーベル事業"
+      "ファンミーティング",
+      "コンサート",
+      "トークショー",
+      "ワークショップ"
     ],
-    "answer": "チケット販売・エンタメ事業",
-    "explanation": "最新のニュースによると、ぴあはP-POPグループ「VXON」の日本国内独占エージェントに就任しましたが、ぴあはチケット販売やエンタメ関連事業で知られる企業です。"
+    "answer": "ファンミーティング",
+    "explanation": "最新のニュースによると、LEE YUN SEOは東京でバースデーファンミーティングを開催しました。"
   },
   {
     "category": "エンタテイメント",
-    "difficulty": 4,
-    "question": "映画『ハイファイブ！』の超スーパー特報も到着したと報じられましたが、この映画のジャンルは主に何ですか？",
+    "difficulty": 7,
+    "question": "『YOKOSUKA Re:EM CLUB』に出演が決定したアーティストのうち、ニュースで言及された3組は誰ですか？",
     "choices": [
-      "ヒーロー・エンターテインメント",
-      "ホラー・サスペンス",
-      "ラブコメディ",
-      "SFドキュメンタリー"
+      "スカパラ、OKAMOTO‘S、BREIMEN",
+      "YOASOBI、Official髭男dism、King Gnu",
+      "BUMP OF CHICKEN、ONE OK ROCK、[Alexandros]",
+      "サカナクション、SEKAI NO OWARI、RADWIMPS"
     ],
-    "answer": "ヒーロー・エンターテインメント",
-    "explanation": "最新のニュースによると、映画『ハイファイブ！』は『臓器移植』で超能力を得るヒーロー・エンターテインメントとして紹介されています。"
+    "answer": "スカパラ、OKAMOTO‘S、BREIMEN",
+    "explanation": "最新のニュースによると、『YOKOSUKA Re:EM CLUB』にはスカパラ、OKAMOTO‘S、BREIMENらが出演します。"
   },
   {
     "category": "エンタテイメント",
-    "difficulty": 4,
-    "question": "SMエンタテインメントが開催する「SMRUN 26」は、何年のイベントとして名称に「26」が含まれていますか？",
+    "difficulty": 7,
+    "question": "「CinemaCon 2026」でSony Pictures Entertainmentが発表した情報の主な対象は何でしたか？",
     "choices": [
-      "2026年",
-      "2025年",
-      "2027年",
-      "2024年"
+      "自社の最新映画作品",
+      "ゲームタイトルの新作",
+      "テレビドラマシリーズ",
+      "音楽アーティストの契約"
     ],
-    "answer": "2026年",
-    "explanation": "最新のニュースによると、SMエンタテインメントは10月3日に「SMRUN 26」を開催する予定であり、「26」は2026年を示唆しています。"
+    "answer": "自社の最新映画作品",
+    "explanation": "最新のニュースによると、Sony Pictures Entertainmentは「CinemaCon 2026」で最新作品情報を一挙に公開しました。"
   },
   {
     "category": "エンタテイメント",
-    "difficulty": 4,
-    "question": "リヤドの「Ress Gaming Center」がエンターテインメントに新たな風を吹き込むと報じられましたが、リヤドはどこの国の首都ですか？",
+    "difficulty": 7,
+    "question": "日経BPから公開された日経エンタテインメント！の発表内容に含まれるのは、「2025年エンタメベスト10」と他に何ですか？",
     "choices": [
-      "サウジアラビア",
-      "アラブ首長国連邦",
-      "カタール",
-      "クウェート"
+      "7大ジャンル年間ヒットランキングと注目4ジャンルデータ分析2025",
+      "音楽ヒットチャートと映画興行収入ランキング",
+      "ドラマ視聴率分析とアニメ作品人気度調査",
+      "タレントCM起用ランキングと雑誌売上データ"
     ],
-    "answer": "サウジアラビア",
-    "explanation": "最新のニュースによると、リヤドの「Ress Gaming Center」が報じられましたが、リヤドはサウジアラビアの首都です。"
+    "answer": "7大ジャンル年間ヒットランキングと注目4ジャンルデータ分析2025",
+    "explanation": "最新のニュースによると、日経エンタテインメント！は「2025年エンタメベスト10」を発表し、これには「7大ジャンル年間ヒットランキング」と「注目4ジャンルデータ分析2025」も含まれます。"
   },
   {
     "category": "エンタテイメント",
-    "difficulty": 4,
-    "question": "ユヴェントスとトリノ工科大学が共同でスタートさせる「International Executive Master in Systems Thinking for Sport & Entertainment」は、どのような学術機関で提供される課程ですか？",
+    "difficulty": 7,
+    "question": "Yahoo!ニュースで報じられた齊藤なぎさに関するニュースの主要なテーマは何でしたか？",
     "choices": [
-      "大学院レベルの修士課程",
-      "専門学校のディプロマ課程",
-      "短期集中型のセミナー",
-      "オンライン学習プログラム"
+      "芸能事務所への移籍",
+      "新ドラマの主演",
+      "音楽活動の再開",
+      "結婚発表"
     ],
-    "answer": "大学院レベルの修士課程",
-    "explanation": "最新のニュースによると、ユヴェントスとトリノ工科大学は「International Executive Master」という修士課程をスタートさせます。"
+    "answer": "芸能事務所への移籍",
+    "explanation": "最新のニュースによると、Yahoo!ニュースは齊藤なぎさのエヴァーグリーン・エンタテイメントへの移籍を報じました。"
   },
   {
     "category": "エンタテイメント",
-    "difficulty": 4,
-    "question": "Sony Pictures Entertainmentが「CinemaCon 2026」で最新作品情報を公開しましたが、このイベントは映画業界においてどのような位置づけですか？",
+    "difficulty": 7,
+    "question": "AmazonのPrime Videoが新着配信コンテンツを発表した2026年6月のニュースは、どのような媒体で公開されましたか？",
+    "choices": [
+      "About Amazon Japanの公式情報",
+      "プレスリリース",
+      "テレビCM",
+      "SNS広告"
+    ],
+    "answer": "About Amazon Japanの公式情報",
+    "explanation": "最新のニュースによると、AmazonのPrime Videoの2026年6月の新着配信コンテンツ情報はAbout Amazon Japanで公開されました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 7,
+    "question": "arabnews.jpが報じたリヤドの「Ress Gaming Center」は、どのような種類の施設ですか？",
+    "choices": [
+      "ゲーミングセンター",
+      "コンサートホール",
+      "映画館",
+      "スポーツ複合施設"
+    ],
+    "answer": "ゲーミングセンター",
+    "explanation": "最新のニュースによると、arabnews.jpはリヤドの「Ress Gaming Center」をゲーミングセンターとして紹介しました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 7,
+    "question": "Mogura VRの週間振り返りXRニュースで報じられた、Ubisoftに関連するゲーム開発の終了が確認された企業はどこですか？",
+    "choices": [
+      "Red Storm Entertainment",
+      "Epic Games",
+      "Sony Interactive Entertainment",
+      "Bandai Namco Entertainment"
+    ],
+    "answer": "Red Storm Entertainment",
+    "explanation": "最新のニュースによると、週間振り返りXRニュースで、Red Storm Entertainmentのゲーム開発終了がUbisoftに関連して報じられました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 7,
+    "question": "「toio™（トイオ）」の最新作「トイオ・プレイグラウンド コマンド」を発売したのはどの企業ですか？",
+    "choices": [
+      "ソニー・インタラクティブエンタテインメント",
+      "B Inc.",
+      "ソニー・ピクチャーズ エンタテインメント",
+      "ソニーミュージック"
+    ],
+    "answer": "ソニー・インタラクティブエンタテインメント",
+    "explanation": "最新のニュースによると、「toio™」の最新作「トイオ・プレイグラウンド コマンド」はソニー・インタラクティブエンタテインメントが発売しました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 7,
+    "question": "B Inc.が製造・販売している『プログラミングブック』は、ソニー・インタラクティブエンタテインメントのどの製品の最新作向けですか？",
+    "choices": [
+      "toio™（トイオ）",
+      "PlayStation 5",
+      "Walkman",
+      "AIBO"
+    ],
+    "answer": "toio™（トイオ）",
+    "explanation": "最新のニュースによると、B Inc.が製造・販売している『プログラミングブック』は、ソニー・インタラクティブエンタテインメントが発売する「toio™」の最新作向けです。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 7,
+    "question": "『PASSION ― 北斎の描く夢 ―』でメインビジュアルが解禁された出演者3名のうち、女性の出演者は誰ですか？",
+    "choices": [
+      "柚希礼音",
+      "大貫勇輔",
+      "KELO",
+      "齊藤なぎさ"
+    ],
+    "answer": "柚希礼音",
+    "explanation": "最新のニュースによると、『PASSION ― 北斎の描く夢 ―』では大貫勇輔、柚希礼音、KELOのメインビジュアルが解禁されました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 7,
+    "question": "LEE YUN SEOが東京で開催したイベントの種類は何ですか？",
+    "choices": [
+      "バースデーファンミーティング",
+      "デジタルシングルリリースイベント",
+      "ライブツアー",
+      "映画試写会"
+    ],
+    "answer": "バースデーファンミーティング",
+    "explanation": "最新のニュースによると、LEE YUN SEOは東京でバースデーファンミーティングを開催しました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 8,
+    "question": "最新のニュースにおいて、『CENTRAL MUSIC & ENTERTAINMENT FESTIVAL 2026』に関して提供された情報が指す具体的な内容はどれですか？",
+    "choices": [
+      "クアラルンプールと台北における演奏スケジュール",
+      "全出演アーティストの最終リスト",
+      "チケット購入方法の詳細",
+      "フェスティバル全体のテーマ"
+    ],
+    "answer": "クアラルンプールと台北における演奏スケジュール",
+    "explanation": "最新のニュースによると、『CENTRAL MUSIC & ENTERTAINMENT FESTIVAL 2026』ではクアラルンプール・台北公演のタイムテーブルが公開されました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 8,
+    "question": "Moomooで言及された、エンターテインメント業界の企業が発行する株式のクラスは何ですか？",
+    "choices": [
+      "クラスA",
+      "クラスB",
+      "優先株",
+      "普通株"
+    ],
+    "answer": "クラスA",
+    "explanation": "最新のニュースによると、$AMCエンターテインメント クラスA (AMC.US)$が言及されました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 8,
+    "question": "『YOKOSUKA Re:EM CLUB』はどのようなイベントとして紹介されていますか？",
+    "choices": [
+      "エンターテイメントと音楽のライブ",
+      "演劇とダンスの公演",
+      "映画とアニメの上映会",
+      "アートとテクノロジーの展示会"
+    ],
+    "answer": "エンターテイメントと音楽のライブ",
+    "explanation": "最新のニュースによると、『YOKOSUKA Re:EM CLUB ～ ENTERTAINMENT & MUSIC LIVE ～』はエンターテイメントとミュージックのライブイベントです。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 8,
+    "question": "Sony Pictures Entertainmentが「CinemaCon 2026」で最新作品情報を公開した際、このイベントの規模はどのように説明されましたか？",
+    "choices": [
+      "米国映画業界最大級",
+      "アジア最大級の映画イベント",
+      "世界的に注目される映画祭",
+      "地域に根差した映画見本市"
+    ],
+    "answer": "米国映画業界最大級",
+    "explanation": "最新のニュースによると、Sony Pictures Entertainmentは米国映画業界最大級のイベント「CinemaCon 2026」で最新作品情報を公開しました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 8,
+    "question": "日経BPから公開された日経エンタテインメント！の発表内容に含まれるのは、「2025年エンタメベスト10」と他に何ですか？",
+    "choices": [
+      "7大ジャンル年間ヒットランキングと注目4ジャンルデータ分析2025",
+      "音楽ヒットチャートと映画興行収入ランキング",
+      "ドラマ視聴率分析とアニメ作品人気度調査",
+      "タレントCM起用ランキングと雑誌売上データ"
+    ],
+    "answer": "7大ジャンル年間ヒットランキングと注目4ジャンルデータ分析2025",
+    "explanation": "最新のニュースによると、日経エンタテインメント！は「2025年エンタメベスト10」を発表し、これには「7大ジャンル年間ヒットランキング」と「注目4ジャンルデータ分析2025」も含まれます。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 8,
+    "question": "Yahoo!ニュースで報じられた齊藤なぎさに関するニュースの主要なテーマは何でしたか？",
+    "choices": [
+      "芸能事務所への移籍",
+      "新ドラマの主演",
+      "音楽活動の再開",
+      "結婚発表"
+    ],
+    "answer": "芸能事務所への移籍",
+    "explanation": "最新のニュースによると、Yahoo!ニュースは齊藤なぎさのエヴァーグリーン・エンタテイメントへの移籍を報じました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 8,
+    "question": "AmazonのPrime Videoが新着配信コンテンツを発表した2026年6月のニュースは、どのような媒体で公開されましたか？",
+    "choices": [
+      "About Amazon Japanの公式情報",
+      "プレスリリース",
+      "テレビCM",
+      "SNS広告"
+    ],
+    "answer": "About Amazon Japanの公式情報",
+    "explanation": "最新のニュースによると、AmazonのPrime Videoの2026年6月の新着配信コンテンツ情報はAbout Amazon Japanで公開されました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 8,
+    "question": "PR TIMESで報じられた「塊魂」シリーズのニュースで、最新情報が届けられるとされたのは何周年記念に向けてですか？",
+    "choices": [
+      "22周年",
+      "10周年",
+      "15周年",
+      "20周年"
+    ],
+    "answer": "22周年",
+    "explanation": "最新のニュースによると、「塊魂」シリーズは22周年を迎えるにあたり、株式会社バンダイナムコエンターテインメントが最新情報を届けることが報じられました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 8,
+    "question": "Mogura VRの週間振り返りXRニュースで報じられた、Ubisoftに関連するゲーム開発の終了が確認された企業はどこですか？",
+    "choices": [
+      "Red Storm Entertainment",
+      "Epic Games",
+      "Sony Interactive Entertainment",
+      "Bandai Namco Entertainment"
+    ],
+    "answer": "Red Storm Entertainment",
+    "explanation": "最新のニュースによると、週間振り返りXRニュースで、Red Storm Entertainmentのゲーム開発終了がUbisoftに関連して報じられました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 8,
+    "question": "jig.jpのニュースで、B Inc.が担当した「toio™」関連製品の役割は何でしたか？",
+    "choices": [
+      "プログラミング教材の製造・販売",
+      "本体デバイスの開発",
+      "ゲームコンテンツの企画",
+      "マーケティング戦略立案"
+    ],
+    "answer": "プログラミング教材の製造・販売",
+    "explanation": "最新のニュースによると、B Inc.はソニー・インタラクティブエンタテインメントが発売する「toio™」の最新作向けプログラミング教材『プログラミングブック』を製造・販売しています。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 8,
+    "question": "ダンスエンターテイメント演劇『PASSION ― 北斎の描く夢 ―』で美術コンセプトデザインに参加が決定した現代美術作家は誰ですか？",
+    "choices": [
+      "大巻伸嗣",
+      "草間彌生",
+      "奈良美智",
+      "村上隆"
+    ],
+    "answer": "大巻伸嗣",
+    "explanation": "最新のニュースによると、ダンスエンターテイメント演劇『PASSION ― 北斎の描く夢 ―』の美術コンセプトデザインには現代美術作家・大巻伸嗣の参加が決定しました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 8,
+    "question": "ダンスエンターテイメント演劇『PASSION ― 北斎の描く夢 ―』で美術コンセプトデザインに参加が決定した現代美術作家は誰ですか？",
+    "choices": [
+      "大巻伸嗣",
+      "草間彌生",
+      "奈良美智",
+      "村上隆"
+    ],
+    "answer": "大巻伸嗣",
+    "explanation": "最新のニュースによると、ダンスエンターテイメント演劇『PASSION ― 北斎の描く夢 ―』の美術コンセプトデザインには現代美術作家・大巻伸嗣の参加が決定しました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 8,
+    "question": "エンタメ特化型情報メディア スパイスが報じた『PASSION ― 北斎の描く夢 ―』のニュースで、美術コンセプトデザインの参加と同時に解禁されたものは何ですか？",
+    "choices": [
+      "メインビジュアル",
+      "公演日程",
+      "チケット情報",
+      "追加キャスト"
+    ],
+    "answer": "メインビジュアル",
+    "explanation": "最新のニュースによると、『PASSION ― 北斎の描く夢 ―』では美術コンセプトデザインに現代美術作家・大巻伸嗣の参加決定と同時に、メインビジュアルも解禁されました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 8,
+    "question": "『YOKOSUKA Re:EM CLUB』に出演が決定したアーティストのうち、ニュースで言及された3組は誰ですか？",
+    "choices": [
+      "スカパラ、OKAMOTO‘S、BREIMEN",
+      "YOASOBI、Official髭男dism、King Gnu",
+      "BUMP OF CHICKEN、ONE OK ROCK、[Alexandros]",
+      "サカナクション、SEKAI NO OWARI、RADWIMPS"
+    ],
+    "answer": "スカパラ、OKAMOTO‘S、BREIMEN",
+    "explanation": "最新のニュースによると、『YOKOSUKA Re:EM CLUB』にはスカパラ、OKAMOTO‘S、BREIMENらが出演します。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 9,
+    "question": "『CENTRAL MUSIC & ENTERTAINMENT FESTIVAL 2026』のニュースで公開された「タイムテーブル」は、具体的に何に関する情報を提供していますか？",
+    "choices": [
+      "クアラルンプールと台北でのアーティストの出演時間",
+      "全出演アーティストの最終リスト",
+      "フェスティバル全体のテーマとコンセプト",
+      "チケットの早期購入特典"
+    ],
+    "answer": "クアラルンプールと台北でのアーティストの出演時間",
+    "explanation": "最新のニュースによると、『CENTRAL MUSIC & ENTERTAINMENT FESTIVAL 2026』ではクアラルンプール・台北公演のタイムテーブルが公開されました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 9,
+    "question": "アットプレスが報じたキム・シフンの『Dizzy State』リリースは、どのような形態の音楽作品でしたか？",
+    "choices": [
+      "デジタル形式での単曲リリース",
+      "CDアルバムの一部",
+      "ストリーミングサービス限定の先行配信",
+      "アナログ盤としての限定販売"
+    ],
+    "answer": "デジタル形式での単曲リリース",
+    "explanation": "最新のニュースによると、キム・シフンは4th Digital Single『Dizzy State』をリリースしました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 9,
+    "question": "『YOKOSUKA Re:EM CLUB』に出演が決定したアーティストのうち、ニュースで言及された3組は誰ですか？",
+    "choices": [
+      "東京スカパラダイスオーケストラ、OKAMOTO‘S、BREIMEN",
+      "Official髭男dism、King Gnu、緑黄色社会",
+      "BUMP OF CHICKEN、[Alexandros]、ONE OK ROCK",
+      "サカナクション、SEKAI NO OWARI、RADWIMPS"
+    ],
+    "answer": "東京スカパラダイスオーケストラ、OKAMOTO‘S、BREIMEN",
+    "explanation": "最新のニュースによると、『YOKOSUKA Re:EM CLUB』にはスカパラ（東京スカパラダイスオーケストラ）、OKAMOTO‘S、BREIMENらが出演します。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 9,
+    "question": "Sony Pictures Entertainmentが「CinemaCon 2026」で最新作品情報を公開した際、このイベントの規模はどのように説明されましたか？",
     "choices": [
       "米国映画業界最大級のイベント",
-      "アジア映画の祭典",
-      "ヨーロッパのインディーズ映画祭",
-      "アニメーション専門の展示会"
+      "世界最大の映画見本市",
+      "アジア太平洋地域の主要な映画イベント",
+      "ハリウッドの年間映画祭の開幕イベント"
     ],
     "answer": "米国映画業界最大級のイベント",
-    "explanation": "最新のニュースによると、「CinemaCon 2026」は米国映画業界最大級のイベントです。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 4,
-    "question": "『Mr.都市伝説 関暁夫の裏都市伝説』の新作「裏社会を支える資金洗浄」は、いつから配信開始されましたか？",
-    "choices": [
-      "2026年7月24日",
-      "2026年6月24日",
-      "2025年7月24日",
-      "2026年8月24日"
-    ],
-    "answer": "2026年7月24日",
-    "explanation": "2026年7月のニュースによると、『Mr.都市伝説 関暁夫の裏都市伝説』の新作は7月24日(金)より「タテドラ」で配信開始されました。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 4,
-    "question": "日経エンタテインメント！が発表した「2025年エンタメベスト10」などの情報を提供しているのは、どの出版社ですか？",
-    "choices": [
-      "日経BP",
-      "集英社",
-      "講談社",
-      "小学館"
-    ],
-    "answer": "日経BP",
-    "explanation": "最新のニュースによると、日経エンタテインメント！は日経BPから発行されています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 4,
-    "question": "渡邊渚が『REAL VALUE』を欠席し、「緊急搬送」されたと報じられましたが、この情報はどのメディアによって報じられましたか？",
-    "choices": [
-      "smart-flash.jp",
-      "Yahoo!ニュース",
-      "Newscast.jp",
-      "wowKorea"
-    ],
-    "answer": "smart-flash.jp",
-    "explanation": "最新のニュースによると、渡邊渚に関する情報はsmart-flash.jpによって報じられました。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 4,
-    "question": "メディア・エンターテインメント分野における生成系AI市場の2025年推定値が4,100億1,000万米ドルであるのに対し、2036年には2京1,453兆1,987億9,000万米ドルに達すると予測されています。この市場の成長率は、予測期間においてどのような桁数で増加すると考えられますか？",
-    "choices": [
-      "兆単位から京単位へ",
-      "億単位から兆単位へ",
-      "万単位から億単位へ",
-      "千単位から万単位へ"
-    ],
-    "answer": "兆単位から京単位へ",
-    "explanation": "最新の市場予測によると、2025年の推定値は億単位、2036年の予測値は京単位であり、兆単位から京単位へと桁数が増加すると考えられます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 4,
-    "question": "ぴあがフィリピン発P-POPグループ「VXON」の日本国内独占エージェントに就任したことは、日本のエンタメ業界において、どのようなジャンルの多様化を促進すると考えられますか？",
-    "choices": [
-      "アジア系ポップミュージック",
-      "演歌",
-      "クラシック音楽",
-      "ジャズ"
-    ],
-    "answer": "アジア系ポップミュージック",
-    "explanation": "最新のニュースによると、フィリピン発のP-POPグループとの契約は、日本のエンタメ市場におけるアジア系ポップミュージックの多様化を促進すると考えられます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 4,
-    "question": "映画『ハイファイブ！』の日本公開決定を報じたMOVIE WALKER PRESSは、この映画をどのようなジャンルのエンタテインメントとして紹介していますか？",
-    "choices": [
-      "ヒーロー・エンタテインメント",
-      "サスペンス・スリラー",
-      "ヒューマンドラマ",
-      "ファンタジー・アドベンチャー"
-    ],
-    "answer": "ヒーロー・エンタテインメント",
-    "explanation": "最新のニュースによると、MOVIE WALKER PRESSは『ハイファイブ！』を「ヒーロー・エンタテインメント」として紹介しています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 4,
-    "question": "AMCエンターテインメントホールディングスが2026年度第2四半期の決算を発表したと報じられましたが、この情報は主にどのような目的で公開されますか？",
-    "choices": [
-      "投資家への情報提供",
-      "映画のプロモーション",
-      "ゲームの開発発表",
-      "音楽イベントの告知"
-    ],
-    "answer": "投資家への情報提供",
-    "explanation": "最新のニュースによると、決算発表は主に投資家に対して企業の業績と財務状況を報告するために公開されます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 4,
-    "question": "リヤドの「Ress Gaming Center」が「エンターテインメントに新たな風を吹き込む」と報じられましたが、これはサウジアラビアのどの都市に位置していますか？",
-    "choices": [
-      "リヤド",
-      "ジェッダ",
-      "メッカ",
-      "ダンマーム"
-    ],
-    "answer": "リヤド",
-    "explanation": "最新のニュースによると、リヤドの「Ress Gaming Center」がエンターテインメントに新たな風を吹き込んでいると報じられています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 4,
-    "question": "ユヴェントスとトリノ工科大学が共同でスタートさせる修士課程の名称に含まれる「Systems Thinking」は、どのような思考法を指しますか？",
-    "choices": [
-      "物事を全体として捉え、相互関係を考慮する思考法",
-      "問題を個別の要素に分解して分析する思考法",
-      "感情に基づいて意思決定を行う思考法",
-      "過去の経験のみに頼る思考法"
-    ],
-    "answer": "物事を全体として捉え、相互関係を考慮する思考法",
-    "explanation": "最新のニュースによると、「Systems Thinking」は物事をシステムとして全体的に捉え、要素間の相互関係やダイナミクスを考慮する思考法を指します。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 4,
-    "question": "Sony Pictures Entertainmentが「CinemaCon 2026」で最新作品情報を一挙に公開したことは、同社が映画業界のどのようなプレイヤーとの関係を重視していることを示唆していますか？",
-    "choices": [
-      "映画館経営者や配給関係者",
-      "一般の映画ファン",
-      "映画評論家",
-      "映画音楽家"
-    ],
-    "answer": "映画館経営者や配給関係者",
-    "explanation": "最新のニュースによると、CinemaConは米国映画業界最大級のイベントであり、主に映画館経営者や配給関係者が集まるため、同社が彼らとの関係を重視していることを示唆しています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 4,
-    "question": "『Mr.都市伝説 関暁夫の裏都市伝説』の新作「裏社会を支える資金洗浄」が配信開始された「タテドラ」は、どのような特徴を持つコンテンツプラットフォームと推測されますか？",
-    "choices": [
-      "縦型動画に特化したプラットフォーム",
-      "ライブ配信に特化したプラットフォーム",
-      "長編映画に特化したプラットフォーム",
-      "音楽配信に特化したプラットフォーム"
-    ],
-    "answer": "縦型動画に特化したプラットフォーム",
-    "explanation": "2026年7月のニュースによると、「タテドラ」という名称から、縦型動画に特化したコンテンツプラットフォームであると推測されます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 4,
-    "question": "日経エンタテインメント！が「2025年エンタメベスト10」を発表しましたが、この雑誌の主な読者層は誰だと考えられますか？",
-    "choices": [
-      "エンタメ業界関係者や熱心なエンタメファン",
-      "経済アナリスト",
-      "スポーツファン",
-      "科学技術者"
-    ],
-    "answer": "エンタメ業界関係者や熱心なエンタメファン",
-    "explanation": "最新のニュースによると、日経エンタテインメント！はエンタメ市場の動向分析やランキングを公開しており、エンタメ業界関係者や熱心なエンタメファンが主な読者層と考えられます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 4,
-    "question": "AmazonのPrime Videoが2026年6月に新着配信コンテンツを発表したことは、Amazonのエンタメ戦略において、どのような重要性を持つと考えられますか？",
-    "choices": [
-      "定期的なコンテンツ更新によるサービスの魅力維持",
-      "リアルイベントの開催",
-      "ゲーム開発への注力",
-      "音楽レーベルの買収"
-    ],
-    "answer": "定期的なコンテンツ更新によるサービスの魅力維持",
-    "explanation": "2026年6月のニュースによると、Prime Videoの定期的な新着コンテンツ発表は、サービスの魅力を維持し、顧客の満足度を高める上で重要であると考えられます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 5,
-    "question": "メディア・エンターテインメント分野における生成系AI市場が2025年から2036年にかけて、約50倍以上の成長を予測されていることから、この市場の成長率はどのような傾向にあると言えますか？",
-    "choices": [
-      "急速な成長",
-      "緩やかな成長",
-      "停滞期",
-      "縮小傾向"
-    ],
-    "answer": "急速な成長",
-    "explanation": "最新の市場予測によると、2025年から2036年までの予測期間で市場規模が約50倍以上に拡大するとされており、これは急速な成長を意味します。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 5,
-    "question": "ぴあが日本国内独占エージェントに就任したP-POPグループ「VXON」は、K-POPと比較してどのような特徴を持つグループであると推測されますか？",
-    "choices": [
-      "フィリピン文化の影響が強い",
-      "韓国文化の影響が強い",
-      "欧米文化の影響が強い",
-      "日本文化の影響が強い"
-    ],
-    "answer": "フィリピン文化の影響が強い",
-    "explanation": "最新のニュースによると、「VXON」はフィリピン発のP-POPグループであるため、フィリピン文化の影響が強いと推測されます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 5,
-    "question": "映画『ハイファイブ！』が『臓器移植』で超能力が覚醒するヒーロー・エンタテインメントであることから、この映画が提示するテーマとして考えられるのは何ですか？",
-    "choices": [
-      "倫理的な問題と超能力の共存",
-      "純粋な恋愛と友情",
-      "宇宙人の侵略と地球防衛",
-      "歴史上の人物の伝記"
-    ],
-    "answer": "倫理的な問題と超能力の共存",
-    "explanation": "最新のニュースによると、『ハイファイブ！』は臓器移植で超能力を得るという設定であるため、倫理的な問題と超能力の共存がテーマの一つであると考えられます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 5,
-    "question": "SMエンタテインメントが開催する「SMRUN 26」は、どのエンターテインメント企業が主催するイベントですか？",
-    "choices": [
-      "SMエンタテインメント",
-      "YGエンターテインメント",
-      "JYPエンターテインメント",
-      "HYBE"
-    ],
-    "answer": "SMエンタテインメント",
-    "explanation": "最新のニュースによると、SMエンタテインメントが「SMRUN 26」を10月3日に開催します。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 5,
-    "question": "リヤドの「Ress Gaming Center」が「エンターテインメントに新たな風を吹き込む」と報じられましたが、これはサウジアラビアのどのような動向を反映していると考えられますか？",
-    "choices": [
-      "エンタメ産業への投資と多様化",
-      "石油産業への依存強化",
-      "伝統文化の厳格な維持",
-      "農業技術の革新"
-    ],
-    "answer": "エンタメ産業への投資と多様化",
-    "explanation": "最新のニュースによると、リヤドに最新のゲーミングセンターがオープンし、エンターテインメントに貢献していることは、サウジアラビアがエンタメ産業への投資と多様化を進めていることを示唆しています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 5,
-    "question": "ユヴェントスとトリノ工科大学が共同で開始する修士課程の名称に含まれる「Systems Thinking」は、どのようなアプローチを指しますか？",
-    "choices": [
-      "全体論的思考",
-      "個別要素分析",
-      "線形思考",
-      "短期目標設定"
-    ],
-    "answer": "全体論的思考",
-    "explanation": "最新のニュースによると、修士課程の名称に「Systems Thinking」が含まれていることから、これは全体論的なアプローチを指すと解釈されます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 5,
-    "question": "Sony Pictures Entertainmentが「CinemaCon 2026」で最新作品情報を公開したことから、同社が映画業界でどのような役割を担っていると言えますか？",
-    "choices": [
-      "主要な映画スタジオの一つ",
-      "独立系映画配給会社",
-      "映画館チェーン運営会社",
-      "映画評論専門企業"
-    ],
-    "answer": "主要な映画スタジオの一つ",
-    "explanation": "最新のニュースによると、Sony Pictures Entertainmentが米国映画業界最大級のイベントで最新作品情報を公開していることから、同社が主要な映画スタジオの一つであることが伺えます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 5,
-    "question": "『Mr.都市伝説 関暁夫の裏都市伝説』の新作「裏社会を支える資金洗浄」が「タテドラ」で配信されることから、どのような視聴形式が想定されますか？",
-    "choices": [
-      "縦型動画",
-      "横型動画",
-      "ラジオドラマ",
-      "ライブストリーミング"
-    ],
-    "answer": "縦型動画",
-    "explanation": "2026年7月のニュースによると、配信プラットフォームが「タテドラ」であることから、縦型動画形式での視聴が想定されます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 5,
-    "question": "日経エンタテインメント！が「2025年エンタメベスト10」などを発表した目的として、最も適切と考えられるのは何ですか？",
-    "choices": [
-      "エンタメ市場の動向分析と情報提供",
-      "特定のアーティストのプロモーション",
-      "映画チケットの販売促進",
-      "ゲームソフトの開発支援"
-    ],
-    "answer": "エンタメ市場の動向分析と情報提供",
-    "explanation": "最新のニュースによると、日経エンタテインメント！は「2025年エンタメベスト10」や「年間ヒットランキング」「データ分析」を公開しており、これはエンタメ市場の動向分析と情報提供を目的としていると考えられます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 5,
-    "question": "AMCエンターテインメントホールディングスが2026年度第2四半期の決算を発表しましたが、この企業の主な事業内容は何ですか？",
-    "choices": [
-      "映画館運営",
-      "映画製作",
-      "ゲーム開発",
-      "音楽イベント企画"
-    ],
-    "answer": "映画館運営",
-    "explanation": "最新のニュースによると、AMCエンターテインメントホールディングスは映画館チェーン運営で知られる企業です。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 5,
-    "question": "メディア・エンターテインメント分野における生成系AI市場の2025年推定値が4,100億1,000万米ドルであるのに対し、2036年予測値が2京1,453兆1,987億9,000万米ドルであることから、この市場の成長がもたらす経済的影響はどのようなものと予測されますか？",
-    "choices": [
-      "エンタメ産業全体の構造変革と新たな経済圏の創出",
-      "既存のエンタメ企業の緩やかな成長",
-      "市場規模のわずかな拡大",
-      "経済全体への影響は限定的"
-    ],
-    "answer": "エンタメ産業全体の構造変革と新たな経済圏の創出",
-    "explanation": "最新の市場予測によると、数兆ドル規模から数京ドル規模への急成長は、エンタメ産業全体の構造変革と、それに伴う新たな経済圏の創出を予測させるものです。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 5,
-    "question": "ぴあがフィリピン発P-POPグループ「VXON」の日本国内独占エージェントに就任したことは、日本のエンタメ企業が海外のアーティストと契約する際に、どのようなメリットを期待していると考えられますか？",
-    "choices": [
-      "新たなファン層の獲得と市場の拡大",
-      "日本のアーティストの海外進出を阻止する",
-      "国内のアーティストの活動を制限する",
-      "音楽ジャンルの多様化を抑制する"
-    ],
-    "answer": "新たなファン層の獲得と市場の拡大",
-    "explanation": "最新のニュースによると、海外の有望なアーティストと契約することで、日本のエンタメ企業は新たなファン層を獲得し、市場を拡大するメリットを期待していると考えられます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 5,
-    "question": "映画『ハイファイブ！』の「超覚醒ビジュアル＆超スーパー特報」が到着したと報じられましたが、これは映画のどのような要素を強調していると考えられますか？",
-    "choices": [
-      "アクション性、特殊能力、視覚効果",
-      "静かな人間ドラマ、心理描写",
-      "ドキュメンタリーとしてのリアリティ",
-      "日常的な風景とシンプルなストーリー"
-    ],
-    "answer": "アクション性、特殊能力、視覚効果",
-    "explanation": "最新のニュースによると、「超覚醒」「超スーパー特報」といった表現は、映画のアクション性、特殊能力、そして視覚効果といった要素を強調していると考えられます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 5,
-    "question": "AMCエンターテインメントホールディングスが2026年度第2四半期の決算を発表しましたが、これは企業が自身の財務状況をどのように開示していることを示しますか？",
-    "choices": [
-      "定期的に透明性を持って開示している",
-      "不定期に、都合の良い情報のみ開示している",
-      "投資家には情報を一切開示していない",
-      "競合他社に情報を漏洩している"
-    ],
-    "answer": "定期的に透明性を持って開示している",
-    "explanation": "最新のニュースによると、定期的な四半期決算の発表は、企業が財務状況を透明性を持って開示していることを示します。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 5,
-    "question": "リヤドの「Ress Gaming Center」が「エンターテインメントに新たな風を吹き込む」と報じられましたが、これはサウジアラビアのエンタメ産業において、どのような特徴を持つ施設だと考えられますか？",
-    "choices": [
-      "最新技術を導入した大規模な施設",
-      "伝統的な娯楽に特化した施設",
-      "小規模な地域密着型施設",
-      "教育目的の施設"
-    ],
-    "answer": "最新技術を導入した大規模な施設",
-    "explanation": "最新のニュースによると、「新たな風を吹き込む」という表現は、最新技術を導入した大規模なゲーミングセンターであり、サウジアラビアのエンタメ産業において革新的な存在であることを示唆しています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 5,
-    "question": "ユヴェントスとトリノ工科大学が共同でスタートさせる修士課程の名称に含まれる「Systems Thinking for Sport & Entertainment」は、どのようなアプローチで課題に取り組むことを示唆していますか？",
-    "choices": [
-      "スポーツとエンタメ業界の課題を複合的に捉えるアプローチ",
-      "個別の課題を独立して解決するアプローチ",
-      "感情的な判断に基づくアプローチ",
-      "短期的な利益のみを追求するアプローチ"
-    ],
-    "answer": "スポーツとエンタメ業界の課題を複合的に捉えるアプローチ",
-    "explanation": "最新のニュースによると、「Systems Thinking for Sport & Entertainment」という名称は、スポーツとエンタメ業界の課題を複合的に捉え、全体的な視点から解決策を見出すアプローチを示唆しています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 5,
-    "question": "Sony Pictures Entertainmentが「CinemaCon 2026」で最新作品情報を一挙に公開したことは、映画業界のイベントが果たす役割としてどのようなものがありますか？",
-    "choices": [
-      "新作発表と業界関係者間のビジネス機会創出",
-      "一般消費者への直接販売",
-      "映画評論家の育成",
-      "過去の作品の再評価"
-    ],
-    "answer": "新作発表と業界関係者間のビジネス機会創出",
-    "explanation": "最新のニュースによると、CinemaConのような業界最大級のイベントは、新作の発表だけでなく、映画館事業者や配給関係者間のビジネス機会を創出する役割も果たします。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 5,
-    "question": "『Mr.都市伝説 関暁夫の裏都市伝説』の新作「裏社会を支える資金洗浄」が7月24日(金)より配信開始されたことから、このコンテンツの提供形態はどのようなものだと考えられますか？",
-    "choices": [
-      "オンデマンド配信",
-      "テレビ放送",
-      "映画館上映",
-      "DVD販売"
-    ],
-    "answer": "オンデマンド配信",
-    "explanation": "2026年7月のニュースによると、「タテドラ」での配信開始は、視聴者が好きな時に視聴できるオンデマンド配信の形態であることを示しています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 5,
-    "question": "日経エンタテインメント！が「2025年エンタメベスト10」などを発表したことは、エンタメ業界の市場調査や分析において、どのようなニーズに応えるものと考えられますか？",
-    "choices": [
-      "客観的なデータに基づいた市場動向の把握",
-      "特定の企業の宣伝活動",
-      "個人的な意見の表明",
-      "消費者の購買意欲を刺激する"
-    ],
-    "answer": "客観的なデータに基づいた市場動向の把握",
-    "explanation": "最新のニュースによると、年間ランキングやデータ分析の公開は、客観的なデータに基づいてエンタメ市場の動向を把握したいという業界関係者やファンのニーズに応えるものです。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 5,
-    "question": "渡邊渚が『REAL VALUE』を「緊急搬送」で欠席し、「地上波レギュラーは2カ月で “降板” の不安」と報じられたことは、芸能界におけるタレントの健康管理の重要性についてどのような示唆を与えますか？",
-    "choices": [
-      "タレントの健康管理はキャリアを左右する重要な要素である",
-      "健康問題はタレント活動にほとんど影響しない",
-      "健康管理は事務所の責任ではない",
-      "タレントは常に完璧な健康状態を維持できる"
-    ],
-    "answer": "タレントの健康管理はキャリアを左右する重要な要素である",
-    "explanation": "最新のニュースによると、緊急搬送や降板の不安は、タレントの健康問題がそのキャリアに直接的な影響を与え、健康管理が極めて重要であることを示唆しています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 6,
-    "question": "メディア・エンターテインメント分野における生成系AI市場の2036年までの予測期間が「2026年～2036年」であることから、この市場の本格的な成長はいつから加速すると見込まれていますか？",
-    "choices": [
-      "2026年以降",
-      "2025年以前",
-      "2030年以降",
-      "2024年以前"
-    ],
-    "answer": "2026年以降",
-    "explanation": "最新の市場予測によると、予測期間が2026年～2036年とされていることから、この期間に市場の本格的な成長が加速すると見込まれています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 6,
-    "question": "P-POPグループ「VXON」が日本の「ぴあ」と独占エージェント契約を結んだことは、フィリピンのエンタメ業界にとってどのような意味合いを持ちますか？",
-    "choices": [
-      "日本市場への本格的進出の足がかり",
-      "国内活動の縮小",
-      "欧米市場へのシフト",
-      "音楽ジャンルの多様化"
-    ],
-    "answer": "日本市場への本格的進出の足がかり",
-    "explanation": "最新のニュースによると、日本の大手エンタメ企業であるぴあとの独占エージェント契約は、VXONの日本市場への本格的進出の足がかりとなると考えられます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 6,
-    "question": "映画『ハイファイブ！』の『超覚醒ビジュアル＆超スーパー特報』が到着したと報じられましたが、これは映画公開前のどのような段階を示唆していますか？",
-    "choices": [
-      "プロモーション活動の本格化",
-      "撮影段階の完了",
-      "脚本執筆の開始",
-      "キャスティングの最終決定"
-    ],
-    "answer": "プロモーション活動の本格化",
-    "explanation": "最新のニュースによると、公開決定とともにビジュアルや特報が公開されたことから、公開に向けたプロモーション活動が本格化していることを示唆しています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 6,
-    "question": "AMCエンターテインメントの株価情報がMoomooで言及されていることから、同社はどのような市場で取引されていると考えられますか？",
-    "choices": [
-      "米国株式市場",
-      "日本の株式市場",
-      "欧州の株式市場",
-      "非上場企業"
-    ],
-    "answer": "米国株式市場",
-    "explanation": "最新のニュースによると、$AMCエンターテインメント クラスA (AMC.US)$という表記から、同社が米国株式市場で取引されていることが分かります。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 6,
-    "question": "SMエンタテインメントが「SMRUN 26」を10月3日に開催すると発表しましたが、これはK-POP業界におけるどのような動向の一部と解釈できますか？",
-    "choices": [
-      "アーティストとファンの交流イベントの継続",
-      "海外ツアーの縮小",
-      "デジタルコンテンツへの完全移行",
-      "新人グループのデビュー中止"
-    ],
-    "answer": "アーティストとファンの交流イベントの継続",
-    "explanation": "最新のニュースによると、SMエンタテインメントがファンイベントと推測される「SMRUN 26」を開催することは、アーティストとファンの交流イベントを継続するK-POP業界の動向の一部と解釈できます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 6,
-    "question": "ユヴェントスとトリノ工科大学が共同で修士課程をスタートさせることは、スポーツとエンターテインメント分野におけるどのようなニーズに応えるものと考えられますか？",
-    "choices": [
-      "高度な専門知識を持つ人材育成",
-      "選手のリハビリテーション研究",
-      "スタジアム建設技術の開発",
-      "チケット販売システムの改善"
-    ],
-    "answer": "高度な専門知識を持つ人材育成",
-    "explanation": "最新のニュースによると、大学とプロスポーツチームが共同で修士課程を設立することは、スポーツとエンターテインメント分野で高度な専門知識を持つ人材育成のニーズに応えるものと考えられます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 6,
-    "question": "Sony Pictures Entertainmentが「CinemaCon 2026」で最新作品情報を一挙に公開した目的として、最も考えられるのは何ですか？",
-    "choices": [
-      "映画館事業者への新作ラインナップ紹介と期待感の醸成",
-      "一般消費者への直接的なプロモーション",
-      "投資家への事業報告",
-      "映画評論家への試写会提供"
-    ],
-    "answer": "映画館事業者への新作ラインナップ紹介と期待感の醸成",
-    "explanation": "最新のニュースによると、CinemaConは米国映画業界最大級のイベントであり、主に映画館事業者や配給関係者が集まるため、新作ラインナップの紹介と期待感の醸成が主な目的と考えられます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 6,
-    "question": "『Mr.都市伝説 関暁夫の裏都市伝説』の新作「裏社会を支える資金洗浄」が7月24日(金)より配信開始されたことから、このコンテンツはどのような特徴を持つと考えられますか？",
-    "choices": [
-      "時事性のある社会問題を取り扱っている",
-      "架空のSF世界を描いている",
-      "歴史上の出来事を再現している",
-      "著名人のインタビューを収録している"
-    ],
-    "answer": "時事性のある社会問題を取り扱っている",
-    "explanation": "2026年7月のニュースによると、「資金洗浄」というテーマは、時事性のある社会問題や都市伝説的な側面を持つコンテンツであることを示唆しています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 6,
-    "question": "日経エンタテインメント！が「2025年エンタメベスト10」などを発表した時期は、2026年7月25日時点から見て、どのタイミングと推測されますか？",
-    "choices": [
-      "2025年末から2026年初頭",
-      "2026年半ば",
-      "2025年春",
-      "2026年末"
-    ],
-    "answer": "2025年末から2026年初頭",
-    "explanation": "最新のニュースによると、「2025年エンタメベスト10」という名称から、通常は対象年度の終わりに合わせて発表されるため、2025年末から2026年初頭の発表と推測されます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 6,
-    "question": "AmazonのPrime Videoが2026年6月に新着配信コンテンツを発表したことから、Amazonがエンターテインメント業界で強化している分野は何ですか？",
-    "choices": [
-      "ストリーミングサービス",
-      "映画館運営",
-      "音楽ライブイベント",
-      "ゲーム機開発"
-    ],
-    "answer": "ストリーミングサービス",
-    "explanation": "2026年6月のニュースによると、Prime Videoの新着コンテンツ発表は、Amazonがストリーミングサービスを強化していることを示しています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 6,
-    "question": "メディア・エンターテインメント分野における生成系AI市場の2025年から2036年までの予測期間で、市場規模が約50倍に拡大すると予測されていることから、エンタメ業界でAIの導入が特に期待される分野は何ですか？",
-    "choices": [
-      "コンテンツ制作の効率化とパーソナライズされた体験の提供",
-      "チケット販売システムの自動化のみ",
-      "芸能人のマネジメント業務のみ",
-      "映画館の清掃作業の自動化"
-    ],
-    "answer": "コンテンツ制作の効率化とパーソナライズされた体験の提供",
-    "explanation": "最新の市場予測によると、生成系AIはコンテンツ制作の効率化（脚本、音楽、映像など）と、ユーザー個々に最適化されたパーソナライズされた体験の提供において特に大きな期待が寄せられています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 6,
-    "question": "ぴあがフィリピン発P-POPグループ「VXON」の日本国内独占エージェントに就任したことは、日本のエンタメ市場において、どのような新しいビジネスモデルの可能性を切り開くと考えられますか？",
-    "choices": [
-      "海外アーティストの日本向けローカライズコンテンツ開発",
-      "日本のアーティストの海外進出に特化",
-      "国内アーティストの育成のみ",
-      "海外コンテンツの輸入を制限する"
-    ],
-    "answer": "海外アーティストの日本向けローカライズコンテンツ開発",
-    "explanation": "最新のニュースによると、海外アーティストの独占エージェントとなることで、日本市場のニーズに合わせたローカライズされたコンテンツ開発（例えば日本語楽曲制作や日本でのファンイベント企画など）のビジネスモデルが期待されます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 6,
-    "question": "映画『ハイファイブ！』の『臓器移植』で超能力を得るという設定は、SF映画において、どのような「人間とは何か」という問いを観客に投げかけると考えられますか？",
-    "choices": [
-      "肉体の限界と精神の可能性、そして科学と倫理の境界線",
-      "純粋な科学技術の進歩のみ",
-      "超能力の戦闘能力のみ",
-      "人間と動物の違い"
-    ],
-    "answer": "肉体の限界と精神の可能性、そして科学と倫理の境界線",
-    "explanation": "最新のニュースによると、臓器移植と超能力という組み合わせは、肉体の限界、精神の可能性、そして科学技術と倫理の境界線といった「人間とは何か」という深い問いを観客に投げかけるテーマを内包しています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 6,
-    "question": "AMCエンターテインメントホールディングスが2026年度第2四半期の決算を発表したことは、映画館業界の今後の動向を予測する上で、どのような情報が特に注目されると考えられますか？",
-    "choices": [
-      "観客動員数、興行収入、チケット単価、飲食売上",
-      "映画の製作費用のみ",
-      "俳優の出演料のみ",
-      "映画館の従業員数"
-    ],
-    "answer": "観客動員数、興行収入、チケット単価、飲食売上",
-    "explanation": "最新のニュースによると、映画館業界の決算発表では、観客動員数、興行収入、チケット単価、飲食売上などが、業界の収益性と今後の動向を予測する上で特に注目される情報です。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 6,
-    "question": "リヤドの「Ress Gaming Center」が「エンターテインメントに新たな風を吹き込む」と報じられましたが、これはサウジアラビアにおける若年層のエンタメ消費行動にどのような変化をもたらすと期待されますか？",
-    "choices": [
-      "デジタルゲームやeスポーツへの関心と参加の増加",
-      "伝統的なスポーツ観戦への移行",
-      "映画館での鑑賞の減少",
-      "音楽ライブイベントへの参加の減少"
-    ],
-    "answer": "デジタルゲームやeスポーツへの関心と参加の増加",
-    "explanation": "最新のニュースによると、最先端のゲーミングセンターの開設は、サウジアラビアの若年層がデジタルゲームやeスポーツにより深く関心を持ち、参加するようになるというエンタメ消費行動の変化をもたらすと期待されます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 6,
-    "question": "ユヴェントスとトリノ工科大学が共同でスタートさせる修士課程が「International」であることは、スポーツとエンタメ業界における人材育成において、どのような目標を掲げていると考えられますか？",
-    "choices": [
-      "グローバルな視点とネットワークを持つリーダーの育成",
-      "国内市場に特化した人材の育成",
-      "特定のスポーツ分野の専門家育成のみ",
-      "学術研究者のみの育成"
-    ],
-    "answer": "グローバルな視点とネットワークを持つリーダーの育成",
-    "explanation": "最新のニュースによると、「International Executive Master」という名称は、グローバルな視点とネットワークを持ち、国際的なスポーツ・エンタメ業界で活躍できるリーダーの育成を目標としていると考えられます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 6,
-    "question": "Sony Pictures Entertainmentが「CinemaCon 2026」で最新作品情報を一挙に公開したことは、映画館業界が映画スタジオに期待する役割としてどのようなものがありますか？",
-    "choices": [
-      "魅力的な新作コンテンツの安定供給",
-      "映画館の経営改善支援",
-      "映画館の設備投資",
-      "映画館の宣伝活動の代行"
-    ],
-    "answer": "魅力的な新作コンテンツの安定供給",
-    "explanation": "最新のニュースによると、映画館業界にとって、映画スタジオからの魅力的な新作コンテンツの安定供給は、観客動員を確保し、ビジネスを継続する上で最も重要な期待の一つです。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 6,
-    "question": "『Mr.都市伝説 関暁夫の裏都市伝説』の新作「裏社会を支える資金洗浄」が「タテドラ」で配信開始されたことは、コンテンツのフォーマットに関して、どのような変化を示唆していますか？",
-    "choices": [
-      "モバイル視聴に最適化された短尺・縦型コンテンツの増加",
-      "テレビの大画面視聴に特化した長尺コンテンツの増加",
-      "ラジオドラマ形式の復活",
-      "映画館での上映を前提としたコンテンツ"
-    ],
-    "answer": "モバイル視聴に最適化された短尺・縦型コンテンツの増加",
-    "explanation": "2026年7月のニュースによると、「タテドラ」という縦型動画プラットフォームでの配信は、モバイル視聴に最適化された短尺・縦型コンテンツがエンタメ市場で増加していることを示唆しています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 6,
-    "question": "日経エンタテインメント！が「2025年エンタメベスト10」などを発表したことは、エンタメ業界の動向分析において、どのような情報源の信頼性を示していますか？",
-    "choices": [
-      "専門メディアによる客観的なデータ分析とランキング",
-      "SNS上のインフルエンサーの意見",
-      "一般消費者のアンケート結果のみ",
-      "特定の企業の宣伝資料"
-    ],
-    "answer": "専門メディアによる客観的なデータ分析とランキング",
-    "explanation": "最新のニュースによると、日経エンタテインメント！のような専門メディアが発表するデータ分析とランキングは、エンタメ業界の動向分析において高い信頼性を持つ情報源であることを示しています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 6,
-    "question": "AmazonのPrime Videoが2026年6月に新着配信コンテンツを発表したことは、ストリーミングサービス間の競争において、どのような戦略が重要であることを示唆していますか？",
-    "choices": [
-      "コンテンツの量と質を継続的に向上させること",
-      "価格競争のみに注力すること",
-      "特定のジャンルに特化すること",
-      "広告収入に完全に依存すること"
-    ],
-    "answer": "コンテンツの量と質を継続的に向上させること",
-    "explanation": "2026年6月のニュースによると、定期的な新着コンテンツの発表は、ストリーミングサービス間の競争において、コンテンツの量と質を継続的に向上させることが顧客維持と獲得に重要であることを示唆しています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 7,
-    "question": "メディア・エンターテインメント分野における生成系AI市場の2025年推定値と2036年予測値の桁数を比較した場合、最も大きく異なるのはどの部分ですか？",
-    "choices": [
-      "兆と京",
-      "億と兆",
-      "万と億",
-      "千と万"
-    ],
-    "answer": "兆と京",
-    "explanation": "最新の市場予測によると、2025年が4,100億1,000万米ドル（兆の位なし）、2036年が2京1,453兆1,987億9,000万米ドルであるため、兆の位から京の位へと大きく桁が異なります。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 7,
-    "question": "ぴあがフィリピン発P-POPグループ「VXON」の日本国内独占エージェントに就任したことは、日本のエンタメ市場におけるどのようなトレンドを反映していると考えられますか？",
-    "choices": [
-      "アジア圏コンテンツへの関心の高まり",
-      "欧米コンテンツへの回帰",
-      "国内コンテンツへの集中",
-      "クラシック音楽の人気再燃"
-    ],
-    "answer": "アジア圏コンテンツへの関心の高まり",
-    "explanation": "最新のニュースによると、フィリピンのP-POPグループが日本の大手エージェントと契約することは、日本のエンタメ市場でアジア圏コンテンツへの関心が高まっているトレンドを反映していると考えられます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 7,
-    "question": "映画『ハイファイブ！』が「臓器移植」で超能力を得るという設定は、一般的なヒーロー映画の起源と比べてどのような点でユニークですか？",
-    "choices": [
-      "科学的事故や突然変異ではなく、医療行為が起点",
-      "生まれつきの能力である点",
-      "動物からの感染が原因である点",
-      "古代の魔法によるものである点"
-    ],
-    "answer": "科学的事故や突然変異ではなく、医療行為が起点",
-    "explanation": "最新のニュースによると、映画『ハイファイブ！』は臓器移植が超能力のきっかけであるため、科学的事故や突然変異といった一般的なヒーローの起源とは異なる点でユニークです。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 7,
-    "question": "SMエンタテインメントが開催する「SMRUN 26」は10月3日と報じられましたが、このイベントの性格として最も合致するのは何ですか？",
-    "choices": [
-      "ファン参加型のランニングイベント",
-      "新曲発表会",
-      "企業説明会",
-      "映画のプレミア試写会"
-    ],
-    "answer": "ファン参加型のランニングイベント",
-    "explanation": "最新のニュースによると、「SMRUN」という名称から、ファンが参加するランニングイベントである可能性が高いです。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 7,
-    "question": "リヤドの「Ress Gaming Center」がエンターテインメントに新たな風を吹き込むと報じられましたが、これはサウジアラビアの「ビジョン2030」のような国家戦略とどのように関連していると考えられますか？",
-    "choices": [
-      "経済の多角化と若者への投資の一環",
-      "石油収入の増加に直接貢献",
-      "伝統的な社会構造の維持が目的",
-      "海外からの観光客誘致とは無関係"
-    ],
-    "answer": "経済の多角化と若者への投資の一環",
-    "explanation": "最新のニュースによると、サウジアラビアは「ビジョン2030」で経済の多角化と観光・エンタメ産業の育成を掲げており、ゲーミングセンターの開設はその一環と考えられます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 7,
-    "question": "ユヴェントスとトリノ工科大学が共同で修士課程をスタートさせることは、プロスポーツクラブが大学と連携する目的として、どのような効果が期待されますか？",
-    "choices": [
-      "スポーツビジネスにおける学術的知見の導入",
-      "選手の学業成績向上",
-      "スタジアムの芝生管理技術の向上",
-      "チームの戦術開発"
-    ],
-    "answer": "スポーツビジネスにおける学術的知見の導入",
-    "explanation": "最新のニュースによると、プロスポーツクラブと大学が共同で修士課程をスタートさせることは、スポーツビジネスにおける学術的知見の導入と人材育成の効果が期待されます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 7,
-    "question": "Sony Pictures Entertainmentが「CinemaCon 2026」で最新作品情報を一挙に公開した時期は、2026年7月25日時点から見て、どのような意味合いを持ちますか？",
-    "choices": [
-      "すでに開催された過去のイベント",
-      "これから開催される未来のイベント",
-      "現在進行中のイベント",
-      "毎年同じ時期に開催される定期イベント"
-    ],
-    "answer": "すでに開催された過去のイベント",
-    "explanation": "最新のニュースによると、「CinemaCon 2026」で「公開」と過去形で報じられていることから、2026年7月25日時点ではすでに開催されたイベントと解釈されます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 7,
-    "question": "『Mr.都市伝説 関暁夫の裏都市伝説』の新作「裏社会を支える資金洗浄」が全13話で配信開始されたことから、このシリーズのコンテンツ消費形態としてどのような特徴が考えられますか？",
-    "choices": [
-      "短尺で手軽に視聴できる",
-      "長時間の連続ドラマとして視聴する",
-      "一度にまとめて購入する",
-      "テレビでの放送を待つ"
-    ],
-    "answer": "短尺で手軽に視聴できる",
-    "explanation": "2026年7月のニュースによると、「タテドラ」での配信と全13話という構成から、スマートフォンなどで短尺で手軽に視聴されることを想定していると考えられます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 7,
-    "question": "渡邊渚が『REAL VALUE』を欠席したニュースで「緊急搬送」という言葉が使われたことから、彼女の健康状態についてどのような状況が示唆されますか？",
-    "choices": [
-      "突発的な体調不良による緊急事態",
-      "事前に計画された休暇",
-      "軽い風邪による欠席",
-      "番組制作上の都合"
-    ],
-    "answer": "突発的な体調不良による緊急事態",
-    "explanation": "最新のニュースによると、「緊急搬送」という表現は、突発的かつ深刻な体調不良によって医療機関に運ばれたことを示唆しています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 7,
-    "question": "AMCエンターテインメントホールディングスが2026年度第2四半期の決算を発表したことから、この情報が投資家にとってどのような意味を持ちますか？",
-    "choices": [
-      "企業の財務状況と業績を評価する重要な指標",
-      "映画の興行収入を予測するデータ",
-      "映画館の座席数に関する統計",
-      "映画館での飲食売上に関する詳細情報"
-    ],
-    "answer": "企業の財務状況と業績を評価する重要な指標",
-    "explanation": "最新のニュースによると、決算発表は企業の財務状況や業績を投資家が評価するための重要な情報源です。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 7,
-    "question": "メディア・エンターテインメント分野における生成系AI市場の2025年推定値と2036年予測値の間の成長率が非常に高いことから、この市場はどのような特性を持つと考えられますか？",
-    "choices": [
-      "技術革新が市場を牽引する高成長市場",
-      "成熟期に入り成長が鈍化する市場",
-      "政府規制によって成長が抑制される市場",
-      "需要が限定され供給過剰となる市場"
-    ],
-    "answer": "技術革新が市場を牽引する高成長市場",
-    "explanation": "最新の市場予測によると、わずか11年間で市場規模が約50倍に拡大するという予測は、技術革新が市場を強力に牽引する、非常に高い成長特性を持つ市場であることを示しています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 7,
-    "question": "ぴあがフィリピン発P-POPグループ「VXON」の日本国内独占エージェントに就任したことは、日本のエンタメ業界が今後、どのようなリスクマネジメントを考慮する必要があることを示唆していますか？",
-    "choices": [
-      "海外コンテンツの文化的な受容性や多様なファン層への対応",
-      "国内アーティストとの競合激化",
-      "海外アーティストの言語学習支援",
-      "海外アーティストのビザ取得支援"
-    ],
-    "answer": "海外コンテンツの文化的な受容性や多様なファン層への対応",
-    "explanation": "最新のニュースによると、海外アーティストを導入する際には、日本の文化的な背景や多様なファン層への受容性を考慮し、適切なローカライズやプロモーション戦略を立てるリスクマネジメントが重要となります。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 7,
-    "question": "映画『ハイファイブ！』の『臓器移植』で超能力を得るという設定は、SFエンタテインメントにおいて、どのような物語の深みを加えると考えられますか？",
-    "choices": [
-      "科学と人間の倫理的な葛藤や、アイデンティティの探求",
-      "単純な善悪二元論",
-      "コミカルな日常描写",
-      "歴史的事件の再現"
-    ],
-    "answer": "科学と人間の倫理的な葛藤や、アイデンティティの探求",
-    "explanation": "最新のニュースによると、臓器移植と超能力の組み合わせは、科学の進歩と人間の倫理的な葛藤、そして移植された能力が自己のアイデンティティにどう影響するかといった物語の深みを加えると考えられます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 7,
-    "question": "SMエンタテインメントが「SMRUN 26」を10月3日に開催すると報じられましたが、K-POP業界において、このようなオフラインイベントの開催が特に重要視される理由は何ですか？",
-    "choices": [
-      "デジタルでは体験できないファンとの直接的な交流機会の提供",
-      "新曲の売り上げを最大化するためのみ",
-      "アーティストの海外ツアーを代替するため",
-      "オンラインコンテンツの収益性が低いから"
-    ],
-    "answer": "デジタルでは体験できないファンとの直接的な交流機会の提供",
-    "explanation": "最新のニュースによると、デジタル化が進む現代においても、ファンがアーティストと直接交流できるオフラインイベントは、デジタルでは得られない特別な体験を提供し、ファンエンゲージメントを深める上で特に重要視されています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 7,
-    "question": "リヤドの「Ress Gaming Center」が「エンターテインメントに新たな風を吹き込む」と報じられたことは、サウジアラビアの経済多角化戦略において、どのような位置づけにあると考えられますか？",
-    "choices": [
-      "非石油部門の成長を促すための主要な投資分野",
-      "石油産業への依存を強化する",
-      "伝統的な産業の保護を目的とする",
-      "海外からの投資を抑制する"
-    ],
-    "answer": "非石油部門の成長を促すための主要な投資分野",
-    "explanation": "最新のニュースによると、ゲーミングセンターの開設は、サウジアラビアが石油依存からの脱却を目指す経済多角化戦略の一環として、非石油部門、特にエンタメ産業への主要な投資分野と位置付けられていると考えられます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 7,
-    "question": "ユヴェントスとトリノ工科大学が共同で開始する修士課程「International Executive Master in Systems Thinking for Sport & Entertainment」は、スポーツとエンタメ業界の未来において、どのような人材ニーズの高まりを反映していますか？",
-    "choices": [
-      "複雑な問題解決能力と全体を俯瞰する視点を持つリーダー",
-      "単一分野に特化した専門家",
-      "過去の成功事例を模倣する人材",
-      "技術開発のみに注力する人材"
-    ],
-    "answer": "複雑な問題解決能力と全体を俯瞰する視点を持つリーダー",
-    "explanation": "最新のニュースによると、システム思考を取り入れた国際的な修士課程は、スポーツとエンタメ業界が直面する複雑な課題を解決し、全体を俯瞰して戦略を立てられるリーダーシップを持つ人材へのニーズの高まりを反映しています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 7,
-    "question": "Sony Pictures Entertainmentが「CinemaCon 2026」で最新作品情報を一挙に公開したことは、映画スタジオと映画館の関係性において、どのような協力関係を構築しようとしていると読み取れますか？",
-    "choices": [
-      "互恵的なパートナーシップによる業界全体の活性化",
-      "スタジオが映画館を支配する関係",
-      "映画館がスタジオの指示に従う関係",
-      "完全に独立した関係"
-    ],
-    "answer": "互恵的なパートナーシップによる業界全体の活性化",
-    "explanation": "最新のニュースによると、映画スタジオが映画館事業者向けに情報公開を行うことは、互恵的なパートナーシップを構築し、新作の成功を通じて業界全体を活性化させようとする意図が読み取れます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 7,
-    "question": "『Mr.都市伝説 関暁夫の裏都市伝説』の新作「裏社会を支える資金洗浄」が「タテドラ」で全13話配信開始されたことは、コンテンツの制作・配信における新しいトレンドとしてどのような特徴がありますか？",
-    "choices": [
-      "スマートフォンでの視聴を前提としたコンテンツの短尺化とシリーズ化",
-      "テレビでの長編ドラマ制作への回帰",
-      "映画館での一挙公開",
-      "ラジオでの連続ドラマ制作"
-    ],
-    "answer": "スマートフォンでの視聴を前提としたコンテンツの短尺化とシリーズ化",
-    "explanation": "2026年7月のニュースによると、「タテドラ」での全13話配信は、スマートフォンでの視聴を前提とした短尺でシリーズ化されたコンテンツ制作・配信という新しいトレンドを示しています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 7,
-    "question": "日経エンタテインメント！が「2025年エンタメベスト10」などを発表したことは、エンタメ業界におけるコンテンツのヒット要因分析において、どのような情報が重要であると考えられますか？",
-    "choices": [
-      "ジャンルごとのデータ分析と年間ランキング",
-      "個人の感情的な評価のみ",
-      "特定のインフルエンサーの影響力のみ",
-      "広告費の額のみ"
-    ],
-    "answer": "ジャンルごとのデータ分析と年間ランキング",
-    "explanation": "最新のニュースによると、日経エンタテインメント！がジャンルごとの年間ヒットランキングやデータ分析を公開することは、客観的なデータに基づいたコンテンツのヒット要因分析に不可欠な情報であると考えられます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 7,
-    "question": "AmazonのPrime Videoが2026年6月に新着配信コンテンツを発表したことは、ストリーミングサービスの普及がエンタメ業界全体に与える影響として、どのようなものがありますか？",
-    "choices": [
-      "コンテンツ消費の多様化と視聴機会の増加",
-      "映画館での鑑賞機会の減少",
-      "テレビ放送の完全な廃止",
-      "音楽ライブイベントの減少"
-    ],
-    "answer": "コンテンツ消費の多様化と視聴機会の増加",
-    "explanation": "2026年6月のニュースによると、Prime Videoのようなストリーミングサービスの新着コンテンツ発表は、ユーザーが様々なコンテンツをいつでもどこでも視聴できる機会を増やし、コンテンツ消費の多様化を促進しています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 8,
-    "question": "メディア・エンターテインメント分野における生成系AI市場の2025年推定値が4,100億1,000万米ドルであるのに対し、2036年予測値が2京1,453兆1,987億9,000万米ドルであることから、この予測期間における年平均成長率（CAGR）は非常に高いと推測されますが、その要因として考えられるのは何ですか？",
-    "choices": [
-      "AI技術の急速な進化とエンタメ業界への応用拡大",
-      "伝統的なエンタメ市場の縮小",
-      "AI開発にかかるコストの低減",
-      "政府によるAI規制の緩和"
-    ],
-    "answer": "AI技術の急速な進化とエンタメ業界への応用拡大",
-    "explanation": "最新の市場予測によると、市場規模が桁違いに成長する予測は、AI技術の急速な進化とそれがエンタメ業界の様々な分野に応用されることによるものと考えられます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 8,
-    "question": "ぴあがP-POPグループ「VXON」の日本国内独占エージェントに就任したことは、日本のエンタメ企業がグローバル市場においてどのような戦略をとっていることを示唆していますか？",
-    "choices": [
-      "海外の有望なコンテンツの発掘と日本市場への導入",
-      "日本コンテンツの海外輸出に特化",
-      "国内市場のみに注力",
-      "他業種への多角化"
-    ],
-    "answer": "海外の有望なコンテンツの発掘と日本市場への導入",
-    "explanation": "最新のニュースによると、ぴあがフィリピンのP-POPグループを日本市場に導入することは、海外の有望なコンテンツを積極的に取り込むグローバル戦略の一環と見なせます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 8,
-    "question": "映画『ハイファイブ！』が「超覚醒ビジュアル＆超スーパー特報」という形でプロモーションを展開していることから、この映画がターゲットとしている層はどのようなものと推測されますか？",
-    "choices": [
-      "若年層を中心としたアクション・ヒーロー映画ファン",
-      "高齢層向けの人間ドラマファン",
-      "ドキュメンタリー映画愛好家",
-      "幼児向けの教育アニメファン"
-    ],
-    "answer": "若年層を中心としたアクション・ヒーロー映画ファン",
-    "explanation": "最新のニュースによると、「超能力」「ヒーロー」「超覚醒ビジュアル」「超スーパー特報」といったキーワードから、若年層を中心としたアクション・ヒーロー映画ファンをターゲットにしていると推測されます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 8,
-    "question": "SMエンタテインメントが「SMRUN 26」を10月3日に開催すると報じられましたが、このようなファンイベントはK-POPアーティストとファンの関係性においてどのような役割を果たしますか？",
-    "choices": [
-      "ファンエンゲージメントの強化とコミュニティ形成",
-      "新曲の売り上げ促進のみ",
-      "アーティストのプライベート公開",
-      "ファンからの資金調達"
-    ],
-    "answer": "ファンエンゲージメントの強化とコミュニティ形成",
-    "explanation": "最新のニュースによると、ファン参加型のイベントは、アーティストとファンの直接的な交流を通じて、ファンエンゲージメントを強化し、コミュニティを形成する重要な役割を果たします。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 8,
-    "question": "リヤドの「Ress Gaming Center」の開設が「エンターテインメントに新たな風を吹き込む」と報じられましたが、これはサウジアラビアにおけるエンタメ産業の発展において、どのような段階にあることを示唆していますか？",
-    "choices": [
-      "黎明期から成長期への移行",
-      "成熟期",
-      "衰退期",
-      "停滞期"
-    ],
-    "answer": "黎明期から成長期への移行",
-    "explanation": "最新のニュースによると、新しい施設が「新たな風を吹き込む」と報じられることは、まだ発展途上にあり、黎明期から成長期へと移行している段階であることを示唆しています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 8,
-    "question": "ユヴェントスとトリノ工科大学が共同で開始する修士課程「International Executive Master in Systems Thinking for Sport & Entertainment」は、どのような専門性を持つ人材の輩出を目指していますか？",
-    "choices": [
-      "スポーツとエンタメ業界を横断的に理解し、システム思考で課題を解決できる人材",
-      "特定のスポーツ分野の選手育成に特化した人材",
-      "エンタメ業界のマーケティング戦略のみに特化した人材",
-      "大学の研究者としてのみ活動する人材"
-    ],
-    "answer": "スポーツとエンタメ業界を横断的に理解し、システム思考で課題を解決できる人材",
-    "explanation": "最新のニュースによると、修士課程の名称から、スポーツとエンタメの両分野を横断し、システム思考を用いて複雑な課題を解決できるリーダーシップを持つ人材の育成を目指していると解釈されます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 8,
-    "question": "Sony Pictures Entertainmentが「CinemaCon 2026」で最新作品情報を一挙に公開したことは、同社が今後どのような作品群に注力していく可能性が高いことを示唆していますか？",
-    "choices": [
-      "劇場公開を前提とした大規模映画",
-      "ストリーミング配信専用の小規模作品",
-      "テレビドラマシリーズ",
-      "ドキュメンタリー映画"
-    ],
-    "answer": "劇場公開を前提とした大規模映画",
-    "explanation": "最新のニュースによると、CinemaConは映画館事業者向けのイベントであるため、Sony Pictures Entertainmentが劇場公開を前提とした大規模な映画作品に今後も注力していく可能性が高いことを示唆しています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 8,
-    "question": "『Mr.都市伝説 関暁夫の裏都市伝説』の新作「裏社会を支える資金洗浄」が「タテドラ」で配信開始されたことで、コンテンツ制作側がどのような視聴者層を意識していると考えられますか？",
-    "choices": [
-      "スマートフォンでの視聴を好む若年層",
-      "テレビの大画面で視聴する層",
-      "映画館で鑑賞する層",
-      "ラジオで聴取する層"
-    ],
-    "answer": "スマートフォンでの視聴を好む若年層",
-    "explanation": "2026年7月のニュースによると、「タテドラ」という縦型動画プラットフォームでの配信は、スマートフォンでの視聴を好む若年層を主なターゲットとしていることを示唆しています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 8,
-    "question": "日経エンタテインメント！が「2025年エンタメベスト10」などを発表したことから、エンタメ業界のトレンド分析において、どのような情報源が重要であると考えられますか？",
-    "choices": [
-      "専門メディアによる年間ランキングとデータ分析",
-      "SNS上の個人の感想",
-      "テレビの視聴率データのみ",
-      "映画興行収入のみ"
-    ],
-    "answer": "専門メディアによる年間ランキングとデータ分析",
-    "explanation": "最新のニュースによると、日経エンタテインメント！のような専門メディアが発表する年間ランキングやデータ分析は、エンタメ業界のトレンドを把握する上で重要な情報源であると考えられます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 8,
-    "question": "AmazonのPrime Videoが2026年6月に新着配信コンテンツを発表しましたが、これは競合する他のストリーミングサービスとの競争において、Amazonがどのような戦略をとっていることを示唆していますか？",
-    "choices": [
-      "定期的なコンテンツ更新による顧客維持と獲得",
-      "価格競争による顧客獲得",
-      "独占コンテンツの配信中止",
-      "無料視聴期間の延長"
-    ],
-    "answer": "定期的なコンテンツ更新による顧客維持と獲得",
-    "explanation": "2026年6月のニュースによると、定期的な新着コンテンツの発表は、顧客を飽きさせずに維持し、新規顧客を獲得するための主要な戦略の一つと考えられます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 8,
-    "question": "メディア・エンターテインメント分野における生成系AI市場の2025年から2036年までの予測期間で、市場規模が約50倍に拡大すると予測されていることから、この市場がもたらす社会全体への影響として最も大きいものは何ですか？",
-    "choices": [
-      "コンテンツの民主化とクリエイターエコノミーの変革",
-      "既存のエンタメ企業の独占強化",
-      "AI技術開発の停滞",
-      "消費者のコンテンツ離れ"
-    ],
-    "answer": "コンテンツの民主化とクリエイターエコノミーの変革",
-    "explanation": "最新の市場予測によると、生成系AI市場の急成長は、誰でもコンテンツを生成できる「コンテンツの民主化」を促進し、クリエイターエコノミーの構造を根本的に変革する可能性を秘めています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 8,
-    "question": "ぴあがP-POPグループ「VXON」の日本国内独占エージェントに就任したことは、日本のエンタメ企業が今後、グローバル市場で競争力を維持・向上させるためにどのような戦略を強化すべきかを示唆していますか？",
-    "choices": [
-      "多様な文化圏のコンテンツを積極的に取り入れ、独自の価値を創出する",
-      "日本国内のコンテンツのみを保護する",
-      "海外市場からの撤退",
-      "特定のジャンルに特化し、他のジャンルを排除する"
-    ],
-    "answer": "多様な文化圏のコンテンツを積極的に取り入れ、独自の価値を創出する",
-    "explanation": "最新のニュースによると、海外の有望なコンテンツを取り入れることは、日本のエンタメ企業がグローバル市場で競争力を維持・向上させるために、多様な文化圏のコンテンツを積極的に取り入れ、それを日本市場向けに独自の価値を加えていく戦略が重要であることを示唆しています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 8,
-    "question": "映画『ハイファイブ！』の『臓器移植』で超能力を得るという設定は、エンタテインメント作品における科学技術の描写が、社会的な認識にどのような影響を与える可能性がありますか？",
-    "choices": [
-      "科学技術の進歩に対する興味や倫理的な問いを一般層に広める",
-      "科学技術に対する不信感を高める",
-      "科学技術の描写が社会的な認識に影響を与えない",
-      "科学技術の危険性のみを強調する"
-    ],
-    "answer": "科学技術の進歩に対する興味や倫理的な問いを一般層に広める",
-    "explanation": "最新のニュースによると、エンタテインメント作品が科学技術（臓器移植、超能力）を題材にすることで、その進歩に対する一般層の興味を喚起し、同時に倫理的な問いを投げかけるきっかけとなる可能性があります。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 8,
-    "question": "SMエンタテインメントが「SMRUN 26」を10月3日に開催すると報じられましたが、K-POP業界におけるファンイベントの多様化は、アーティストのブランディングにおいてどのような効果をもたらしますか？",
-    "choices": [
-      "アーティストの多面的な魅力を引き出し、ファンとの絆を深める",
-      "アーティストのイメージを固定化する",
-      "ファン層を限定する",
-      "アーティストの活動範囲を狭める"
-    ],
-    "answer": "アーティストの多面的な魅力を引き出し、ファンとの絆を深める",
-    "explanation": "最新のニュースによると、ファンイベントの多様化（ランニングイベントなど）は、アーティストの音楽以外の多面的な魅力を引き出し、ファンとの絆を深めることで、より強固なブランディングに繋がります。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 8,
-    "question": "リヤドの「Ress Gaming Center」が「エンターテインメントに新たな風を吹き込む」と報じられたことは、中東地域におけるエンタメ産業の発展において、どのような波及効果が期待されますか？",
-    "choices": [
-      "他の湾岸諸国へのゲーミング施設の拡大と投資の誘引",
-      "中東全域での伝統芸能の復活",
-      "ゲーム開発企業の海外移転",
-      "エンタメ産業全体の停滞"
-    ],
-    "answer": "他の湾岸諸国へのゲーミング施設の拡大と投資の誘引",
-    "explanation": "最新のニュースによると、リヤドでの革新的なゲーミングセンターの成功は、中東地域全体のエンタメ産業、特にゲーミング分野における他の湾岸諸国への施設の拡大や投資の誘引といった波及効果が期待されます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 8,
-    "question": "ユヴェントスとトリノ工科大学が共同で開始する修士課程「International Executive Master in Systems Thinking for Sport & Entertainment」は、スポーツとエンタメ業界の融合がもたらす最も重要な価値は何だと考えられますか？",
-    "choices": [
-      "両業界の知見を統合し、新たな価値創造と持続可能な成長を促進する",
-      "スポーツ業界の収益をエンタメ業界が吸収する",
-      "エンタメ業界がスポーツ業界の課題を全て解決する",
-      "両業界が完全に独立して発展する"
-    ],
-    "answer": "両業界の知見を統合し、新たな価値創造と持続可能な成長を促進する",
-    "explanation": "最新のニュースによると、この修士課程は、スポーツとエンタメという異なる業界の知見を統合し、システム思考を通じて、両業界に新たな価値を創造し、持続可能な成長を促進することを最も重要な価値としています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 8,
-    "question": "Sony Pictures Entertainmentが「CinemaCon 2026」で最新作品情報を一挙に公開したことは、映画業界の興行収入にどのような影響を与えることを狙っていますか？",
-    "choices": [
-      "映画館事業者への早期情報提供で、魅力的な新作への期待を高め、興行収入を最大化する",
-      "映画館の数を減らすことで興行収入を上げる",
-      "映画のチケット価格を大幅に引き下げる",
-      "宣伝費用を削減して興行収入を増やす"
-    ],
-    "answer": "映画館事業者への早期情報提供で、魅力的な新作への期待を高め、興行収入を最大化する",
-    "explanation": "最新のニュースによると、CinemaConでの新作情報公開は、映画館事業者に対して早期に魅力的な新作ラインナップを提示し、期待感を高めることで、最終的に興行収入の最大化に繋げることを狙っています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 8,
-    "question": "『Mr.都市伝説 関暁夫の裏都市伝説』の新作「裏社会を支える資金洗浄」が「タテドラ」で配信開始されたことは、コンテンツの「拡散性」という観点から、どのようなメリットをもたらすと期待されますか？",
-    "choices": [
-      "スマートフォンユーザーによるSNSでの手軽な共有と話題化",
-      "テレビでの視聴者層への限定的な拡散",
-      "紙媒体での情報拡散",
-      "映画館での口コミによる拡散"
-    ],
-    "answer": "スマートフォンユーザーによるSNSでの手軽な共有と話題化",
-    "explanation": "2026年7月のニュースによると、縦型動画はスマートフォンユーザーがSNSで手軽に共有しやすいため、コンテンツの拡散性を高め、話題化を促進するメリットが期待されます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 8,
-    "question": "日経エンタテインメント！が「2025年エンタメベスト10」などを発表したことは、エンタメ業界における「コンテンツの価値評価」という観点から、どのような役割を果たしますか？",
-    "choices": [
-      "客観的な指標を提供し、コンテンツの市場価値を可視化する",
-      "特定のコンテンツを過大評価する",
-      "コンテンツの価値評価を完全に否定する",
-      "個人の主観的な評価のみを重視する"
-    ],
-    "answer": "客観的な指標を提供し、コンテンツの市場価値を可찬가지化する",
-    "explanation": "最新のニュースによると、年間ランキングやデータ分析は、客観的な指標を提供することで、コンテンツの市場価値や社会的な影響力を可視化し、業界全体のコンテンツ評価に貢献します。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 8,
-    "question": "AmazonのPrime Videoが2026年6月に新着配信コンテンツを発表したことは、エンタメ業界における「視聴者の選択肢の多様化」という点で、どのような影響を与えますか？",
-    "choices": [
-      "視聴者が自分の好みやライフスタイルに合わせて多様なコンテンツを選べるようになる",
-      "視聴者の選択肢が限定される",
-      "特定のコンテンツしか視聴できなくなる",
-      "視聴者がコンテンツを選べなくなる"
-    ],
-    "answer": "視聴者が自分の好みやライフスタイルに合わせて多様なコンテンツを選べるようになる",
-    "explanation": "2026年6月のニュースによると、Prime Videoのようなストリーミングサービスが定期的に新着コンテンツを発表することは、視聴者が自分の好みやライフスタイルに合わせて、多様なコンテンツを自由に選べるようになるという影響を与えます。"
+    "explanation": "最新のニュースによると、Sony Pictures Entertainmentは米国映画業界最大級のイベント「CinemaCon 2026」で最新作品情報を公開しました。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 9,
-    "question": "メディア・エンターテインメント分野における生成系AI市場の2025年から2036年までの予測期間における市場成長が、他の産業と比較して特に注目される要因は何ですか？",
+    "question": "日経BPから公開された日経エンタテインメント！の発表内容に含まれるのは、「2025年エンタメベスト10」と他に何ですか？",
     "choices": [
-      "創造性や表現の可能性を大きく広げるAIの特性",
-      "エンタメ業界が他の産業よりもAI導入が遅れているため",
-      "AIがエンタメ業界のコストを大幅に削減するため",
-      "エンタメ業界がAI技術の主要な開発元であるため"
+      "7大ジャンル年間ヒットランキングと注目4ジャンルデータ分析2025",
+      "2024年の音楽セールスデータと2026年のトレンド予測",
+      "主要ストリーミングサービスの視聴者動向と広告効果分析",
+      "著名人による年間エンタメ評論と読者アンケート結果"
     ],
-    "answer": "創造性や表現の可能性を大きく広げるAIの特性",
-    "explanation": "最新の市場予測によると、生成系AIはコンテンツ生成において創造性や表現の可能性を大きく広げる特性を持つため、エンタメ分野での市場成長が特に注目されています。"
+    "answer": "7大ジャンル年間ヒットランキングと注目4ジャンルデータ分析2025",
+    "explanation": "最新のニュースによると、日経エンタテインメント！は「2025年エンタメベスト10」を発表し、これには「7大ジャンル年間ヒットランキング」と「注目4ジャンルデータ分析2025」も含まれます。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 9,
-    "question": "ぴあがP-POPグループ「VXON」の日本国内独占エージェントに就任したことは、日本のエンタメ業界におけるコンテンツの多様化という観点から、どのような影響が予測されますか？",
+    "question": "齊藤なぎさが移籍を発表した際、「役者としても、一人の人間としても成長していけるよう頑張ります」というコメントは、どのような意気込みを示していますか？",
     "choices": [
-      "フィリピン発の音楽ジャンルの認知度向上と市場拡大",
-      "K-POP一強体制の確立",
-      "日本のアイドルグループの減少",
-      "欧米音楽の市場占有率低下"
+      "演技力の向上と人間性の深化",
+      "歌唱力とダンススキルの向上",
+      "モデルとしての表現力とクリエイティブな才能の開花",
+      "脚本執筆と演出への挑戦"
     ],
-    "answer": "フィリピン発の音楽ジャンルの認知度向上と市場拡大",
-    "explanation": "最新のニュースによると、日本の大手エージェントがP-POPグループと契約することで、日本市場におけるフィリピン発の音楽ジャンルの認知度が向上し、市場が拡大する可能性が予測されます。"
+    "answer": "演技力の向上と人間性の深化",
+    "explanation": "最新のニュースによると、齊藤なぎさは移籍に際し「役者としても、一人の人間としても成長していけるよう頑張ります」とコメントしました。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 9,
-    "question": "映画『ハイファイブ！』が「臓器移植」で超能力を得るという設定は、SFエンタテインメントにおける倫理的議論をどのように喚起する可能性がありますか？",
+    "question": "AmazonのPrime Videoが新着配信コンテンツを発表した2026年6月のニュースは、どのような媒体で公開されましたか？",
     "choices": [
-      "科学技術の進歩と人間の尊厳に関する問題提起",
-      "移植医療の安全性の問題",
-      "超能力者の社会での役割",
-      "臓器提供者の権利"
+      "About Amazon Japanの公式情報ページ",
+      "Amazonの公式SNSアカウント",
+      "主要なニュースポータルサイト",
+      "専門のエンタメ情報誌"
     ],
-    "answer": "科学技術の進歩と人間の尊厳に関する問題提起",
-    "explanation": "最新のニュースによると、臓器移植が超能力のきっかけとなる設定は、科学技術の進歩とそれに伴う人間の尊厳や倫理的な問題について深く考えさせるテーマを内包している可能性があります。"
+    "answer": "About Amazon Japanの公式情報ページ",
+    "explanation": "最新のニュースによると、AmazonのPrime Videoの2026年6月の新着配信コンテンツ情報はAbout Amazon Japanで公開されました。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 9,
-    "question": "SMエンタテインメントが「SMRUN 26」を10月3日に開催すると報じられましたが、このようなイベントの成功は、K-POPアーティストのグローバル展開においてどのような効果をもたらしますか？",
+    "question": "arabnews.jpが報じたリヤドの「Ress Gaming Center」は、どのような種類の施設ですか？",
     "choices": [
-      "海外ファンとの一体感を醸成し、ブランドロイヤリティを高める",
-      "特定の地域でのみ人気が集中する",
-      "デジタルコンテンツの消費を減少させる",
-      "新たなアーティストのデビューが困難になる"
+      "最新技術を導入したゲーム体験施設",
+      "eスポーツの国際大会開催会場",
+      "伝統的なボードゲームを体験できる施設",
+      "VRアトラクションに特化したテーマパーク"
     ],
-    "answer": "海外ファンとの一体感を醸成し、ブランドロイヤリティを高める",
-    "explanation": "最新のニュースによると、ファン参加型イベントは、海外ファンとの直接的な交流を通じて一体感を醸成し、アーティストへのブランドロイヤリティを高める効果が期待できます。"
+    "answer": "最新技術を導入したゲーム体験施設",
+    "explanation": "最新のニュースによると、リヤドの「Ress Gaming Center」はエンターテインメントに新たな風を吹き込むゲーミングセンターとして紹介されました。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 9,
-    "question": "リヤドの「Ress Gaming Center」が「エンターテインメントに新たな風を吹き込む」と報じられたことは、サウジアラビアの若年層のライフスタイルにどのような変化をもたらす可能性がありますか？",
+    "question": "Mogura VRの週間振り返りXRニュースで報じられた、Ubisoftに関連するゲーム開発の終了が確認された企業はどこですか？",
     "choices": [
-      "デジタルエンターテインメントの選択肢が増え、余暇活動が多様化する",
-      "伝統的な娯楽のみに集中するようになる",
-      "海外への移住者が増加する",
-      "スポーツ観戦の機会が減少する"
+      "Red Storm Entertainment",
+      "Naughty Dog",
+      "Insomniac Games",
+      "Sucker Punch Productions"
     ],
-    "answer": "デジタルエンターテインメントの選択肢が増え、余暇活動が多様化する",
-    "explanation": "最新のニュースによると、最先端のゲーミングセンターの開設は、サウジアラビアの若年層にとってデジタルエンターテインメントの選択肢を増やし、余暇活動の多様化を促進する可能性があります。"
+    "answer": "Red Storm Entertainment",
+    "explanation": "最新のニュースによると、週間振り返りXRニュースで、Red Storm Entertainmentのゲーム開発終了がUbisoftに関連して報じられました。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 9,
-    "question": "ユヴェントスとトリノ工科大学が共同で開始する修士課程「International Executive Master in Systems Thinking for Sport & Entertainment」は、スポーツ界におけるどのような課題解決に貢献することが期待されますか？",
+    "question": "jig.jpのニュースで、B Inc.が担当した「toio™」関連製品の役割は何でしたか？",
     "choices": [
-      "スポーツ組織の複雑な経営課題や持続可能性の実現",
-      "選手の身体能力向上のみ",
-      "試合の勝敗予測の精度向上",
-      "スポーツ用品の開発"
+      "最新作「トイオ・プレイグラウンド コマンド」向けのプログラミング教材の製造・販売",
+      "toio™本体のハードウェア設計",
+      "toio™用ゲームコンテンツの企画開発",
+      "toio™のグローバルマーケティング戦略の策定"
     ],
-    "answer": "スポーツ組織の複雑な経営課題や持続可能性の実現",
-    "explanation": "最新のニュースによると、システム思考を導入した修士課程は、スポーツ組織が直面する複雑な経営課題や持続可能性の実現に向けた専門知識とリーダーシップを提供することが期待されます。"
+    "answer": "最新作「トイオ・プレイグラウンド コマンド」向けのプログラミング教材の製造・販売",
+    "explanation": "最新のニュースによると、B Inc.はソニー・インタラクティブエンタテインメントが発売する「toio™」の最新作「トイオ・プレイグラウンド コマンド」向けプログラミング教材『プログラミングブック』を製造・販売しています。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 9,
-    "question": "Sony Pictures Entertainmentが「CinemaCon 2026」で最新作品情報を一挙に公開したことは、映画配給の戦略において、どのような重要性を持つと考えられますか？",
+    "question": "『PASSION ― 北斎の描く夢 ―』でメインビジュアルが解禁された出演者は次のうち誰ですか？",
     "choices": [
-      "映画館との連携を強化し、効果的な上映計画を構築する",
-      "映画配給を自社ストリーミングサービスに限定する",
-      "小規模なインディーズ映画の配給に特化する",
-      "テレビでの独占放送権を優先する"
+      "大貫勇輔",
+      "齊藤なぎさ",
+      "キム・シフン",
+      "LEE YUN SEO"
     ],
-    "answer": "映画館との連携を強化し、効果的な上映計画を構築する",
-    "explanation": "最新のニュースによると、CinemaConは映画館事業者向けのイベントであるため、この場での情報公開は、映画館との連携を強化し、新作の効果的な上映計画を構築する上で極めて重要であると考えられます。"
+    "answer": "大貫勇輔",
+    "explanation": "最新のニュースによると、『PASSION ― 北斎の描く夢 ―』では大貫勇輔、柚希礼音、KELOのメインビジュアルが解禁されました。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 9,
-    "question": "『Mr.都市伝説 関暁夫の裏都市伝説』の新作「裏社会を支える資金洗浄」が「タテドラ」で全13話配信開始されたことは、コンテンツの収益モデルにおいてどのような可能性を示唆していますか？",
+    "question": "『PASSION ― 北斎の描く夢 ―』でメインビジュアルが解禁された出演者は次のうち誰ですか？",
     "choices": [
-      "サブスクリプション型や個別課金型での収益化",
-      "テレビ広告収入への依存",
-      "無料コンテンツとしての提供",
-      "DVD販売のみでの収益化"
+      "大貫勇輔",
+      "齊藤なぎさ",
+      "キム・シフン",
+      "LEE YUN SEO"
     ],
-    "answer": "サブスクリプション型や個別課金型での収益化",
-    "explanation": "2026年7月のニュースによると、縦型動画プラットフォームでの配信は、サブスクリプション型やエピソードごとの個別課金型での収益化モデルに適していると考えられます。"
+    "answer": "大貫勇輔",
+    "explanation": "最新のニュースによると、『PASSION ― 北斎の描く夢 ―』では大貫勇輔、柚希礼音、KELOのメインビジュアルが解禁されました。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 9,
-    "question": "渡邊渚が『REAL VALUE』を「緊急搬送」で欠席し、「地上波レギュラーは2カ月で “降板” の不安」と報じられたことは、タレント活動においてどのようなリスクを示唆していますか？",
+    "question": "ジークスター東京が発表したニュースの内容は何ですか？",
     "choices": [
-      "健康問題がキャリアに与える深刻な影響",
-      "番組内容への不満による自主降板",
-      "ギャラ交渉の決裂",
-      "他の番組への移籍"
+      "退団選手のお知らせ",
+      "新規加入選手のお知らせ",
+      "チームの新スポンサー発表",
+      "新ユニフォーム発表"
     ],
-    "answer": "健康問題がキャリアに与える深刻な影響",
-    "explanation": "最新のニュースによると、「緊急搬送」と「降板の不安」は、タレントの健康問題がテレビ番組出演などのキャリアに深刻な影響を与えるリスクがあることを示唆しています。"
+    "answer": "退団選手のお知らせ",
+    "explanation": "最新のニュースによると、ジークスター東京は「退団選手のお知らせ」を発表しました。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 9,
-    "question": "AmazonのPrime Videoが2026年6月に新着配信コンテンツを発表したことは、エンタメ業界におけるコンテンツ供給の多様化という点でどのような意味合いを持ちますか？",
+    "question": "Sony Pictures Entertainmentが「CinemaCon 2026」で最新作品情報を公開した際、このイベントの規模はどのように説明されましたか？",
     "choices": [
-      "映画、ドラマ、アニメなど幅広いジャンルのコンテンツ提供",
-      "特定のジャンルに特化したコンテンツ提供",
-      "旧作コンテンツの再配信のみ",
-      "テレビ番組の再放送のみ"
+      "米国映画業界最大級のイベント",
+      "世界最大の映画見本市",
+      "アジア太平洋地域の主要な映画イベント",
+      "ハリウッドの年間映画祭の開幕イベント"
     ],
-    "answer": "映画、ドラマ、アニメなど幅広いジャンルのコンテンツ提供",
-    "explanation": "2026年6月のニュースによると、Prime Videoのような大手ストリーミングサービスが定期的に新着コンテンツを発表することは、映画、ドラマ、アニメなど幅広いジャンルのコンテンツを提供し、コンテンツ供給の多様化を促進していることを意味します。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 9,
-    "question": "メディア・エンターテインメント分野における生成系AI市場が2036年までに2京1,453兆1,987億9,000万米ドルという途方もない規模に達すると予測されていることから、この技術がエンタメ業界の「著作権」や「クリエイターの役割」に与える最も深刻な課題は何ですか？",
-    "choices": [
-      "AI生成コンテンツの著作権帰属と、人間のクリエイターのアイデンティティの希薄化",
-      "著作権保護が完全に不要になる",
-      "クリエイターの役割が完全に消滅する",
-      "AIが全てのコンテンツを独占する"
-    ],
-    "answer": "AI生成コンテンツの著作権帰属と、人間のクリエイターのアイデンティティの希薄化",
-    "explanation": "最新の市場予測によると、生成系AIの急成長は、AIが生成したコンテンツの著作権を誰に帰属させるかという問題や、AIが人間のクリエイターの役割を代替することで、そのアイデンティティが希薄化するという深刻な課題をもたらす可能性があります。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 9,
-    "question": "ぴあがP-POPグループ「VXON」の日本国内独占エージェントに就任したことは、日本のエンタメ業界がグローバル化を進める上で、どのような「ソフトパワー」戦略を強化すべきかを示唆していますか？",
-    "choices": [
-      "多様な文化コンテンツを積極的に取り入れ、文化交流を通じて国際的な影響力を高める",
-      "自国の文化コンテンツのみを輸出する",
-      "他国の文化コンテンツを模倣する",
-      "文化交流を制限し、国内市場を保護する"
-    ],
-    "answer": "多様な文化コンテンツを積極的に取り入れ、文化交流を通じて国際的な影響力を高める",
-    "explanation": "最新のニュースによると、海外のコンテンツを取り入れることは、日本のエンタメ業界が多様な文化コンテンツを積極的に取り入れ、文化交流を促進することで、国際的なソフトパワーを高める戦略が重要であることを示唆しています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 9,
-    "question": "映画『ハイファイブ！』の「臓器移植」で超能力を得るという設定は、SFエンタテインメントが「科学技術の未来像」を提示する上で、どのような警鐘を鳴らす可能性がありますか？",
-    "choices": [
-      "倫理的考慮を欠いた科学技術の進歩がもたらす潜在的危険性",
-      "科学技術の進歩は常に人類に恩恵をもたらすという楽観論",
-      "科学技術の発展は不可能であるという悲観論",
-      "科学技術はエンタテインメントとは無関係である"
-    ],
-    "answer": "倫理的考慮を欠いた科学技術の進歩がもたらす潜在的危険性",
-    "explanation": "最新のニュースによると、臓器移植と超能力の組み合わせは、倫理的考慮を欠いた科学技術の進歩が、予期せぬ結果や潜在的な危険性をもたらす可能性があるという警鐘を、エンタテインメントを通じて鳴らす可能性があります。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 9,
-    "question": "SMエンタテインメントが「SMRUN 26」を10月3日に開催すると報じられましたが、K-POP業界におけるファンイベントの「体験価値」の最大化は、どのような「ファン経済」を促進する可能性がありますか？",
-    "choices": [
-      "アーティストへの深い愛着に基づく、多様なグッズやコンテンツへの消費拡大",
-      "ファンがアーティストに無償で労働を提供する",
-      "ファンがアーティストの活動を批判する",
-      "ファンがアーティストを無視する"
-    ],
-    "answer": "アーティストへの深い愛着に基づく、多様なグッズやコンテンツへの消費拡大",
-    "explanation": "最新のニュースによると、ファンイベントによる「体験価値」の最大化は、ファンがアーティストへの深い愛着を形成し、それが多様なグッズ購入、コンテンツ消費、ツアー参加など、広範な「ファン経済」の消費拡大に繋がる可能性があります。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 9,
-    "question": "リヤドの「Ress Gaming Center」が「エンターテインメントに新たな風を吹き込む」と報じられたことは、サウジアラビアの「若年層のエンパワーメント」という観点から、どのような貢献が期待されますか？",
-    "choices": [
-      "若年層に新たなキャリア機会や自己表現の場を提供し、社会参加を促進する",
-      "若年層が海外に流出するのを助長する",
-      "若年層の創造性を抑制する",
-      "若年層が社会から孤立する"
-    ],
-    "answer": "若年層に新たなキャリア機会や自己表現の場を提供し、社会参加を促進する",
-    "explanation": "最新のニュースによると、最新のゲーミングセンターの開設は、若年層にゲームやeスポーツ関連の新たなキャリア機会を提供し、自己表現の場を広げることで、社会参加を促進し、若年層のエンパワーメントに貢献することが期待されます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 9,
-    "question": "ユヴェントスとトリノ工科大学が共同で開始する修士課程「International Executive Master in Systems Thinking for Sport & Entertainment」は、グローバルなスポーツ・エンタメ業界における「持続可能性」という課題にどのように貢献すると考えられますか？",
-    "choices": [
-      "複雑なシステム全体を最適化し、長期的な視点で業界の持続可能性を追求する",
-      "短期的な利益追求のみに焦点を当てる",
-      "環境問題への対応を無視する",
-      "社会的な責任を負わない"
-    ],
-    "answer": "複雑なシステム全体を最適化し、長期的な視点で業界の持続可能性を追求する",
-    "explanation": "最新のニュースによると、システム思考を取り入れた修士課程は、スポーツ・エンタメ業界の複雑なシステム全体を最適化し、経済的、社会的、環境的な側面から長期的な視点で業界の持続可能性を追求することに貢献すると考えられます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 9,
-    "question": "Sony Pictures Entertainmentが「CinemaCon 2026」で最新作品情報を一挙に公開したことは、映画業界における「コンテンツのウィンドウ戦略」という観点から、どのような重要性を持っていますか？",
-    "choices": [
-      "劇場公開を優先し、その後の配信・ソフト化の戦略を最適化する",
-      "劇場公開を完全に廃止し、ストリーミング配信のみに移行する",
-      "全てのコンテンツを同時に劇場公開と配信する",
-      "映画館とストリーミング配信を完全に分離する"
-    ],
-    "answer": "劇場公開を優先し、その後の配信・ソフト化の戦略を最適化する",
-    "explanation": "最新のニュースによると、CinemaConでの情報公開は、劇場公開という最初の「ウィンドウ」を最も重視し、その成功を基盤として、その後のストリーミング配信やソフト化といった「ウィンドウ」戦略全体を最適化する上で極めて重要です。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 9,
-    "question": "『Mr.都市伝説 関暁夫の裏都市伝説』の新作「裏社会を支える資金洗浄」が「タテドラ」で配信開始されたことは、コンテンツの「ユーザー生成コンテンツ（UGC）」との関係性において、どのような可能性を開くと考えられますか？",
-    "choices": [
-      "ユーザーがコンテンツを参考に二次創作や考察動画を制作し、話題を広げる",
-      "ユーザーがコンテンツを無断で複製し、著作権侵害を助長する",
-      "ユーザーがコンテンツに一切関与しない",
-      "ユーザーがコンテンツを批判するのみ"
-    ],
-    "answer": "ユーザーがコンテンツを参考に二次創作や考察動画を制作し、話題を広げる",
-    "explanation": "2026年7月のニュースによると、縦型動画プラットフォームでの配信は、スマートフォンユーザーが手軽に視聴できるため、コンテンツを参考に二次創作や考察動画を制作し、UGCを通じて話題を広げる可能性を開くと考えられます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 9,
-    "question": "日経エンタテインメント！が「2025年エンタメベスト10」などを発表したことは、エンタメ業界における「投資判断」という観点から、どのような情報を提供しますか？",
-    "choices": [
-      "各ジャンルの市場規模や成長性、ヒットの傾向に関する客観的なデータ",
-      "特定の企業の株価予測",
-      "投資家の個人的な意見",
-      "投資判断に不要な情報"
-    ],
-    "answer": "各ジャンルの市場規模や成長性、ヒットの傾向に関する客観的なデータ",
-    "explanation": "最新のニュースによると、年間ランキングやデータ分析は、各エンタメジャンルの市場規模、成長性、ヒットの傾向などに関する客観的なデータを提供することで、投資家が適切な投資判断を行うための重要な情報源となります。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 9,
-    "question": "AmazonのPrime Videoが2026年6月に新着配信コンテンツを発表したことは、エンタメ業界における「パーソナライゼーション」という観点から、どのような影響を与えますか？",
-    "choices": [
-      "視聴履歴や好みに基づくレコメンデーションで、個々のユーザー体験を最適化する",
-      "全てのユーザーに同じコンテンツを強制的に視聴させる",
-      "ユーザーの好みを無視する",
-      "パーソナライゼーション機能を完全に廃止する"
-    ],
-    "answer": "視聴履歴や好みに基づくレコメンデーションで、個々のユーザー体験を最適化する",
-    "explanation": "2026年6月のニュースによると、Prime Videoのようなストリーミングサービスは、新着コンテンツの追加と合わせて、視聴履歴や好みに基づくレコメンデーション機能を活用し、個々のユーザー体験を最適化する「パーソナライゼーション」を強化しています。"
+    "answer": "米国映画業界最大級のイベント",
+    "explanation": "最新のニュースによると、Sony Pictures Entertainmentは米国映画業界最大級のイベント「CinemaCon 2026」で最新作品情報を公開しました。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 10,
-    "question": "メディア・エンターテインメント分野における生成系AI市場の2036年までの予測が2京1,453兆1,987億9,000万米ドルという途方もない規模に達することから、この技術がエンタメ業界のビジネスモデルに与える最も根本的な変革は何ですか？",
+    "question": "『CENTRAL MUSIC & ENTERTAINMENT FESTIVAL 2026』のニュースで言及された内容は、具体的にどの公演に関する情報でしたか？",
     "choices": [
-      "コンテンツの生成、流通、消費のあり方を根本的に再定義する",
-      "既存のコンテンツ制作手法を完全に排除する",
-      "エンタメ業界における人間の役割を完全に不要にする",
-      "コンテンツの著作権保護を不可能にする"
+      "クアラルンプールと台北でのコンサートタイムテーブル",
+      "全アジアツアーの開催都市リスト",
+      "フェスティバル全体のヘッドライナー発表",
+      "チケット販売の先行予約情報"
     ],
-    "answer": "コンテンツの生成、流通、消費のあり方を根本的に再定義する",
-    "explanation": "最新の市場予測によると、生成系AI市場が途方もない規模に成長することは、コンテンツの生成（自動生成）、流通（パーソナライズ）、消費（インタラクティブ性）のあり方を根本的に再定義し、新しいビジネスモデルを創出する可能性を示唆しています。"
+    "answer": "クアラルンプールと台北でのコンサートタイムテーブル",
+    "explanation": "最新のニュースによると、『CENTRAL MUSIC & ENTERTAINMENT FESTIVAL 2026』ではクアラルンプール・台北公演のタイムテーブルが公開されました。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 10,
-    "question": "ぴあがP-POPグループ「VXON」の日本国内独占エージェントに就任したことは、日本のエンタメ業界が今後、東南アジア市場との間でどのような相互作用を促進する可能性がありますか？",
+    "question": "Moomooで言及された$AMCエンターテインメント クラスA (AMC.US)$という情報は、エンターテイメント業界のどのような側面を示唆していますか？",
     "choices": [
-      "コンテンツの相互流入と文化交流の活発化",
-      "日本のコンテンツのみが東南アジアに流入する",
-      "東南アジアのコンテンツが日本市場から排除される",
-      "文化交流が停滞する"
+      "同社の株式が市場で取引されていること",
+      "同社が新しい映画館を開設したこと",
+      "同社が新作映画を公開したこと",
+      "同社が経営戦略を発表したこと"
     ],
-    "answer": "コンテンツの相互流入と文化交流の活発化",
-    "explanation": "最新のニュースによると、日本の大手エージェントがP-POPグループと契約することは、日本のコンテンツが東南アジアへ、東南アジアのコンテンツが日本へと相互に流入し、文化交流が活発化する可能性を促進します。"
+    "answer": "同社の株式が市場で取引されていること",
+    "explanation": "最新のニュースによると、$AMCエンターテインメント クラスA (AMC.US)$は金融市場の株式ティッカーとして言及されました。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 10,
-    "question": "映画『ハイファイブ！』の「臓器移植」で超能力が覚醒するという設定は、エンタテインメント作品が社会に対して持つメッセージ性という観点から、どのような影響を与える可能性がありますか？",
+    "question": "『YOKOSUKA Re:EM CLUB ～ ENTERTAINMENT & MUSIC LIVE ～』のニュースで、出演が決定したアーティストのリストに含まれる3組は何ですか？",
     "choices": [
-      "生命倫理や科学技術の進歩に関する社会的な議論を促す",
-      "臓器移植の拒否反応を助長する",
-      "科学技術の進歩を無条件に肯定する",
-      "エンタテインメント作品の社会性を否定する"
+      "東京スカパラダイスオーケストラ、OKAMOTO‘S、BREIMEN",
+      "ONE OK ROCK、BUMP OF CHICKEN、RADWIMPS",
+      "King Gnu、Official髭男dism、YOASOBI",
+      "[Alexandros]、サカナクション、SEKAI NO OWARI"
     ],
-    "answer": "生命倫理や科学技術の進歩に関する社会的な議論を促す",
-    "explanation": "最新のニュースによると、臓器移植と超能力という組み合わせは、生命倫理や科学技術の進歩といった現代社会の重要なテーマをエンタテインメントを通じて提起し、社会的な議論を促す可能性があります。"
+    "answer": "東京スカパラダイスオーケストラ、OKAMOTO‘S、BREIMEN",
+    "explanation": "最新のニュースによると、『YOKOSUKA Re:EM CLUB』にはスカパラ、OKAMOTO‘S、BREIMENらが出演します。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 10,
-    "question": "SMエンタテインメントが「SMRUN 26」を10月3日に開催すると報じられましたが、このようなオフラインイベントの継続は、デジタル化が進む現代のエンタメ業界においてどのような価値を提供しますか？",
+    "question": "Sony Pictures Entertainmentが「CinemaCon 2026」で最新作品情報を公開した際、このイベントは米国映画業界においてどのような位置づけにあると説明されましたか？",
     "choices": [
-      "デジタルでは得られないリアルな体験と深いファンコミュニティの形成",
-      "デジタルコンテンツの視聴を完全に代替する",
-      "イベント開催にかかるコストを大幅に削減する",
-      "ファン層の高齢化を促進する"
+      "業界最大級のイベント",
+      "新人監督の登竜門",
+      "インディーズ映画専門の祭典",
+      "ドキュメンタリー映画に特化した見本市"
     ],
-    "answer": "デジタルでは得られないリアルな体験と深いファンコミュニティの形成",
-    "explanation": "最新のニュースによると、デジタル化が進む中でもオフラインイベントを継続することは、デジタルコンテンツだけでは得られないリアルな体験を提供し、ファン間の深いコミュニティ形成に貢献する価値があります。"
+    "answer": "業界最大級のイベント",
+    "explanation": "最新のニュースによると、Sony Pictures Entertainmentは米国映画業界最大級のイベント「CinemaCon 2026」で最新作品情報を公開しました。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 10,
-    "question": "リヤドの「Ress Gaming Center」が「エンターテインメントに新たな風を吹き込む」と報じられたことは、サウジアラビアがグローバルなエンタメ市場においてどのような役割を担おうとしていることを示唆していますか？",
+    "question": "日経BPから公開された日経エンタテインメント！の発表内容に含まれるのは、「2025年エンタメベスト10」と他に何ですか？",
     "choices": [
-      "中東におけるエンタメハブとしての地位確立",
-      "伝統文化の発信に特化",
-      "海外エンタメコンテンツの輸入規制",
-      "スポーツイベントの開催を完全に停止する"
+      "「7大ジャンル年間ヒットランキング」と「注目4ジャンルデータ分析2025」",
+      "「日本の映画興行収入トップ10」と「海外ドラマ人気ランキング」",
+      "「音楽配信サービス利用動向」と「ゲーム市場の成長予測」",
+      "「タレントCM出演本数ランキング」と「テレビ番組視聴率トップ20」"
     ],
-    "answer": "中東におけるエンタメハブとしての地位確立",
-    "explanation": "最新のニュースによると、リヤドに最先端のゲーミングセンターがオープンし、エンターテインメントに貢献していることは、サウジアラビアが中東地域におけるエンタメハブとしての地位を確立しようとしていることを示唆しています。"
+    "answer": "「7大ジャンル年間ヒットランキング」と「注目4ジャンルデータ分析2025」",
+    "explanation": "最新のニュースによると、日経エンタテインメント！は「2025年エンタメベスト10」を発表し、これには「7大ジャンル年間ヒットランキング」と「注目4ジャンルデータ分析2025」も含まれます。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 10,
-    "question": "ユヴェントスとトリノ工科大学が共同で開始する修士課程は、スポーツとエンタメ業界の融合という観点から、将来的にどのようなイノベーションを促進する可能性がありますか？",
+    "question": "齊藤なぎさがエヴァーグリーン・エンタテイメントに移籍した際、「役者としても、一人の人間としても成長していけるよう頑張ります」とコメントしたのは、どのような意図を最も明確に示していますか？",
     "choices": [
-      "新たな体験型エンタテインメントやビジネスモデルの創出",
-      "スポーツとエンタメ業界の完全な分離",
-      "スポーツ選手の引退後のキャリア形成のみ",
-      "伝統的なスポーツ観戦方法の維持"
+      "キャリアと人間性の両面での成長への強い決意",
+      "新しい事務所での多角的な活動への意欲",
+      "過去の経験からの脱却と新たな自己発見",
+      "ファンへの感謝と今後の活躍への期待"
     ],
-    "answer": "新たな体験型エンタテインメントやビジネスモデルの創出",
-    "explanation": "最新のニュースによると、スポーツとエンタメを横断する修士課程は、両分野の知識とシステム思考を組み合わせることで、新たな体験型エンタテインメントや革新的なビジネスモデルの創出を促進する可能性があります。"
+    "answer": "キャリアと人間性の両面での成長への強い決意",
+    "explanation": "最新のニュースによると、齊藤なぎさは移籍に際し「役者としても、一人の人間としても成長していけるよう頑張ります」とコメントしました。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 10,
-    "question": "Sony Pictures Entertainmentが「CinemaCon 2026」で最新作品情報を一挙に公開したことは、映画業界における劇場公開とストリーミング配信の共存戦略において、どのようなメッセージを読み取ることができますか？",
+    "question": "AmazonのPrime Videoが2026年6月に新着配信コンテンツを発表したニュースは、どのような媒体で、その情報が提供されましたか？",
     "choices": [
-      "劇場公開が依然として最重要であり、ストリーミングは補完的な役割であるという姿勢",
-      "ストリーミング配信への完全移行を示唆している",
-      "劇場公開を完全に廃止する意向を示している",
-      "映画館とストリーミングが競合関係にあることを強調している"
+      "About Amazon Japanの公式ウェブサイト",
+      "Amazonの公式プレスリリース配信サービス",
+      "主要なエンタメニュースサイトの特報記事",
+      "各国のテレビ局でのCM"
     ],
-    "answer": "劇場公開が依然として最重要であり、ストリーミングは補完的な役割であるという姿勢",
-    "explanation": "最新のニュースによると、映画館事業者向けの最大級イベントで最新作品情報を公開することは、劇場公開が依然として映画ビジネスにおいて最重要であり、ストリーミングは補完的な役割であるというSony Pictures Entertainmentの姿勢を読み取ることができます。"
+    "answer": "About Amazon Japanの公式ウェブサイト",
+    "explanation": "最新のニュースによると、AmazonのPrime Videoの2026年6月の新着配信コンテンツ情報はAbout Amazon Japanで公開されました。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 10,
-    "question": "『Mr.都市伝説 関暁夫の裏都市伝説』の新作「裏社会を支える資金洗浄」が「タテドラ」で配信開始されたことは、コンテンツ制作会社が視聴者のエンゲージメントを高めるためにどのような工夫をしていると考えられますか？",
+    "question": "arabnews.jpが報じたリヤドの「Ress Gaming Center」が「エンターテインメントに新たな風を吹き込む」という表現は、具体的にどのような期待を込めたものですか？",
     "choices": [
-      "モバイルデバイスでの視聴体験に特化したフォーマットの採用",
-      "テレビでの視聴を前提とした長尺コンテンツの制作",
-      "ラジオドラマ形式での配信",
-      "映画館でのイベント開催"
+      "リヤドの娯楽施設に革新的な体験をもたらすこと",
+      "伝統的な中東の娯楽を現代に再解釈すること",
+      "国際的なゲーム大会を誘致し、地域経済を活性化すること",
+      "家族全員が楽しめる多様なエンターテイメントを提供すること"
     ],
-    "answer": "モバイルデバイスでの視聴体験に特化したフォーマットの採用",
-    "explanation": "2026年7月のニュースによると、「タテドラ」という縦型動画プラットフォームでの配信は、スマートフォンを中心としたモバイルデバイスでの視聴体験に特化し、視聴者のエンゲージメントを高める工夫であると考えられます。"
+    "answer": "リヤドの娯楽施設に革新的な体験をもたらすこと",
+    "explanation": "最新のニュースによると、リヤドの「Ress Gaming Center」はエンターテインメントに新たな風を吹き込むとされており、これは革新的な体験を提供することを示唆しています。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 10,
-    "question": "日経エンタテインメント！が「2025年エンタメベスト10」などを発表したことは、エンタメ産業における多様なジャンルの相互作用という観点から、どのような洞察を提供しますか？",
+    "question": "Mogura VRの週間振り返りXRニュースで報じられた、Epic Gamesの大規模レイオフ発表とUbisoft傘下のRed Storm Entertainmentのゲーム開発終了は、ゲーム業界のどのような動向の一部として言及されましたか？",
     "choices": [
-      "各ジャンルが独立して発展するのではなく、相互に影響し合いながら市場を形成している",
-      "特定のジャンルが他の全てのジャンルを圧倒する",
-      "エンタメ市場全体が縮小傾向にあることを示す",
-      "新しいジャンルが全く生まれていないことを示す"
+      "業界再編とコスト削減の動き",
+      "XR技術への投資拡大",
+      "新規IP開発への注力",
+      "グローバル市場での競争激化"
     ],
-    "answer": "各ジャンルが独立して発展するのではなく、相互に影響し合いながら市場を形成している",
-    "explanation": "最新のニュースによると、日経エンタテインメント！が「7大ジャンル年間ヒットランキング」や「注目4ジャンルデータ分析」を公開することは、各エンタメジャンルが独立ではなく、相互に影響し合いながら市場を形成しているという洞察を提供します。"
+    "answer": "業界再編とコスト削減の動き",
+    "explanation": "最新のニュースによると、Epic Gamesの大規模レイオフ発表とRed Storm Entertainmentのゲーム開発終了は、XRニュースの週間振り返りの中でゲーム業界の動向として報じられました。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 10,
-    "question": "AMCエンターテインメントホールディングスが2026年度第2四半期の決算を発表したことは、パンデミック後の映画館産業の回復状況と今後の展望について、どのような示唆を与えますか？",
+    "question": "jig.jpのニュースで、B Inc.がソニー・インタラクティブエンタテインメントが発売する「toio™」の最新作向けに製造・販売しているのは具体的に何ですか？",
     "choices": [
-      "映画館産業が回復基調にあり、持続的な成長を目指している",
-      "映画館産業はパンデミック前の水準に回復していない",
-      "映画館産業が完全にオンライン配信に移行する",
-      "映画館の数が大幅に減少している"
+      "「トイオ・プレイグラウンド コマンド」用のプログラミング教材『プログラミングブック』",
+      "toio™の新しいハードウェア拡張キット",
+      "toio™で遊べる新作ゲームソフトウェア",
+      "toio™本体の限定カラーモデル"
     ],
-    "answer": "映画館産業が回復基調にあり、持続的な成長を目指している",
-    "explanation": "最新のニュースによると、主要な映画館チェーンであるAMCエンターテインメントホールディングスが決算を発表することは、パンデミック後の映画館産業が回復基調にあり、持続的な成長を目指していることを示唆する重要な指標となります。"
+    "answer": "「トイオ・プレイグラウンド コマンド」用のプログラミング教材『プログラミングブック』",
+    "explanation": "最新のニュースによると、B Inc.はソニー・インタラクティブエンタテインメントが発売する「toio™」の最新作「トイオ・プレイグラウンド コマンド」向けプログラミング教材『プログラミングブック』を製造・販売しています。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 10,
-    "question": "メディア・エンターテインメント分野における生成系AI市場が2036年までに2京1,453兆1,987億9,000万米ドルという途方もない規模に達すると予測されていることから、この技術がエンタメ業界の「グローバル競争」に与える最も決定的な影響は何ですか？",
+    "question": "ジークスター東京が発表したニュースの内容は何ですか？",
     "choices": [
-      "言語や文化の壁を乗り越え、グローバル規模でのコンテンツ制作・流通を加速させる",
-      "各国のコンテンツ市場を孤立させる",
-      "グローバル競争を完全に停止させる",
-      "特定の国がコンテンツ市場を独占する"
+      "退団選手のお知らせ",
+      "新規加入選手のお知らせ",
+      "チームの新スポンサー発表",
+      "新ユニフォーム発表"
     ],
-    "answer": "言語や文化の壁を乗り越え、グローバル規模でのコンテンツ制作・流通を加速させる",
-    "explanation": "最新の市場予測によると、生成系AIの急成長は、コンテンツの自動翻訳やローカライズを容易にし、言語や文化の壁を乗り越えることで、グローバル規模でのコンテンツ制作・流通を劇的に加速させ、国際競争を決定的に変える可能性があります。"
+    "answer": "退団選手のお知らせ",
+    "explanation": "最新のニュースによると、ジークスター東京は「退団選手のお知らせ」を発表しました。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 10,
-    "question": "ぴあがP-POPグループ「VXON」の日本国内独占エージェントに就任したことは、日本のエンタメ業界が「コンテンツ産業の国際競争力」を強化する上で、どのような「戦略的アライアンス」の重要性を示唆していますか？",
+    "question": "ダンスエンターテイメント演劇『PASSION ― 北斎の描く夢 ―』でメインビジュアルが解禁された人物として、ニュースで言及された3名は誰ですか？",
     "choices": [
-      "海外の有望なコンテンツホルダーとの連携により、多様な市場ニーズに対応し、国際的なプレゼンスを高める",
-      "国内企業との連携のみを強化する",
-      "海外企業との連携を完全に排除する",
-      "特定の市場に限定したアライアンス"
+      "大貫勇輔、柚希礼音、KELO",
+      "齊藤なぎさ、LEE YUN SEO、キム・シフン",
+      "スカパラ、OKAMOTO‘S、BREIMEN",
+      "大巻伸嗣、草間彌生、奈良美智"
     ],
-    "answer": "海外の有望なコンテンツホルダーとの連携により、多様な市場ニーズに対応し、国際的なプレゼンスを高める",
-    "explanation": "最新のニュースによると、海外のP-POPグループとの独占エージェント契約は、日本のエンタメ企業がグローバル市場で競争力を高めるために、海外の有望なコンテンツホルダーとの戦略的アライアンスを構築し、多様な市場ニーズに対応することで国際的なプレゼンスを高める重要性を示唆しています。"
+    "answer": "大貫勇輔、柚希礼音、KELO",
+    "explanation": "最新のニュースによると、ダンスエンターテイメント演劇『PASSION ― 北斎の描く夢 ―』では大貫勇輔、柚希礼音、KELOのメインビジュアルが解禁されました。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 10,
-    "question": "映画『ハイファイブ！』の「臓器移植」で超能力を得るという設定は、SFエンタテインメントが「未来社会の倫理的課題」を提示する上で、どのような「社会的な対話」を促す可能性がありますか？",
+    "question": "退団選手のお知らせを発表したチームは何ですか？",
     "choices": [
-      "科学技術の進歩に伴う生命倫理、人権、社会公平性に関する幅広い議論",
-      "個人の感情的な意見交換のみ",
-      "科学者の間での専門的な議論のみ",
-      "政治家による一方的な決定"
+      "ジークスター東京",
+      "東京ヴェルディ",
+      "FC東京",
+      "読売ジャイアンツ"
     ],
-    "answer": "科学技術の進歩に伴う生命倫理、人権、社会公平性に関する幅広い議論",
-    "explanation": "最新のニュースによると、臓器移植と超能力の組み合わせは、科学技術の進歩がもたらす生命倫理、人権、社会公平性といった未来社会の倫理的課題について、エンタテインメントを通じて幅広い層に問題提起し、社会的な対話を促す可能性があります。"
+    "answer": "ジークスター東京",
+    "explanation": "最新のニュースによると、ジークスター東京が退団選手のお知らせを発表しました。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 10,
-    "question": "SMエンタテインメントが「SMRUN 26」を10月3日に開催すると報じられましたが、K-POP業界における「ファンコミュニティの活性化」は、どのような「ブランドロイヤリティ」の形成に貢献しますか？",
+    "question": "日経BPから公開された日経エンタテインメント！の発表内容に含まれるのは、「2025年エンタメベスト10」と他に何ですか？",
     "choices": [
-      "アーティストとの一体感を深め、長期的な支持とエンゲージメントを育む強固なブランドロイヤリティ",
-      "短期的な流行に基づく薄いブランドロイヤリティ",
-      "ファンがアーティストのブランドを批判する",
-      "ブランドロイヤリティが形成されない"
+      "「7大ジャンル年間ヒットランキング」と「注目4ジャンルデータ分析2025」",
+      "「日本の映画興行収入トップ10」と「海外ドラマ人気ランキング」",
+      "「音楽配信サービス利用動向」と「ゲーム市場の成長予測」",
+      "「タレントCM出演本数ランキング」と「テレビ番組視聴率トップ20」"
     ],
-    "answer": "アーティストとの一体感を深め、長期的な支持とエンゲージメントを育む強固なブランドロイヤリティ",
-    "explanation": "最新のニュースによると、ファンイベントによるコミュニティ活性化は、ファンがアーティストとの一体感を深め、単なる消費を超えた長期的な支持とエンゲージメントを育む、強固なブランドロイヤリティ形成に大きく貢献します。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 10,
-    "question": "リヤドの「Ress Gaming Center」が「エンターテインメントに新たな風を吹き込む」と報じられたことは、サウジアラビアの「文化変革」という観点から、どのような長期的な影響が予測されますか？",
-    "choices": [
-      "若年層の多様な価値観とライフスタイルを育み、社会の多様性と開放性を促進する",
-      "伝統的な文化のみが強化される",
-      "若年層が海外文化を完全に拒否する",
-      "社会全体が均一化される"
-    ],
-    "answer": "若年層の多様な価値観とライフスタイルを育み、社会の多様性と開放性を促進する",
-    "explanation": "最新のニュースによると、最先端のゲーミングセンターの開設は、若年層に新たなエンタメ体験を提供することで、多様な価値観やライフスタイルを育み、サウジアラビア社会全体の多様性と開放性を長期的に促進する文化変革の一端を担うと予測されます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 10,
-    "question": "ユヴェントスとトリノ工科大学が共同で開始する修士課程「International Executive Master in Systems Thinking for Sport & Entertainment」は、スポーツとエンタメ業界の「デジタル変革」という課題にどのようにアプローチすると考えられますか？",
-    "choices": [
-      "デジタル技術を統合し、データ駆動型意思決定や新たな体験創出を通じて変革を推進する",
-      "デジタル技術の導入を抑制する",
-      "デジタル変革を無視し、伝統的な手法を維持する",
-      "デジタル技術を特定の分野に限定して導入する"
-    ],
-    "answer": "デジタル技術を統合し、データ駆動型意思決定や新たな体験創出を通じて変革を推進する",
-    "explanation": "最新のニュースによると、システム思考を取り入れた修士課程は、スポーツとエンタメ業界においてデジタル技術を統合し、データ駆動型の意思決定、新たなデジタル体験の創出などを通じて、業界全体のデジタル変革を推進するアプローチを採ると考えられます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 10,
-    "question": "Sony Pictures Entertainmentが「CinemaCon 2026」で最新作品情報を一挙に公開したことは、映画業界における「観客体験の多様化」という観点から、どのような影響を与える可能性がありますか？",
-    "choices": [
-      "IMAXや4DXなど、様々なフォーマットでの劇場体験の選択肢を広げ、観客のニーズに応える",
-      "全ての映画が同じフォーマットで上映されるようになる",
-      "映画館での鑑賞体験が画一化される",
-      "観客が映画館での鑑賞を完全に拒否する"
-    ],
-    "answer": "IMAXや4DXなど、様々なフォーマットでの劇場体験の選択肢を広げ、観客のニーズに応える",
-    "explanation": "最新のニュースによると、CinemaConでの新作情報公開は、映画スタジオがIMAXや4DXといった特殊フォーマットでの上映も視野に入れた作品を提示することで、観客が多様な劇場体験を選べるようになり、観客体験の多様化に貢献する可能性があります。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 10,
-    "question": "『Mr.都市伝説 関暁夫の裏都市伝説』の新作「裏社会を支える資金洗浄」が「タテドラ」で配信開始されたことは、コンテンツの「視聴者参加型エンタテインメント」という観点から、どのような可能性を秘めていますか？",
-    "choices": [
-      "縦型動画の特性を活かし、コメントやリアクションを通じて視聴者が物語に介入できるインタラクティブな要素",
-      "視聴者が一方的にコンテンツを受け取るのみ",
-      "視聴者がコンテンツの制作に直接関与する",
-      "視聴者がコンテンツを批判するのみ"
-    ],
-    "answer": "縦型動画の特性を活かし、コメントやリアクションを通じて視聴者が物語に介入できるインタラクティブな要素",
-    "explanation": "2026年7月のニュースによると、縦型動画はコメント機能やリアクションボタンなど、視聴者が手軽にコンテンツに介入できるインタラクティブな要素を持つことが多いため、視聴者参加型エンタテインメントとしての可能性を秘めていると考えられます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 10,
-    "question": "日経エンタテインメント！が「2025年エンタメベスト10」などを発表したことは、エンタメ業界における「未来予測」という観点から、どのような「戦略的な示唆」を提供しますか？",
-    "choices": [
-      "過去のヒット傾向から、今後の市場トレンドや投資すべき分野を特定するための重要な示唆",
-      "未来予測を完全に不可能にする",
-      "過去のデータは未来予測に無関係である",
-      "特定のコンテンツの成功を保証する"
-    ],
-    "answer": "過去のヒット傾向から、今後の市場トレンドや投資すべき分野を特定するための重要な示唆",
-    "explanation": "最新のニュースによると、年間ランキングやデータ分析は、過去のヒット傾向や市場の動向を客観的に示すことで、エンタメ業界の企業やクリエイターが今後の市場トレンドを予測し、投資すべき分野や戦略を立てる上での重要な示唆を提供します。"
+    "answer": "「7大ジャンル年間ヒットランキング」と「注目4ジャンルデータ分析2025」",
+    "explanation": "最新のニュースによると、日経エンタテインメント！は「2025年エンタメベスト10」を発表し、これには「7大ジャンル年間ヒットランキング」と「注目4ジャンルデータ分析2025」も含まれます。"
   },
   {
     "category": "ゲーム",
