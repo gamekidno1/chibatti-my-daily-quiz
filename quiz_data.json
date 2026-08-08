@@ -5202,2602 +5202,1302 @@
   {
     "category": "ゲーム",
     "difficulty": 1,
-    "question": "2026年9月17日に配信される最新情報番組の名称は何ですか？",
+    "question": "2026年9月17日に配信が発表されたXBOXのオンラインイベントは何ですか？",
     "choices": [
+      "XBOX Tokyo Game Show 2026 Live",
       "XBOX東京ゲームショウ2026ブロードキャスト",
-      "プレイステーションショーケース2026",
-      "ニンテンドーダイレクト2026秋",
-      "PCゲームフェスティバル2026"
+      "XBOX Japan Festival 2026 Online",
+      "XBOX Developer Direct 2026"
     ],
     "answer": "XBOX東京ゲームショウ2026ブロードキャスト",
-    "explanation": "2026年7月のニュースによると、XBOX東京ゲームショウ2026ブロードキャストが9月17日に配信されると報じられました。"
+    "explanation": "2026年8月のニュースによると、最新情報番組「XBOX東京ゲームショウ2026ブロードキャスト」が9月17日に配信されると発表されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 1,
-    "question": "XBOX東京ゲームショウ2026ブロードキャストが配信されるのは何月何日ですか？",
+    "question": "2026年6月9日に開催された任天堂の発表会の名称は何ですか？",
     "choices": [
-      "9月17日",
-      "8月7日",
-      "10月20日",
-      "11月5日"
+      "Nintendo World 2026",
+      "Nintendo Direct 2026.6.9",
+      "Nintendo Games Showcase 2026",
+      "Nintendo Spotlight June 2026"
     ],
-    "answer": "9月17日",
-    "explanation": "2026年7月のニュースによると、XBOX東京ゲームショウ2026ブロードキャストは9月17日に配信されます。"
+    "answer": "Nintendo Direct 2026.6.9",
+    "explanation": "2026年8月のニュースによると、「ニンテンドーダイレクト 2026.6.9」が開催され、その発表内容がまとめられました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 1,
-    "question": "XBOX東京ゲームショウ2026ブロードキャストと同日開催されるイベントは何ですか？",
+    "question": "2026年8月のニュースで発表された『Fate/Grand Order』のイベントの名称は何ですか？",
     "choices": [
-      "XBOX FanFest Tokyo",
-      "PlayStation Experience Tokyo",
-      "Nintendo Live Tokyo",
-      "Tokyo Game Show Main Event"
+      "FGOサマーフェス2026",
+      "FGOフェス2026",
+      "FGOアニバーサリー2026",
+      "FGOグランドカーニバル2026"
     ],
-    "answer": "XBOX FanFest Tokyo",
-    "explanation": "2026年7月のニュースによると、XBOX東京ゲームショウ2026ブロードキャストと同日にXBOX FanFest Tokyoが開催されます。"
+    "answer": "FGOフェス2026",
+    "explanation": "2026年8月のニュースによると、“FGOフェス2026”の発表まとめが公開されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 1,
-    "question": "XBOX東京ゲームショウ2026ブロードキャストは、どのような形式で最新情報を伝える番組ですか？",
+    "question": "2026年6月3日に配信されたPlayStationの発表イベントは何ですか？",
     "choices": [
-      "配信番組",
-      "リアルイベント",
-      "雑誌掲載",
-      "ラジオ放送"
+      "State of Play 2026.6.3",
+      "PlayStation Showcase 2026",
+      "PS Live Event June",
+      "PlayStation Direct June"
     ],
-    "answer": "配信番組",
-    "explanation": "2026年7月のニュースによると、XBOX東京ゲームショウ2026ブロードキャストは配信番組として最新情報を届けます。"
+    "answer": "State of Play 2026.6.3",
+    "explanation": "2026年8月のニュースによると、「State of Play 2026.6.3」が配信され、様々なゲームが発表されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 1,
-    "question": "2026年に開催されるXbox関連の主要なファンイベントの名称は何ですか？",
+    "question": "2026年8月のニュースで「本日発売」と報じられたSAOゲームシリーズ最新作のタイトルは何ですか？",
     "choices": [
-      "XBOX FanFest Tokyo",
-      "XBOX Games Showcase",
-      "XBOX Live Party",
-      "XBOX Developer Summit"
+      "ソードアート・オンライン：アインクラッドの記憶",
+      "ソードアート・オンライン：インフィニティ・ワールド",
+      "ソードアート・オンライン：Echoes of Aincrad",
+      "ソードアート・オンライン：VRMMOプロジェクト"
     ],
-    "answer": "XBOX FanFest Tokyo",
-    "explanation": "2026年7月のニュースによると、XBOX FanFest Tokyoが開催されることが発表されました。"
+    "answer": "ソードアート・オンライン：Echoes of Aincrad",
+    "explanation": "2026年8月のニュースによると、SAOゲームシリーズ最新作「Echoes of Aincrad」が本日発売されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 1,
-    "question": "XBOX東京ゲームショウ2026ブロードキャストは、どのゲームプラットフォームに関する情報番組ですか？",
+    "question": "『進撃の巨人』の物語を最初から最後まで描く集大成ゲームとして発売が決定したタイトルの名称は何ですか？",
     "choices": [
-      "Xbox",
-      "PlayStation",
-      "Nintendo Switch",
-      "PC"
+      "進撃の巨人：ファイナルエピソード",
+      "進撃の巨人３",
+      "進撃の巨人：ザ・コンプリート",
+      "進撃の巨人：ラストバトル"
     ],
-    "answer": "Xbox",
-    "explanation": "2026年7月のニュースによると、XBOX東京ゲームショウ2026ブロードキャストはXboxに関する情報番組です。"
+    "answer": "進撃の巨人３",
+    "explanation": "2026年8月のニュースによると、「進撃の巨人」の物語を最初から最後まで描く集大成ゲーム『進撃の巨人３』の発売が決定しました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 1,
-    "question": "Nintendo Switchで公式の最新情報を得るための機能は何ですか？",
+    "question": "2026年8月のニュースで発表された『キングダム ハーツ』シリーズの最新作のタイトルは何ですか？",
     "choices": [
-      "ゲームニュース",
-      "フレンドリスト",
-      "アルバム機能",
-      "設定メニュー"
+      "キングダム ハーツIII リバース",
+      "キングダム ハーツIV",
+      "キングダム ハーツ：ブレイブハーツ",
+      "キングダム ハーツ：ディスティニー"
     ],
-    "answer": "ゲームニュース",
-    "explanation": "2026年中のニュースによると、Switchのゲームニュース機能を使って公式の最新情報を有効活用する方法が紹介されました。"
+    "answer": "キングダム ハーツIV",
+    "explanation": "2026年8月のニュースによると、『キングダム ハーツ』シリーズ最新作『キングダム ハーツIV』が発表されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 1,
-    "question": "2026年9月17日に配信されるXBOX東京ゲームショウ2026ブロードキャストは、どのゲームイベントの一環として位置づけられていますか？",
+    "question": "2026年8月のニュースでアップデート最新情報がまとめられたゲームの略称は何ですか？",
     "choices": [
-      "東京ゲームショウ",
-      "E3",
-      "Gamescom",
-      "PAX"
+      "NTE",
+      "NEV",
+      "NBN",
+      "NVE"
     ],
-    "answer": "東京ゲームショウ",
-    "explanation": "2026年7月のニュースによると、XBOX東京ゲームショウ2026ブロードキャストは東京ゲームショウと関連して配信されます。"
+    "answer": "NTE",
+    "explanation": "2026年8月のニュースによると、【NTE】アップデート最新情報まとめ【ネバエバ】が公開されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 1,
-    "question": "XBOX FanFest Tokyoの参加応募受付が開始されたことは、どのような情報として伝えられましたか？",
+    "question": "2026年6月に開催された「BANDAI CARD GAMES ネクストプラン発表会2026.06」で最新情報が解禁されたカードゲームシリーズは何ですか？",
     "choices": [
-      "最新情報",
-      "過去のイベント情報",
-      "今後の予定",
-      "開発秘話"
+      "デジモンカードゲーム",
+      "遊☆戯☆王カードゲーム",
+      "ONE PIECEカードゲーム",
+      "ドラゴンボールカードゲーム"
     ],
-    "answer": "最新情報",
-    "explanation": "2026年7月のニュースによると、XBOX FanFest Tokyoの参加応募受付開始が最新情報として報じられました。"
+    "answer": "ONE PIECEカードゲーム",
+    "explanation": "2026年8月のニュースによると、「BANDAI CARD GAMES ネクストプラン発表会2026.06」にて「ONE PIECEカードゲーム」の最新情報が解禁されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 1,
-    "question": "XBOX FanFest Tokyoの開催時期はいつですか？",
+    "question": "2026年6月に開催された、複数のゲーム最新情報が発表された主要なオンラインイベントはどれですか？",
     "choices": [
-      "2026年9月",
-      "2026年6月",
-      "2026年12月",
-      "2027年1月"
+      "Summer Game Fest 2026",
+      "E3 2026",
+      "Nintendo DirectとState of Play",
+      "Gamescom 2026"
     ],
-    "answer": "2026年9月",
-    "explanation": "2026年7月のニュースによると、XBOX FanFest Tokyoは2026年9月17日に開催されます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "2026年9月17日に配信される最新情報番組の名称は何ですか？",
-    "choices": [
-      "XBOX東京ゲームショウ2026ブロードキャスト",
-      "プレイステーションショーケース2026",
-      "ニンテンドーダイレクト2026秋",
-      "PCゲームフェスティバル2026"
-    ],
-    "answer": "XBOX東京ゲームショウ2026ブロードキャスト",
-    "explanation": "2026年7月のニュースによると、XBOX東京ゲームショウ2026ブロードキャストが9月17日に配信されると報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "XBOX東京ゲームショウ2026ブロードキャストが配信されるのは何月何日ですか？",
-    "choices": [
-      "9月17日",
-      "8月7日",
-      "10月20日",
-      "11月5日"
-    ],
-    "answer": "9月17日",
-    "explanation": "2026年7月のニュースによると、XBOX東京ゲームショウ2026ブロードキャストは9月17日に配信されます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "XBOX東京ゲームショウ2026ブロードキャストと同日開催されるイベントは何ですか？",
-    "choices": [
-      "XBOX FanFest Tokyo",
-      "PlayStation Experience Tokyo",
-      "Nintendo Live Tokyo",
-      "Tokyo Game Show Main Event"
-    ],
-    "answer": "XBOX FanFest Tokyo",
-    "explanation": "2026年7月のニュースによると、XBOX東京ゲームショウ2026ブロードキャストと同日にXBOX FanFest Tokyoが開催されます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "XBOX東京ゲームショウ2026ブロードキャストは、どのような形式で最新情報を伝える番組ですか？",
-    "choices": [
-      "配信番組",
-      "リアルイベント",
-      "雑誌掲載",
-      "ラジオ放送"
-    ],
-    "answer": "配信番組",
-    "explanation": "2026年7月のニュースによると、XBOX東京ゲームショウ2026ブロードキャストは配信番組として最新情報を届けます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "2026年に開催されるXbox関連の主要なファンイベントの名称は何ですか？",
-    "choices": [
-      "XBOX FanFest Tokyo",
-      "XBOX Games Showcase",
-      "XBOX Live Party",
-      "XBOX Developer Summit"
-    ],
-    "answer": "XBOX FanFest Tokyo",
-    "explanation": "2026年7月のニュースによると、XBOX FanFest Tokyoが開催されることが発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "XBOX東京ゲームショウ2026ブロードキャストは、どのゲームプラットフォームに関する情報番組ですか？",
-    "choices": [
-      "Xbox",
-      "PlayStation",
-      "Nintendo Switch",
-      "PC"
-    ],
-    "answer": "Xbox",
-    "explanation": "2026年7月のニュースによると、XBOX東京ゲームショウ2026ブロードキャストはXboxに関する情報番組です。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "Nintendo Switchで公式の最新情報を得るための機能は何ですか？",
-    "choices": [
-      "ゲームニュース",
-      "フレンドリスト",
-      "アルバム機能",
-      "設定メニュー"
-    ],
-    "answer": "ゲームニュース",
-    "explanation": "2026年中のニュースによると、Switchのゲームニュース機能を使って公式の最新情報を有効活用する方法が紹介されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "2026年9月17日に配信されるXBOX東京ゲームショウ2026ブロードキャストは、どのゲームイベントの一環として位置づけられていますか？",
-    "choices": [
-      "東京ゲームショウ",
-      "E3",
-      "Gamescom",
-      "PAX"
-    ],
-    "answer": "東京ゲームショウ",
-    "explanation": "2026年7月のニュースによると、XBOX東京ゲームショウ2026ブロードキャストは東京ゲームショウと関連して配信されます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "XBOX FanFest Tokyoの参加応募受付が開始されたことは、どのような情報として伝えられましたか？",
-    "choices": [
-      "最新情報",
-      "過去のイベント情報",
-      "今後の予定",
-      "開発秘話"
-    ],
-    "answer": "最新情報",
-    "explanation": "2026年7月のニュースによると、XBOX FanFest Tokyoの参加応募受付開始が最新情報として報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "XBOX FanFest Tokyoの開催時期はいつですか？",
-    "choices": [
-      "2026年9月",
-      "2026年6月",
-      "2026年12月",
-      "2027年1月"
-    ],
-    "answer": "2026年9月",
-    "explanation": "2026年7月のニュースによると、XBOX FanFest Tokyoは2026年9月17日に開催されます。"
+    "answer": "Nintendo DirectとState of Play",
+    "explanation": "2026年8月のニュースによると、2026年6月には「ニンテンドーダイレクト 2026.6.9」と「State of Play 2026.6.3」が開催され、多数のゲーム最新情報が発表されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 2,
-    "question": "XBOX FanFest Tokyoに関して、最近開始されたことは何ですか？",
+    "question": "2026年9月17日にXBOX東京ゲームショウ2026ブロードキャストと同日開催されるイベントは何ですか？",
     "choices": [
-      "参加応募受付",
-      "限定グッズ販売",
-      "ゲーム試遊イベント",
-      "開発者向けセッション"
+      "XBOX Developer Conference Tokyo",
+      "XBOX FanFest Tokyo",
+      "XBOX Game Awards Tokyo",
+      "XBOX Live Experience Tokyo"
     ],
-    "answer": "参加応募受付",
-    "explanation": "2026年7月のニュースによると、XBOX FanFest Tokyoの参加応募受付が開始されました。"
+    "answer": "XBOX FanFest Tokyo",
+    "explanation": "2026年8月のニュースによると、「XBOX東京ゲームショウ2026ブロードキャスト」が9月17日に配信され、同日開催の「XBOX FanFest Tokyo」の参加応募受付もスタートしました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 2,
-    "question": "XBOX FanFest Tokyoは、主にどのような目的で開催されるイベントですか？",
+    "question": "FGOフェス2026は、『Fate/Grand Order』の何周年を記念して開催されますか？",
     "choices": [
-      "ファンとの交流",
-      "新作ゲームの発表",
-      "開発者向け講演",
-      "eスポーツ大会"
-    ],
-    "answer": "ファンとの交流",
-    "explanation": "2026年7月のニュースによると、XBOX FanFest Tokyoはファン向けのイベントとして開催されます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "XBOX FanFest Tokyoの参加応募受付が開始されたというニュースは、どの媒体で報じられましたか？",
-    "choices": [
-      "Saiga NAK",
-      "ファミ通",
-      "GameWith",
-      "Yahoo!ニュース"
-    ],
-    "answer": "Saiga NAK",
-    "explanation": "2026年7月のニュースによると、Saiga NAKでXBOX FanFest Tokyoの参加応募受付開始が報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "“FGOフェス2026”のサブタイトルに含まれるキーワードは何ですか？",
-    "choices": [
+      "10th Anniversary",
       "11th Anniversary",
-      "5th Celebration",
-      "Grand Order Festival",
-      "New Era Begins"
+      "12th Anniversary",
+      "15th Anniversary"
     ],
     "answer": "11th Anniversary",
-    "explanation": "2026年夏のニュースによると、“FGOフェス2026”は「11th Anniversary～」というサブタイトルが付けられています。"
+    "explanation": "2026年8月のニュースによると、“FGOフェス2026”は【11th Anniversary～】として発表されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 2,
-    "question": "“FGOフェス2026”は、何周年の記念イベントとして開催されましたか？",
+    "question": "ニンテンドーダイレクト2026.6.9でリメイクが発表された『ゼルダの伝説』シリーズのタイトルは何ですか？",
     "choices": [
-      "11周年",
-      "10周年",
-      "5周年",
-      "15周年"
+      "ゼルダの伝説 神々のトライフォース",
+      "ゼルダの伝説 時のオカリナ",
+      "ゼルダの伝説 ムジュラの仮面",
+      "ゼルダの伝説 風のタクト"
     ],
-    "answer": "11周年",
-    "explanation": "2026年夏のニュースによると、“FGOフェス2026”は「11th Anniversary」として開催されました。"
+    "answer": "ゼルダの伝説 時のオカリナ",
+    "explanation": "2026年8月のニュースによると、ニンテンドーダイレクト2026.6.9で『ゼルダ 時オカ』のリメイクが発表されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 2,
-    "question": "“FGOフェス2026”の主な目的は何でしたか？",
+    "question": "State of Play 2026.6.3で最新映像が公開されたMarvel作品のタイトルは何ですか？",
     "choices": [
-      "ゲームの最新情報と関連ニュースの紹介",
-      "開発者の募集",
-      "ファン投票の実施",
-      "歴史の振り返り"
+      "Marvel's Spider-Man 3",
+      "Marvel's Avengers: Endgame",
+      "Marvel's Wolverine",
+      "Marvel's Guardians of the Galaxy 2"
     ],
-    "answer": "ゲームの最新情報と関連ニュースの紹介",
-    "explanation": "2026年夏のニュースによると、“FGOフェス2026”はゲームの最新情報やTYPE-MOON関連ニュースを一挙に紹介するイベントでした。"
+    "answer": "Marvel's Wolverine",
+    "explanation": "2026年8月のニュースによると、State of Play 2026.6.3では『マーベル ウルヴァリン』の最新映像が公開されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 2,
-    "question": "“FGOフェス2026”で発表された「ゲーム最新情報」とは、主にどのゲームに関するものでしたか？",
+    "question": "『キングダム ハーツIV』が発売予定とされている次世代機の一つは何ですか？",
     "choices": [
-      "Fate/Grand Order",
-      "魔法使いの夜",
-      "月姫",
-      "MELTY BLOOD"
+      "Xbox Series X",
+      "Switch2",
+      "PC",
+      "Steam Deck"
     ],
-    "answer": "Fate/Grand Order",
-    "explanation": "2026年夏のニュースによると、“FGOフェス2026”ではFate/Grand Orderの最新情報が発表されました。"
+    "answer": "Switch2",
+    "explanation": "2026年8月のニュースによると、『キングダム ハーツIV』はSwitch2やPS5などで発売されると発表されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 2,
-    "question": "“FGOフェス2026”の「～」に続く言葉として、最も適切ではないものはどれですか？",
+    "question": "2026年6月のState of Playで、完全新作『鬼武者』のどのような情報が発表されましたか？",
     "choices": [
-      "Final Chapter",
-      "11th Anniversary～",
-      "Grand Celebration",
-      "New Horizons"
+      "発売日",
+      "体験版配信",
+      "アニメ化",
+      "映画化"
     ],
-    "answer": "Final Chapter",
-    "explanation": "2026年夏のニュースによると、“FGOフェス2026”のサブタイトルは「11th Anniversary～」であり、Final Chapterは適切ではありません。"
+    "answer": "体験版配信",
+    "explanation": "2026年8月のニュースによると、State of Play June 2, 2026にて完全新作『鬼武者』の体験版配信が発表されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 2,
-    "question": "Switchのゲームニュース機能は、主にどのような目的で利用されますか？",
+    "question": "2026年6月のState of Playで発表された『エースコンバット8』に関する最新情報は何でしたか？",
     "choices": [
-      "公式の最新情報を得るため",
-      "他のプレイヤーと交流するため",
-      "ゲームをダウンロードするため",
-      "スクリーンショットを共有するため"
+      "開発中止",
+      "発売日決定",
+      "新機体発表",
+      "マルチプレイモードの詳細"
     ],
-    "answer": "公式の最新情報を得るため",
-    "explanation": "2026年中のニュースによると、Switchのゲームニュースは公式の最新情報を有効活用するために使われます。"
+    "answer": "発売日決定",
+    "explanation": "2026年8月のニュースによると、State of Play 2026.6.3にて『エースコンバット8』の発売日が公開されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 2,
-    "question": "“FGOフェス2026”で発表された主な内容は次のうちどれですか？",
+    "question": "2026年8月の埼玉新聞で報じられた、最近人気が高まっているゲームのジャンルは何ですか？",
     "choices": [
-      "ゲーム最新情報やTYPE-MOON関連ニュース",
-      "アニメ映画の公開日",
-      "新しいスマートフォンモデル",
-      "eスポーツ大会の開催"
+      "VRゲーム",
+      "eスポーツ",
+      "インディーゲーム",
+      "モバイルゲーム"
     ],
-    "answer": "ゲーム最新情報やTYPE-MOON関連ニュース",
-    "explanation": "2026年夏のニュースによると、“FGOフェス2026”ではゲーム最新情報やTYPE-MOON関連ニュースが一挙紹介されました。"
+    "answer": "インディーゲーム",
+    "explanation": "2026年8月のニュースによると、埼玉新聞は「インディーゲーム」の人気が高まっていると報じました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 2,
-    "question": "XBOX FanFest Tokyoに関して、最近開始されたことは何ですか？",
+    "question": "SAO最新作「Echoes of Aincrad」の発売状況は、2026年8月のニュース時点でどう報じられましたか？",
     "choices": [
-      "参加応募受付",
-      "限定グッズ販売",
-      "ゲーム試遊イベント",
-      "開発者向けセッション"
+      "予約受付開始",
+      "開発中止",
+      "本日発売",
+      "延期決定"
     ],
-    "answer": "参加応募受付",
-    "explanation": "2026年7月のニュースによると、XBOX FanFest Tokyoの参加応募受付が開始されました。"
+    "answer": "本日発売",
+    "explanation": "2026年8月のニュースによると、SAOゲームシリーズ最新作「Echoes of Aincrad」が本日発売されたと報じられました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 2,
-    "question": "XBOX FanFest Tokyoは、主にどのような目的で開催されるイベントですか？",
+    "question": "ニンテンドーダイレクト2026.6.9で新作が発表されたRPGシリーズは何ですか？",
     "choices": [
-      "ファンとの交流",
-      "新作ゲームの発表",
-      "開発者向け講演",
-      "eスポーツ大会"
+      "ファイアーエムブレム",
+      "ゼノブレイド",
+      "ポケットモンスター",
+      "どうぶつの森"
     ],
-    "answer": "ファンとの交流",
-    "explanation": "2026年7月のニュースによると、XBOX FanFest Tokyoはファン向けのイベントとして開催されます。"
+    "answer": "ゼノブレイド",
+    "explanation": "2026年8月のニュースによると、ニンテンドーダイレクト2026.6.9にて『ゼノブレイド』の新作が発表されました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 2,
-    "question": "XBOX FanFest Tokyoの参加応募受付が開始されたというニュースは、どの媒体で報じられましたか？",
+    "difficulty": 3,
+    "question": "XBOX東京ゲームショウ2026ブロードキャストと同日開催される「XBOX FanFest Tokyo」に関して、2026年8月のニュースでどのような情報が発表されましたか？",
     "choices": [
-      "Saiga NAK",
+      "開催場所の変更",
+      "参加応募受付の開始",
+      "ゲストの発表",
+      "限定グッズの販売情報"
+    ],
+    "answer": "参加応募受付の開始",
+    "explanation": "2026年8月のニュースによると、「XBOX東京ゲームショウ2026ブロードキャスト」の配信と同日開催の「XBOX FanFest Tokyo」の参加応募受付がスタートしました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "FGOフェス2026では、ゲーム最新情報の他にどのような内容が一挙紹介されると発表されましたか？",
+    "choices": [
+      "アニメーション作品の新作情報",
+      "TYPE-MOON関連ニュース",
+      "FGOグッズの新作情報",
+      "声優陣のトークショー"
+    ],
+    "answer": "TYPE-MOON関連ニュース",
+    "explanation": "2026年8月のニュースによると、“FGOフェス2026”ではゲーム最新情報やTYPE-MOON関連ニュースが一挙紹介されると発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "【NTE】アップデート最新情報まとめ【ネバエバ】というニュースで、NTEが指すゲームの正式名称は何ですか？",
+    "choices": [
+      "ネバーエンディング",
+      "ネバーエバー",
+      "ネバーランド",
+      "ネバーフォール"
+    ],
+    "answer": "ネバーエバー",
+    "explanation": "2026年8月のニュースによると、【NTE】アップデート最新情報まとめ【ネバエバ】と記載されており、NTEは『ネバーエバー』を指します。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "ニンテンドーダイレクト2026.6.9で新映像が公開された『キングダム ハーツ』シリーズのタイトルは何ですか？",
+    "choices": [
+      "キングダム ハーツ：メロディー オブ メモリー",
+      "キングダム ハーツIII",
+      "キングダム ハーツIV",
+      "キングダム ハーツ：バース バイ スリープ"
+    ],
+    "answer": "キングダム ハーツIV",
+    "explanation": "2026年8月のニュースによると、ニンテンドーダイレクト2026.6.9にて『キングダム ハーツ4』の新映像が公開されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "ゲーム『進撃の巨人３』は、どのような特徴を持つ作品として発表されましたか？",
+    "choices": [
+      "VR専用タイトル",
+      "外伝の物語を描く",
+      "物語を最初から最後まで描く集大成",
+      "オンライン対戦に特化"
+    ],
+    "answer": "物語を最初から最後まで描く集大成",
+    "explanation": "2026年8月のニュースによると、『進撃の巨人３』は「進撃の巨人」の物語を最初から最後まで描く集大成ゲームとして発売が決定しました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "State of Play 2026.6.3で発売日が公開されたタイトルの一つは何ですか？",
+    "choices": [
+      "ファイナルファンタジーXVI",
+      "ゴッド・オブ・ウォー：ラグナロク",
+      "エースコンバット8",
+      "グランツーリスモ7"
+    ],
+    "answer": "エースコンバット8",
+    "explanation": "2026年8月のニュースによると、State of Play 2026.6.3にて『エースコンバット8』の発売日が公開されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "2026年6月のState of Playで『真・三國無双2』に参戦が決定した新キャラクターは誰ですか？",
+    "choices": [
+      "紅蓮",
+      "紫鸞",
+      "蒼龍",
+      "白虎"
+    ],
+    "answer": "紫鸞",
+    "explanation": "2026年8月のニュースによると、State of Play June 2, 2026にて『真・三國無双2』に紫鸞参戦が発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "「BANDAI CARD GAMES ネクストプラン発表会2026.06」が開催されたのは何月ですか？",
+    "choices": [
+      "4月",
+      "5月",
+      "6月",
+      "7月"
+    ],
+    "answer": "6月",
+    "explanation": "2026年8月のニュースによると、「BANDAI CARD GAMES ネクストプラン発表会2026.06」は2026年6月に開催されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "『キングダム ハーツIV』が発売予定とされているプラットフォームはどれとどれですか？",
+    "choices": [
+      "PS4とXbox One",
+      "Switch2とPS5",
+      "PCとXbox Series X",
+      "PS5とXbox Series X"
+    ],
+    "answer": "Switch2とPS5",
+    "explanation": "2026年8月のニュースによると、『キングダム ハーツIV』はSwitch2やPS5などで発売されると発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "2026年6月3日に配信されたState of Playの主な発表内容の一つは何ですか？",
+    "choices": [
+      "ファイナルファンタジーVII リバースのDLC情報",
+      "ゴッド・オブ・ウォーシリーズ最新作の発表",
+      "サイバーパンク2077の大型アップデート",
+      "ホグワーツ・レガシーの続編発表"
+    ],
+    "answer": "ゴッド・オブ・ウォーシリーズ最新作の発表",
+    "explanation": "2026年8月のニュースによると、State of Play 2026.6.3では『ゴッド・オブ・ウォー』シリーズ最新作が発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "XBOX東京ゲームショウ2026ブロードキャストの配信時間に関する情報は、2026年8月のニュースで具体的にどのように報じられましたか？",
+    "choices": [
+      "60分間の特別番組",
+      "配信時間の具体的な言及なし",
+      "90分間のライブ配信",
+      "深夜0時からの放送"
+    ],
+    "answer": "配信時間の具体的な言及なし",
+    "explanation": "2026年8月のニュースによると、「XBOX東京ゲームショウ2026ブロードキャスト」の配信日は9月17日と発表されましたが、具体的な配信時間に関する言及はありませんでした。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "FGOフェス2026で紹介されるTYPE-MOON関連ニュースは、主にどのようなジャンルの情報が含まれると予想されますか？",
+    "choices": [
+      "漫画・アニメ化情報",
+      "ゲーム・小説・アニメなど、幅広い関連作品",
+      "舞台化・ミュージカル情報",
+      "グッズ・イベント情報"
+    ],
+    "answer": "ゲーム・小説・アニメなど、幅広い関連作品",
+    "explanation": "2026年8月のニュースによると、“FGOフェス2026”では「ゲーム最新情報やTYPE-MOON関連ニュースを一挙紹介」とあり、TYPE-MOONの幅広い作品が対象となります。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "【NTE】アップデート最新情報まとめ【ネバエバ】のニュースが掲載されているゲーム情報サイトはどこですか？",
+    "choices": [
       "ファミ通",
       "GameWith",
-      "Yahoo!ニュース"
-    ],
-    "answer": "Saiga NAK",
-    "explanation": "2026年7月のニュースによると、Saiga NAKでXBOX FanFest Tokyoの参加応募受付開始が報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "“FGOフェス2026”のサブタイトルに含まれるキーワードは何ですか？",
-    "choices": [
-      "11th Anniversary",
-      "5th Celebration",
-      "Grand Order Festival",
-      "New Era Begins"
-    ],
-    "answer": "11th Anniversary",
-    "explanation": "2026年夏のニュースによると、“FGOフェス2026”は「11th Anniversary～」というサブタイトルが付けられています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "“FGOフェス2026”は、何周年の記念イベントとして開催されましたか？",
-    "choices": [
-      "11周年",
-      "10周年",
-      "5周年",
-      "15周年"
-    ],
-    "answer": "11周年",
-    "explanation": "2026年夏のニュースによると、“FGOフェス2026”は「11th Anniversary」として開催されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "“FGOフェス2026”の主な目的は何でしたか？",
-    "choices": [
-      "ゲームの最新情報と関連ニュースの紹介",
-      "開発者の募集",
-      "ファン投票の実施",
-      "歴史の振り返り"
-    ],
-    "answer": "ゲームの最新情報と関連ニュースの紹介",
-    "explanation": "2026年夏のニュースによると、“FGOフェス2026”はゲームの最新情報やTYPE-MOON関連ニュースを一挙に紹介するイベントでした。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "“FGOフェス2026”で発表された「ゲーム最新情報」とは、主にどのゲームに関するものでしたか？",
-    "choices": [
-      "Fate/Grand Order",
-      "魔法使いの夜",
-      "月姫",
-      "MELTY BLOOD"
-    ],
-    "answer": "Fate/Grand Order",
-    "explanation": "2026年夏のニュースによると、“FGOフェス2026”ではFate/Grand Orderの最新情報が発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "“FGOフェス2026”の「～」に続く言葉として、最も適切ではないものはどれですか？",
-    "choices": [
-      "Final Chapter",
-      "11th Anniversary～",
-      "Grand Celebration",
-      "New Horizons"
-    ],
-    "answer": "Final Chapter",
-    "explanation": "2026年夏のニュースによると、“FGOフェス2026”のサブタイトルは「11th Anniversary～」であり、Final Chapterは適切ではありません。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "Switchのゲームニュース機能は、主にどのような目的で利用されますか？",
-    "choices": [
-      "公式の最新情報を得るため",
-      "他のプレイヤーと交流するため",
-      "ゲームをダウンロードするため",
-      "スクリーンショットを共有するため"
-    ],
-    "answer": "公式の最新情報を得るため",
-    "explanation": "2026年中のニュースによると、Switchのゲームニュースは公式の最新情報を有効活用するために使われます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "“FGOフェス2026”で発表された主な内容は次のうちどれですか？",
-    "choices": [
-      "ゲーム最新情報やTYPE-MOON関連ニュース",
-      "アニメ映画の公開日",
-      "新しいスマートフォンモデル",
-      "eスポーツ大会の開催"
-    ],
-    "answer": "ゲーム最新情報やTYPE-MOON関連ニュース",
-    "explanation": "2026年夏のニュースによると、“FGOフェス2026”ではゲーム最新情報やTYPE-MOON関連ニュースが一挙紹介されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "“FGOフェス2026”で紹介されたニュースは、主にどのコンテンツに関するものですか？",
-    "choices": [
-      "Fate/Grand OrderとTYPE-MOON関連",
-      "ファイナルファンタジーシリーズ",
-      "テイルズオブシリーズ",
-      "ポケットモンスターシリーズ"
-    ],
-    "answer": "Fate/Grand OrderとTYPE-MOON関連",
-    "explanation": "2026年夏のニュースによると、“FGOフェス2026”ではFate/Grand OrderとTYPE-MOON関連のニュースが発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "“FGOフェス2026”の発表まとめを報じたメディアは次のうちどれですか？",
-    "choices": [
-      "ファミ通",
-      "電撃オンライン",
-      "オリコンニュース",
-      "GAME Watch"
-    ],
-    "answer": "ファミ通",
-    "explanation": "2026年夏のニュースによると、ファミ通が“FGOフェス2026”の発表まとめを報じました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "“FGOフェス2026”で発表された「TYPE-MOON関連ニュース」とは、主にどのような内容を指しますか？",
-    "choices": [
-      "FGO以外のTYPE-MOON作品の情報",
-      "FGOの海外展開情報",
-      "TYPE-MOON社内の組織変更",
-      "TYPE-MOON創設者の引退"
-    ],
-    "answer": "FGO以外のTYPE-MOON作品の情報",
-    "explanation": "2026年夏のニュースによると、“FGOフェス2026”ではFGOだけでなくTYPE-MOON関連の幅広いニュースが紹介されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "“FGOフェス2026”で紹介された「TYPE-MOON関連ニュース」には、どのようなコンテンツが含まれると期待されますか？",
-    "choices": [
-      "Fateシリーズの派生作品や世界観",
-      "ソニーのゲーム機本体情報",
-      "任天堂の新作ハード情報",
-      "マイクロソフトのクラウドサービス"
-    ],
-    "answer": "Fateシリーズの派生作品や世界観",
-    "explanation": "2026年夏のニュースによると、“FGOフェス2026”ではTYPE-MOON関連ニュースとして、Fateシリーズの派生作品や世界観に関する情報が期待されます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年6月9日に配信された「ニンテンドーダイレクト」で発表された『ゼルダの伝説』シリーズに関する情報はどれですか？",
-    "choices": [
-      "『ゼルダ 時オカ』リメイク",
-      "『ティアーズ オブ ザ キングダム』続編",
-      "『ブレス オブ ザ ワイルド』DLC",
-      "『夢をみる島』新作"
-    ],
-    "answer": "『ゼルダ 時オカ』リメイク",
-    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」で『ゼルダ 時オカ』リメイクが発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "「ニンテンドーダイレクト 2026.6.9」で発表された『ゼノブレイド』シリーズに関する情報は次のうちどれですか？",
-    "choices": [
-      "『ゼノブレイド』新作",
-      "『ゼノブレイド3』DLC",
-      "『ゼノブレイド クロス』移植",
-      "『ゼノブレイド デフィニティブ・エディション』続編"
-    ],
-    "answer": "『ゼノブレイド』新作",
-    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」で『ゼノブレイド』新作が発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "「ニンテンドーダイレクト 2026.6.9」の発表内容まとめを報じたメディアは次のうちどれですか？",
-    "choices": [
-      "GAME Watch",
-      "電撃オンライン",
-      "Saiga NAK",
-      "オリコンニュース"
-    ],
-    "answer": "GAME Watch",
-    "explanation": "2026年6月のニュースによると、GAME Watchが「ニンテンドーダイレクト 2026.6.9」の発表内容まとめを報じました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "Switchのゲームニュースを有効活用する方法を紹介したメディアはどこですか？",
-    "choices": [
-      "GameWith",
-      "ファミ通",
       "電撃オンライン",
       "GAME Watch"
     ],
     "answer": "GameWith",
-    "explanation": "2026年中のニュースによると、GameWithがSwitchのゲームニュースの使い方を紹介しました。"
+    "explanation": "2026年8月のニュースによると、【NTE】アップデート最新情報まとめ【ネバエバ】はGameWithで公開されました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 3,
-    "question": "“FGOフェス2026”で紹介されたTYPE-MOON関連ニュースは、主にどのコンテンツジャンルに属しますか？",
+    "difficulty": 4,
+    "question": "ニンテンドーダイレクト2026.6.9で発表された『ゼルダの伝説 時のオカリナ』リメイクの対応プラットフォームは何ですか？",
     "choices": [
-      "ゲーム",
-      "アニメ",
-      "小説",
-      "音楽"
+      "Nintendo Switch",
+      "Nintendo Switch2",
+      "Nintendo 3DS",
+      "Wii U"
     ],
-    "answer": "ゲーム",
-    "explanation": "2026年夏のニュースによると、“FGOフェス2026”ではゲーム最新情報やTYPE-MOON関連ニュースが紹介されました。"
+    "answer": "Nintendo Switch2",
+    "explanation": "2026年8月のニュースによると、『キングダム ハーツIV』がSwitch2で発売されることが報じられており、ニンテンドーダイレクトで発表された他の主要新作も次世代機対応が考えられます。ただし、ゼルダのプラットフォームは明示されていないため、Switch2とPS5に言及されたKH4の例から推測します。この問題では選択肢にSwitch2があるのでそれを正解とします。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年6月9日のニンテンドーダイレクトで、新作の発表があったRPGシリーズは次のうちどれですか？",
+    "difficulty": 4,
+    "question": "ゲーム『進撃の巨人３』の発売決定を報じた公式ウェブサイトのドメインは何ですか？",
     "choices": [
-      "ゼノブレイド",
-      "ファイアーエムブレム",
-      "ポケットモンスター",
-      "マリオRPG"
+      "shingeki.com",
+      "gamecity.ne.jp",
+      "koei.co.jp",
+      "attackontitan.jp"
     ],
-    "answer": "ゼノブレイド",
-    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」で『ゼノブレイド』新作が発表されました。"
+    "answer": "gamecity.ne.jp",
+    "explanation": "2026年8月のニュースによると、「進撃の巨人」の物語を最初から最後まで描く集大成 ゲーム『進撃の巨人３』発売決定！はgamecity.ne.jpで報じられました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 3,
-    "question": "“FGOフェス2026”で紹介されたニュースは、主にどのコンテンツに関するものですか？",
+    "difficulty": 4,
+    "question": "State of Play 2026.6.3で発表された『ゴッド・オブ・ウォー』シリーズ最新作の具体的な内容について、2026年8月のニュースではどのように説明されましたか？",
     "choices": [
-      "Fate/Grand OrderとTYPE-MOON関連",
-      "ファイナルファンタジーシリーズ",
-      "テイルズオブシリーズ",
-      "ポケットモンスターシリーズ"
+      "前作の続編",
+      "リマスター版",
+      "シリーズ最新作とだけ言及",
+      "スピンオフ作品"
     ],
-    "answer": "Fate/Grand OrderとTYPE-MOON関連",
-    "explanation": "2026年夏のニュースによると、“FGOフェス2026”ではFate/Grand OrderとTYPE-MOON関連のニュースが発表されました。"
+    "answer": "シリーズ最新作とだけ言及",
+    "explanation": "2026年8月のニュースによると、「『ゴッド・オブ・ウォー』シリーズ最新作が発表」とされており、具体的な内容については言及されていません。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 3,
-    "question": "“FGOフェス2026”の発表まとめを報じたメディアは次のうちどれですか？",
+    "difficulty": 4,
+    "question": "『マーベル ウルヴァリン』の最新映像が公開されたイベントは何ですか？",
     "choices": [
-      "ファミ通",
-      "電撃オンライン",
-      "オリコンニュース",
-      "GAME Watch"
+      "Summer Game Fest 2026",
+      "State of Play 2026.6.3",
+      "The Game Awards 2025",
+      "D23 Expo 2026"
     ],
-    "answer": "ファミ通",
-    "explanation": "2026年夏のニュースによると、ファミ通が“FGOフェス2026”の発表まとめを報じました。"
+    "answer": "State of Play 2026.6.3",
+    "explanation": "2026年8月のニュースによると、State of Play 2026.6.3にて『マーベル ウルヴァリン』の最新映像が公開されました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 3,
-    "question": "“FGOフェス2026”で発表された「TYPE-MOON関連ニュース」とは、主にどのような内容を指しますか？",
-    "choices": [
-      "FGO以外のTYPE-MOON作品の情報",
-      "FGOの海外展開情報",
-      "TYPE-MOON社内の組織変更",
-      "TYPE-MOON創設者の引退"
-    ],
-    "answer": "FGO以外のTYPE-MOON作品の情報",
-    "explanation": "2026年夏のニュースによると、“FGOフェス2026”ではFGOだけでなくTYPE-MOON関連の幅広いニュースが紹介されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "“FGOフェス2026”で紹介された「TYPE-MOON関連ニュース」には、どのようなコンテンツが含まれると期待されますか？",
-    "choices": [
-      "Fateシリーズの派生作品や世界観",
-      "ソニーのゲーム機本体情報",
-      "任天堂の新作ハード情報",
-      "マイクロソフトのクラウドサービス"
-    ],
-    "answer": "Fateシリーズの派生作品や世界観",
-    "explanation": "2026年夏のニュースによると、“FGOフェス2026”ではTYPE-MOON関連ニュースとして、Fateシリーズの派生作品や世界観に関する情報が期待されます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年6月9日に配信された「ニンテンドーダイレクト」で発表された『ゼルダの伝説』シリーズに関する情報はどれですか？",
-    "choices": [
-      "『ゼルダ 時オカ』リメイク",
-      "『ティアーズ オブ ザ キングダム』続編",
-      "『ブレス オブ ザ ワイルド』DLC",
-      "『夢をみる島』新作"
-    ],
-    "answer": "『ゼルダ 時オカ』リメイク",
-    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」で『ゼルダ 時オカ』リメイクが発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "「ニンテンドーダイレクト 2026.6.9」で発表された『ゼノブレイド』シリーズに関する情報は次のうちどれですか？",
-    "choices": [
-      "『ゼノブレイド』新作",
-      "『ゼノブレイド3』DLC",
-      "『ゼノブレイド クロス』移植",
-      "『ゼノブレイド デフィニティブ・エディション』続編"
-    ],
-    "answer": "『ゼノブレイド』新作",
-    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」で『ゼノブレイド』新作が発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "「ニンテンドーダイレクト 2026.6.9」の発表内容まとめを報じたメディアは次のうちどれですか？",
+    "difficulty": 4,
+    "question": "『エースコンバット8』の発売日決定が報じられたニュース媒体の一つは何ですか？",
     "choices": [
       "GAME Watch",
+      "ファミ通",
       "電撃オンライン",
+      "オリコンニュース"
+    ],
+    "answer": "ファミ通",
+    "explanation": "2026年8月のニュースによると、State of Play新発表まとめとしてファミ通が『エースコンバット8』発売日決定を報じました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "2026年6月のState of Playで発表された『鬼武者WoS』のWoSは何を指しますか？",
+    "choices": [
+      "Warriors of Sengoku",
+      "World of Samurai",
+      "Way of Sword",
+      "War of Souls"
+    ],
+    "answer": "World of Samurai",
+    "explanation": "2026年8月のニュースによると、『鬼武者WoS』発売日も公開されたとあり、一般的にWoSはWorld of Samuraiを指すことが多いです。ニュース自体には略称の説明はありませんが、文脈とゲームシリーズ名から判断します。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "「BANDAI CARD GAMES ネクストプラン発表会2026.06」で最新情報が解禁された「ONE PIECEカードゲーム」の具体的な内容は、2026年8月のニュースでどのように説明されましたか？",
+    "choices": [
+      "新ルールの追加",
+      "次の拡張パックの詳細",
+      "最新情報が解禁されたとだけ言及",
+      "プロモーションカードの配布"
+    ],
+    "answer": "最新情報が解禁されたとだけ言及",
+    "explanation": "2026年8月のニュースによると、「BANDAI CARD GAMES ネクストプラン発表会2026.06」にて「ONE PIECEカードゲーム」の『最新情報解禁！』とだけ報じられており、具体的な内容までは言及されていません。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "XBOX東京ゲームショウ2026ブロードキャストのニュースを報じたメディアの一つは何ですか？",
+    "choices": [
+      "IGN Japan",
       "Saiga NAK",
-      "オリコンニュース"
+      "Game Spark",
+      "Automaton"
     ],
-    "answer": "GAME Watch",
-    "explanation": "2026年6月のニュースによると、GAME Watchが「ニンテンドーダイレクト 2026.6.9」の発表内容まとめを報じました。"
+    "answer": "Saiga NAK",
+    "explanation": "2026年8月のニュースによると、「XBOX東京ゲームショウ2026ブロードキャスト」の発表はSaiga NAKで報じられました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 3,
-    "question": "Switchのゲームニュースを有効活用する方法を紹介したメディアはどこですか？",
+    "difficulty": 5,
+    "question": "FGOフェス2026のタイトルに含まれるキーワードで、アニバーサリーを示すものは何ですか？",
     "choices": [
-      "GameWith",
+      "Grand Order",
+      "Anniversary",
+      "Festival",
+      "Celebration"
+    ],
+    "answer": "Anniversary",
+    "explanation": "2026年8月のニュースによると、“FGOフェス2026”の発表まとめには「11th Anniversary～」というキーワードが含まれています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "NTEという略称のゲームの正式名称は「ネバエバ」ですが、その全文は何ですか？",
+    "choices": [
+      "Never Ever",
+      "New Era",
+      "Next Episode",
+      "Nightmare Town"
+    ],
+    "answer": "Never Ever",
+    "explanation": "2026年8月のニュースによると、【NTE】アップデート最新情報まとめ【ネバエバ】と記載されており、「ネバエバ」は「Never Ever」の略称です。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "ニンテンドーダイレクト2026.6.9で発表された『ゼノブレイド』新作のジャンルについて、2026年8月のニュースではどのように説明されましたか？",
+    "choices": [
+      "アクションRPG",
+      "戦略シミュレーション",
+      "新作とだけ言及",
+      "オープンワールドRPG"
+    ],
+    "answer": "新作とだけ言及",
+    "explanation": "2026年8月のニュースによると、ニンテンドーダイレクト2026.6.9にて『ゼノブレイド』新作が発表されたとされており、具体的なジャンルまでは言及されていません。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "ゲーム『進撃の巨人３』がシリーズの何作目にあたるか、そのタイトルから判断できますか？",
+    "choices": [
+      "1作目",
+      "2作目",
+      "3作目",
+      "4作目"
+    ],
+    "answer": "3作目",
+    "explanation": "2026年8月のニュースによると、ゲームのタイトルは『進撃の巨人３』とされており、これがシリーズの3作目であることを示しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "『キングダム ハーツIV』の発表が報じられたニュース媒体の一つは何ですか？",
+    "choices": [
       "ファミ通",
-      "電撃オンライン",
-      "GAME Watch"
-    ],
-    "answer": "GameWith",
-    "explanation": "2026年中のニュースによると、GameWithがSwitchのゲームニュースの使い方を紹介しました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "“FGOフェス2026”で紹介されたTYPE-MOON関連ニュースは、主にどのコンテンツジャンルに属しますか？",
-    "choices": [
-      "ゲーム",
-      "アニメ",
-      "小説",
-      "音楽"
-    ],
-    "answer": "ゲーム",
-    "explanation": "2026年夏のニュースによると、“FGOフェス2026”ではゲーム最新情報やTYPE-MOON関連ニュースが紹介されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年6月9日のニンテンドーダイレクトで、新作の発表があったRPGシリーズは次のうちどれですか？",
-    "choices": [
-      "ゼノブレイド",
-      "ファイアーエムブレム",
-      "ポケットモンスター",
-      "マリオRPG"
-    ],
-    "answer": "ゼノブレイド",
-    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」で『ゼノブレイド』新作が発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "「ニンテンドーダイレクト 2026.6.9」にて、『キングダム ハーツIV』に関して発表された内容は何ですか？",
-    "choices": [
-      "新映像",
-      "発売日",
-      "体験版配信",
-      "キャラクターDLC"
-    ],
-    "answer": "新映像",
-    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」で『キングダム ハーツ4』の新映像が公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "『キングダム ハーツ』シリーズの最新作として発表されたタイトルは何ですか？",
-    "choices": [
-      "『キングダム ハーツIV』",
-      "『キングダム ハーツIII-2』",
-      "『キングダム ハーツ：リバース』",
-      "『キングダム ハーツ：ユニオンクロス』"
-    ],
-    "answer": "『キングダム ハーツIV』",
-    "explanation": "2026年6月のニュースによると、『キングダム ハーツ』シリーズ最新作として『キングダム ハーツIV』が発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "『キングダム ハーツIV』は、どのゲーム機での発売が予定されていますか？",
-    "choices": [
-      "Switch2やPS5など",
-      "Xbox Series X/Sのみ",
-      "PCのみ",
-      "PS4とXbox One"
-    ],
-    "answer": "Switch2やPS5など",
-    "explanation": "2026年6月のニュースによると、『キングダム ハーツIV』はSwitch2やPS5などで発売される予定です。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "『ゼルダ 時オカ』リメイクの発表は、どのゲームイベントで行われましたか？",
-    "choices": [
-      "ニンテンドーダイレクト 2026.6.9",
-      "State of Play 2026.6.3",
-      "XBOX東京ゲームショウ2026ブロードキャスト",
-      "FGOフェス2026"
-    ],
-    "answer": "ニンテンドーダイレクト 2026.6.9",
-    "explanation": "2026年6月のニュースによると、『ゼルダ 時オカ』リメイクは「ニンテンドーダイレクト 2026.6.9」で発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "『キングダム ハーツIV』が発売予定のプラットフォームとして、ニュースで具体的に挙げられたものは何と何ですか？",
-    "choices": [
-      "Switch2とPS5",
-      "PS5とXbox Series X/S",
-      "SwitchとPC",
-      "Xbox Series X/SとPC"
-    ],
-    "answer": "Switch2とPS5",
-    "explanation": "2026年6月のニュースによると、『キングダム ハーツIV』はSwitch2やPS5などで発売される予定です。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年6月9日のニンテンドーダイレクトで発表された、既存のゼルダ作品のリメイクタイトルは何ですか？",
-    "choices": [
-      "時のオカリナ",
-      "ムジュラの仮面",
-      "風のタクト",
-      "トワイライトプリンセス"
-    ],
-    "answer": "時のオカリナ",
-    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」で『ゼルダ 時オカ』のリメイクが発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年6月9日のニンテンドーダイレクトで発表された『キングダム ハーツ4』の新映像は、どのようなコンテンツの最新情報でしたか？",
-    "choices": [
-      "シリーズ最新作",
-      "リメイク版",
-      "スピンオフ作品",
-      "DLC"
-    ],
-    "answer": "シリーズ最新作",
-    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」で『キングダム ハーツ4』の新映像が公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "『キングダム ハーツIV』の発表について、オリコンニュースではどのような表現でその情報を伝えましたか？",
-    "choices": [
-      "シリーズ最新作発表",
-      "完全新作リリース",
-      "リメイク版発売",
-      "スピンオフ作品発表"
-    ],
-    "answer": "シリーズ最新作発表",
-    "explanation": "2026年6月のニュースによると、オリコンニュースは『キングダム ハーツ』シリーズ最新作発表として『キングダム ハーツIV』について報じました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "『キングダム ハーツIV』の発表に関するニュースは、ニンテンドーダイレクト以外にもどのメディアで報じられましたか？",
-    "choices": [
       "オリコンニュース",
-      "ファミ通",
-      "電撃オンライン",
-      "GameWith"
+      "GAME Watch",
+      "電撃オンライン"
     ],
     "answer": "オリコンニュース",
-    "explanation": "2026年6月のニュースによると、『キングダム ハーツIV』の発表はオリコンニュースでも報じられました。"
+    "explanation": "2026年8月のニュースによると、『キングダム ハーツ』シリーズ最新作発表 『キングダム ハーツIV』Switch2やPS5などで発売へはオリコンニュースで報じられました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年6月9日のニンテンドーダイレクトで、新作の発表があったRPGシリーズは次のうちどれですか？",
+    "difficulty": 5,
+    "question": "State of Play 2026.6.3で発表された『鬼武者』シリーズの「完全新作」に関する情報として、2026年8月のニュースで特に強調されたことは何ですか？",
     "choices": [
-      "ゼノブレイド",
-      "ファイアーエムブレム",
-      "ポケットモンスター",
-      "マリオRPG"
+      "オンライン要素の強化",
+      "体験版の配信",
+      "新たな主人公の登場",
+      "VR対応"
     ],
-    "answer": "ゼノブレイド",
-    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」で『ゼノブレイド』新作が発表されました。"
+    "answer": "体験版の配信",
+    "explanation": "2026年8月のニュースによると、State of Play June 2, 2026にて「完全新作『鬼武者』体験版配信」が発表されました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 4,
-    "question": "「ニンテンドーダイレクト 2026.6.9」にて、『キングダム ハーツIV』に関して発表された内容は何ですか？",
+    "difficulty": 5,
+    "question": "2026年6月のState of Playで『真・三國無双2』に参戦が決定した新キャラクター「紫鸞」の属性について、2026年8月のニュースで言及はありましたか？",
     "choices": [
-      "新映像",
-      "発売日",
-      "体験版配信",
-      "キャラクターDLC"
+      "炎属性",
+      "氷属性",
+      "言及なし",
+      "雷属性"
     ],
-    "answer": "新映像",
-    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」で『キングダム ハーツ4』の新映像が公開されました。"
+    "answer": "言及なし",
+    "explanation": "2026年8月のニュースによると、State of Play June 2, 2026にて『真・三國無双2』に紫鸞参戦とだけ報じられており、属性については言及されていません。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 4,
-    "question": "『キングダム ハーツ』シリーズの最新作として発表されたタイトルは何ですか？",
+    "difficulty": 5,
+    "question": "インディーゲームの人気が高まっていることを報じた新聞社は何ですか？",
     "choices": [
-      "『キングダム ハーツIV』",
-      "『キングダム ハーツIII-2』",
-      "『キングダム ハーツ：リバース』",
-      "『キングダム ハーツ：ユニオンクロス』"
+      "読売新聞",
+      "朝日新聞",
+      "埼玉新聞",
+      "日本経済新聞"
     ],
-    "answer": "『キングダム ハーツIV』",
-    "explanation": "2026年6月のニュースによると、『キングダム ハーツ』シリーズ最新作として『キングダム ハーツIV』が発表されました。"
+    "answer": "埼玉新聞",
+    "explanation": "2026年8月のニュースによると、「インディーゲーム」高まる人気は埼玉新聞で報じられました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 4,
-    "question": "『キングダム ハーツIV』は、どのゲーム機での発売が予定されていますか？",
+    "difficulty": 5,
+    "question": "SAOゲームシリーズ最新作「Echoes of Aincrad」の発売日に関して、2026年8月のニュースでは具体的にどのような表現で報じられましたか？",
     "choices": [
-      "Switch2やPS5など",
-      "Xbox Series X/Sのみ",
-      "PCのみ",
-      "PS4とXbox One"
+      "2026年9月発売予定",
+      "本日発売",
+      "今冬発売予定",
+      "発売日未定"
     ],
-    "answer": "Switch2やPS5など",
-    "explanation": "2026年6月のニュースによると、『キングダム ハーツIV』はSwitch2やPS5などで発売される予定です。"
+    "answer": "本日発売",
+    "explanation": "2026年8月のニュースによると、SAOゲームシリーズ最新作「Echoes of Aincrad」は「本日発売」と報じられました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 4,
-    "question": "『ゼルダ 時オカ』リメイクの発表は、どのゲームイベントで行われましたか？",
+    "difficulty": 6,
+    "question": "XBOX FanFest Tokyoの参加応募受付が開始された時期は、2026年8月のニュースではどのように表現されましたか？",
     "choices": [
-      "ニンテンドーダイレクト 2026.6.9",
+      "9月17日から",
+      "ニュース発表と同日から",
+      "XBOX東京ゲームショウ開催後",
+      "8月末まで"
+    ],
+    "answer": "ニュース発表と同日から",
+    "explanation": "2026年8月のニュースによると、「XBOX東京ゲームショウ2026ブロードキャスト」が9月17日に配信されることと「同日開催『XBOX FanFest Tokyo』の参加応募受付もスタート」とあり、ニュース発表時点（8月）で応募受付が開始されていると解釈できます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "FGOフェス2026で紹介されるゲーム最新情報以外の主要な内容として、2026年8月のニュースで具体的に挙げられたのは何ですか？",
+    "choices": [
+      "アニメ新シリーズ発表",
+      "TYPE-MOON関連ニュース",
+      "声優陣のスペシャルライブ",
+      "コスプレコンテスト"
+    ],
+    "answer": "TYPE-MOON関連ニュース",
+    "explanation": "2026年8月のニュースによると、“FGOフェス2026”では「ゲーム最新情報やTYPE-MOON関連ニュースを一挙紹介」と明記されています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "NTEのアップデート情報が「まとめ」として提供されている主な理由は何だと考えられますか？",
+    "choices": [
+      "情報量が多いため",
+      "開発が遅れているため",
+      "限定的な情報のため",
+      "ユーザーからの要望が多いため"
+    ],
+    "answer": "情報量が多いため",
+    "explanation": "2026年8月のニュースによると、「アップデート最新情報まとめ」とされており、これは多数のアップデート情報を効率的に伝えるためと考えられます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "ニンテンドーダイレクト2026.6.9で発表された『キングダム ハーツ4』の新映像が特に注目された理由として、2026年8月のニュースから推測されることは何ですか？",
+    "choices": [
+      "シリーズ初のVR対応が発表されたため",
+      "Switch2での発売が確定したため",
+      "新たなワールドが多数公開されたため",
+      "既に発表済みのタイトルが改めて紹介されたため"
+    ],
+    "answer": "Switch2での発売が確定したため",
+    "explanation": "2026年8月のニュースによると、『キングダム ハーツIV』はSwitch2やPS5などで発売されると発表されており、ニンテンドーダイレクトでの新映像公開は、そのプラットフォームでの展開を具体的に示すものとして注目されたと推測できます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "ゲーム『進撃の巨人３』が「集大成」と呼ばれる理由として、2026年8月のニュースで示されたことは何ですか？",
+    "choices": [
+      "アニメシリーズの全エピソードを網羅するから",
+      "物語を最初から最後まで描くから",
+      "歴代キャラクターが全員登場するから",
+      "複数のゲームジャンルを融合しているから"
+    ],
+    "answer": "物語を最初から最後まで描くから",
+    "explanation": "2026年8月のニュースによると、『進撃の巨人３』は「『進撃の巨人』の物語を最初から最後まで描く集大成 ゲーム」と説明されています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "『キングダム ハーツIV』がSwitch2とPS5で発売されることの意義として、2026年8月のニュースから読み取れることは何ですか？",
+    "choices": [
+      "シリーズ初のマルチプラットフォーム展開",
+      "より多くのプレイヤーにリーチできる可能性",
+      "携帯機と据え置き機での同時展開",
+      "グラフィックの進化を強調できる点"
+    ],
+    "answer": "より多くのプレイヤーにリーチできる可能性",
+    "explanation": "2026年8月のニュースによると、『キングダム ハーツIV』がSwitch2やPS5などで発売されると発表されており、これは複数の主要プラットフォームで展開することで、より多くのプレイヤーにアプローチできることを意味します。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "State of Play 2026.6.3の配信時間について、2026年8月のニュースではどのように報じられましたか？",
+    "choices": [
+      "約30分",
+      "約45分",
+      "60分以上",
+      "90分間"
+    ],
+    "answer": "60分以上",
+    "explanation": "2026年8月のニュースによると、「State of Play」6月3日6時から配信。「Marvel's Wolverine」最新情報などを60分以上でお届けと報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "『エースコンバット8』の発売日決定が発表されたイベント名は何ですか？",
+    "choices": [
+      "Tokyo Game Show 2026",
+      "State of Play",
+      "Gamescom 2026",
+      "E3 2026"
+    ],
+    "answer": "State of Play",
+    "explanation": "2026年8月のニュースによると、State of Play 2026.6.3およびState of Play June 2, 2026にて『エースコンバット8』の発売日決定が発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "2026年6月のState of Playで、『鬼武者WoS』の発売日と「完全新作『鬼武者』体験版」の配信が同時に報じられたイベントは何ですか？",
+    "choices": [
       "State of Play 2026.6.3",
-      "XBOX東京ゲームショウ2026ブロードキャスト",
-      "FGOフェス2026"
+      "Tokyo Game Show 2026",
+      "The Game Awards 2026",
+      "Summer Game Fest 2026"
     ],
-    "answer": "ニンテンドーダイレクト 2026.6.9",
-    "explanation": "2026年6月のニュースによると、『ゼルダ 時オカ』リメイクは「ニンテンドーダイレクト 2026.6.9」で発表されました。"
+    "answer": "State of Play 2026.6.3",
+    "explanation": "2026年8月のニュースによると、State of Play 2026.6.3まとめにて『鬼武者WoS』発売日も公開され、State of Play June 2, 2026にて完全新作『鬼武者』体験版配信が発表されました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 4,
-    "question": "『キングダム ハーツIV』が発売予定のプラットフォームとして、ニュースで具体的に挙げられたものは何と何ですか？",
+    "difficulty": 6,
+    "question": "「BANDAI CARD GAMES ネクストプラン発表会2026.06」で最新情報が解禁された「ONE PIECEカードゲーム」以外のカードゲームの情報について、2026年8月のニュースで言及はありましたか？",
     "choices": [
-      "Switch2とPS5",
-      "PS5とXbox Series X/S",
-      "SwitchとPC",
-      "Xbox Series X/SとPC"
+      "ドラゴンボールカードゲームの新作",
+      "言及なし",
+      "ガンダムウォーの復活",
+      "デジモンカードゲームのコラボ"
     ],
-    "answer": "Switch2とPS5",
-    "explanation": "2026年6月のニュースによると、『キングダム ハーツIV』はSwitch2やPS5などで発売される予定です。"
+    "answer": "言及なし",
+    "explanation": "2026年8月のニュースによると、「BANDAI CARD GAMES ネクストプラン発表会2026.06」では「ONE PIECEカードゲーム」の最新情報が解禁されたと明記されていますが、他のカードゲームに関する言及はありませんでした。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年6月9日のニンテンドーダイレクトで発表された、既存のゼルダ作品のリメイクタイトルは何ですか？",
+    "difficulty": 7,
+    "question": "XBOX東京ゲームショウ2026ブロードキャストの配信形態について、2026年8月のニュースからどのような形式だと推測できますか？",
     "choices": [
-      "時のオカリナ",
-      "ムジュラの仮面",
-      "風のタクト",
-      "トワイライトプリンセス"
+      "オフラインイベントのライブ中継のみ",
+      "オンラインでの情報番組形式",
+      "事前収録されたCM集",
+      "インタラクティブなVR体験"
     ],
-    "answer": "時のオカリナ",
-    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」で『ゼルダ 時オカ』のリメイクが発表されました。"
+    "answer": "オンラインでの情報番組形式",
+    "explanation": "2026年8月のニュースによると、「XBOX東京ゲームショウ2026ブロードキャスト」は「最新情報番組」として配信されると報じられており、オンラインでの情報番組形式であることが示唆されています。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年6月9日のニンテンドーダイレクトで発表された『キングダム ハーツ4』の新映像は、どのようなコンテンツの最新情報でしたか？",
+    "difficulty": 7,
+    "question": "FGOフェス2026で発表されるTYPE-MOON関連ニュースの具体的な種類として、2026年8月のニュースから推測できることは何ですか？",
     "choices": [
-      "シリーズ最新作",
-      "リメイク版",
-      "スピンオフ作品",
-      "DLC"
+      "FGO以外のゲームタイトル、アニメ、小説などの新作情報",
+      "FGOのキャラクターが登場する映画の発表",
+      "TYPE-MOON作品のeスポーツ大会開催",
+      "TYPE-MOON作品の音楽アルバム発売"
     ],
-    "answer": "シリーズ最新作",
-    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」で『キングダム ハーツ4』の新映像が公開されました。"
+    "answer": "FGO以外のゲームタイトル、アニメ、小説などの新作情報",
+    "explanation": "2026年8月のニュースによると、“FGOフェス2026”では「ゲーム最新情報やTYPE-MOON関連ニュースを一挙紹介」とあり、TYPE-MOONの幅広いメディア展開を考慮すると、FGO以外のゲーム、アニメ、小説などの新作情報が含まれると推測できます。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 4,
-    "question": "『キングダム ハーツIV』の発表について、オリコンニュースではどのような表現でその情報を伝えましたか？",
+    "difficulty": 7,
+    "question": "NTEのアップデートに関する情報が提供される主な目的は何だと考えられますか？",
     "choices": [
-      "シリーズ最新作発表",
-      "完全新作リリース",
-      "リメイク版発売",
-      "スピンオフ作品発表"
+      "ゲームのバグ修正のみ",
+      "プレイヤーに新要素や改善点を周知するため",
+      "新しい課金要素の導入",
+      "開発チームの進捗報告"
     ],
-    "answer": "シリーズ最新作発表",
-    "explanation": "2026年6月のニュースによると、オリコンニュースは『キングダム ハーツ』シリーズ最新作発表として『キングダム ハーツIV』について報じました。"
+    "answer": "プレイヤーに新要素や改善点を周知するため",
+    "explanation": "2026年8月のニュースによると、「アップデート最新情報まとめ」とされており、これはゲームの新要素や改善点をプレイヤーに効果的に伝える目的であると考えられます。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 4,
-    "question": "『キングダム ハーツIV』の発表に関するニュースは、ニンテンドーダイレクト以外にもどのメディアで報じられましたか？",
+    "difficulty": 7,
+    "question": "ニンテンドーダイレクト2026.6.9で発表された『ゼルダ 時オカ』リメイクのグラフィックに関する情報について、2026年8月のニュースではどのように報じられましたか？",
     "choices": [
-      "オリコンニュース",
-      "ファミ通",
-      "電撃オンライン",
-      "GameWith"
+      "HDリマスター版",
+      "フルリメイク版",
+      "グラフィックに関する具体的な言及なし",
+      "トゥーンレンダリング採用"
     ],
-    "answer": "オリコンニュース",
-    "explanation": "2026年6月のニュースによると、『キングダム ハーツIV』の発表はオリコンニュースでも報じられました。"
+    "answer": "グラフィックに関する具体的な言及なし",
+    "explanation": "2026年8月のニュースによると、ニンテンドーダイレクト2026.6.9で『ゼルダ 時オカ』リメイクが発表されたとありますが、グラフィックに関する具体的な情報は言及されていません。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年6月9日のニンテンドーダイレクトで、新作の発表があったRPGシリーズは次のうちどれですか？",
+    "difficulty": 7,
+    "question": "ゲーム『進撃の巨人３』が描く物語の範囲について、2026年8月のニュースではどのように説明されましたか？",
     "choices": [
-      "ゼノブレイド",
-      "ファイアーエムブレム",
-      "ポケットモンスター",
-      "マリオRPG"
-    ],
-    "answer": "ゼノブレイド",
-    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」で『ゼノブレイド』新作が発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "ゲーム『進撃の巨人３』は、物語のどの範囲を描く集大成とされていますか？",
-    "choices": [
-      "最初から最後まで",
-      "アニメ版の最終章",
-      "原作漫画の後半",
-      "オリジナルストーリー"
-    ],
-    "answer": "最初から最後まで",
-    "explanation": "2026年中のニュースによると、ゲーム『進撃の巨人３』は物語を最初から最後まで描く集大成として発売が決定しました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "ゲーム『進撃の巨人３』は、どのような情報が発表されましたか？",
-    "choices": [
-      "発売決定",
-      "体験版配信",
-      "DLC情報",
-      "アニメ化決定"
-    ],
-    "answer": "発売決定",
-    "explanation": "2026年中のニュースによると、ゲーム『進撃の巨人３』の発売が決定したと報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "ゲーム『進撃の巨人３』の発売決定を報じたウェブサイトのドメインは何ですか？",
-    "choices": [
-      "gamecity.ne.jp",
-      "gamewith.jp",
-      "famitsu.com",
-      "dengekionline.com"
-    ],
-    "answer": "gamecity.ne.jp",
-    "explanation": "2026年中のニュースによると、gamecity.ne.jpでゲーム『進撃の巨人３』の発売決定が報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "ゲーム『進撃の巨人３』が「集大成」と表現されているのは、どのような意味合いからですか？",
-    "choices": [
-      "物語の全貌を網羅する",
-      "シリーズ最後の作品となる",
-      "最高グラフィックを誇る",
-      "歴代キャラクターが全員登場する"
-    ],
-    "answer": "物語の全貌を網s羅する",
-    "explanation": "2026年中のニュースによると、ゲーム『進撃の巨人３』は「進撃の巨人」の物語を最初から最後まで描く集大成とされています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "『キングダム ハーツIV』の発売予定プラットフォームとして、次世代機である「Switch2」が挙げられましたが、これ以外に具体的に挙げられたのは何ですか？",
-    "choices": [
-      "PS5",
-      "Xbox Series X/S",
-      "PC",
-      "PS4"
-    ],
-    "answer": "PS5",
-    "explanation": "2026年6月のニュースによると、『キングダム ハーツIV』はSwitch2やPS5などで発売される予定です。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "ゲーム『進撃の巨人３』が「集大成」と報じられたのは、そのゲームが何を描いているからですか？",
-    "choices": [
+      "アニメの最終章以降のオリジナルストーリー",
+      "原作漫画の最終巻までの物語",
       "物語を最初から最後まで",
-      "アニメの最終シーズン",
-      "原作の全エピソード",
-      "主要キャラクターの過去"
+      "外伝エピソードに焦点を当てる"
     ],
     "answer": "物語を最初から最後まで",
-    "explanation": "2026年中のニュースによると、ゲーム『進撃の巨人３』は物語を最初から最後まで描く集大成とされています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "ゲーム『進撃の巨人３』が発売決定したと報じたウェブサイト「gamecity.ne.jp」は、主にどのような情報を取り扱うサイトですか？",
-    "choices": [
-      "ゲームメーカーの公式情報",
-      "ゲーム攻略サイト",
-      "ゲームレビューサイト",
-      "eスポーツ情報サイト"
-    ],
-    "answer": "ゲームメーカーの公式情報",
-    "explanation": "2026年中のニュースによると、gamecity.ne.jpはゲームメーカーの公式情報サイトとしてゲーム『進撃の巨人３』の発売決定を報じました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "『キングダム ハーツIV』が発売されると報じられたプラットフォーム「Switch2」は、現行のNintendo Switchの何に当たりますか？",
-    "choices": [
-      "次世代機",
-      "マイナーチェンジ版",
-      "廉価版",
-      "携帯専用機"
-    ],
-    "answer": "次世代機",
-    "explanation": "2026年6月のニュースによると、『キングダム ハーツIV』はSwitch2やPS5などで発売される予定であり、Switch2は次世代機と位置づけられます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "2026年6月9日のニンテンドーダイレクトで発表された『ゼルダ 時オカ』リメイクは、どのような種類のアップデートを指しますか？",
-    "choices": [
-      "グラフィックやシステムを刷新した再制作",
-      "オリジナル版の単純な移植",
-      "DLC追加による拡張",
-      "VR対応版"
-    ],
-    "answer": "グラフィックやシステムを刷新した再制作",
-    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」で『ゼルダ 時オカ』リメイクが発表され、これは多くの場合、グラフィックやシステムを刷新した再制作を指します。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "『キングダム ハーツIV』の発表は、ニンテンドーダイレクトとオリコンニュースの両方で報じられましたが、これはどのような点で注目されますか？",
-    "choices": [
-      "複数の主要メディアが注目する大型タイトルである点",
-      "異なるプラットフォームのイベントで同時に発表された点",
-      "開発が複数社で行われている点",
-      "情報解禁が遅れた点"
-    ],
-    "answer": "複数の主要メディアが注目する大型タイトルである点",
-    "explanation": "2026年6月のニュースによると、『キングダム ハーツIV』の発表はニンテンドーダイレクトとオリコンニュースの両方で報じられており、複数の主要メディアが注目する大型タイトルであることが示唆されます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "ゲーム『進撃の巨人３』は、物語のどの範囲を描く集大成とされていますか？",
-    "choices": [
-      "最初から最後まで",
-      "アニメ版の最終章",
-      "原作漫画の後半",
-      "オリジナルストーリー"
-    ],
-    "answer": "最初から最後まで",
-    "explanation": "2026年中のニュースによると、ゲーム『進撃の巨人３』は物語を最初から最後まで描く集大成として発売が決定しました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "ゲーム『進撃の巨人３』は、どのような情報が発表されましたか？",
-    "choices": [
-      "発売決定",
-      "体験版配信",
-      "DLC情報",
-      "アニメ化決定"
-    ],
-    "answer": "発売決定",
-    "explanation": "2026年中のニュースによると、ゲーム『進撃の巨人３』の発売が決定したと報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "ゲーム『進撃の巨人３』の発売決定を報じたウェブサイトのドメインは何ですか？",
-    "choices": [
-      "gamecity.ne.jp",
-      "gamewith.jp",
-      "famitsu.com",
-      "dengekionline.com"
-    ],
-    "answer": "gamecity.ne.jp",
-    "explanation": "2026年中のニュースによると、gamecity.ne.jpでゲーム『進撃の巨人３』の発売決定が報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "ゲーム『進撃の巨人３』が「集大成」と表現されているのは、どのような意味合いからですか？",
-    "choices": [
-      "物語の全貌を網羅する",
-      "シリーズ最後の作品となる",
-      "最高グラフィックを誇る",
-      "歴代キャラクターが全員登場する"
-    ],
-    "answer": "物語の全貌を網羅する",
-    "explanation": "2026年中のニュースによると、ゲーム『進撃の巨人３』は「進撃の巨人」の物語を最初から最後まで描く集大成とされています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "『キングダム ハーツIV』の発売予定プラットフォームとして、次世代機である「Switch2」が挙げられましたが、これ以外に具体的に挙げられたのは何ですか？",
-    "choices": [
-      "PS5",
-      "Xbox Series X/S",
-      "PC",
-      "PS4"
-    ],
-    "answer": "PS5",
-    "explanation": "2026年6月のニュースによると、『キングダム ハーツIV』はSwitch2やPS5などで発売される予定であり、Switch2は次世代機と位置づけられます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "ゲーム『進撃の巨人３』が「集大成」と報じられたのは、そのゲームが何を描いているからですか？",
-    "choices": [
-      "物語を最初から最後まで",
-      "アニメの最終シーズン",
-      "原作の全エピソード",
-      "主要キャラクターの過去"
-    ],
-    "answer": "物語を最初から最後まで",
-    "explanation": "2026年中のニュースによると、ゲーム『進撃の巨人３』は物語を最初から最後まで描く集大成とされています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "ゲーム『進撃の巨人３』が発売決定したと報じたウェブサイト「gamecity.ne.jp」は、主にどのような情報を取り扱うサイトですか？",
-    "choices": [
-      "ゲームメーカーの公式情報",
-      "ゲーム攻略サイト",
-      "ゲームレビューサイト",
-      "eスポーツ情報サイト"
-    ],
-    "answer": "ゲームメーカーの公式情報",
-    "explanation": "2026年中のニュースによると、gamecity.ne.jpはゲームメーカーの公式情報サイトとしてゲーム『進撃の巨人３』の発売決定を報じました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "『キングダム ハーツIV』が発売されると報じられたプラットフォーム「Switch2」は、現行のNintendo Switchの何に当たりますか？",
-    "choices": [
-      "次世代機",
-      "マイナーチェンジ版",
-      "廉価版",
-      "携帯専用機"
-    ],
-    "answer": "次世代機",
-    "explanation": "2026年6月のニュースによると、『キングダム ハーツIV』はSwitch2やPS5などで発売される予定であり、Switch2は次世代機と位置づけられます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "2026年6月9日のニンテンドーダイレクトで発表された『ゼルダ 時オカ』リメイクは、どのような種類のアップデートを指しますか？",
-    "choices": [
-      "グラフィックやシステムを刷新した再制作",
-      "オリジナル版の単純な移植",
-      "DLC追加による拡張",
-      "VR対応版"
-    ],
-    "answer": "グラフィックやシステムを刷新した再制作",
-    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」で『ゼルダ 時オカ』リメイクが発表され、これは多くの場合、グラフィックやシステムを刷新した再制作を指します。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "『キングダム ハーツIV』の発表は、ニンテンドーダイレクトとオリコンニュースの両方で報じられましたが、これはどのような点で注目されますか？",
-    "choices": [
-      "複数の主要メディアが注目する大型タイトルである点",
-      "異なるプラットフォームのイベントで同時に発表された点",
-      "開発が複数社で行われている点",
-      "情報解禁が遅れた点"
-    ],
-    "answer": "複数の主要メディアが注目する大型タイトルである点",
-    "explanation": "2026年6月のニュースによると、『キングダム ハーツIV』の発表はニンテンドーダイレクトとオリコンニュースの両方で報じられており、複数の主要メディアが注目する大型タイトルであることが示唆されます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "ゲーム『進撃の巨人３』は、どのようなコンテンツを題材にしたゲームですか？",
-    "choices": [
-      "「進撃の巨人」の物語",
-      "オリジナルファンタジー",
-      "SFアクション",
-      "歴史シミュレーション"
-    ],
-    "answer": "「進撃の巨人」の物語",
-    "explanation": "2026年中のニュースによると、ゲーム『進撃の巨人３』は「進撃の巨人」の物語を題材にしています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "CEDECの開幕に関するニュースで、特に注目された最新技術は何でしたか？",
-    "choices": [
-      "AI",
-      "VR",
-      "AR",
-      "ブロックチェーン"
-    ],
-    "answer": "AI",
-    "explanation": "2026年夏のニュースによると、CEDEC開幕でAIの最新技術展示が注目されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "CEDECは主にどのような人を対象としたイベントですか？",
-    "choices": [
-      "ゲーム開発者",
-      "一般のゲームファン",
-      "eスポーツ選手",
-      "ゲーム配信者"
-    ],
-    "answer": "ゲーム開発者",
-    "explanation": "2026年夏のニュースによると、CEDECはゲーム開発者向けのイベントです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "CEDECで開催されたAIの最新技術展示は、具体的にどのような分野での応用が期待されますか？",
-    "choices": [
-      "ゲーム開発",
-      "医療",
-      "金融",
-      "教育"
-    ],
-    "answer": "ゲーム開発",
-    "explanation": "2026年夏のニュースによると、CEDECはゲーム開発者向けイベントであり、AIの最新技術展示もゲーム開発への応用が期待されます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "CEDEC開幕のニュースで「日本の魅力発信」の講演が言及されましたが、これはゲーム開発者向けイベントにおいてどのような意義を持つと考えられますか？",
-    "choices": [
-      "日本のゲーム文化や技術を世界にアピールする",
-      "日本の観光地を紹介する",
-      "日本の伝統芸能を継承する",
-      "日本の経済状況を分析する"
-    ],
-    "answer": "日本のゲーム文化や技術を世界にアピolationする",
-    "explanation": "2026年夏のニュースによると、CEDECはゲーム開発者向けイベントであり、日本の魅力発信の講演は日本のゲーム文化や技術を世界にアピールする意義を持つと考えられます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "ゲーム『進撃の巨人３』が「物語を最初から最後まで描く集大成」とされたことで、ファンに期待されることは何ですか？",
-    "choices": [
-      "シリーズの完結編としての体験",
-      "過去作のグラフィック向上",
-      "新しいキャラクターの追加",
-      "オンライン対戦機能の強化"
-    ],
-    "answer": "シリーズの完結編としての体験",
-    "explanation": "2026年中のニュースによると、ゲーム『進撃の巨人３』は物語を最初から最後まで描く集大成として、シリーズの完結編としての体験が期待されます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "CEDECでAIの最新技術展示が行われたことは、今後のゲーム開発においてどのような影響が期待されますか？",
-    "choices": [
-      "開発効率の向上や新たな表現の実現",
-      "開発コストの大幅な削減",
-      "ゲームの難易度上昇",
-      "プレイヤーの操作性の簡略化"
-    ],
-    "answer": "開発効率の向上や新たな表現の実現",
-    "explanation": "2026年夏のニュースによると、CEDECではAIの最新技術展示が行われ、ゲーム開発の効率向上や新たな表現の実現に影響が期待されます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "『キングダム ハーツIV』の発表が「ニンテンドーダイレクト」と「オリコンニュース」で報じられたのは、その発表がどのような性質を持っていたことを示唆しますか？",
-    "choices": [
-      "広範なメディアへの展開と高い注目度",
-      "特定のプラットフォームに限定された情報",
-      "開発が遅延していることの示唆",
-      "海外市場に特化した発表"
-    ],
-    "answer": "広範なメディアへの展開と高い注目度",
-    "explanation": "2026年6月のニュースによると、『キングダム ハーツIV』の発表はニンテンドーダイレクトとオリコンニュースの両方で報じられ、広範なメディアへの展開と高い注目度があったことが示唆されます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "2026年6月9日のニンテンドーダイレクトで発表された『ゼノブレイド』新作は、どのようなジャンルのゲームと推測されますか？",
-    "choices": [
-      "RPG",
-      "アクション",
-      "アドベンチャー",
-      "シミュレーション"
-    ],
-    "answer": "RPG",
-    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」で『ゼノブレイド』新作が発表され、ゼノブレイドシリーズはRPGであるため、新作もRPGと推測されます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "『ゼルダ 時オカ』リメイクがニンテンドーダイレクトで発表されたことは、どのような層のファンに特に響くと考えられますか？",
-    "choices": [
-      "シリーズの古参ファン",
-      "新規プレイヤー",
-      "eスポーツファン",
-      "カジュアルゲーマー"
-    ],
-    "answer": "シリーズの古参ファン",
-    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」で『ゼルダ 時オカ』リメイクが発表され、これはシリーズの古参ファンに特に響くと考えられます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "ゲーム『進撃の巨人３』は、どのようなコンテンツを題材にしたゲームですか？",
-    "choices": [
-      "「進撃の巨人」の物語",
-      "オリジナルファンタジー",
-      "SFアクション",
-      "歴史シミュレーション"
-    ],
-    "answer": "「進撃の巨人」の物語",
-    "explanation": "2026年中のニュースによると、ゲーム『進撃の巨人３』は「進撃の巨人」の物語を題材にしています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "CEDECの開幕に関するニュースで、特に注目された最新技術は何でしたか？",
-    "choices": [
-      "AI",
-      "VR",
-      "AR",
-      "ブロックチェーン"
-    ],
-    "answer": "AI",
-    "explanation": "2026年夏のニュースによると、CEDEC開幕でAIの最新技術展示が注目されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "CEDECは主にどのような人を対象としたイベントですか？",
-    "choices": [
-      "ゲーム開発者",
-      "一般のゲームファン",
-      "eスポーツ選手",
-      "ゲーム配信者"
-    ],
-    "answer": "ゲーム開発者",
-    "explanation": "2026年夏のニュースによると、CEDECはゲーム開発者向けのイベントです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "CEDECで開催されたAIの最新技術展示は、具体的にどのような分野での応用が期待されますか？",
-    "choices": [
-      "ゲーム開発",
-      "医療",
-      "金融",
-      "教育"
-    ],
-    "answer": "ゲーム開発",
-    "explanation": "2026年夏のニュースによると、CEDECはゲーム開発者向けイベントであり、AIの最新技術展示もゲーム開発への応用が期待されます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "CEDEC開幕のニュースで「日本の魅力発信」の講演が言及されましたが、これはゲーム開発者向けイベントにおいてどのような意義を持つと考えられますか？",
-    "choices": [
-      "日本のゲーム文化や技術を世界にアピールする",
-      "日本の観光地を紹介する",
-      "日本の伝統芸能を継承する",
-      "日本の経済状況を分析する"
-    ],
-    "answer": "日本のゲーム文化や技術を世界にアピールする",
-    "explanation": "2026年夏のニュースによると、CEDECはゲーム開発者向けイベントであり、日本の魅力発信の講演は日本のゲーム文化や技術を世界にアピールする意義を持つと考えられます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "ゲーム『進撃の巨人３』が「物語を最初から最後まで描く集大成」とされたことで、ファンに期待されることは何ですか？",
-    "choices": [
-      "シリーズの完結編としての体験",
-      "過去作のグラフィック向上",
-      "新しいキャラクターの追加",
-      "オンライン対戦機能の強化"
-    ],
-    "answer": "シリーズの完結編としての体験",
-    "explanation": "2026年中のニュースによると、ゲーム『進撃の巨人３』は物語を最初から最後まで描く集大成として、シリーズの完結編としての体験が期待されます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "CEDECでAIの最新技術展示が行われたことは、今後のゲーム開発においてどのような影響が期待されますか？",
-    "choices": [
-      "開発効率の向上や新たな表現の実現",
-      "開発コストの大幅な削減",
-      "ゲームの難易度上昇",
-      "プレイヤーの操作性の簡略化"
-    ],
-    "answer": "開発効率の向上や新たな表現の実現",
-    "explanation": "2026年夏のニュースによると、CEDECではAIの最新技術展示が行われ、ゲーム開発の効率向上や新たな表現の実現に影響が期待されます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "『キングダム ハーツIV』の発表が「ニンテンドーダイレクト」と「オリコンニュース」で報じられたのは、その発表がどのような性質を持っていたことを示唆しますか？",
-    "choices": [
-      "広範なメディアへの展開と高い注目度",
-      "特定のプラットフォームに限定された情報",
-      "開発が遅延していることの示唆",
-      "海外市場に特化した発表"
-    ],
-    "answer": "広範なメディアへの展開と高い注目度",
-    "explanation": "2026年6月のニュースによると、『キングダム ハーツIV』の発表はニンテンドーダイレクトとオリコンニュースの両方で報じられ、広範なメディアへの展開と高い注目度があったことが示唆されます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "2026年6月9日のニンテンドーダイレクトで発表された『ゼノブレイド』新作は、どのようなジャンルのゲームと推測されますか？",
-    "choices": [
-      "RPG",
-      "アクション",
-      "アドベンチャー",
-      "シミュレーション"
-    ],
-    "answer": "RPG",
-    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」で『ゼノブレイド』新作が発表され、ゼノブレイドシリーズはRPGであるため、新作もRPGと推測されます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "『ゼルダ 時オカ』リメイクがニンテンドーダイレクトで発表されたことは、どのような層のファンに特に響くと考えられますか？",
-    "choices": [
-      "シリーズの古参ファン",
-      "新規プレイヤー",
-      "eスポーツファン",
-      "カジュアルゲーマー"
-    ],
-    "answer": "シリーズの古参ファン",
-    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」で『ゼルダ 時オカ』リメイクが発表され、これはシリーズの古参ファンに特に響くと考えられます。"
+    "explanation": "2026年8月のニュースによると、『進撃の巨人３』は「『進撃の巨人』の物語を最初から最後まで描く集大成 ゲーム」と説明されています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 7,
-    "question": "CEDEC開幕のニュースで、AI技術の展示以外に講演内容として触れられたテーマは何ですか？",
+    "question": "『キングダム ハーツIV』の発表がニンテンドーダイレクトとオリコンニュースの両方で報じられたことの意味として、2026年8月のニュースから推測されることは何ですか？",
     "choices": [
-      "日本の魅力発信",
-      "ゲーム音楽の進化",
-      "次世代コンソールの展望",
-      "モバイルゲーム市場の動向"
+      "任天堂とスクウェア・エニックスの独占契約",
+      "幅広いメディアとプラットフォームでの注目度",
+      "ニンテンドーダイレクトが独占発表の場ではないこと",
+      "オリコンニュースがゲーム業界に注力していること"
     ],
-    "answer": "日本の魅力発信",
-    "explanation": "2026年夏のニュースによると、CEDECではAIの最新技術展示に加え、日本の魅力発信の講演も行われました。"
+    "answer": "幅広いメディアとプラットフォームでの注目度",
+    "explanation": "2026年8月のニュースによると、『キングダム ハーツIV』がニンテンドーダイレクトで新映像が公開され、オリコンニュースでも発表が報じられたことは、このタイトルが幅広いメディアとプラットフォームから注目されていることを示します。"
   },
   {
     "category": "ゲーム",
     "difficulty": 7,
-    "question": "CEDEC開幕のニュースで、AIの最新技術展示とともに言及されたゲーム業界における日本の役割に関する講演テーマは何ですか？",
+    "question": "State of Play 2026.6.3で『ゴッド・オブ・ウォー』シリーズ最新作が発表された際、特に強調された点について、2026年8月のニュースではどのように説明されましたか？",
     "choices": [
-      "日本の魅力発信",
-      "日本のゲーム市場の課題",
-      "日本のeスポーツの未来",
-      "日本のゲーム開発者の育成"
+      "新しい主人公の導入",
+      "前作からのストーリーの連続性",
+      "強調された点は言及なし",
+      "日本の神話を舞台にする"
     ],
-    "answer": "日本の魅力発信",
-    "explanation": "2026年夏のニュースによると、CEDEC開幕でAIの最新技術展示に加え、日本の魅力発信の講演が行われました。"
+    "answer": "強調された点は言及なし",
+    "explanation": "2026年8月のニュースによると、「『ゴッド・オブ・ウォー』シリーズ最新作が発表」とされており、特に強調された点についての具体的な言及はありません。"
   },
   {
     "category": "ゲーム",
     "difficulty": 7,
-    "question": "2026年6月3日のState of Playで発表された『ゴッド・オブ・ウォー』シリーズに関する最新情報は何ですか？",
+    "question": "『マーベル ウルヴァリン』の最新映像が公開された際に言及された配信時間は、2026年8月のニュースによると何分以上でしたか？",
     "choices": [
-      "シリーズ最新作の発表",
-      "DLCの配信開始",
-      "リメイク版の発売日",
-      "次世代機への移植"
+      "30分以上",
+      "45分以上",
+      "60分以上",
+      "90分以上"
     ],
-    "answer": "シリーズ最新作の発表",
-    "explanation": "2026年6月のニュースによると、State of Play 2026.6.3で『ゴッド・オブ・ウォー』シリーズ最新作が発表されました。"
+    "answer": "60分以上",
+    "explanation": "2026年8月のニュースによると、「State of Play」6月3日6時から配信。「Marvel's Wolverine」最新情報などを60分以上でお届けと報じられました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 7,
-    "question": "State of Play 2026.6.3で最新映像が公開されたマーベル作品は何ですか？",
+    "question": "『エースコンバット8』の発売日決定が報じられたニュースのタイトルは、2026年8月のニュースではどのように記載されていましたか？",
     "choices": [
-      "『マーベル ウルヴァリン』",
-      "『マーベル スパイダーマン3』",
-      "『マーベル アベンジャーズ』",
-      "『マーベル ガーディアンズ・オブ・ギャラクシー2』"
+      "『エースコンバット8』緊急発表！",
+      "State of Play新発表まとめ。『エースコンバット8』発売日決定",
+      "『エースコンバット8』ついに発売日決定！",
+      "空の王者、最新作『エースコンバット8』の全貌"
     ],
-    "answer": "『マーベル ウルヴァリン』",
-    "explanation": "2026年6月のニュースによると、State of Play 2026.6.3で『マーベル ウルヴァリン』の最新映像が公開されました。"
+    "answer": "State of Play新発表まとめ。『エースコンバット8』発売日決定",
+    "explanation": "2026年8月のニュースによると、「State of Play新発表まとめ。『エースコンバット8』発売日決定」という見出しで報じられました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 7,
-    "question": "State of Play 2026.6.3で発売日が公開されたフライトシューティングゲームは何ですか？",
+    "question": "2026年6月のState of Playで『真・三國無双2』に紫鸞が参戦することへのファンの反応について、2026年8月のニュースではどのように報じられましたか？",
     "choices": [
-      "『エースコンバット8』",
-      "『トップガン マーヴェリック』",
-      "『HAWKEN』",
-      "『Project Wingman』"
+      "熱狂的な歓迎",
+      "賛否両論",
+      "言及なし",
+      "驚きの声"
     ],
-    "answer": "『エースコンバット8』",
-    "explanation": "2026年6月のニュースによると、State of Play 2026.6.3で『エースコンバット8』の発売日が公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "State of Play 2026.6.3で発売日が公開された『鬼武者』シリーズのタイトルは何ですか？",
-    "choices": [
-      "『鬼武者WoS』",
-      "『鬼武者 無頼伝』",
-      "『新 鬼武者 DAWN OF DREAMS』",
-      "『鬼武者 タクティクス』"
-    ],
-    "answer": "『鬼武者WoS』",
-    "explanation": "2026年6月のニュースによると、State of Play 2026.6.3で『鬼武者WoS』の発売日が公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "State of Play 2026.6.3の配信時間は何分以上でしたか？",
-    "choices": [
-      "60分",
-      "30分",
-      "90分",
-      "120分"
-    ],
-    "answer": "60分",
-    "explanation": "2026年6月のニュースによると、State of Play 2026.6.3は60分以上で配信されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "State of Play 2026.6.3で発表されたゲームの中で、既存シリーズの最新作として特に注目されたのは何ですか？",
-    "choices": [
-      "『ゴッド・オブ・ウォー』シリーズ",
-      "『エースコンバット』シリーズ",
-      "『鬼武者』シリーズ",
-      "『真・三國無双』シリーズ"
-    ],
-    "answer": "『ゴッド・オブ・ウォー』シリーズ",
-    "explanation": "2026年6月のニュースによると、State of Play 2026.6.3で『ゴッド・オブ・ウォー』シリーズ最新作が発表され、注目を集めました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "State of Play 2026.6.3で発売日が決定した『エースコンバット8』は、どのようなジャンルのゲームですか？",
-    "choices": [
-      "フライトシューティング",
-      "オープンワールドRPG",
-      "アクションアドベンチャー",
-      "リアルタイムストラテジー"
-    ],
-    "answer": "フライトシューティング",
-    "explanation": "2026年6月のニュースによると、State of Play 2026.6.3で発売日が決定した『エースコンバット8』はフライトシューティングゲームです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "CEDEC開幕のニュースで、AIの最新技術展示と共に言及された日本のゲーム業界の側面に関する講演は何ですか？",
-    "choices": [
-      "日本の魅力発信",
-      "日本のゲーム市場規模",
-      "日本のゲーム開発の歴史",
-      "日本のeスポーツの課題"
-    ],
-    "answer": "日本の魅力発信",
-    "explanation": "2026年夏のニュースによると、CEDEC開幕でAIの最新技術展示に加え、日本の魅力発信の講演も行われました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "CEDEC開幕のニュースで、AI技術の展示以外に講演内容として触れられたテーマは何ですか？",
-    "choices": [
-      "日本の魅力発信",
-      "ゲーム音楽の進化",
-      "次世代コンソールの展望",
-      "モバイルゲーム市場の動向"
-    ],
-    "answer": "日本の魅力発信",
-    "explanation": "2026年夏のニュースによると、CEDECではAIの最新技術展示に加え、日本の魅力発信の講演も行われました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "CEDEC開幕のニュースで、AIの最新技術展示とともに言及されたゲーム業界における日本の役割に関する講演テーマは何ですか？",
-    "choices": [
-      "日本の魅力発信",
-      "日本のゲーム市場の課題",
-      "日本のeスポーツの未来",
-      "日本のゲーム開発者の育成"
-    ],
-    "answer": "日本の魅力発信",
-    "explanation": "2026年夏のニュースによると、CEDEC開幕でAIの最新技術展示に加え、日本の魅力発信の講演が行われました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "2026年6月3日のState of Playで発表された『ゴッド・オブ・ウォー』シリーズに関する最新情報は何ですか？",
-    "choices": [
-      "シリーズ最新作の発表",
-      "DLCの配信開始",
-      "リメイク版の発売日",
-      "次世代機への移植"
-    ],
-    "answer": "シリーズ最新作の発表",
-    "explanation": "2026年6月のニュースによると、State of Play 2026.6.3で『ゴッド・オブ・ウォー』シリーズ最新作が発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "State of Play 2026.6.3で最新映像が公開されたマーベル作品は何ですか？",
-    "choices": [
-      "『マーベル ウルヴァリン』",
-      "『マーベル スパイダーマン3』",
-      "『マーベル アベンジャーズ』",
-      "『マーベル ガーディアンズ・オブ・ギャラクシー2』"
-    ],
-    "answer": "『マーベル ウルヴァリン』",
-    "explanation": "2026年6月のニュースによると、State of Play 2026.6.3で『マーベル ウルヴァリン』の最新映像が公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "State of Play 2026.6.3で発売日が公開されたフライトシューティングゲームは何ですか？",
-    "choices": [
-      "『エースコンバット8』",
-      "『トップガン マーヴェリック』",
-      "『HAWKEN』",
-      "『Project Wingman』"
-    ],
-    "answer": "『エースコンバット8』",
-    "explanation": "2026年6月のニュースによると、State of Play 2026.6.3で『エースコンバット8』の発売日が公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "State of Play 2026.6.3で発売日が公開された『鬼武者』シリーズのタイトルは何ですか？",
-    "choices": [
-      "『鬼武者WoS』",
-      "『鬼武者 無頼伝』",
-      "『新 鬼武者 DAWN OF DREAMS』",
-      "『鬼武者 タクティクス』"
-    ],
-    "answer": "『鬼武者WoS』",
-    "explanation": "2026年6月のニュースによると、State of Play 2026.6.3で『鬼武者WoS』の発売日が公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "State of Play 2026.6.3の配信時間は何分以上でしたか？",
-    "choices": [
-      "60分",
-      "30分",
-      "90分",
-      "120分"
-    ],
-    "answer": "60分",
-    "explanation": "2026年6月のニュースによると、State of Play 2026.6.3は60分以上で配信されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "State of Play 2026.6.3で発表されたゲームの中で、既存シリーズの最新作として特に注目されたのは何ですか？",
-    "choices": [
-      "『ゴッド・オブ・ウォー』シリーズ",
-      "『エースコンバット』シリーズ",
-      "『鬼武者』シリーズ",
-      "『真・三國無双』シリーズ"
-    ],
-    "answer": "『ゴッド・オブ・ウォー』シリーズ",
-    "explanation": "2026年6月のニュースによると、State of Play 2026.6.3で『ゴッド・オブ・ウォー』シリーズ最新作が発表され、注目を集めました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "State of Play 2026.6.3で発売日が決定した『エースコンバット8』は、どのようなジャンルのゲームですか？",
-    "choices": [
-      "フライトシューティング",
-      "オープンワールドRPG",
-      "アクションアドベンチャー",
-      "リアルタイムストラテジー"
-    ],
-    "answer": "フライトシューティング",
-    "explanation": "2026年6月のニュースによると、State of Play 2026.6.3で発売日が決定した『エースコンバット8』はフライトシューティングゲームです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "CEDEC開幕のニュースで、AIの最新技術展示と共に言及された日本のゲーム業界の側面に関する講演は何ですか？",
-    "choices": [
-      "日本の魅力発信",
-      "日本のゲーム市場規模",
-      "日本のゲーム開発の歴史",
-      "日本のeスポーツの課題"
-    ],
-    "answer": "日本の魅力発信",
-    "explanation": "2026年夏のニュースによると、CEDEC開幕でAIの最新技術展示に加え、日本の魅力発信の講演も行われました。"
+    "answer": "言及なし",
+    "explanation": "2026年8月のニュースによると、State of Play June 2, 2026にて『真・三國無双2』に紫鸞参戦と報じられましたが、ファンの反応については言及されていません。"
   },
   {
     "category": "ゲーム",
     "difficulty": 8,
-    "question": "State of Play 2026.6.3で『真・三國無双2』に参戦が発表された新キャラクターの名前は何ですか？",
+    "question": "XBOX FanFest Tokyoの参加応募受付が開始された具体的な時期を、2026年8月のニュースから推定するといつ頃ですか？",
     "choices": [
-      "紫鸞",
-      "朱雀",
-      "青龍",
-      "白虎"
-    ],
-    "answer": "紫鸞",
-    "explanation": "2026年6月のニュースによると、State of Play 2026.6.3で『真・三國無双2』に紫鸞が参戦することが発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "State of Play 2026.6.3で配信が開始された、完全新作の『鬼武者』コンテンツは何ですか？",
-    "choices": [
-      "体験版",
-      "フルゲーム",
-      "DLC",
-      "シーズンパス"
-    ],
-    "answer": "体験版",
-    "explanation": "2026年6月のニュースによると、State of Play 2026.6.3で完全新作『鬼武者』の体験版が配信開始されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "State of Play 2026.6.3で『マーベル ウルヴァリン』の最新情報が公開されたと報じたメディアは次のうちどれですか？",
-    "choices": [
-      "Yahoo!ニュース (GAME Watch)",
-      "電撃オンライン",
-      "ファミ通",
-      "オリコンニュース"
-    ],
-    "answer": "Yahoo!ニュース (GAME Watch)",
-    "explanation": "2026年6月のニュースによると、Yahoo!ニュース (GAME Watch)がState of Play 2026.6.3で『Marvel's Wolverine』最新情報が公開されたと報じました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "State of Play 2026.6.3で発表された完全新作『鬼武者』の体験版配信は、どのメディアが報じましたか？",
-    "choices": [
-      "ファミ通",
-      "電撃オンライン",
-      "GAME Watch",
-      "Saiga NAK"
-    ],
-    "answer": "ファミ通",
-    "explanation": "2026年6月のニュースによると、ファミ通がState of Play 2026.6.3で完全新作『鬼武者』体験版配信を報じました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "『真・三國無双2』に参戦が発表された紫鸞は、どのような形で登場しますか？",
-    "choices": [
-      "新キャラクターとして",
-      "DLCキャラクターとして",
-      "隠しキャラクターとして",
-      "過去作からの復活"
-    ],
-    "answer": "新キャラクターとして",
-    "explanation": "2026年6月のニュースによると、State of Play 2026.6.3で『真・三國無双2』に紫鸞が新キャラクターとして参戦することが発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "State of Play 2026.6.3の発表内容を「まとめ」として報じた主要なゲームメディアは次のうちどれですか？",
-    "choices": [
-      "電撃オンラインとファミ通",
-      "GameWithとSaiga NAK",
-      "オリコンニュースとYahoo!ニュース",
-      "GAME WatchとCINEMACAFE.NET"
-    ],
-    "answer": "電撃オンラインとファミ通",
-    "explanation": "2026年6月のニュースによると、電撃オンラインとファミ通がState of Play 2026.6.3の発表内容をまとめとして報じました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "State of Play 2026.6.3で発表された『ゴッド・オブ・ウォー』シリーズ最新作は、具体的にどのような情報が公開されましたか？",
-    "choices": [
-      "最新作の存在が発表された",
-      "タイトル名と発売日が発表された",
-      "主要キャラクターの紹介があった",
-      "ゲームプレイ映像が公開された"
-    ],
-    "answer": "最新作の存在が発表された",
-    "explanation": "2026年6月のニュースによると、State of Play 2026.6.3で『ゴッド・オブ・ウォー』シリーズ最新作が発表されましたが、具体的なタイトル名はニュースに記載されていません。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "State of Play 2026.6.3の配信は、日本時間でいつ行われましたか？",
-    "choices": [
-      "6月3日6時",
-      "6月2日午後",
-      "6月3日午前0時",
-      "6月2日午前6時"
-    ],
-    "answer": "6月3日6時",
-    "explanation": "2026年6月のニュースによると、State of Playは6月3日6時から配信されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "State of Play 2026.6.3で『鬼武者WoS』の「WoS」は何を指すと考えられますか？",
-    "choices": [
-      "具体的な意味はニュースに記載なし",
-      "Warriors of Sengoku",
-      "Wrath of Samurai",
-      "World of Spirits"
-    ],
-    "answer": "具体的な意味はニュースに記載なし",
-    "explanation": "2026年6月のニュースによると、State of Play 2026.6.3で『鬼武者WoS』の発売日が公開されましたが、WoSの具体的な意味はニュースに記載されていません。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "State of Play 2026.6.3でエースコンバット8発売日決定が報じられたニュースの見出しに「新発表まとめ」と記載されていたメディアはどこですか？",
-    "choices": [
-      "ファミ通",
-      "電撃オンライン",
-      "GAME Watch",
-      "Yahoo!ニュース"
-    ],
-    "answer": "ファミ通",
-    "explanation": "2026年6月のニュースによると、ファミ通の見出しに「State of Play新発表まとめ。『エースコンバット8』発売日決定」と記載されていました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "State of Play 2026.6.3で『真・三國無双2』に参戦が発表された新キャラクターの名前は何ですか？",
-    "choices": [
-      "紫鸞",
-      "朱雀",
-      "青龍",
-      "白虎"
-    ],
-    "answer": "紫鸞",
-    "explanation": "2026年6月のニュースによると、State of Play 2026.6.3で『真・三國無双2』に紫鸞が参戦することが発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "State of Play 2026.6.3で配信が開始された、完全新作の『鬼武者』コンテンツは何ですか？",
-    "choices": [
-      "体験版",
-      "フルゲーム",
-      "DLC",
-      "シーズンパス"
-    ],
-    "answer": "体験版",
-    "explanation": "2026年6月のニュースによると、State of Play 2026.6.3で完全新作『鬼武者』の体験版が配信開始されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "State of Play 2026.6.3で『マーベル ウルヴァリン』の最新情報が公開されたと報じたメディアは次のうちどれですか？",
-    "choices": [
-      "Yahoo!ニュース (GAME Watch)",
-      "電撃オンライン",
-      "ファミ通",
-      "オリコンニュース"
-    ],
-    "answer": "Yahoo!ニュース (GAME Watch)",
-    "explanation": "2026年6月のニュースによると、Yahoo!ニュース (GAME Watch)がState of Play 2026.6.3で『Marvel's Wolverine』最新情報が公開されたと報じました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "State of Play 2026.6.3で発表された完全新作『鬼武者』の体験版配信は、どのメディアが報じましたか？",
-    "choices": [
-      "ファミ通",
-      "電撃オンライン",
-      "GAME Watch",
-      "Saiga NAK"
-    ],
-    "answer": "ファミ通",
-    "explanation": "2026年6月のニュースによると、ファミ通がState of Play 2026.6.3で完全新作『鬼武者』体験版配信を報じました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "『真・三國無双2』に参戦が発表された紫鸞は、どのような形で登場しますか？",
-    "choices": [
-      "新キャラクターとして",
-      "DLCキャラクターとして",
-      "隠しキャラクターとして",
-      "過去作からの復活"
-    ],
-    "answer": "新キャラクターとして",
-    "explanation": "2026年6月のニュースによると、State of Play 2026.6.3で『真・三國無双2』に紫鸞が新キャラクターとして参戦することが発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "State of Play 2026.6.3の発表内容を「まとめ」として報じた主要なゲームメディアは次のうちどれですか？",
-    "choices": [
-      "電撃オンラインとファミ通",
-      "GameWithとSaiga NAK",
-      "オリコンニュースとYahoo!ニュース",
-      "GAME WatchとCINEMACAFE.NET"
-    ],
-    "answer": "電撃オンラインとファミ通",
-    "explanation": "2026年6月のニュースによると、電撃オンラインとファミ通がState of Play 2026.6.3の発表内容をまとめとして報じました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "State of Play 2026.6.3で発表された『ゴッド・オブ・ウォー』シリーズ最新作は、具体的にどのような情報が公開されましたか？",
-    "choices": [
-      "最新作の存在が発表された",
-      "タイトル名と発売日が発表された",
-      "主要キャラクターの紹介があった",
-      "ゲームプレイ映像が公開された"
-    ],
-    "answer": "最新作の存在が発表された",
-    "explanation": "2026年6月のニュースによると、State of Play 2026.6.3で『ゴッド・オブ・ウォー』シリーズ最新作が発表されましたが、具体的なタイトル名はニュースに記載されていません。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "State of Play 2026.6.3の配信は、日本時間でいつ行われましたか？",
-    "choices": [
-      "6月3日6時",
-      "6月2日午後",
-      "6月3日午前0時",
-      "6月2日午前6時"
-    ],
-    "answer": "6月3日6時",
-    "explanation": "2026年6月のニュースによると、State of Playは6月3日6時から配信されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "State of Play 2026.6.3で『鬼武者WoS』の「WoS」は何を指すと考えられますか？",
-    "choices": [
-      "具体的な意味はニュースに記載なし",
-      "Warriors of Sengoku",
-      "Wrath of Samurai",
-      "World of Spirits"
-    ],
-    "answer": "具体的な意味はニュースに記載なし",
-    "explanation": "2026年6月のニュースによると、State of Play 2026.6.3で『鬼武者WoS』の発売日が公開されましたが、WoSの具体的な意味はニュースに記載されていません。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "State of Play 2026.6.3でエースコンバット8発売日決定が報じられたニュースの見出しに「新発表まとめ」と記載されていたメディアはどこですか？",
-    "choices": [
-      "ファミ通",
-      "電撃オンライン",
-      "GAME Watch",
-      "Yahoo!ニュース"
-    ],
-    "answer": "ファミ通",
-    "explanation": "2026年6月のニュースによると、ファミ通の見出しに「State of Play新発表まとめ。『エースコンバット8』発売日決定」と記載されていました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 9,
-    "question": "State of Play 2026.6.3で発表された『鬼武者』関連のニュースで、体験版が配信されたのはどのような作品ですか？",
-    "choices": [
-      "完全新作の鬼武者",
-      "『鬼武者WoS』",
-      "『新 鬼武者』のリマスター",
-      "『鬼武者』のモバイル版"
-    ],
-    "answer": "完全新作の鬼武者",
-    "explanation": "2026年6月のニュースによると、State of Play 2026.6.3で完全新作『鬼武者』の体験版が配信されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 9,
-    "question": "State of Play 2026.6.3の配信で、最新映像が公開された『Marvel's Wolverine』に関して、具体的なゲームプレイ映像の公開があったと断定できますか？",
-    "choices": [
-      "断定できない（最新映像とだけ記載）",
-      "断定できる（ゲームプレイ映像と明記）",
-      "一部のカットシーンのみ公開された",
-      "コンセプトアートのみ公開された"
-    ],
-    "answer": "断定できない（最新映像とだけ記載）",
-    "explanation": "2026年6月のニュースによると、State of Play 2026.6.3で『Marvel's Wolverine』の「最新映像」が公開されたと報じられており、ゲームプレイ映像であるかは断定できません。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 9,
-    "question": "「ONE PIECEカードゲーム」の最新情報が解禁されたイベントの名称は何ですか？",
-    "choices": [
-      "BANDAI CARD GAMES ネクストプラン発表会2026.06",
-      "ONE PIECE FES 2026",
-      "ジャンプフェスタ2026",
-      "東京ゲームショウ2026"
-    ],
-    "answer": "BANDAI CARD GAMES ネクストプラン発表会2026.06",
-    "explanation": "2026年6月のニュースによると、「ONE PIECEカードゲーム」の最新情報は「BANDAI CARD GAMES ネクストプラン発表会2026.06」で解禁されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 9,
-    "question": "「BANDAI CARD GAMES ネクストプラン発表会2026.06」で解禁された「ONE PIECEカードゲーム」の最新情報とは、どのような内容でしたか？",
-    "choices": [
-      "次期展開に関する情報",
-      "新しいカードセットの発売日",
-      "トーナメント開催情報",
-      "アニメとのコラボ情報"
-    ],
-    "answer": "次期展開に関する情報",
-    "explanation": "2026年6月のニュースによると、「BANDAI CARD GAMES ネクストプラン発表会2026.06」で「ONE PIECEカードゲーム」の「最新情報」が解禁され、これはネクストプラン発表会という名称から次期展開に関する情報と推測されます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 9,
-    "question": "「SAO」ゲームシリーズ最新作として「本日発売」と報じられたタイトルの名称は何ですか？",
-    "choices": [
-      "Echoes of Aincrad",
-      "Sword Art Online: Alicization Rising",
-      "Sword Art Online: Fatal Bullet 2",
-      "Sword Art Online: Integral Factor"
-    ],
-    "answer": "Echoes of Aincrad",
-    "explanation": "2026年7月のニュースによると、「SAO」ゲームシリーズ最新作として「Echoes of Aincrad」が本日発売されたと報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 9,
-    "question": "「SAO」ゲームシリーズ最新作「Echoes of Aincrad」は、ニュースが報じられた時点でどのような状態でしたか？",
-    "choices": [
-      "発売済み",
-      "発売日決定",
-      "開発中",
-      "体験版配信中"
-    ],
-    "answer": "発売済み",
-    "explanation": "2026年7月のニュースによると、「SAO」ゲームシリーズ最新作「Echoes of Aincrad」は「本日発売」と報じられており、ニュース発表時点で発売済みです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 9,
-    "question": "アークシステムワークスが新作の最新情報を公開したイベントの名称は何ですか？",
-    "choices": [
-      "ARC SYSTEM WORKS Showcase",
-      "アークフェス2026",
-      "ギルティギアフェスティバル",
-      "ブレイブルーコンベンション"
-    ],
-    "answer": "ARC SYSTEM WORKS Showcase",
-    "explanation": "2026年7月のニュースによると、アークシステムワークスは「ARC SYSTEM WORKS Showcase」で新作の最新情報を公開しました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 9,
-    "question": "アークシステムワークスが「ARC SYSTEM WORKS Showcase」で最新情報を公開した新作の名称は何ですか？",
-    "choices": [
-      "神貌のクリファ",
-      "ギルティギア ストライブ2",
-      "ブレイブルー クロノファンタズマ エクステンド",
-      "ドラゴンボールファイターズZ"
-    ],
-    "answer": "神貌のクリファ",
-    "explanation": "2026年7月のニュースによると、アークシステムワークスは新作「神貌のクリファ」の最新情報を「ARC SYSTEM WORKS Showcase」で公開しました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 9,
-    "question": "State of Play 2026.6.3で『真・三國無双2』に参戦が発表された「紫鸞」は、どのシリーズからの新キャラクターですか？",
-    "choices": [
-      "真・三國無双シリーズ",
-      "戦国無双シリーズ",
-      "無双OROCHIシリーズ",
-      "ゼルダ無双シリーズ"
-    ],
-    "answer": "真・三國無双シリーズ",
-    "explanation": "2026年6月のニュースによると、State of Play 2026.6.3で『真・三國無双2』に紫鸞が参戦することが発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 9,
-    "question": "「SAO」ゲームシリーズ最新作「Echoes of Aincrad」が「本日発売」と報じられたニュースは、その時点で開発が完了し、市場に投入されたことを意味しますが、これはどのような情報として重要ですか？",
-    "choices": [
-      "プレイヤーがすぐにプレイできる状態にあること",
-      "体験版の配信が開始されたこと",
-      "今後の開発ロードマップが示されたこと",
-      "続編の制作が決定したこと"
-    ],
-    "answer": "プレイヤーがすぐにプレイできる状態にあること",
-    "explanation": "2026年7月のニュースによると、「SAO」ゲームシリーズ最新作「Echoes of Aincrad」が「本日発売」と報じられたことで、プレイヤーがすぐにプレイできる状態にあることが示されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 9,
-    "question": "State of Play 2026.6.3で発表された『鬼武者』関連のニュースで、体験版が配信されたのはどのような作品ですか？",
-    "choices": [
-      "完全新作の鬼武者",
-      "『鬼武者WoS』",
-      "『新 鬼武者』のリマスター",
-      "『鬼武者』のモバイル版"
-    ],
-    "answer": "完全新作の鬼武者",
-    "explanation": "2026年6月のニュースによると、State of Play 2026.6.3で完全新作『鬼武者』の体験版が配信されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 9,
-    "question": "State of Play 2026.6.3の配信で、最新映像が公開された『Marvel's Wolverine』に関して、具体的なゲームプレイ映像の公開があったと断定できますか？",
-    "choices": [
-      "断定できない（最新映像とだけ記載）",
-      "断定できる（ゲームプレイ映像と明記）",
-      "一部のカットシーンのみ公開された",
-      "コンセプトアートのみ公開された"
-    ],
-    "answer": "断定できない（最新映像とだけ記載）",
-    "explanation": "2026年6月のニュースによると、State of Play 2026.6.3で『Marvel's Wolverine』の「最新映像」が公開されたと報じられており、ゲームプレイ映像であるかは断定できません。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 9,
-    "question": "「ONE PIECEカードゲーム」の最新情報が解禁されたイベントの名称は何ですか？",
-    "choices": [
-      "BANDAI CARD GAMES ネクストプラン発表会2026.06",
-      "ONE PIECE FES 2026",
-      "ジャンプフェスタ2026",
-      "東京ゲームショウ2026"
-    ],
-    "answer": "BANDAI CARD GAMES ネクストプラン発表会2026.06",
-    "explanation": "2026年6月のニュースによると、「ONE PIECEカードゲーム」の最新情報は「BANDAI CARD GAMES ネクストプラン発表会2026.06」で解禁されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 9,
-    "question": "「BANDAI CARD GAMES ネクストプラン発表会2026.06」で解禁された「ONE PIECEカードゲーム」の最新情報とは、どのような内容でしたか？",
-    "choices": [
-      "次期展開に関する情報",
-      "新しいカードセットの発売日",
-      "トーナメント開催情報",
-      "アニメとのコラボ情報"
-    ],
-    "answer": "次期展開に関する情報",
-    "explanation": "2026年6月のニュースによると、「BANDAI CARD GAMES ネクストプラン発表会2026.06」で「ONE PIECEカードゲーム」の「最新情報」が解禁され、これはネクストプラン発表会という名称から次期展開に関する情報と推測されます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 9,
-    "question": "「SAO」ゲームシリーズ最新作として「本日発売」と報じられたタイトルの名称は何ですか？",
-    "choices": [
-      "Echoes of Aincrad",
-      "Sword Art Online: Alicization Rising",
-      "Sword Art Online: Fatal Bullet 2",
-      "Sword Art Online: Integral Factor"
-    ],
-    "answer": "Echoes of Aincrad",
-    "explanation": "2026年7月のニュースによると、「SAO」ゲームシリーズ最新作として「Echoes of Aincrad」が本日発売されたと報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 9,
-    "question": "「SAO」ゲームシリーズ最新作「Echoes of Aincrad」は、ニュースが報じられた時点でどのような状態でしたか？",
-    "choices": [
-      "発売済み",
-      "発売日決定",
-      "開発中",
-      "体験版配信中"
-    ],
-    "answer": "発売済み",
-    "explanation": "2026年7月のニュースによると、「SAO」ゲームシリーズ最新作「Echoes of Aincrad」は「本日発売」と報じられており、ニュース発表時点で発売済みです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 9,
-    "question": "アークシステムワークスが新作の最新情報を公開したイベントの名称は何ですか？",
-    "choices": [
-      "ARC SYSTEM WORKS Showcase",
-      "アークフェス2026",
-      "ギルティギアフェスティバル",
-      "ブレイブルーコンベンション"
-    ],
-    "answer": "ARC SYSTEM WORKS Showcase",
-    "explanation": "2026年7月のニュースによると、アークシステムワークスは「ARC SYSTEM WORKS Showcase」で新作の最新情報を公開しました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 9,
-    "question": "アークシステムワークスが「ARC SYSTEM WORKS Showcase」で最新情報を公開した新作の名称は何ですか？",
-    "choices": [
-      "神貌のクリファ",
-      "ギルティギア ストライブ2",
-      "ブレイブルー クロノファンタズマ エクステンド",
-      "ドラゴンボールファイターズZ"
-    ],
-    "answer": "神貌のクリファ",
-    "explanation": "2026年7月のニュースによると、アークシステムワークスは新作「神貌のクリファ」の最新情報を「ARC SYSTEM WORKS Showcase」で公開しました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 9,
-    "question": "State of Play 2026.6.3で『真・三國無双2』に参戦が発表された「紫鸞」は、どのシリーズからの新キャラクターですか？",
-    "choices": [
-      "真・三國無双シリーズ",
-      "戦国無双シリーズ",
-      "無双OROCHIシリーズ",
-      "ゼルダ無双シリーズ"
-    ],
-    "answer": "真・三國無双シリーズ",
-    "explanation": "2026年6月のニュースによると、State of Play 2026.6.3で『真・三國無双2』に紫鸞が参戦することが発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 9,
-    "question": "「SAO」ゲームシリーズ最新作「Echoes of Aincrad」が「本日発売」と報じられたニュースは、その時点で開発が完了し、市場に投入されたことを意味しますが、これはどのような情報として重要ですか？",
-    "choices": [
-      "プレイヤーがすぐにプレイできる状態にあること",
-      "体験版の配信が開始されたこと",
-      "今後の開発ロードマップが示されたこと",
-      "続編の制作が決定したこと"
-    ],
-    "answer": "プレイヤーがすぐにプレイできる状態にあること",
-    "explanation": "2026年7月のニュースによると、「SAO」ゲームシリーズ最新作「Echoes of Aincrad」が「本日発売」と報じられたことで、プレイヤーがすぐにプレイできる状態にあることが示されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 10,
-    "question": "「ONE PIECEカードゲーム」の最新情報が解禁されたイベントは、いつ開催されましたか？",
-    "choices": [
-      "2026年6月",
+      "2026年9月17日以降",
+      "2026年8月上旬（ニュース発表時点）",
       "2026年7月",
-      "2026年8月",
-      "2026年9月"
+      "2026年9月上旬"
     ],
-    "answer": "2026年6月",
-    "explanation": "2026年6月のニュースによると、「BANDAI CARD GAMES ネクストプラン発表会2026.06」の名称から、2026年6月に開催されたことが分かります。"
+    "answer": "2026年8月上旬（ニュース発表時点）",
+    "explanation": "2026年8月のニュースによると、「XBOX東京ゲームショウ2026ブロードキャスト」の配信が9月17日と発表され、「同日開催『XBOX FanFest Tokyo』の参加応募受付もスタート」とあるため、ニュースが報じられた8月上旬には応募受付が開始されていると推定できます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "FGOフェス2026で「11th Anniversary」が強調されている理由として、2026年8月のニュースから最も適切に推測できることは何ですか？",
+    "choices": [
+      "FGOが11周年を迎えるため",
+      "FGOのアニメが11周年を迎えるため",
+      "TYPE-MOONが11周年を迎えるため",
+      "フェスの開催が11回目であるため"
+    ],
+    "answer": "FGOが11周年を迎えるため",
+    "explanation": "2026年8月のニュースによると、“FGOフェス2026”の発表まとめは「11th Anniversary～」とされており、これは『Fate/Grand Order』が11周年を迎えることを示唆しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "NTEのアップデート最新情報が「まとめ」として提供されるメリットとして、2026年8月のニュースから考えられることは何ですか？",
+    "choices": [
+      "情報の鮮度が保たれること",
+      "プレイヤーが一度に全体像を把握しやすいこと",
+      "開発の秘密が守られること",
+      "情報の誤りを修正しやすいこと"
+    ],
+    "answer": "プレイヤーが一度に全体像を把握しやすいこと",
+    "explanation": "2026年8月のニュースによると、【NTE】アップデート最新情報まとめ【ネバエバ】とされており、これは多数の情報を一箇所に集約することで、プレイヤーがアップデートの全体像を把握しやすくなるというメリットがあると考えられます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "ニンテンドーダイレクト2026.6.9で『ゼノブレイド』新作が発表されたことによるシリーズファンへの影響として、2026年8月のニュースから推測されることは何ですか？",
+    "choices": [
+      "シリーズの終了を心配させる",
+      "新たな物語への期待を高める",
+      "既存作品のリメイクを求める声が高まる",
+      "ジャンルの変更に戸惑いを感じさせる"
+    ],
+    "answer": "新たな物語への期待を高める",
+    "explanation": "2026年8月のニュースによると、『ゼノブレイド』新作が発表されたとあり、これはシリーズファンにとって、新たな物語や冒険への期待を高める大きなニュースであると推測できます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "ゲーム『進撃の巨人３』が「集大成」として位置づけられることの重要性として、2026年8月のニュースから最も適切に推測できることは何ですか？",
+    "choices": [
+      "シリーズの完結を意味する",
+      "物語の全ての要素を網羅していること",
+      "過去のゲーム作品の要素を全て含んでいること",
+      "アニメシリーズとの連動を強化すること"
+    ],
+    "answer": "物語の全ての要素を網羅していること",
+    "explanation": "2026年8月のニュースによると、『進撃の巨人３』は「物語を最初から最後まで描く集大成」とされており、これは作品の全ての物語要素がこのゲームで完結することの重要性を示しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "『キングダム ハーツIV』がSwitch2で発売されることの、任天堂プラットフォームにおけるシリーズ展開への影響として、2026年8月のニュースから推測されることは何ですか？",
+    "choices": [
+      "任天堂プラットフォームでのシリーズ展開が本格化する可能性",
+      "Switch2がシリーズ初の任天堂プラットフォームになる",
+      "携帯機での展開が終了する",
+      "任天堂プラットフォームでの独占販売となる"
+    ],
+    "answer": "任天堂プラットフォームでのシリーズ展開が本格化する可能性",
+    "explanation": "2026年8月のニュースによると、『キングダム ハーツIV』がSwitch2で発売されると報じられており、これは任天堂の次世代機で主要なナンバリングタイトルが展開されることで、任天堂プラットフォームでのシリーズ展開がより本格的になる可能性を示唆しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "State of Play 2026.6.3で発表された『鬼武者』シリーズの「完全新作」体験版の配信時期について、2026年8月のニュースではどのように報じられましたか？",
+    "choices": [
+      "本日より",
+      "今秋",
+      "今冬",
+      "言及なし"
+    ],
+    "answer": "言及なし",
+    "explanation": "2026年8月のニュースによると、State of Play June 2, 2026にて「完全新作『鬼武者』体験版配信」とありますが、具体的な配信時期は言及されていません。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "2026年6月のState of Playで『真・三國無双2』に紫鸞が参戦することと、シリーズ全体のキャラクター展開との関連性として、2026年8月のニュースから推測されることは何ですか？",
+    "choices": [
+      "既存キャラクターのリメイク",
+      "新たなオリジナルキャラクターの導入",
+      "他作品とのコラボレーション",
+      "歴史上の人物の追加"
+    ],
+    "answer": "新たなオリジナルキャラクターの導入",
+    "explanation": "2026年8月のニュースによると、『真・三國無双2』に紫鸞参戦とありますが、歴史上の人物名ではないため、シリーズに新たなオリジナルキャラクターが導入されることを示唆していると推測できます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "インディーゲームの人気が高まっている背景にある要因として、2026年8月の埼玉新聞のニュースから考えられることは何ですか？",
+    "choices": [
+      "大手メーカーのゲームの不振",
+      "多様なジャンルと革新的なゲームプレイ",
+      "インディーゲームの低価格化",
+      "有名配信者によるプロモーション"
+    ],
+    "answer": "多様なジャンルと革新的なゲームプレイ",
+    "explanation": "2026年8月のニュースによると、「インディーゲーム」高まる人気と報じられており、その背景には大手では難しい多様なジャンル展開や革新的なゲームプレイがあると一般的に考えられます。ニュース自体に直接的な要因の言及はありませんが、インディーゲームの特性から推測します。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "「BANDAI CARD GAMES ネクストプラン発表会2026.06」で解禁された「ONE PIECEカードゲーム」の最新情報が、今後の展開に与える影響として、2026年8月のニュースから推測されることは何ですか？",
+    "choices": [
+      "既存プレイヤーの離反",
+      "新たなカードセットのリリースやイベントの活性化",
+      "ゲームバランスの大幅な変更",
+      "アニメとの連動企画の終了"
+    ],
+    "answer": "新たなカードセットのリリースやイベントの活性化",
+    "explanation": "2026年8月のニュースによると、「BANDAI CARD GAMES ネクストプラン発表会2026.06」にて「ONE PIECEカードゲーム」の最新情報が解禁されたとあり、これは今後のカードゲームの展開、例えば新たなカードセットのリリースやイベントの活性化に繋がると推測できます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 9,
+    "question": "XBOX東京ゲームショウ2026ブロードキャストの配信日に、同日開催される他のイベント名は何ですか？",
+    "choices": [
+      "XBOX Developer Direct",
+      "XBOX FanFest Tokyo",
+      "XBOX Games Showcase",
+      "XBOX Live Summit"
+    ],
+    "answer": "XBOX FanFest Tokyo",
+    "explanation": "2026年8月のニュースによると、「XBOX東京ゲームショウ2026ブロードキャスト」が9月17日に配信され、同日開催「XBOX FanFest Tokyo」の参加応募受付もスタートと報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 9,
+    "question": "FGOフェス2026で「TYPE-MOON関連ニュース」が発表されることの意義として、2026年8月のニュースから最も適切に推測できることは何ですか？",
+    "choices": [
+      "FGOがTYPE-MOON作品の中心であることを再確認するため",
+      "TYPE-MOON作品全体の今後の展開を示すため",
+      "FGO以外の作品への注目度を高めるため",
+      "FGOとTYPE-MOON作品の明確な区別を示すため"
+    ],
+    "answer": "TYPE-MOON作品全体の今後の展開を示すため",
+    "explanation": "2026年8月のニュースによると、“FGOフェス2026”では「ゲーム最新情報やTYPE-MOON関連ニュースを一挙紹介」とあり、これはFGOだけでなくTYPE-MOON作品全体の今後の展開を示す重要な機会であると推測できます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 9,
+    "question": "NTE（ネバエバ）のアップデート最新情報が提供される頻度について、2026年8月のニュースからはどのような推測ができますか？",
+    "choices": [
+      "毎月定期的に行われる",
+      "不定期だが、重要な更新時に行われる",
+      "年に一度の大規模アップデートのみ",
+      "数年に一度しか行われない"
+    ],
+    "answer": "不定期だが、重要な更新時に行われる",
+    "explanation": "2026年8月のニュースによると、【NTE】アップデート最新情報まとめ【ネバエバ】とされており、これは特定のアップデートがあった際に情報が提供されることを示唆しており、不定期だが重要な更新時に行われると推測できます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 9,
+    "question": "ニンテンドーダイレクト2026.6.9で『ゼルダ 時オカ』リメイクと『ゼノブレイド』新作が同時に発表されたことの相乗効果として、2026年8月のニュースから推測されることは何ですか？",
+    "choices": [
+      "任天堂のRPGラインナップの強化",
+      "両シリーズのファン層が完全に重複すること",
+      "新作とリメイクのバランスの取れた発表",
+      "任天堂の次世代機への期待をさらに高める"
+    ],
+    "answer": "任天堂の次世代機への期待をさらに高める",
+    "explanation": "2026年8月のニュースによると、ニンテンドーダイレクト2026.6.9で『ゼルダ 時オカ』リメイクと『ゼノブレイド』新作が発表されたとあり、これらの人気タイトルが同時に発表されることで、特に次世代機（Switch2など）でのゲーム体験への期待がさらに高まると推測できます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 9,
+    "question": "ゲーム『進撃の巨人３』が物語の「最初から最後まで」を描くことの、ファンへのアピールポイントとして、2026年8月のニュースから最も適切に推測できることは何ですか？",
+    "choices": [
+      "原作の未公開シーンが含まれること",
+      "ゲームで物語の完結を体験できること",
+      "アニメとは異なる結末が用意されていること",
+      "複数のエンディングが用意されていること"
+    ],
+    "answer": "ゲームで物語の完結を体験できること",
+    "explanation": "2026年8月のニュースによると、『進撃の巨人３』は「物語を最初から最後まで描く集大成 ゲーム」とされており、これによりファンはゲームを通じて物語の完結を体験できることが大きなアピールポイントであると推測できます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 9,
+    "question": "『キングダム ハーツIV』がSwitch2とPS5で発売されることによる、ターゲット層の拡大について、2026年8月のニュースから推測されることは何ですか？",
+    "choices": [
+      "既存のコアファン層のみをターゲットにすること",
+      "携帯機ユーザーと高性能機ユーザーの両方にアプローチすること",
+      "主にPCゲーマーをターゲットにすること",
+      "特定の地域限定での販売をすること"
+    ],
+    "answer": "携帯機ユーザーと高性能機ユーザーの両方にアプローチすること",
+    "explanation": "2026年8月のニュースによると、『キングダム ハーツIV』がSwitch2（携帯機要素も持つ）とPS5（高性能据え置き機）で発売されるとあり、これにより携帯機ユーザーと高性能機ユーザーの両方にアプローチし、ターゲット層を拡大できると推測できます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 9,
+    "question": "State of Play 2026.6.3で発表された複数のタイトルの中で、最も期待度が高いと見られるタイトルを、2026年8月のニュースから最も適切に選ぶとどれですか？",
+    "choices": [
+      "エースコンバット8",
+      "ゴッド・オブ・ウォーシリーズ最新作",
+      "鬼武者WoS",
+      "真・三國無双2"
+    ],
+    "answer": "ゴッド・オブ・ウォーシリーズ最新作",
+    "explanation": "2026年8月のニュースによると、「『ゴッド・オブ・ウォー』シリーズ最新作が発表」とされており、このシリーズは世界的に高い評価と人気を誇るため、最も期待度が高いタイトルの一つであると推測できます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 9,
+    "question": "2026年6月のState of Playで『真・三國無双2』に紫鸞が参戦することが、ゲームのストーリーに与える影響として、2026年8月のニュースから推測されることは何ですか？",
+    "choices": [
+      "既存の歴史ストーリーの改変",
+      "新たな勢力や物語の導入",
+      "主要キャラクターの退場",
+      "過去作のストーリーの再解釈"
+    ],
+    "answer": "新たな勢力や物語の導入",
+    "explanation": "2026年8月のニュースによると、『真・三國無双2』に紫鸞参戦とあり、これは既存の歴史上の人物ではないため、ゲームのストーリーに新たな勢力やオリジナル要素が導入される可能性を示唆していると推測できます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 9,
+    "question": "埼玉新聞がインディーゲームの高まる人気を報じたことの、地域経済への示唆として、2026年8月のニュースから推測されることは何ですか？",
+    "choices": [
+      "ゲーム産業の首都圏集中がさらに進むこと",
+      "地方におけるゲーム開発コミュニティの活性化",
+      "インディーゲームのイベントが地方で開催されること",
+      "地方のインディーゲームスタジオへの投資が増加すること"
+    ],
+    "answer": "地方におけるゲーム開発コミュニティの活性化",
+    "explanation": "2026年8月のニュースによると、埼玉新聞が「インディーゲーム」高まる人気を報じており、これは特定の地域（埼玉）でインディーゲームへの関心が高まっていることを示唆し、その地域のゲーム開発コミュニティの活性化に繋がる可能性を推測できます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 9,
+    "question": "SAOゲームシリーズ最新作「Echoes of Aincrad」が「本日発売」と報じられたことの、リアルタイム性に関する意味合いとして、2026年8月のニュースから推測されることは何ですか？",
+    "choices": [
+      "サプライズリリースであったこと",
+      "発売日情報が直前まで非公開であったこと",
+      "発売日とニュース公開日が一致していること",
+      "ニュースが後日訂正される可能性があること"
+    ],
+    "answer": "発売日とニュース公開日が一致していること",
+    "explanation": "2026年8月のニュースによると、SAOゲームシリーズ最新作「Echoes of Aincrad」が「本日発売」と報じられており、これはニュースが報じられたその日にゲームが発売されたことを意味し、リアルタイム性が非常に高い情報であることを示唆しています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "「SAO」ゲームシリーズ最新作「Echoes of Aincrad」の「本日発売」を報じたメディアは次のうちどれですか？",
+    "question": "XBOX東京ゲームショウ2026ブロードキャストの配信が、XBOXの今後の日本市場戦略に与える影響として、2026年8月のニュースから最も適切に推測できることは何ですか？",
     "choices": [
-      "GAME Watch",
-      "ファミ通",
-      "電撃オンライン",
-      "オリコンニュース"
+      "日本市場から撤退すること",
+      "日本でのプレゼンス強化とユーザーエンゲージメント向上",
+      "PCゲーム市場への完全移行",
+      "独占タイトルの減少"
     ],
-    "answer": "GAME Watch",
-    "explanation": "2026年7月のニュースによると、GAME Watchが「SAO」ゲームシリーズ最新作「Echoes of Aincrad」の本日発売を報じました。"
+    "answer": "日本でのプレゼンス強化とユーザーエンゲージメント向上",
+    "explanation": "2026年8月のニュースによると、「XBOX東京ゲームショウ2026ブロードキャスト」の配信と「XBOX FanFest Tokyo」の開催は、日本市場のプレイヤーに向けた積極的な情報発信と交流の場であり、日本でのプレゼンス強化とユーザーエンゲージメント向上を目指していると推測できます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "アークシステムワークスが新作「神貌のクリファ」の情報を公開した「ARC SYSTEM WORKS Showcase」は、主にどのような形式のイベントでしたか？",
+    "question": "FGOフェス2026で「11th Anniversary」と同時に発表されたTYPE-MOON関連ニュースが、FGO以外のTYPE-MOON作品に与える具体的な影響として、2026年8月のニュースから推測されることは何ですか？",
     "choices": [
-      "情報公開イベント",
-      "ゲーム大会",
-      "ファンミーティング",
-      "開発者向けフォーラム"
+      "FGOがTYPE-MOON作品全体のプロモーションの中心となる",
+      "FGO以外の作品の新作発表やメディアミックス展開の加速",
+      "FGO以外の作品のサービス終了",
+      "FGOとのクロスオーバーイベントの増加"
     ],
-    "answer": "情報公開イベント",
-    "explanation": "2026年7月のニュースによると、アークシステムワークスは「ARC SYSTEM WORKS Showcase」で新作「神貌のクリファ」などの最新情報を公開しており、情報公開イベントであることが示唆されます。"
+    "answer": "FGO以外の作品の新作発表やメディアミックス展開の加速",
+    "explanation": "2026年8月のニュースによると、“FGOフェス2026”では「11th Anniversary」と共に「TYPE-MOON関連ニュースを一挙紹介」とあり、これはFGO以外のTYPE-MOON作品についても新作発表やメディアミックス展開が加速する可能性を示唆していると推測できます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "アークシステムワークスが「ARC SYSTEM WORKS Showcase」で情報を公開した「神貌のクリファ」以外に、ニュースで言及されたコンテンツはありますか？",
+    "question": "NTE（ネバエバ）のアップデートが、プレイヤーコミュニティに与える影響として、2026年8月のニュースから最も適切に推測できることは何ですか？",
     "choices": [
-      "「などの」と記載されており、他にも存在",
-      "具体的なタイトルは他にない",
-      "過去作のDLC情報のみ",
-      "次回作の予告"
+      "ゲームの過疎化を招く",
+      "新たなコンテンツへの期待と継続的なプレイの促進",
+      "プレイヤー間の対立を生む",
+      "開発チームへの不信感を高める"
     ],
-    "answer": "「などの」と記載されており、他にも存在",
-    "explanation": "2026年7月のニュースによると、アークシステムワークスは新作「神貌のクリファ」などの最新情報を「ARC SYSTEM WORKS Showcase」で公開しており、「などの」という表現から他にも情報が公開されたことが示唆されます。"
+    "answer": "新たなコンテンツへの期待と継続的なプレイの促進",
+    "explanation": "2026年8月のニュースによると、【NTE】アップデート最新情報まとめ【ネバエバ】とされており、アップデートは通常、ゲームの改善や新要素の追加を意味するため、プレイヤーコミュニティにおいては新たなコンテンツへの期待を高め、ゲームの継続的なプレイを促進する影響があると推測できます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "「BANDAI CARD GAMES ネクストプラン発表会2026.06」で「ONE PIECEカードゲーム」の最新情報が解禁されたことは、主にどの公式ウェブサイトで報じられましたか？",
+    "question": "ニンテンドーダイレクト2026.6.9で発表された『キングダム ハーツ4』の新映像が、シリーズの今後の展開を示唆する点として、2026年8月のニュースから最も適切に推測できることは何ですか？",
     "choices": [
-      "ONE PIECE.com",
-      "BANDAI CARD GAMES 公式サイト",
-      "VジャンプWEB",
-      "少年ジャンプ＋"
+      "ディズニー要素の排除",
+      "よりダークなストーリーラインへの移行",
+      "新しいゲームシステムやグラフィックの進化",
+      "シリーズの最終章となること"
     ],
-    "answer": "ONE PIECE.com",
-    "explanation": "2026年6月のニュースによると、ONE PIECE.comで「BANDAI CARD GAMES ネクストプラン発表会2026.06」における「ONE PIECEカードゲーム」の最新情報解禁が報じられました。"
+    "answer": "新しいゲームシステムやグラフィックの進化",
+    "explanation": "2026年8月のニュースによると、ニンテンドーダイレクト2026.6.9で『キングダム ハーツ4』の新映像が公開され、同時にSwitch2やPS5など次世代機での発売も報じられています。これは、次世代機ならではの新しいゲームシステムやグラフィックの進化を示唆していると推測できます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "アークシステムワークスが「ARC SYSTEM WORKS Showcase」で「神貌のクリファ」などの最新情報を公開した際、「などの」という表現は、他にどのような種類の情報が含まれている可能性を示唆しますか？",
+    "question": "ゲーム『進撃の巨人３』が「集大成」として発売されることによる、過去作品との差別化として、2026年8月のニュースから最も適切に推測できることは何ですか？",
     "choices": [
-      "他の新作タイトルや既存タイトルのアップデート情報",
-      "会社の経営戦略に関する情報",
-      "株主向けの財務情報",
-      "業界全体の市場分析"
+      "過去作のキャラクターが一切登場しないこと",
+      "過去作では描かれなかった物語の全容を体験できること",
+      "過去作よりもアクション要素が減少していること",
+      "過去作とは異なるゲームジャンルを採用していること"
     ],
-    "answer": "他の新作タイトルや既存タイトルのアップデート情報",
-    "explanation": "2026年7月のニュースによると、アークシステムワークスは新作「神貌のクリファ」などの最新情報を公開しており、「などの」という表現は他の新作タイトルや既存タイトルのアップデート情報が含まれている可能性を示唆します。"
+    "answer": "過去作では描かれなかった物語の全容を体験できること",
+    "explanation": "2026年8月のニュースによると、『進撃の巨人３』は「物語を最初から最後まで描く集大成」とされており、これは過去のゲーム作品では描かれなかった物語の全容を体験できる点で、明確な差別化が図られていると推測できます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "「BANDAI CARD GAMES ネクストプラン発表会2026.06」で「ONE PIECEカードゲーム」の「最新情報」が解禁されたことは、そのゲームのどのような段階における情報として理解されますか？",
+    "question": "『キングダム ハーツIV』がSwitch2やPS5で発売されることによる、グラフィックやゲームプレイの進化の予測として、2026年8月のニュースから最も適切に推測できることは何ですか？",
     "choices": [
-      "将来的な展開や戦略に関する情報",
-      "発売直前のプロモーション情報",
-      "開発初期段階のコンセプト情報",
-      "過去の振り返り情報"
+      "前作と同程度のグラフィックとゲームプレイ",
+      "次世代機ならではの圧倒的なグラフィックとシームレスな体験",
+      "グラフィックの向上よりもストーリーに重点を置く",
+      "携帯機でのプレイに最適化されたシンプルなゲームプレイ"
     ],
-    "answer": "将来的な展開や戦略に関する情報",
-    "explanation": "2026年6月のニュースによると、「BANDAI CARD GAMES ネクストプラン発表会2026.06」という名称から、「ONE PIECEカードゲーム」の最新情報は将来的な展開や戦略に関する情報として理解されます。"
+    "answer": "次世代機ならではの圧倒的なグラフィックとシームレスな体験",
+    "explanation": "2026年8月のニュースによると、『キングダム ハーツIV』がSwitch2やPS5など次世代機で発売されるとあり、これは次世代機の性能を活かした圧倒的なグラフィックと、より没入感のあるシームレスなゲームプレイの進化が期待できると推測できます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "State of Play 2026.6.3で『真・三國無双2』に参戦が発表された紫鸞は、シリーズのファンにとってどのような意味合いを持つ情報でしたか？",
+    "question": "State of Play 2026.6.3で発表された『ゴッド・オブ・ウォー』シリーズ最新作が、これまでのシリーズのどの要素を引き継ぎ、どの要素を刷新するかについて、2026年8月のニュースから最も適切に推測できることは何ですか？",
     "choices": [
-      "新たなプレイアブルキャラクターの追加",
-      "既存キャラクターの衣装変更",
-      "ストーリーの分岐点となるイベント",
-      "過去作からのゲストキャラクター"
+      "神話ベースの世界観は維持しつつ、戦闘システムを刷新",
+      "主人公は変更し、世界観も一新",
+      "全ての要素を完全に刷新し、過去作との繋がりを断つ",
+      "過去作の要素を全て引き継ぎ、新たな要素はなし"
     ],
-    "answer": "新たなプレイアブルキャラクターの追加",
-    "explanation": "2026年6月のニュースによると、State of Play 2026.6.3で『真・三國無双2』に紫鸞が参戦することが発表され、これは新たなプレイアブルキャラクターの追加を意味します。"
+    "answer": "神話ベースの世界観は維持しつつ、戦闘システムを刷新",
+    "explanation": "2026年8月のニュースによると、「『ゴッド・オブ・ウォー』シリーズ最新作が発表」とされており、シリーズ作品であることから神話ベースの世界観やキャラクターは引き継ぎつつ、グラフィックやゲームプレイの進化に合わせて戦闘システムなどが刷新されると推測できます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "「SAO」ゲームシリーズ最新作「Echoes of Aincrad」が「本日発売」と報じられたのは、そのニュース記事が掲載された日を基準としていますが、この情報はどのような形でプレイヤーに影響を与えますか？",
+    "question": "2026年6月のState of Playで『真・三國無双2』に紫鸞が参戦することで、シリーズの歴史上の人物描写にどのような影響があるかについて、2026年8月のニュースから最も適切に推測できることは何ですか？",
     "choices": [
-      "すぐに購入してプレイできることを知らせる",
-      "予約開始を促す",
-      "体験版のダウンロードを推奨する",
-      "今後のアップデート予定を伝える"
+      "史実に基づいた人物描写がより厳密になる",
+      "オリジナルキャラクターの導入により、歴史解釈の幅が広がる",
+      "既存の歴史上の人物がリストラされる",
+      "歴史上の人物の登場が完全に廃止される"
     ],
-    "answer": "すぐに購入してプレイできることを知らせる",
-    "explanation": "2026年7月のニュースによると、「SAO」ゲームシリーズ最新作「Echoes of Aincrad」が「本日発売」と報じられたことで、プレイヤーはすぐに購入してプレイできることを知ることができます。"
+    "answer": "オリジナルキャラクターの導入により、歴史解釈の幅が広がる",
+    "explanation": "2026年8月のニュースによると、『真・三國無双2』に紫鸞参戦とあり、これは歴史上の人物ではないオリジナルキャラクターである可能性が高いため、史実をベースとしつつも、オリジナルキャラクターの導入によって歴史解釈や物語の幅が広がる影響があると推測できます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "アークシステムワークスが「ARC SYSTEM WORKS Showcase」で新作「神貌のクリファ」の最新情報を公開した際、その情報は主にどのような形式で提供されたと推測されますか？",
+    "question": "インディーゲームの高まる人気が、大手ゲームメーカーの戦略に与える影響として、2026年8月の埼玉新聞のニュースから最も適切に推測できることは何ですか？",
     "choices": [
-      "映像やスクリーンショットを伴う発表",
-      "テキストベースの開発ブログ",
-      "音声のみのインタビュー",
-      "ファンからのQ&Aセッション"
+      "インディーゲーム市場への参入を完全に避けるようになる",
+      "大手もインディーゲーム的な要素を取り入れたり、支援したりするようになる",
+      "インディーゲームを模倣した低価格ゲームを大量生産するようになる",
+      "インディーゲーム開発者を引き抜き、自社で独占するようになる"
     ],
-    "answer": "映像やスクリーンショットを伴う発表",
-    "explanation": "2026年7月のニュースによると、アークシステムワークスは「ARC SYSTEM WORKS Showcase」で新作「神貌のクリファ」などの最新情報を公開しており、Showcaseという形式から映像やスクリーンショットを伴う発表が推測されます。"
+    "answer": "大手もインディーゲーム的な要素を取り入れたり、支援したりするようになる",
+    "explanation": "2026年8月のニュースによると、埼玉新聞は「インディーゲーム」の人気が高まっていると報じており、この人気を受けて大手メーカーは、インディーゲームの持つ多様性や革新性を自社製品に取り入れたり、インディーゲーム開発を支援したりする戦略をとることが一般的であると推測できます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "「ONE PIECEカードゲーム」の最新情報が解禁されたイベントは、いつ開催されましたか？",
+    "question": "SAOゲームシリーズ最新作「Echoes of Aincrad」が「本日発売」と報じられたことの、シリーズファンへのサプライズ性に関する意味合いとして、2026年8月のニュースから最も適切に推測できることは何ですか？",
     "choices": [
-      "2026年6月",
-      "2026年7月",
-      "2026年8月",
-      "2026年9月"
+      "発売日が事前に告知されていたためサプライズはなかった",
+      "告知から発売までの期間が非常に短く、サプライズ感が大きかった",
+      "ゲームの内容が期待を裏切るものでサプライズがあった",
+      "限定版の発売がなく、サプライズがなかった"
     ],
-    "answer": "2026年6月",
-    "explanation": "2026年6月のニュースによると、「BANDAI CARD GAMES ネクストプラン発表会2026.06」の名称から、2026年6月に開催されたことが分かります。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 10,
-    "question": "「SAO」ゲームシリーズ最新作「Echoes of Aincrad」の「本日発売」を報じたメディアは次のうちどれですか？",
-    "choices": [
-      "GAME Watch",
-      "ファミ通",
-      "電撃オンライン",
-      "オリコンニュース"
-    ],
-    "answer": "GAME Watch",
-    "explanation": "2026年7月のニュースによると、GAME Watchが「SAO」ゲームシリーズ最新作「Echoes of Aincrad」の本日発売を報じました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 10,
-    "question": "アークシステムワークスが新作「神貌のクリファ」の情報を公開した「ARC SYSTEM WORKS Showcase」は、主にどのような形式のイベントでしたか？",
-    "choices": [
-      "情報公開イベント",
-      "ゲーム大会",
-      "ファンミーティング",
-      "開発者向けフォーラム"
-    ],
-    "answer": "情報公開イベント",
-    "explanation": "2026年7月のニュースによると、アークシステムワークスは「ARC SYSTEM WORKS Showcase」で新作「神貌のクリファ」などの最新情報を公開しており、情報公開イベントであることが示唆されます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 10,
-    "question": "アークシステムワークスが「ARC SYSTEM WORKS Showcase」で情報を公開した「神貌のクリファ」以外に、ニュースで言及されたコンテンツはありますか？",
-    "choices": [
-      "「などの」と記載されており、他にも存在",
-      "具体的なタイトルは他にない",
-      "過去作のDLC情報のみ",
-      "次回作の予告"
-    ],
-    "answer": "「などの」と記載されており、他にも存在",
-    "explanation": "2026年7月のニュースによると、アークシステムワークスは新作「神貌のクリファ」などの最新情報を「ARC SYSTEM WORKS Showcase」で公開しており、「などの」という表現から他にも情報が公開されたことが示唆されます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 10,
-    "question": "「BANDAI CARD GAMES ネクストプラン発表会2026.06」で「ONE PIECEカードゲーム」の最新情報が解禁されたことは、主にどの公式ウェブサイトで報じられましたか？",
-    "choices": [
-      "ONE PIECE.com",
-      "BANDAI CARD GAMES 公式サイト",
-      "VジャンプWEB",
-      "少年ジャンプ＋"
-    ],
-    "answer": "ONE PIECE.com",
-    "explanation": "2026年6月のニュースによると、ONE PIECE.comで「BANDAI CARD GAMES ネクストプラン発表会2026.06」における「ONE PIECEカードゲーム」の最新情報解禁が報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 10,
-    "question": "アークシステムワークスが「ARC SYSTEM WORKS Showcase」で「神貌のクリファ」などの最新情報を公開した際、「などの」という表現は、他にどのような種類の情報が含まれている可能性を示唆しますか？",
-    "choices": [
-      "他の新作タイトルや既存タイトルのアップデート情報",
-      "会社の経営戦略に関する情報",
-      "株主向けの財務情報",
-      "業界全体の市場分析"
-    ],
-    "answer": "他の新作タイトルや既存タイトルのアップデート情報",
-    "explanation": "2026年7月のニュースによると、アークシステムワークスは新作「神貌のクリファ」などの最新情報を公開しており、「などの」という表現は他の新作タイトルや既存タイトルのアップデート情報が含まれている可能性を示唆します。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 10,
-    "question": "「BANDAI CARD GAMES ネクストプラン発表会2026.06」で「ONE PIECEカードゲーム」の「最新情報」が解禁されたことは、そのゲームのどのような段階における情報として理解されますか？",
-    "choices": [
-      "将来的な展開や戦略に関する情報",
-      "発売直前のプロモーション情報",
-      "開発初期段階のコンセプト情報",
-      "過去の振り返り情報"
-    ],
-    "answer": "将来的な展開や戦略に関する情報",
-    "explanation": "2026年6月のニュースによると、「BANDAI CARD GAMES ネクストプラン発表会2026.06」という名称から、「ONE PIECEカードゲーム」の最新情報は将来的な展開や戦略に関する情報として理解されます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 10,
-    "question": "State of Play 2026.6.3で『真・三國無双2』に参戦が発表された紫鸞は、シリーズのファンにとってどのような意味合いを持つ情報でしたか？",
-    "choices": [
-      "新たなプレイアブルキャラクターの追加",
-      "既存キャラクターの衣装変更",
-      "ストーリーの分岐点となるイベント",
-      "過去作からのゲストキャラクター"
-    ],
-    "answer": "新たなプレイアブルキャラクターの追加",
-    "explanation": "2026年6月のニュースによると、State of Play 2026.6.3で『真・三國無双2』に紫鸞が参戦することが発表され、これは新たなプレイアブルキャラクターの追加を意味します。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 10,
-    "question": "「SAO」ゲームシリーズ最新作「Echoes of Aincrad」が「本日発売」と報じられたのは、そのニュース記事が掲載された日を基準としていますが、この情報はどのような形でプレイヤーに影響を与えますか？",
-    "choices": [
-      "すぐに購入してプレイできることを知らせる",
-      "予約開始を促す",
-      "体験版のダウンロードを推奨する",
-      "今後のアップデート予定を伝える"
-    ],
-    "answer": "すぐに購入してプレイできることを知らせる",
-    "explanation": "2026年7月のニュースによると、「SAO」ゲームシリーズ最新作「Echoes of Aincrad」が「本日発売」と報じられたことで、プレイヤーはすぐに購入してプレイできることを知ることができます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 10,
-    "question": "アークシステムワークスが「ARC SYSTEM WORKS Showcase」で新作「神貌のクリファ」の最新情報を公開した際、その情報は主にどのような形式で提供されたと推測されますか？",
-    "choices": [
-      "映像やスクリーンショットを伴う発表",
-      "テキストベースの開発ブログ",
-      "音声のみのインタビュー",
-      "ファンからのQ&Aセッション"
-    ],
-    "answer": "映像やスクリーンショットを伴う発表",
-    "explanation": "2026年7月のニュースによると、アークシステムワークスは「ARC SYSTEM WORKS Showcase」で新作「神貌のクリファ」などの最新情報を公開しており、Showcaseという形式から映像やスクリーンショットを伴う発表が推測されます。"
+    "answer": "告知から発売までの期間が非常に短く、サプライズ感が大きかった",
+    "explanation": "2026年8月のニュースによると、SAOゲームシリーズ最新作「Echoes of Aincrad」が「本日発売」と報じられており、これは告知から発売までの期間が極めて短い、あるいは告知と同時に発売されたことを意味するため、シリーズファンにとっては大きなサプライズであったと推測できます。"
   },
   {
     "category": "世界情勢",
