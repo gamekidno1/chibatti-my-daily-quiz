@@ -3902,64 +3902,25 @@
   {
     "category": "ゲーム",
     "difficulty": 1,
-    "question": "2026年8月23日に発売されたSAOゲームシリーズの最新作のタイトルは何ですか？",
-    "choices": [
-      "Sword Art Online: Alicization Rising",
-      "Echoes of Aincrad",
-      "Sword Art Online: Fatal Bullet 2",
-      "Sword Art Online: Progressive"
-    ],
-    "answer": "Echoes of Aincrad",
-    "explanation": "2026年8月のニュースによると、SAOゲームシリーズ最新作「Echoes of Aincrad」が本日（2026年8月23日）発売されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "2026年8月22日に新発売されたONE PIECEカードゲームのブースターパックのタイトルは何ですか？",
+    "question": "2026年8月22日に新発売された『ONE PIECEカードゲーム』のブースターパックのタイトルは何ですか？",
     "choices": [
       "世界最強の海賊",
-      "新時代の幕開け",
-      "世界最強の戦士",
-      "偉大なる航路の冒険者"
+      "世界最強の戦士【OP-17】",
+      "新世界の冒険者",
+      "伝説の海賊王"
     ],
-    "answer": "世界最強の戦士",
-    "explanation": "2026年8月のニュースによると、ONE PIECEカードゲームのブースターパック 世界最強の戦士【OP-17】が2026年8月22日に新発売されました。"
+    "answer": "世界最強の戦士【OP-17】",
+    "explanation": "2026年8月21日のニュースによると、『ONE PIECEカードゲーム』のブースターパック「世界最強の戦士【OP-17】」が8月22日に新発売されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 1,
-    "question": "2026年8月23日にシリーズ最新作が発売されたシューティングゲームのタイトルは何ですか？",
-    "choices": [
-      "雷電V",
-      "TATSUJIN EXTREME",
-      "怒首領蜂最大往生",
-      "R-TYPE FINAL 3"
-    ],
-    "answer": "TATSUJIN EXTREME",
-    "explanation": "2026年8月のニュースによると、シリーズ最新作「TATSUJIN EXTREME」が本日（2026年8月23日）発売されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "2026年6月2日のState of Playで発売日決定が発表されたゲームシリーズは何ですか？",
-    "choices": [
-      "グランツーリスモ",
-      "エースコンバット",
-      "ゴッドオブウォー",
-      "FINAL FANTASY"
-    ],
-    "answer": "エースコンバット",
-    "explanation": "2026年6月2日のState of Playの発表まとめによると、『エースコンバット8』の発売日決定が報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "2026年7月後半のニュースで、主人公機と敵の設定画が公開されたガンダムゲームの最新作のタイトルは何ですか？",
+    "question": "2026年7月後半に設定画が公開されたガンダムゲーム最新作のタイトルは何ですか？",
     "choices": [
       "GUNDAM BREAKER 4",
       "GUNDAM ROGUE ORBIT",
-      "機動戦士ガンダム バトルオペレーション3",
-      "SDガンダム バトルアライアンス 2"
+      "機動戦士ガンダム エターナル",
+      "ガンダムバトルオペレーション3"
     ],
     "answer": "GUNDAM ROGUE ORBIT",
     "explanation": "2026年7月後半のニュースによると、ガンダムゲーム最新作『GUNDAM ROGUE ORBIT』の主人公機と敵の設定画が公開されました。"
@@ -3967,1021 +3928,566 @@
   {
     "category": "ゲーム",
     "difficulty": 1,
-    "question": "2026年8月のニュースで、若年層のゲーム依存の割合が何％と報じられましたか？",
+    "question": "『キングダム ハーツ』シリーズの最新作として発表されたタイトルは何ですか？",
     "choices": [
-      "5％",
-      "10％",
-      "15％",
-      "20％"
+      "キングダム ハーツIII ReMind",
+      "キングダム ハーツ Melody of Memory",
+      "キングダム ハーツIV",
+      "キングダム ハーツ Birth by Sleep 0.2"
     ],
-    "answer": "10％",
-    "explanation": "2026年8月の埼玉新聞のニュースによると、若年層のゲーム依存は10％と報じられました。"
+    "answer": "キングダム ハーツIV",
+    "explanation": "2026年8月のニュースによると、『キングダム ハーツ』シリーズ最新作として『キングダム ハーツIV』が発表されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 1,
-    "question": "『進撃の巨人』の物語を最初から最後まで描く集大成として発売決定が発表されたゲームのタイトルは何ですか？",
+    "question": "2026年6月9日に開催された任天堂の発表会イベントは何ですか？",
     "choices": [
-      "進撃の巨人１",
-      "進撃の巨人２",
-      "進撃の巨人３",
-      "進撃の巨人 最終章"
+      "Nintendo Direct E3 2026",
+      "Nintendo Direct 2026.6.9",
+      "Nintendo Live 2026",
+      "Nintendo Game Show"
     ],
-    "answer": "進撃の巨人３",
-    "explanation": "2026年8月のニュースによると、『進撃の巨人３』の発売決定が発表されました。"
+    "answer": "Nintendo Direct 2026.6.9",
+    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」が開催されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 1,
-    "question": "フロム・ソフトウェアの宮崎英高氏が「直接殴り合う以外でも勝てるゲームにしたい」と語ったSwitch2向けの最新作のタイトルは何ですか？",
+    "question": "2026年6月2日のState of Playで発売日決定が発表されたフライトシューティングゲームは何ですか？",
     "choices": [
-      "ダスクブラッド",
-      "ソウルボーン",
-      "ダークリング",
-      "エルデンリング２"
+      "エースコンバット7",
+      "エースコンバット8",
+      "トップガン マーヴェリック",
+      "スカイクロラ"
     ],
-    "answer": "ダスクブラッド",
-    "explanation": "2026年8月のYahoo!ニュースによると、Switch2向けフロム最新作「ダスクブラッド」に関して、宮崎英高氏が上記のように語りました。"
+    "answer": "エースコンバット8",
+    "explanation": "2026年6月2日のState of Playの発表によると、『エースコンバット8』の発売日決定が報じられました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 1,
-    "question": "2026年6月2日のState of Playで、体験版の配信が発表された完全新作のゲームシリーズは何ですか？",
+    "question": "2026年8月24日のニュースで、本日発売と報じられたSAOゲームシリーズ最新作のタイトルは何ですか？",
     "choices": [
-      "デビルメイクライ",
-      "鬼武者",
-      "モンスターハンター",
-      "バイオハザード"
+      "Sword Art Online Alicization Lycoris",
+      "Sword Art Online Fatal Bullet",
+      "Echoes of Aincrad",
+      "Sword Art Online Last Recollection"
     ],
-    "answer": "鬼武者",
-    "explanation": "2026年6月2日のState of Playの発表まとめによると、完全新作『鬼武者』の体験版配信が報じられました。"
+    "answer": "Echoes of Aincrad",
+    "explanation": "2026年8月24日のニュースによると、「SAO」ゲームシリーズ最新作「Echoes of Aincrad」が本日発売されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 1,
-    "question": "『Fate/Grand Order』の11周年を記念して開催されたイベントの名称は何ですか？",
+    "question": "2026年8月24日のニュースで、本日発売と報じられたシューティングゲーム『TATSUJIN』シリーズの最新作は何ですか？",
     "choices": [
-      "FGOフェス2025",
-      "FGOフェス2026",
-      "FGOアニバーサリー",
-      "FGO感謝祭"
+      "TATSUJIN REBOOT",
+      "TATSUJIN ORIGIN",
+      "TATSUJIN EXTREME",
+      "TATSUJIN ARCADE"
     ],
-    "answer": "FGOフェス2026",
-    "explanation": "2026年8月のファミ通のニュースによると、『FGOフェス2026』が開催され、11th Anniversaryが祝われました。"
+    "answer": "TATSUJIN EXTREME",
+    "explanation": "2026年8月24日のニュースによると、シリーズ最新作「TATSUJIN EXTREME」が本日発売されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 1,
-    "question": "2026年8月のGameWithのニュースで、最新イベント情報がまとめられているゲームのタイトルは何ですか？",
+    "question": "『ONE PIECEカードゲーム』の特報が解禁されるイベントは何ですか？",
     "choices": [
-      "ドラゴンクエストウォーク",
-      "怪獣8号ゲーム",
-      "原神",
-      "モンスターストライク"
+      "ONE PIECE GRAND ARENA",
+      "ONE PIECE SUMMIT",
+      "ONE PIECE DAY’26",
+      "ONE PIECE FESTIVAL"
     ],
-    "answer": "怪獣8号ゲーム",
-    "explanation": "2026年8月のGameWithのニュースによると、『怪獣8号ゲーム』の最新イベント情報がまとめられています。"
+    "answer": "ONE PIECE DAY’26",
+    "explanation": "2026年8月のニュースによると、「ONE PIECE DAY’26」にて『ONE PIECEカードゲーム』の特報が解禁される予定です。"
   },
   {
     "category": "ゲーム",
     "difficulty": 1,
-    "question": "2026年6月9日に発表内容がまとめられたのは、どのゲーム関連イベントですか？",
+    "question": "若年層のゲーム依存の割合が何パーセントであると、2026年8月の埼玉新聞で報じられましたか？",
     "choices": [
-      "E3 2026",
-      "東京ゲームショウ2026",
-      "ニンテンドーダイレクト 2026.6.9",
-      "State of Play June 2, 2026"
+      "5%",
+      "10%",
+      "15%",
+      "20%"
     ],
-    "answer": "ニンテンドーダイレクト 2026.6.9",
-    "explanation": "2026年6月9日のYahoo!ニュースによると、「ニンテンドーダイレクト 2026.6.9」の発表内容がまとめられました。"
+    "answer": "10%",
+    "explanation": "2026年8月の埼玉新聞のニュースによると、若年層のゲーム依存は10%であると報じられました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 1,
-    "question": "2026年8月のGameWithのニュースで、アップデートの最新情報がまとめられているゲームのタイトルは何ですか？",
+    "question": "2026年8月のニュースで、最新アップデート情報がGameWithでまとめられたNintendo Switchのゲームは何ですか？",
     "choices": [
-      "どうぶつの森 ポケットキャンプ",
+      "あつまれ どうぶつの森",
+      "スプラトゥーン3",
       "トモダチコレクションわくわく生活",
-      "牧場物語",
       "ゼルダの伝説 ティアーズ オブ ザ キングダム"
     ],
     "answer": "トモダチコレクションわくわく生活",
-    "explanation": "2026年8月のGameWithのニュースによると、『トモダチコレクションわくわく生活』のアップデートの最新情報がまとめられています。"
+    "explanation": "2026年8月のニュースによると、『トモダチコレクションわくわく生活』のアップデート最新情報がGameWithでまとめられました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 1,
-    "question": "2026年8月のGameWithのニュースで、最新アップデート情報と開発者ノートが公開されたゲームのタイトルは何ですか？",
+    "question": "2026年8月のニュースで『FGOフェス2026』が開催され、ゲーム最新情報やTYPE-MOON関連ニュースが一挙紹介されましたが、このイベントの略称は何ですか？",
     "choices": [
-      "ファイナルファンタジー ブレイブエクスヴィアス",
-      "白猫プロジェクト",
-      "セブンナイツ リバース",
-      "グランブルーファンタジー"
+      "FGOフェス",
+      "FGO祭",
+      "FGOエキスポ",
+      "FGOサミット"
     ],
-    "answer": "セブンナイツ リバース",
-    "explanation": "2026年8月のGameWithのニュースによると、『セブンナイツ リバース』の最新アップデート情報と開発者ノートが公開されています。"
+    "answer": "FGOフェス",
+    "explanation": "2026年8月のニュースによると、『FGOフェス2026』の発表まとめがファミ通で紹介されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 1,
+    "question": "2026年8月のニュースで、特報が解禁されると報じられた『ONE PIECEカードゲーム』のイベントは何ですか？",
+    "choices": [
+      "ONE PIECE Festival",
+      "ONE PIECE DAY’26",
+      "ONE PIECE Championship",
+      "ONE PIECE World"
+    ],
+    "answer": "ONE PIECE DAY’26",
+    "explanation": "2026年8月のニュースによると、「ONE PIECE DAY’26」にて『ONE PIECEカードゲーム』の特報が解禁されると報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 1,
+    "question": "2026年8月24日のニュースで、本日発売と報じられたSAOゲームシリーズ最新作のタイトルは何ですか？",
+    "choices": [
+      "Sword Art Online: Integral Factor",
+      "Sword Art Online: Hollow Realization",
+      "Echoes of Aincrad",
+      "Sword Art Online: Last Recollection"
+    ],
+    "answer": "Echoes of Aincrad",
+    "explanation": "2026年8月24日のニュースによると、「SAO」ゲームシリーズ最新作「Echoes of Aincrad」が本日発売されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 1,
+    "question": "2026年6月3日に配信されたState of Playで、最新情報が公開されたゲームのタイトルは何ですか？",
+    "choices": [
+      "Marvel's Spider-Man 2",
+      "Marvel's Guardians of the Galaxy",
+      "Marvel's Wolverine",
+      "Marvel's Midnight Suns"
+    ],
+    "answer": "Marvel's Wolverine",
+    "explanation": "2026年6月3日のニュースによると、State of Playでは「Marvel's Wolverine」最新情報などが届けられました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 2,
-    "question": "2026年8月の最新ニュースで、GameWithが最新アップデート情報をまとめているゲームタイトルは次のうちどれですか？",
+    "question": "2026年8月のニュースで発売決定が報じられた、漫画「進撃の巨人」の物語を最初から最後まで描く集大成ゲームのタイトルは何ですか？",
     "choices": [
-      "怪獣8号ゲーム",
-      "呪術廻戦 ファントムパレード",
-      "SPY×FAMILY オペレーション〈メモリーズ〉",
-      "原神"
+      "進撃の巨人 FINAL",
+      "進撃の巨人３",
+      "進撃の巨人 REBORN",
+      "進撃の巨人 ULTIMATE"
     ],
-    "answer": "怪獣8号ゲーム",
-    "explanation": "2026年8月のGameWithのニュースによると、『怪獣8号ゲーム』の最新アップデート情報がまとめられています。"
+    "answer": "進撃の巨人３",
+    "explanation": "2026年8月のニュースによると、「進撃の巨人」の物語を最初から最後まで描く集大成ゲーム『進撃の巨人３』の発売が決定しました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 2,
-    "question": "ONE PIECEカードゲームのブースターパック「世界最強の戦士【OP-17】」が新発売されたのは何月何日ですか？",
+    "question": "2026年6月2日のState of Playで、体験版の配信が発表された完全新作のゲームシリーズは何ですか？",
     "choices": [
-      "2026年8月21日",
-      "2026年8月22日",
-      "2026年8月23日",
-      "2026年8月24日"
+      "デビルメイクライ",
+      "バイオハザード",
+      "鬼武者",
+      "ゴッドイーター"
     ],
-    "answer": "2026年8月22日",
-    "explanation": "2026年8月のONE PIECE.comのニュースによると、ブースターパック 世界最強の戦士【OP-17】は2026年8月22日に新発売されました。"
+    "answer": "鬼武者",
+    "explanation": "2026年6月2日のState of Playの発表によると、完全新作『鬼武者』の体験版配信が発表されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 2,
-    "question": "『進撃の巨人３』が描く物語の範囲として発表された特徴は何ですか？",
+    "question": "2026年6月3日のState of Playで、60分以上にわたって最新情報が届けられると発表されたタイトルは何ですか？",
     "choices": [
-      "マーレ編以降の物語",
-      "巨人の起源に焦点を当てる",
-      "物語を最初から最後まで描く集大成",
-      "アニメオリジナルの展開"
+      "Marvel's Spider-Man 3",
+      "Marvel's Venom",
+      "Marvel's Wolverine",
+      "Marvel's Avengers Reborn"
     ],
-    "answer": "物語を最初から最後まで描く集大成",
-    "explanation": "2026年8月のgamecity.ne.jpのニュースによると、『進撃の巨人３』は「進撃の巨人」の物語を最初から最後まで描く集大成と発表されました。"
+    "answer": "Marvel's Wolverine",
+    "explanation": "2026年6月3日のニュースによると、State of Playでは「Marvel's Wolverine」の最新情報などが60分以上で届けられると発表されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 2,
-    "question": "『GUNDAM ROGUE ORBIT』の敵として設定画が公開されたのは、太陽系外から飛来した何という生命体ですか？",
-    "choices": [
-      "有機生命体",
-      "機械生命体",
-      "シリコン生命体",
-      "エネルギー生命体"
-    ],
-    "answer": "シリコン生命体",
-    "explanation": "2026年7月後半のGame Sparkのニュースによると、『GUNDAM ROGUE ORBIT』は太陽系外から飛来したシリコン生命体との戦闘を描きます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "2026年6月2日のState of Playで発表された『真・三國無双2』に参戦が決定した新キャラクターは誰ですか？",
-    "choices": [
-      "紫蘭",
-      "紫鸞",
-      "紫炎",
-      "紫風"
-    ],
-    "answer": "紫鸞",
-    "explanation": "2026年6月2日のState of Playの発表まとめによると、『真・三國無双2』に紫鸞の参戦が決定しました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "2026年8月のGameWithのニュースで、最新アップデート情報がまとめられている『トモダチコレクション』のサブタイトルは何ですか？",
-    "choices": [
-      "みんなの生活",
-      "わくわく生活",
-      "にぎやか生活",
-      "スマイル生活"
-    ],
-    "answer": "わくわく生活",
-    "explanation": "2026年8月のGameWithのニュースによると、『トモダチコレクションわくわく生活』のアップデート情報がまとめられています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "2026年8月23日に最新PVが公開されたシリーズ最新作のシューティングゲームのタイトルは何ですか？",
-    "choices": [
-      "グラディウス リブート",
-      "TATSUJIN EXTREME",
-      "ゼビウス アナザー",
-      "ダライアス コズミックリベリオン"
-    ],
-    "answer": "TATSUJIN EXTREME",
-    "explanation": "2026年8月のGAME Watchのニュースによると、「TATSUJIN EXTREME」が本日発売され、本作の魅力を紹介する最新PVも公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "2026年8月のGameWithのニュースで、開発者ノートが公開されたゲームタイトルは何ですか？",
+    "question": "2026年8月のニュースで、GameWithにて開発者ノートと共に最新アップデート情報が公開されたゲームは何ですか？",
     "choices": [
       "セブンナイツ レガシー",
       "セブンナイツ リバース",
       "セブンナイツ エボリューション",
-      "セブンナイツ クロニクル"
+      "セブンナイツ オリジン"
     ],
     "answer": "セブンナイツ リバース",
-    "explanation": "2026年8月のGameWithのニュースによると、『セブンナイツ リバース』の最新アップデート情報として開発者ノートが公開されました。"
+    "explanation": "2026年8月のニュースによると、『セブンナイツ リバース』の最新アップデート情報が開発者ノートと共にGameWithで公開されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 2,
-    "question": "2026年8月のYahoo!ニュースで、フロム・ソフトウェアの宮崎英高氏がインタビューで語ったSwitch2向け最新作のタイトルは何ですか？",
+    "question": "2026年8月のニュースで『FGOフェス2026』が開催され、ゲーム最新情報やTYPE-MOON関連ニュースが一挙紹介されましたが、これは何周年記念のイベントでしたか？",
     "choices": [
-      "ブラッドボーン２",
-      "アーマード・コア７",
-      "ダスクブラッド",
-      "デモンズソウル リマスター"
+      "5th Anniversary",
+      "8th Anniversary",
+      "10th Anniversary",
+      "11th Anniversary"
     ],
-    "answer": "ダスクブラッド",
-    "explanation": "2026年8月のYahoo!ニュースによると、フロム最新作「ダスクブラッド」に関して宮崎英高氏のインタビューが掲載されました。"
+    "answer": "11th Anniversary",
+    "explanation": "2026年8月のニュースによると、『FGOフェス2026』は11th Anniversaryとして開催されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 2,
-    "question": "2026年8月のONE PIECE.comのニュースで、『ONE PIECE DAY’26』にて特報解禁が発表されたのはどのゲームですか？",
+    "question": "『GUNDAM ROGUE ORBIT』で描かれる戦闘の相手となるのは、太陽系外から飛来した何という生命体ですか？",
     "choices": [
-      "ONE PIECE ODYSSEY",
-      "ONE PIECE バウンティラッシュ",
-      "ONE PIECE トレジャークルーズ",
-      "ONE PIECEカードゲーム"
+      "炭素生命体",
+      "有機生命体",
+      "シリコン生命体",
+      "プラズマ生命体"
     ],
-    "answer": "ONE PIECEカードゲーム",
-    "explanation": "2026年8月のONE PIECE.comのニュースによると、『ONE PIECE DAY’26』にて『ONE PIECEカードゲーム』の特報が解禁されました。"
+    "answer": "シリコン生命体",
+    "explanation": "2026年7月後半のニュースによると、『GUNDAM ROGUE ORBIT』は太陽系外から飛来したシリコン生命体との戦闘を描いています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 2,
-    "question": "2026年8月23日に本日発売と報じられたゲームタイトルは「Echoes of Aincrad」と「TATSUJIN EXTREME」の2つですが、このうちSAOゲームシリーズの最新作はどちらですか？",
+    "question": "2026年8月のニュースで、『キングダム ハーツIV』の発売が発表されたプラットフォームの一つは何ですか？",
     "choices": [
-      "Echoes of Aincrad",
-      "TATSUJIN EXTREME",
-      "どちらもSAOシリーズではない",
-      "両方SAOシリーズ"
+      "Xbox Series X",
+      "Nintendo Switch2",
+      "Steam Deck",
+      "Google Stadia"
     ],
-    "answer": "Echoes of Aincrad",
-    "explanation": "2026年8月のGAME Watchのニュースによると、SAOゲームシリーズ最新作「Echoes of Aincrad」が本日（2026年8月23日）発売されました。"
+    "answer": "Nintendo Switch2",
+    "explanation": "2026年8月のニュースによると、『キングダム ハーツIV』はSwitch2やPS5などで発売されると発表されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 2,
-    "question": "2026年8月のニュースで、ONE PIECEカードゲームの特報が解禁されたイベントの名称は何ですか？",
-    "choices": [
-      "ONE PIECE EXPO",
-      "ONE PIECE FES",
-      "ONE PIECE DAY’26",
-      "ONE PIECE CARNIVAL"
-    ],
-    "answer": "ONE PIECE DAY’26",
-    "explanation": "2026年8月のONE PIECE.comのニュースによると、『ONE PIECE DAY’26』にてONE PIECEカードゲームの特報が解禁されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "2026年8月のYahoo!ニュースで、Switch2向けフロム最新作「ダスクブラッド」について宮崎英高氏が語った、ゲームプレイで目指す特徴的な要素は何ですか？",
-    "choices": [
-      "純粋なPvP対戦",
-      "直接殴り合う以外でも勝てる",
-      "オープンワールドの探索",
-      "ストーリーの分岐"
-    ],
-    "answer": "直接殴り合う以外でも勝てる",
-    "explanation": "2026年8月のYahoo!ニュースによると、宮崎英高氏はフロム最新作「ダスクブラッド」について「直接殴り合う以外でも勝てるゲームにしたい」と語りました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "2026年7月後半のGame Sparkのニュースで、主人公機と敵の設定画が公開されたガンダムゲーム最新作の敵は、どこから飛来した生命体ですか？",
-    "choices": [
-      "地球の地下",
-      "火星の衛星",
-      "太陽系外",
-      "別の次元"
-    ],
-    "answer": "太陽系外",
-    "explanation": "2026年7月後半のGame Sparkのニュースによると、『GUNDAM ROGUE ORBIT』は太陽系外から飛来したシリコン生命体との戦闘を描きます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "2026年6月2日のState of Playで、体験版の配信が発表された完全新作のゲームタイトルは何ですか？",
-    "choices": [
-      "鬼武者",
-      "デビルメイクライ",
-      "バイオハザード",
-      "大神"
-    ],
-    "answer": "鬼武者",
-    "explanation": "2026年6月2日のState of Playの発表まとめによると、完全新作『鬼武者』の体験版配信が報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "2026年8月の埼玉新聞のニュースで「ゲーム依存、若年層は１０％」と報じられましたが、この割合は何に関するものですか？",
-    "choices": [
-      "ゲーム購入者の割合",
-      "若年層のゲーム依存の割合",
-      "ゲーム開発者の割合",
-      "eスポーツ選手の割合"
-    ],
-    "answer": "若年層のゲーム依存の割合",
-    "explanation": "2026年8月の埼玉新聞のニュースによると、「ゲーム依存、若年層は１０％」と明確に報じられています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "2026年8月のgamecity.ne.jpのニュースで発売決定が発表された『進撃の巨人３』は、何を最初から最後まで描く集大成とされていますか？",
-    "choices": [
-      "アニメのストーリー",
-      "ゲームオリジナルの物語",
-      "「進撃の巨人」の物語",
-      "キャラクターの過去"
-    ],
-    "answer": "「進撃の巨人」の物語",
-    "explanation": "2026年8月のgamecity.ne.jpのニュースによると、『進撃の巨人３』は「進撃の巨人」の物語を最初から最後まで描く集大成と発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "2026年8月のファミ通のニュースで、『FGOフェス2026』の発表まとめが報じられましたが、このイベントで主に紹介された情報は何ですか？",
-    "choices": [
-      "アニメ映画情報",
-      "ゲーム最新情報",
-      "舞台公演情報",
-      "グッズ販売情報"
-    ],
-    "answer": "ゲーム最新情報",
-    "explanation": "2026年8月のファミ通のニュースによると、『FGOフェス2026』ではゲーム最新情報やTYPE-MOON関連ニュースが一挙紹介されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "2026年6月9日に発表内容がまとめられた「ニンテンドーダイレクト」の情報を報じたメディアは次のうちどれですか？",
-    "choices": [
-      "IGN Japan",
-      "GAME Watch",
-      "電撃オンライン",
-      "ファミ通"
-    ],
-    "answer": "GAME Watch",
-    "explanation": "2026年6月9日のYahoo!ニュースによると、「ニンテンドーダイレクト 2026.6.9」の発表内容がGAME Watchによってまとめられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "2026年8月のGameWithのニュースで、アップデートの最新情報がまとめられている『トモダチコレクションわくわく生活』の略称は何ですか？",
-    "choices": [
-      "トモコレ",
-      "トモワク",
-      "トモ生",
-      "コレ活"
-    ],
-    "answer": "トモコレ",
-    "explanation": "2026年8月のGameWithのニュースによると、『トモコレ』アップデートの最新情報まとめ【トモダチコレクションわくわく生活】として報じられています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年8月23日に発売されたゲームが報じられたメディアはGAME WatchとYahoo!ニュースですが、そのうちSAOゲームシリーズの最新作は何ですか？",
-    "choices": [
-      "TATSUJIN EXTREME",
-      "Echoes of Aincrad",
-      "GUNDAM ROGUE ORBIT",
-      "ダスクブラッド"
-    ],
-    "answer": "Echoes of Aincrad",
-    "explanation": "2026年8月のGAME Watchのニュースによると、SAOゲームシリーズ最新作「Echoes of Aincrad」が本日（2026年8月23日）発売されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年8月22日に新発売されたONE PIECEカードゲームのブースターパック「世界最強の戦士【OP-17】」のパックナンバーは何ですか？",
-    "choices": [
-      "OP-15",
-      "OP-16",
-      "OP-17",
-      "OP-18"
-    ],
-    "answer": "OP-17",
-    "explanation": "2026年8月のONE PIECE.comのニュースによると、ブースターパック 世界最強の戦士【OP-17】が2026年8月22日に新発売されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年7月後半のニュースで、Game SparkとYahoo!ニュースが報じた『GUNDAM ROGUE ORBIT』の主な敵はどんな存在ですか？",
-    "choices": [
-      "地球連邦軍の反乱分子",
-      "異星の植物生命体",
-      "太陽系外から飛来したシリコン生命体",
-      "謎のAI兵器"
-    ],
-    "answer": "太陽系外から飛来したシリコン生命体",
-    "explanation": "2026年7月後半のGame Sparkのニュースによると、『GUNDAM ROGUE ORBIT』は太陽系外から飛来したシリコン生命体との戦闘を描きます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年6月2日に開催されたState of Playで、発売日決定が発表された『エースコンバット8』は、どのシリーズの最新作ですか？",
-    "choices": [
-      "エースコンバット",
-      "プロジェクトウィングマン",
-      "H.A.W.X.",
-      "フライトシミュレーター"
-    ],
-    "answer": "エースコンバット",
-    "explanation": "2026年6月2日のState of Playの発表まとめによると、『エースコンバット8』の発売日決定が報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年8月の埼玉新聞のニュースで報じられた、若年層のゲーム依存の割合10％は、どのような調査の結果として発表されましたか？",
-    "choices": [
-      "大規模なアンケート調査",
-      "専門家による定性調査",
-      "特定の地域での疫学調査",
-      "全国的な健康調査"
-    ],
-    "answer": "特定の地域での疫学調査",
-    "explanation": "2026年8月の埼玉新聞のニュースでは、若年層のゲーム依存が10%と報じられましたが、具体的な調査方法は記載されていません。しかし、一般的に「若年層は10%」という統計は調査結果に基づきます。選択肢Cは具体的な調査方法を提示しており、最も可能性が高いですが、ニュースに明記されていないため、この問題はやや難易度が高くなります。ここでは「埼玉新聞」という地方紙の名前から、地域に特化した調査である可能性を匂わせるように作成しています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年8月のGameWithのニュースで、最新イベント情報がまとめられているゲームタイトルは何ですか？",
-    "choices": [
-      "怪獣8号ゲーム",
-      "ドラゴンボールZ カカロット",
-      "テイルズ オブ アライズ",
-      "FINAL FANTASY VII REBIRTH"
-    ],
-    "answer": "怪獣8号ゲーム",
-    "explanation": "2026年8月のGameWithのニュースによると、『怪獣8号ゲーム』の最新イベント情報がまとめられています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年6月9日に発表内容がまとめられた「ニンテンドーダイレクト」は、どのメディアで報じられましたか？",
-    "choices": [
-      "電撃オンライン",
-      "ファミ通.com",
-      "GAME Watch (Yahoo!ニュース)",
-      "IGN Japan"
-    ],
-    "answer": "GAME Watch (Yahoo!ニュース)",
-    "explanation": "2026年6月9日のYahoo!ニュースによると、「ニンテンドーダイレクト 2026.6.9」の発表内容がGAME Watchによってまとめられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年8月のYahoo!ニュースで、Switch2向けフロム最新作「ダスクブラッド」についてインタビューに応じた人物は誰ですか？",
-    "choices": [
-      "小島秀夫氏",
-      "横尾太郎氏",
-      "宮崎英高氏",
-      "桜井政博氏"
-    ],
-    "answer": "宮崎英高氏",
-    "explanation": "2026年8月のYahoo!ニュースによると、Switch2「ダスクブラッド」に関して宮崎英高氏のインタビューが掲載されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "『FGOフェス2026』で発表された内容には、ゲーム最新情報の他に何が紹介されましたか？",
-    "choices": [
-      "アニメ化情報",
-      "舞台化情報",
-      "TYPE-MOON関連ニュース",
-      "コミカライズ情報"
-    ],
-    "answer": "TYPE-MOON関連ニュース",
-    "explanation": "2026年8月のファミ通のニュースによると、『FGOフェス2026』ではゲーム最新情報やTYPE-MOON関連ニュースが一挙紹介されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年8月23日に発売された「TATSUJIN EXTREME」で、本作の魅力を紹介するために公開されたものは何ですか？",
+    "question": "2026年8月24日のニュースで、本日発売と報じられた『TATSUJIN EXTREME』の魅力を紹介する目的で公開されたものは何ですか？",
     "choices": [
       "開発者インタビュー",
       "最新PV",
       "体験版",
-      "サウンドトラック情報"
+      "サウンドトラック"
     ],
     "answer": "最新PV",
-    "explanation": "2026年8月のGAME Watchのニュースによると、「TATSUJIN EXTREME」の発売に合わせて、本作の魅力を紹介する最新PVが公開されました。"
+    "explanation": "2026年8月24日のニュースによると、『TATSUJIN EXTREME』の発売に合わせて、本作の魅力を紹介する最新PVが公開されました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年8月23日に本日発売と報じられた「TATSUJIN EXTREME」は、どのような種類のゲームシリーズの最新作ですか？",
+    "difficulty": 2,
+    "question": "2026年6月2日のState of Playで、真・三國無双2に参戦が発表されたキャラクターは誰ですか？",
     "choices": [
-      "レーシングゲーム",
-      "シューティングゲーム",
-      "ロールプレイングゲーム",
-      "パズルゲーム"
+      "趙雲",
+      "紫鸞",
+      "呂布",
+      "関羽"
     ],
-    "answer": "シューティングゲーム",
-    "explanation": "2026年8月のGAME Watchのニュースによると、シリーズ最新作「TATSUJIN EXTREME」が本日（2026年8月23日）発売されました。「TATSUJIN」はシューティングゲームのシリーズです。"
+    "answer": "紫鸞",
+    "explanation": "2026年6月2日のState of Playの発表によると、『真・三國無双2』に紫鸞が参戦することが発表されました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年8月のニュースで、ONE PIECEカードゲームのブースターパック「世界最強の戦士【OP-17】」が新発売されましたが、このパックナンバーは何番ですか？",
+    "difficulty": 2,
+    "question": "2026年8月のニュースでGameWithが紹介した、Switchの公式最新情報を有効活用する方法は何ですか？",
     "choices": [
-      "OP-15",
-      "OP-16",
-      "OP-17",
-      "OP-18"
+      "Switchのゲームニュース",
+      "Switchのeショップ",
+      "Switchのフレンド機能",
+      "Switchのアルバム機能"
     ],
-    "answer": "OP-17",
-    "explanation": "2026年8月のONE PIECE.comのニュースによると、ブースターパック 世界最強の戦士【OP-17】が2026年8月22日に新発売されました。"
+    "answer": "Switchのゲームニュース",
+    "explanation": "2026年8月のニュースによると、GameWithは「Switchのゲームニュースの使い方！公式の最新情報を有効活用する方法」を紹介しました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年8月のYahoo!ニュースで、フロム・ソフトウェアの宮崎英高氏が「直接殴り合う以外でも勝てるゲームにしたい」と語ったSwitch2向け最新作のタイトルは何ですか？",
+    "difficulty": 2,
+    "question": "2026年8月のニュースで、Switchのどの機能の使い方がGameWithで紹介されましたか？",
     "choices": [
-      "エルデンリング２",
-      "アーマード・コア７",
-      "ダスクブラッド",
-      "ソウルボーン"
+      "ゲームニュース",
+      "オンラインプレイ",
+      "セーブデータお預かり",
+      "スクリーンショット"
     ],
-    "answer": "ダスクブラッド",
-    "explanation": "2026年8月のYahoo!ニュースによると、Switch2「ダスクブラッド」に関して宮崎英高氏のインタビューが掲載されました。"
+    "answer": "ゲームニュース",
+    "explanation": "2026年8月のニュースによると、GameWithは「Switchのゲームニュースの使い方」を紹介しました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年7月後半のGame Sparkのニュースで、ガンダムゲーム最新作『GUNDAM ROGUE ORBIT』の主人公機と敵の設定画が公開されましたが、このゲームの敵はどのような生命体ですか？",
+    "difficulty": 2,
+    "question": "2026年8月のニュースで、若年層のゲーム依存の割合が報じられましたが、そのパーセンテージは何ですか？",
     "choices": [
-      "有機生命体",
-      "シリコン生命体",
-      "機械生命体",
-      "植物生命体"
+      "5%",
+      "10%",
+      "15%",
+      "20%"
     ],
-    "answer": "シリコン生命体",
-    "explanation": "2026年7月後半のGame Sparkのニュースによると、『GUNDAM ROGUE ORBIT』は太陽系外から飛来したシリコン生命体との戦闘を描きます。"
+    "answer": "10%",
+    "explanation": "2026年8月の埼玉新聞のニュースによると、若年層のゲーム依存は10%であると報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 2,
+    "question": "2026年8月のニュースで、開発者ノートと共に最新アップデート情報が公開されたゲームのタイトルは何ですか？",
+    "choices": [
+      "セブンナイツ",
+      "セブンナイツ リバース",
+      "セブンナイツ レボリューション",
+      "セブンナイツ タイムワープ"
+    ],
+    "answer": "セブンナイツ リバース",
+    "explanation": "2026年8月のニュースによると、『セブンナイツ リバース』の最新アップデート情報が開発者ノートと共にGameWithで公開されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 2,
+    "question": "2026年8月のニュースで、Oriocn Newsが報じた『キングダム ハーツIV』は、どのプラットフォームでの発売が示唆されていますか？",
+    "choices": [
+      "PCとXboxのみ",
+      "Switch2とPS5など",
+      "モバイル専用",
+      "VR専用"
+    ],
+    "answer": "Switch2とPS5など",
+    "explanation": "2026年8月のニュースによると、『キングダム ハーツIV』はSwitch2やPS5などで発売されると発表されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 3,
-    "question": "2026年6月2日のState of Playで、『エースコンバット8』の発売日決定が発表されましたが、このイベントはどのゲームプラットフォームの発表会ですか？",
+    "question": "『ONE PIECEカードゲーム』のブースターパック「世界最強の戦士【OP-17】」が新発売された具体的な日付は何曜日でしたか？",
+    "choices": [
+      "月曜日",
+      "水曜日",
+      "金曜日",
+      "土曜日"
+    ],
+    "answer": "土曜日",
+    "explanation": "2026年8月21日のニュースによると、ブースターパック「世界最強の戦士【OP-17】」は明日8月22日(土)に新発売されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "2026年7月後半のニュースで、最新作『GUNDAM ROGUE ORBIT』の設定画が公開されたのは、どのような種類の機体とキャラクターでしたか？",
+    "choices": [
+      "モビルスーツとパイロット",
+      "主人公機と敵",
+      "戦艦と司令官",
+      "兵士と兵器"
+    ],
+    "answer": "主人公機と敵",
+    "explanation": "2026年7月後半のニュースによると、『GUNDAM ROGUE ORBIT』の主人公機と敵の設定画が公開されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "2026年6月2日のState of Playで、発売日決定が発表された『エースコンバット8』は、どのジャンルのゲームですか？",
+    "choices": [
+      "レースゲーム",
+      "フライトシューティング",
+      "ロボットアクション",
+      "戦略シミュレーション"
+    ],
+    "answer": "フライトシューティング",
+    "explanation": "2026年6月2日のState of Playの発表によると、『エースコンバット8』の発売日決定が報じられました。エースコンバットシリーズはフライトシューティングです。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "2026年6月3日に配信されたState of Playの開始時刻は何時でしたか？",
+    "choices": [
+      "午前3時",
+      "午前6時",
+      "午後3時",
+      "午後6時"
+    ],
+    "answer": "午前6時",
+    "explanation": "2026年6月3日のニュースによると、「State of Play」は6月3日6時から配信されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "2026年8月のニュースで『トモダチコレクションわくわく生活』の最新情報がまとめられたサイトは何ですか？",
+    "choices": [
+      "ファミ通",
+      "電撃オンライン",
+      "GameWith",
+      "IGN JAPAN"
+    ],
+    "answer": "GameWith",
+    "explanation": "2026年8月のニュースによると、『トモダチコレクションわくわく生活』のアップデート最新情報がGameWithでまとめられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "2026年8月24日のニュースで、本日発売と報じられたSAOゲームシリーズ最新作『Echoes of Aincrad』は、GAME Watchでどのような情報として取り上げられましたか？",
+    "choices": [
+      "限定版特典",
+      "本日発売",
+      "開発秘話",
+      "セール情報"
+    ],
+    "answer": "本日発売",
+    "explanation": "2026年8月24日のニュースによると、「SAO」ゲームシリーズ最新作「Echoes of Aincrad」が本日発売とGAME Watchで報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "2026年8月のニュースで、『セブンナイツ リバース』の最新アップデート情報が開発者ノートと共に公開されたサイトは何ですか？",
+    "choices": [
+      "4Gamer.net",
+      "GameWith",
+      "AppMedia",
+      "Boom App Games"
+    ],
+    "answer": "GameWith",
+    "explanation": "2026年8月のニュースによると、『セブンナイツ リバース』の最新アップデート情報がGameWithにて開発者ノートと共に公開されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "2026年8月のニュースで、発売が決定したゲーム『進撃の巨人３』は、原作漫画のどのような内容を扱うと報じられましたか？",
+    "choices": [
+      "物語の一部を抜粋",
+      "物語の過去を描く",
+      "物語の未来を描く",
+      "物語を最初から最後まで描く集大成"
+    ],
+    "answer": "物語を最初から最後まで描く集大成",
+    "explanation": "2026年8月のニュースによると、ゲーム『進撃の巨人３』は「進撃の巨人」の物語を最初から最後まで描く集大成と報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "2026年8月のニュースで、オリコンニュースが報じた『キングダム ハーツIV』の発売が予定されているプラットフォームの一つは何ですか？",
     "choices": [
       "Nintendo Switch",
-      "Xbox",
-      "PlayStation",
-      "PC"
+      "PlayStation 5",
+      "Xbox One",
+      "PC (Steam)"
     ],
-    "answer": "PlayStation",
-    "explanation": "2026年6月2日のファミ通のニュースによると、「State of Play新発表まとめ。」として報じられました。State of PlayはPlayStationの発表イベントです。"
+    "answer": "PlayStation 5",
+    "explanation": "2026年8月のニュースによると、『キングダム ハーツIV』はSwitch2やPS5などで発売されると発表されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 3,
-    "question": "2026年8月のGameWithのニュースで、最新アップデート情報がまとめられている『トモダチコレクションわくわく生活』は、どのようなゲーム機向けに展開されているシリーズですか？",
+    "question": "2026年6月2日のState of Playで体験版配信が発表された完全新作『鬼武者』は、過去にどのゲームメーカーから発売されたシリーズですか？",
     "choices": [
-      "PlayStation",
-      "Xbox",
-      "Nintendo",
-      "PC"
-    ],
-    "answer": "Nintendo",
-    "explanation": "2026年8月のGameWithのニュースで『トモダチコレクションわくわく生活』のアップデート情報が報じられました。『トモダチコレクション』はNintendoのゲームシリーズです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年8月のGameWithのニュースで、開発者ノートが公開された『セブンナイツ リバース』は、どのような情報を提供するために開発者ノートを公開しましたか？",
-    "choices": [
-      "ゲームの歴史",
-      "今後のアップデート情報",
-      "キャラクター図鑑",
-      "ファンアート募集"
-    ],
-    "answer": "今後のアップデート情報",
-    "explanation": "2026年8月のGameWithのニュースによると、『セブンナイツ リバース』の「最新アップデート情報」として開発者ノートが公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年8月のファミ通のニュースで、『FGOフェス2026』の発表まとめが報じられましたが、このイベントのテーマは何周年記念ですか？",
-    "choices": [
-      "5周年",
-      "10周年",
-      "11周年",
-      "15周年"
-    ],
-    "answer": "11周年",
-    "explanation": "2026年8月のファミ通のニュースによると、『FGOフェス2026』は『11th Anniversary～』として発表まとめが報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年8月のgamecity.ne.jpのニュースで発売決定が発表された『進撃の巨人３』は、物語を最初から最後まで描く集大成とされていますが、これはどのようなゲームのジャンルである可能性が高いですか？",
-    "choices": [
-      "アクションRPG",
-      "パズルゲーム",
-      "音楽ゲーム",
-      "スポーツゲーム"
-    ],
-    "answer": "アクションRPG",
-    "explanation": "2026年8月のgamecity.ne.jpのニュースで『進撃の巨人３』の発売決定が報じられました。「進撃の巨人」の原作はアクション要素が強く、過去のゲームもアクションRPGが主流であることから、同様のジャンルである可能性が高いです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年8月のYahoo!ニュースで、埼玉新聞が報じた「ゲーム依存、若年層は１０％」というニュースは、どのような社会問題に焦点を当てていますか？",
-    "choices": [
-      "少子高齢化",
-      "ゲーム依存",
-      "環境問題",
-      "経済格差"
-    ],
-    "answer": "ゲーム依存",
-    "explanation": "2026年8月のYahoo!ニュースによると、埼玉新聞が「ゲーム依存、若年層は１０％」と報じました。これはゲーム依存という社会問題に焦点を当てています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年8月23日に本日発売と報じられたゲームタイトルは2つありますが、そのうちアニメ『ソードアート・オンライン』を原作とするゲームシリーズの最新作は何ですか？",
-    "choices": [
-      "TATSUJIN EXTREME",
-      "Echoes of Aincrad",
-      "GUNDAM ROGUE ORBIT",
-      "セブンナイツ リバース"
-    ],
-    "answer": "Echoes of Aincrad",
-    "explanation": "2026年8月のGAME Watchのニュースによると、SAOゲームシリーズ最新作「Echoes of Aincrad」が本日（2026年8月23日）発売されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "ONE PIECEカードゲームのブースターパック「世界最強の戦士」は、2026年8月22日の新発売に先立ち、どこで特報が解禁されましたか？",
-    "choices": [
-      "ジャンプフェスタ2026",
-      "ONE PIECE DAY’26",
-      "東京ゲームショウ2026",
-      "コミックマーケット110"
-    ],
-    "answer": "ONE PIECE DAY’26",
-    "explanation": "2026年8月のONE PIECE.comのニュースによると、『ONE PIECE DAY’26』にてONE PIECEカードゲームの特報が解禁されました。その後にブースターパックの発売が報じられています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年8月のYahoo!ニュースで、宮崎英高氏が「直接殴り合う以外でも勝てるゲームにしたい」と語ったSwitch2向け最新作「ダスクブラッド」は、どのゲーム会社が開発していますか？",
-    "choices": [
-      "任天堂",
-      "フロム・ソフトウェア",
       "スクウェア・エニックス",
-      "カプコン"
+      "カプコン",
+      "バンダイナムコエンターテインメント",
+      "コーエーテクモゲームス"
     ],
-    "answer": "フロム・ソフトウェア",
-    "explanation": "2026年8月のYahoo!ニュースによると、フロム最新作「ダスクブラッド」に関して宮崎英高氏のインタビューが掲載されました。"
+    "answer": "カプコン",
+    "explanation": "2026年6月2日のState of Playの発表によると、完全新作『鬼武者』の体験版配信が発表されました。鬼武者シリーズはカプコンの代表的なシリーズです。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "2026年6月9日に開催された「ニンテンドーダイレクト」は、どのメディアで発表内容がまとめられましたか？",
+    "choices": [
+      "ファミ通",
+      "GAME Watch",
+      "電撃オンライン",
+      "IGN JAPAN"
+    ],
+    "answer": "GAME Watch",
+    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」発表内容まとめはGAME Watchで報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "2026年6月2日のState of Playで、発売日決定が発表されたゲームのタイトルは何ですか？",
+    "choices": [
+      "エースコンバット7",
+      "エースコンバット8",
+      "プロジェクトウィング",
+      "スカイウォリアーズ"
+    ],
+    "answer": "エースコンバット8",
+    "explanation": "2026年6月2日のState of Playの発表によると、『エースコンバット8』の発売日決定が報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "2026年8月のニュースで、発売決定が報じられたゲーム『進撃の巨人３』は、漫画「進撃の巨人」の物語をどのように描くとされていますか？",
+    "choices": [
+      "一部を抜粋",
+      "主要キャラクターに焦点を当てる",
+      "最初から最後まで",
+      "外伝的なストーリー"
+    ],
+    "answer": "最初から最後まで",
+    "explanation": "2026年8月のニュースによると、ゲーム『進撃の巨人３』は「進撃の巨人」の物語を最初から最後まで描く集大成と報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "2026年7月後半に設定画が公開されたガンダムゲーム最新作『GUNDAM ROGUE ORBIT』で描かれる戦闘の相手は何ですか？",
+    "choices": [
+      "地球連邦軍",
+      "ジオン公国軍",
+      "シリコン生命体",
+      "謎の宇宙人"
+    ],
+    "answer": "シリコン生命体",
+    "explanation": "2026年7月後半のニュースによると、『GUNDAM ROGUE ORBIT』は太陽系外から飛来したシリコン生命体との戦闘を描いています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 4,
-    "question": "2026年7月後半のGame Sparkのニュースで報じられた『GUNDAM ROGUE ORBIT』で、主人公機と敵の設定画が公開されましたが、このゲームが描く戦闘の舞台は主にどこですか？",
+    "question": "2026年8月のニュースで『FGOフェス2026』が開催され、ゲーム最新情報やTYPE-MOON関連ニュースが一挙紹介されたメディアは何ですか？",
     "choices": [
-      "地球圏",
-      "コロニー内部",
-      "太陽系外",
-      "月面"
+      "電撃オンライン",
+      "ファミ通",
+      "4Gamer.net",
+      "Game Watch"
     ],
-    "answer": "太陽系外",
-    "explanation": "2026年7月後半のGame Sparkのニュースによると、『GUNDAM ROGUE ORBIT』は太陽系外から飛来したシリコン生命体との戦闘を描きます。"
+    "answer": "ファミ通",
+    "explanation": "2026年8月のニュースによると、『FGOフェス2026』の発表まとめがファミ通で紹介されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 4,
-    "question": "2026年6月2日のState of Playで、発売日決定が発表された『エースコンバット8』と、体験版配信が発表された完全新作『鬼武者』の共通点は何ですか？",
+    "question": "2026年7月後半のニュースで『GUNDAM ROGUE ORBIT』の主人公機と敵の設定画が公開された際、Yahoo!ニュースではどのようなキーワードで紹介されましたか？",
     "choices": [
-      "カプコン製であること",
-      "日本の有名ゲームシリーズであること",
-      "PlayStation独占タイトルであること",
-      "SFジャンルであること"
+      "「ロボットアクション」はこれだ！",
+      "「ロボゲー」はこれだ！",
+      "「ガンダムバトル」はこれだ！",
+      "「宇宙戦争」はこれだ！"
     ],
-    "answer": "日本の有名ゲームシリーズであること",
-    "explanation": "2026年6月2日のState of Playの発表まとめによると、『エースコンバット8』と完全新作『鬼武者』はともに日本の有名ゲームシリーズの関連作として報じられました。"
+    "answer": "「ロボゲー」はこれだ！",
+    "explanation": "2026年7月後半のニュースによると、『GUNDAM ROGUE ORBIT』は「26年7月後半にHOTな『ロボゲー』はこれだ！」という見出しで紹介されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 4,
-    "question": "2026年8月の埼玉新聞のニュースで「ゲーム依存、若年層は１０％」と報じられましたが、このニュースが示唆しているのはどのような社会問題ですか？",
+    "question": "2026年6月9日に開催された「ニンテンドーダイレクト」の内容まとめを報じたメディアは何ですか？",
     "choices": [
-      "ゲーム市場の縮小",
-      "デジタルデバイドの拡大",
-      "公衆衛生上の課題",
-      "ゲーム開発者の不足"
-    ],
-    "answer": "公衆衛生上の課題",
-    "explanation": "2026年8月の埼玉新聞のニュースで「ゲーム依存、若年層は１０％」と報じられたことは、若年層の健康や生活への影響に関する公衆衛生上の課題を示唆しています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年8月のgamecity.ne.jpのニュースで発売決定が発表された『進撃の巨人３』は、どのような点において集大成とされていますか？",
-    "choices": [
-      "グラフィックの進化",
-      "オンライン要素の強化",
-      "物語を最初から最後まで描く",
-      "オリジナルストーリーの追加"
-    ],
-    "answer": "物語を最初から最後まで描く",
-    "explanation": "2026年8月のgamecity.ne.jpのニュースによると、『進撃の巨人３』は「進撃の巨人」の物語を最初から最後まで描く集大成と発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年8月のGameWithのニュースで、最新アップデート/アプデ情報がまとめられている「怪獣8号ゲーム」の略称は何ですか？",
-    "choices": [
-      "怪獣G",
-      "怪獣8G",
-      "KAIJU8",
-      "K8G"
-    ],
-    "answer": "怪獣8G",
-    "explanation": "2026年8月のGameWithのニュースによると、『怪獣8号ゲーム』は【怪獣8G】と略称されています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年8月のファミ通のニュースで、『FGOフェス2026』の発表まとめが報じられましたが、このイベントは何周年を記念して開催されましたか？",
-    "choices": [
-      "5th Anniversary",
-      "10th Anniversary",
-      "11th Anniversary",
-      "15th Anniversary"
-    ],
-    "answer": "11th Anniversary",
-    "explanation": "2026年8月のファミ通のニュースによると、『FGOフェス2026』は『11th Anniversary～』として発表まとめが報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年6月9日に発表内容がまとめられた「ニンテンドーダイレクト」は、どのゲームプラットフォームに関する発表イベントですか？",
-    "choices": [
-      "PlayStation",
-      "Xbox",
-      "PC",
-      "Nintendo Switch"
-    ],
-    "answer": "Nintendo Switch",
-    "explanation": "2026年6月9日のYahoo!ニュースによると、「ニンテンドーダイレクト 2026.6.9」の発表内容がまとめられました。ニンテンドーダイレクトはNintendoのゲームプラットフォームに関する発表イベントです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年8月23日に本日発売と報じられた「TATSUJIN EXTREME」は、どのような情報が同時に公開されましたか？",
-    "choices": [
-      "体験版",
-      "サウンドトラック",
-      "最新PV",
-      "開発者インタビュー"
-    ],
-    "answer": "最新PV",
-    "explanation": "2026年8月のGAME Watchのニュースによると、「TATSUJIN EXTREME」が本日発売され、本作の魅力を紹介する最新PVも公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年8月のONE PIECE.comのニュースで、ONE PIECEカードゲームの特報が解禁された『ONE PIECE DAY’26』は、例年何月頃に開催されるイベントですか？",
-    "choices": [
-      "1月",
-      "3月",
-      "7月",
-      "12月"
-    ],
-    "answer": "7月",
-    "explanation": "2026年8月のONE PIECE.comのニュースで『ONE PIECE DAY’26』での特報が報じられました。ONE PIECE DAYは例年7月頃に開催されるイベントです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年8月のYahoo!ニュースで、宮崎英高氏がSwitch2向けフロム最新作「ダスクブラッド」について語った「直接殴り合う以外でも勝てるゲームにしたい」という発言は、どのようなゲーム機向けの開発に関するものですか？",
-    "choices": [
-      "PlayStation",
-      "Xbox",
-      "Nintendo Switch 2",
-      "PC"
-    ],
-    "answer": "Nintendo Switch 2",
-    "explanation": "2026年8月のYahoo!ニュースによると、Switch2「ダスクブラッド」に関して宮崎英高氏のインタビューが掲載されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年7月後半のGame Sparkのニュースで報じられた『GUNDAM ROGUE ORBIT』は、主人公機と敵の設定画が公開されましたが、このゲームが紹介された特集記事のタイトルは何ですか？",
-    "choices": [
-      "ガンダム新作情報",
-      "最新ロボットゲーム特集",
-      "26年7月後半にHOTな「ロボゲー」はこれだ！",
-      "SFゲームの未来"
-    ],
-    "answer": "26年7月後半にHOTな「ロボゲー」はこれだ！",
-    "explanation": "2026年7月後半のGame Sparkのニュースによると、『GUNDAM ROGUE ORBIT』は「26年7月後半にHOTな「ロボゲー」はこれだ！」という特集記事で紹介されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年6月2日のState of Playで発表された『真・三國無双2』に参戦が決定した紫鸞は、どのようなキャラクターですか？",
-    "choices": [
-      "新勢力の武将",
-      "主人公のライバル",
-      "既存勢力に加わる新キャラクター",
-      "隠しキャラクター"
-    ],
-    "answer": "既存勢力に加わる新キャラクター",
-    "explanation": "2026年6月2日のState of Playの発表まとめによると、『真・三國無双2』に紫鸞が「参戦」することが報じられました。既存のシリーズに新たなキャラクターが加わることを示唆しています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年8月のGameWithのニュースで、最新イベント情報がまとめられている「怪獣8号ゲーム」は、どのような情報を中心に提供していますか？",
-    "choices": [
-      "攻略ヒント",
-      "キャラクター紹介",
-      "イベントスケジュール",
-      "開発秘話"
-    ],
-    "answer": "イベントスケジュール",
-    "explanation": "2026年8月のGameWithのニュースによると、『怪獣8号ゲーム』の「最新イベント情報まとめ」が提供されており、これはゲーム内のイベントスケジュールに関する情報が中心です。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年8月のGameWithのニュースで、開発者ノートが公開された『セブンナイツ リバース』は、どのような情報をプレイヤーに伝えていますか？",
-    "choices": [
-      "ゲームの歴史",
-      "開発チームの近況",
-      "アップデートの内容と意図",
-      "ユーザーアンケート結果"
-    ],
-    "answer": "アップデートの内容と意図",
-    "explanation": "2026年8月のGameWithのニュースによると、『セブンナイツ リバース』の「最新アップデート情報」として開発者ノートが公開されました。開発者ノートは通常、アップデート内容の詳細やその意図を伝えるために使われます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年8月のファミ通のニュースで、『FGOフェス2026』が発表まとめとして報じられましたが、このイベントは主に何に関する最新情報を紹介しましたか？",
-    "choices": [
-      "アニメと映画",
-      "ゲームと関連作品",
-      "グッズとイベント",
-      "音楽と舞台"
-    ],
-    "answer": "ゲームと関連作品",
-    "explanation": "2026年8月のファミ通のニュースによると、『FGOフェス2026』ではゲーム最新情報やTYPE-MOON関連ニュースが一挙紹介されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年8月のgamecity.ne.jpのニュースで発売決定が発表された『進撃の巨人３』は、「進撃の巨人」の物語を最初から最後まで描く集大成とされていますが、これはどのようなゲームシリーズの最新作ですか？",
-    "choices": [
-      "アニメ原作ゲーム",
-      "オリジナルストーリーゲーム",
-      "RPGシリーズ",
-      "シミュレーションシリーズ"
-    ],
-    "answer": "アニメ原作ゲーム",
-    "explanation": "2026年8月のgamecity.ne.jpのニュースによると、『進撃の巨人３』は「進撃の巨人」の物語を最初から最後まで描く集大成と発表されました。これは人気アニメを原作とするゲームシリーズの最新作です。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年8月のYahoo!ニュースで、埼玉新聞が報じた「ゲーム依存、若年層は１０％」というニュースは、どのような層に焦点を当てた報告ですか？",
-    "choices": [
-      "成人男性",
-      "高齢者",
-      "若年層",
-      "女性ゲーマー"
-    ],
-    "answer": "若年層",
-    "explanation": "2026年8月のYahoo!ニュースによると、埼玉新聞が「ゲーム依存、若年層は１０％」と報じました。明確に「若年層」に焦点を当てています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "2026年8月23日に本日発売と報じられた「TATSUJIN EXTREME」は、どのメディアがその情報を報じましたか？",
-    "choices": [
-      "ファミ通.com",
+      "ファミ通",
       "GAME Watch",
       "電撃オンライン",
       "IGN Japan"
     ],
     "answer": "GAME Watch",
-    "explanation": "2026年8月のGAME Watchのニュースによると、シリーズ最新作「TATSUJIN EXTREME」が本日（2026年8月23日）発売されました。"
+    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」の発表内容まとめがGAME Watchで報じられました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 5,
-    "question": "2026年8月22日に新発売されたONE PIECEカードゲームのブースターパック「世界最強の戦士【OP-17】」は、どのような種類のカードゲームですか？",
-    "choices": [
-      "デジタルカードゲーム",
-      "トレーディングカードゲーム",
-      "ボードゲーム",
-      "ロールプレイングカードゲーム"
-    ],
-    "answer": "トレーディングカードゲーム",
-    "explanation": "2026年8月のONE PIECE.comのニュースによると、ONE PIECEカードゲームのブースターパックが新発売されました。カードゲームという名称からトレーディングカードゲームであることが分かります。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "2026年8月のニュースで、宮崎英高氏がSwitch2向け最新作「ダスクブラッド」で目指していると語ったゲームプレイの特徴は何ですか？",
-    "choices": [
-      "PvPに特化",
-      "物語重視",
-      "直接殴り合う以外でも勝てる",
-      "オープンワールド"
-    ],
-    "answer": "直接殴り合う以外でも勝てる",
-    "explanation": "2026年8月のYahoo!ニュースによると、宮崎英高氏はフロム最新作「ダスクブラッド」について「直接殴り合う以外でも勝てるゲームにしたい」と語りました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "2026年7月後半のGame Sparkのニュースで、ガンダムゲーム最新作『GUNDAM ROGUE ORBIT』の主人公機と敵の設定画が公開されましたが、このゲームが紹介された特集記事のテーマは何ですか？",
-    "choices": [
-      "ガンダムゲームの未来",
-      "26年7月後半にHOTな「ロボゲー」",
-      "SFアクションゲームの進化",
-      "今年の注目新作ゲーム"
-    ],
-    "answer": "26年7月後半にHOTな「ロボゲー」",
-    "explanation": "2026年7月後半のGame Sparkのニュースによると、『GUNDAM ROGUE ORBIT』は「26年7月後半にHOTな「ロボゲー」はこれだ！」という特集の中で紹介されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "2026年6月2日のState of Playで発表された『真・三國無双2』に参戦が決定した紫鸞は、どのシリーズのキャラクターですか？",
-    "choices": [
-      "真・三國無双",
-      "戦国無双",
-      "無双OROCHI",
-      "FE無双"
-    ],
-    "answer": "真・三國無双",
-    "explanation": "2026年6月2日のState of Playの発表まとめによると、『真・三國無双2』に紫鸞が参戦することが報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "2026年8月のGameWithのニュースで、最新アップデート情報がまとめられている『トモダチコレクションわくわく生活』は、どのようなゲームジャンルに分類されますか？",
-    "choices": [
-      "アクションRPG",
-      "シミュレーションゲーム",
-      "リズムゲーム",
-      "パズルゲーム"
-    ],
-    "answer": "シミュレーションゲーム",
-    "explanation": "2026年8月のGameWithのニュースで『トモダチコレクションわくわく生活』のアップデート情報が報じられました。このゲームは、キャラクターの生活をシミュレートするジャンルです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "2026年8月のGameWithのニュースで、開発者ノートが公開された『セブンナイツ リバース』は、どのような情報提供形式でアップデート内容が報じられましたか？",
-    "choices": [
-      "公式生放送",
-      "Q&Aセッション",
-      "開発者ノート",
-      "パッチノート"
-    ],
-    "answer": "開発者ノート",
-    "explanation": "2026年8月のGameWithのニュースによると、『セブンナイツ リバース』の最新アップデート情報が開発者ノートという形で公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "2026年8月のファミ通のニュースで、『FGOフェス2026』が開催され、ゲーム最新情報やTYPE-MOON関連ニュースが一挙紹介されましたが、このイベントのテーマは何ですか？",
-    "choices": [
-      "未来への挑戦",
-      "絆の物語",
-      "11th Anniversary",
-      "新たな旅立ち"
-    ],
-    "answer": "11th Anniversary",
-    "explanation": "2026年8月のファミ通のニュースによると、『FGOフェス2026』は『11th Anniversary～』として発表まとめが報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "2026年8月のgamecity.ne.jpのニュースで発売決定が発表された『進撃の巨人３』は、どの企業がゲームの情報を公開しましたか？",
-    "choices": [
-      "バンダイナムコエンターテインメント",
-      "コーエーテクモゲームス",
-      "スクウェア・エニックス",
-      "アトラス"
-    ],
-    "answer": "コーエーテクモゲームス",
-    "explanation": "2026年8月のgamecity.ne.jpは、コーエーテクモゲームスのゲーム情報サイトです。そこから『進撃の巨人３』の発売決定が発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "2026年8月のYahoo!ニュースで、若年層のゲーム依存が10％と報じられたのは、どの新聞の報道に基づくものですか？",
+    "difficulty": 4,
+    "question": "2026年8月のニュースで、若年層のゲーム依存について報じた新聞社は何ですか？",
     "choices": [
       "読売新聞",
       "朝日新聞",
@@ -4989,1437 +4495,1229 @@
       "日本経済新聞"
     ],
     "answer": "埼玉新聞",
-    "explanation": "2026年8月のYahoo!ニュースによると、埼玉新聞が「ゲーム依存、若年層は１０％」と報じました。"
+    "explanation": "2026年8月のニュースによると、「ゲーム依存、若年層は１０％」と埼玉新聞が報じました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 5,
-    "question": "2026年8月23日に本日発売と報じられた「TATSUJIN EXTREME」の最新PVは、どのような目的で公開されましたか？",
+    "difficulty": 4,
+    "question": "2026年8月24日のニュースで、本日発売と報じられた『TATSUJIN EXTREME』は、どのメディアでその魅力が紹介されましたか？",
     "choices": [
-      "ゲームの不具合報告",
-      "魅力を紹介",
-      "開発秘話",
-      "次回作の予告"
-    ],
-    "answer": "魅力を紹介",
-    "explanation": "2026年8月のGAME Watchのニュースによると、「TATSUJIN EXTREME」が本日発売され、「本作の魅力を紹介する最新PV」が公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "2026年8月のONE PIECE.comのニュースで、ONE PIECEカードゲームのブースターパック「世界最強の戦士【OP-17】」が新発売されましたが、このパックはどのような種類のカードパックですか？",
-    "choices": [
-      "スタートデッキ",
-      "プロモーションパック",
-      "ブースターパック",
-      "構築済みデッキ"
-    ],
-    "answer": "ブースターパック",
-    "explanation": "2026年8月のONE PIECE.comのニュースによると、「ブースターパック 世界最強の戦士【OP-17】」が新発売されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "2026年8月のYahoo!ニュースで、宮崎英高氏がSwitch2向けフロム最新作「ダスクブラッド」について語った「直接殴り合う以外でも勝てるゲームにしたい」という発言は、どのようなゲームプレイの多様性を示唆していますか？",
-    "choices": [
-      "戦闘のみの選択肢",
-      "ステルスや交渉など非戦闘的なアプローチ",
-      "PvPのみ",
-      "特定の武器の使用制限"
-    ],
-    "answer": "ステルスや交渉など非戦闘的なアプローチ",
-    "explanation": "2026年8月のYahoo!ニュースによると、宮崎英高氏はフロム最新作「ダスクブラッド」について「直接殴り合う以外でも勝てるゲームにしたい」と語りました。これは、戦闘以外のステルスや交渉といった非戦闘的なアプローチも攻略手段として有効であることを示唆しています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "2026年7月後半のGame Sparkのニュースで報じられた『GUNDAM ROGUE ORBIT』は、太陽系外から飛来したシリコン生命体との戦闘を描きますが、このゲームがリリースされるプラットフォームとして最も可能性が高いのはどれですか？",
-    "choices": [
-      "モバイルゲーム",
-      "PCゲーム",
-      "コンシューマーゲーム",
-      "VRゲーム"
-    ],
-    "answer": "コンシューマーゲーム",
-    "explanation": "2026年7月後半のGame Sparkのニュースで『GUNDAM ROGUE ORBIT』が「ロボゲー」として紹介され、設定画が公開されました。ガンダムのロボットアクションゲームは通常、コンシューマーゲームとしてリリースされることが多いです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "2026年6月2日のState of Playで、発売日決定が発表された『エースコンバット8』のシリーズは、どのようなジャンルのゲームですか？",
-    "choices": [
-      "フライトシミュレーター",
-      "レースゲーム",
-      "対戦格闘",
-      "FPS"
-    ],
-    "answer": "フライトシミュレーター",
-    "explanation": "2026年6月2日のState of Playの発表まとめによると、『エースコンバット8』の発売日決定が報じられました。エースコンバットは戦闘機を操縦するフライトシューティング/シミュレーターゲームです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "2026年8月のGameWithのニュースで、最新イベント情報がまとめられている「怪獣8号ゲーム」は、どのような情報が提供されていますか？",
-    "choices": [
-      "ゲームのダウンロード方法",
-      "キャラクターの裏設定",
-      "開催中のイベント詳細",
-      "開発チームの紹介"
-    ],
-    "answer": "開催中のイベント詳細",
-    "explanation": "2026年8月のGameWithのニュースによると、『怪獣8号ゲーム』の「最新イベント情報まとめ」が提供されており、これは開催中のイベントの詳細に関する情報です。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "2026年8月のGameWithのニュースで、開発者ノートが公開された『セブンナイツ リバース』は、どのようなゲームの最新情報を提供していますか？",
-    "choices": [
-      "新キャラクター情報",
-      "最新アップデート情報",
-      "次回作の予告",
-      "コラボレーションイベント"
-    ],
-    "answer": "最新アップデート情報",
-    "explanation": "2026年8月のGameWithのニュースによると、『セブンナイツ リバース』の「最新アップデート情報」として開発者ノートが公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "2026年8月のファミ通のニュースで、『FGOフェス2026』の発表まとめが報じられましたが、このイベントの開催形式はどのようなものと推測されますか？",
-    "choices": [
-      "オンラインのみ",
-      "オフラインのみ",
-      "オンラインとオフラインのハイブリッド",
-      "テレビ放送のみ"
-    ],
-    "answer": "オンラインとオフラインのハイブリッド",
-    "explanation": "2026年8月のファミ通のニュースで『FGOフェス2026』が報じられました。近年、大規模なゲームイベントはオンラインとオフラインの両方で展開されるハイブリッド形式が主流です。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "2026年8月のgamecity.ne.jpのニュースで発売決定が発表された『進撃の巨人３』は、「進撃の巨人」の物語を最初から最後まで描く集大成とされていますが、これはどのようなゲームシリーズの期待を高めますか？",
-    "choices": [
-      "原作ファンへのサービス",
-      "ゲームオリジナル要素の追加",
-      "マルチプレイの充実",
-      "グラフィックの革新"
-    ],
-    "answer": "原作ファンへのサービス",
-    "explanation": "2026年8月のgamecity.ne.jpのニュースによると、『進撃の巨人３』は「進撃の巨人」の物語を最初から最後まで描く集大成と発表されました。これは、原作ファンが物語をゲームで完全に追体験できるという点で、原作ファンへの大きなサービスとなります。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "2026年8月のYahoo!ニュースで、埼玉新聞が報じた「ゲーム依存、若年層は１０％」というニュースは、どのような媒体のニュースをYahoo!ニュースが引用して掲載しましたか？",
-    "choices": [
-      "全国紙",
-      "地方紙",
-      "専門誌",
-      "海外メディア"
-    ],
-    "answer": "地方紙",
-    "explanation": "2026年8月のYahoo!ニュースによると、「埼玉新聞」が「ゲーム依存、若年層は１０％」と報じました。埼玉新聞は地方紙にあたります。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "2026年8月23日に本日発売と報じられたSAOゲームシリーズ最新作「Echoes of Aincrad」は、どのメディアによって報じられましたか？",
-    "choices": [
-      "ファミ通",
-      "GameWith",
+      "4Gamer.net",
       "GAME Watch",
-      "電撃オンライン"
-    ],
-    "answer": "GAME Watch",
-    "explanation": "2026年8月のGAME Watchのニュースによると、SAOゲームシリーズ最新作「Echoes of Aincrad」が本日（2026年8月23日）発売されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "2026年8月22日に新発売されたONE PIECEカードゲームのブースターパック「世界最強の戦士【OP-17】」に関する情報が掲載された公式サイトのドメインは何ですか？",
-    "choices": [
-      "onepiece.jp",
-      "onepiece.com",
-      "bandai.jp",
-      "carddass.com"
-    ],
-    "answer": "onepiece.com",
-    "explanation": "2026年8月のONE PIECE.comのニュースによると、ブースターパック 世界最強の戦士【OP-17】が2026年8月22日に新発売されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "2026年8月のYahoo!ニュースで、宮崎英高氏が「直接殴り合う以外でも勝てるゲームにしたい」と語ったSwitch2向けフロム最新作「ダスクブラッド」は、どのようなゲーム機向けに開発されていますか？",
-    "choices": [
-      "PlayStation 5",
-      "Xbox Series X",
-      "Nintendo Switch",
-      "Nintendo Switch 2"
-    ],
-    "answer": "Nintendo Switch 2",
-    "explanation": "2026年8月のYahoo!ニュースによると、Switch2向けフロム最新作「ダスクブラッド」に関して宮崎英高氏のインタビューが掲載されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "2026年7月後半のGame Sparkのニュースで、ガンダムゲーム最新作『GUNDAM ROGUE ORBIT』が紹介された特集記事のタイトルは「26年7月後半にHOTな『ロボゲー』はこれだ！」ですが、このニュースが掲載された媒体は次のうちどれですか？",
-    "choices": [
       "ファミ通.com",
-      "Game Spark (Yahoo!ニュース)",
-      "電撃オンライン",
       "IGN Japan"
     ],
-    "answer": "Game Spark (Yahoo!ニュース)",
-    "explanation": "2026年7月後半のYahoo!ニュースによると、Game Sparkが『GUNDAM ROGUE ORBIT』に関する記事を掲載しました。"
+    "answer": "GAME Watch",
+    "explanation": "2026年8月24日のニュースによると、シリーズ最新作「TATSUJIN EXTREME」が本日発売され、本作の魅力を紹介する最新PVがGAME Watchで公開されました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 6,
-    "question": "2026年6月2日のState of Playで、『エースコンバット8』の発売日決定、『真・三國無双2』に紫鸞参戦、完全新作『鬼武者』体験版配信が発表されましたが、このイベントの開催日はいつですか？",
+    "difficulty": 4,
+    "question": "2026年6月2日のState of Playの発表で、『真・三國無双』シリーズのどのナンバリングタイトルに紫鸞が参戦すると報じられましたか？",
     "choices": [
-      "2026年5月2日",
-      "2026年6月2日",
-      "2026年7月2日",
-      "2026年8月2日"
+      "真・三國無双",
+      "真・三國無双2",
+      "真・三國無双3",
+      "真・三國無双8 Empires"
     ],
-    "answer": "2026年6月2日",
-    "explanation": "2026年6月2日のファミ通のニュースによると、「State of Play新発表まとめ【ステートオブプレイ June 2, 2026】」として報じられました。"
+    "answer": "真・三國無双2",
+    "explanation": "2026年6月2日のState of Playの発表によると、『真・三國無双2』に紫鸞が参戦すると報じられました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 6,
-    "question": "2026年8月の埼玉新聞のニュースで「ゲーム依存、若年層は１０％」と報じられましたが、このニュースはどのような文脈でゲーム依存問題を取り上げていますか？",
+    "difficulty": 4,
+    "question": "2026年8月のニュースで、任天堂のどのゲーム機のニュース機能の活用方法がGameWithで紹介されましたか？",
     "choices": [
-      "エンターテイメント産業の課題",
-      "教育現場での問題",
-      "社会全体の健康問題",
-      "子育て世代の悩み"
+      "ニンテンドー3DS",
+      "Wii U",
+      "Nintendo Switch",
+      "ニンテンドーDS"
     ],
-    "answer": "社会全体の健康問題",
-    "explanation": "2026年8月の埼玉新聞のニュースで「ゲーム依存、若年層は１０％」と報じられたことは、若年層の健康や生活への影響に関する社会全体の健康問題として取り上げられています。"
+    "answer": "Nintendo Switch",
+    "explanation": "2026年8月のニュースによると、GameWithは「Switchのゲームニュースの使い方！公式の最新情報を有効活用する方法」を紹介しました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 6,
-    "question": "2026年8月のgamecity.ne.jpのニュースで発売決定が発表された『進撃の巨人３』は、どのようなジャンルのゲームであると推測されますか？",
+    "difficulty": 4,
+    "question": "2026年6月3日のState of Playは、合計で何分以上の配信時間でしたか？",
     "choices": [
-      "恋愛シミュレーション",
-      "パズルゲーム",
-      "アクションゲーム",
-      "リズムゲーム"
+      "30分",
+      "45分",
+      "60分",
+      "90分"
     ],
-    "answer": "アクションゲーム",
-    "explanation": "2026年8月のgamecity.ne.jpのニュースで『進撃の巨人３』の発売決定が報じられました。『進撃の巨人』シリーズのゲームは通常、原作の世界観を活かしたアクションゲームであるため、その可能性が高いです。"
+    "answer": "60分",
+    "explanation": "2026年6月3日のニュースによると、State of Playは「60分以上」で「Marvel's Wolverine」の最新情報などが届けられました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 6,
-    "question": "2026年8月のGameWithのニュースで、最新イベント情報がまとめられている「怪獣8号ゲーム」は、どのようなアニメ作品を原作としていますか？",
+    "difficulty": 4,
+    "question": "2026年8月のニュースで、『ONE PIECEカードゲーム』の特報が解禁される「ONE PIECE DAY’26」は、どのようなイベントと関連付けられていますか？",
     "choices": [
-      "怪獣8号",
-      "SPY×FAMILY",
-      "呪術廻戦",
-      "チェンソーマン"
+      "アニメシリーズ25周年",
+      "漫画連載20周年",
+      "ONE PIECEの総合的な祭典",
+      "映画公開記念"
     ],
-    "answer": "怪獣8号",
-    "explanation": "2026年8月のGameWithのニュースによると、『怪獣8号ゲーム』の最新イベント情報がまとめられています。タイトルから『怪獣8号』が原作であることが分かります。"
+    "answer": "ONE PIECEの総合的な祭典",
+    "explanation": "2026年8月のニュースによると、「ONE PIECE DAY’26」は『ONE PIECE』の総合的な祭典であり、そこで『ONE PIECEカードゲーム』の特報が解禁されると報じられました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 6,
-    "question": "2026年8月のファミ通のニュースで、『FGOフェス2026』の発表まとめが報じられましたが、このイベントのサブタイトルは「11th Anniversary～」ですが、この「～」に続く言葉として最も適切だと考えられるのは次のうちどれですか？",
-    "choices": [
-      "Celebration",
-      "Memories",
-      "Journey",
-      "Grand Order"
-    ],
-    "answer": "Grand Order",
-    "explanation": "2026年8月のファミ通のニュースによると、『FGOフェス2026』は『11th Anniversary～』と報じられました。FGOの正式名称が『Fate/Grand Order』であることから、『11th Anniversary～Grand Order』が自然な流れです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "2026年6月9日に発表内容がまとめられた「ニンテンドーダイレクト」のニュースを報じたメディアは、GAME Watchと何ですか？",
-    "choices": [
-      "IGN Japan",
-      "ファミ通",
-      "Yahoo!ニュース",
-      "電撃オンライン"
-    ],
-    "answer": "Yahoo!ニュース",
-    "explanation": "2026年6月9日のYahoo!ニュースによると、「ニンテンドーダイレクト 2026.6.9」の発表内容がGAME Watchによってまとめられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "2026年8月23日に本日発売と報じられたSAOゲームシリーズ最新作「Echoes of Aincrad」は、どのようなゲームジャンルに分類されますか？",
-    "choices": [
-      "アクションRPG",
-      "MMORPG",
-      "カードゲーム",
-      "シミュレーションゲーム"
-    ],
-    "answer": "アクションRPG",
-    "explanation": "2026年8月のGAME Watchのニュースによると、SAOゲームシリーズ最新作「Echoes of Aincrad」が本日（2026年8月23日）発売されました。SAOのゲームシリーズは通常、アクションRPGのジャンルで展開されています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "2026年8月のONE PIECE.comのニュースで、ONE PIECEカードゲームのブースターパック「世界最強の戦士【OP-17】」が新発売されましたが、このパックの発売はONE PIECE DAY’26での特報とどのように関連していますか？",
-    "choices": [
-      "全くの無関係",
-      "特報で発表された新情報の一部",
-      "特報の補足情報",
-      "特報とは別のサプライズ"
-    ],
-    "answer": "特報で発表された新情報の一部",
-    "explanation": "2026年8月のONE PIECE.comのニュースによると、『ONE PIECE DAY’26』にてONE PIECEカードゲームの特報が解禁され、その後ブースターパック「世界最強の戦士【OP-17】」の発売が報じられました。これは特報で発表された新情報の一つとして位置づけられると推測されます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "2026年8月のYahoo!ニュースで、宮崎英高氏がSwitch2向けフロム最新作「ダスクブラッド」について語った「直接殴り合う以外でも勝てるゲームにしたい」という発言は、どのようなプレイヤー層にアピールする可能性がありますか？",
-    "choices": [
-      "高難易度アクション好き",
-      "ストーリー重視のプレイヤー",
-      "戦略性を好むプレイヤー",
-      "カジュアルゲーマー"
-    ],
-    "answer": "戦略性を好むプレイヤー",
-    "explanation": "2026年8月のYahoo!ニュースによると、宮崎英高氏はフロム最新作「ダスクブラッド」について「直接殴り合う以外でも勝てるゲームにしたい」と語りました。これは、単なるアクションスキルだけでなく、戦略的な思考や多様なアプローチを好むプレイヤー層にアピールする可能性があります。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "2026年7月後半のGame Sparkのニュースで報じられた『GUNDAM ROGUE ORBIT』は、主人公機と敵の設定画が公開され、太陽系外から飛来したシリコン生命体との戦闘を描くとのことですが、このゲームの舞台となるのは太陽系の外側ですか、それとも内側ですか？",
-    "choices": [
-      "太陽系の内側",
-      "太陽系の外側",
-      "地球上",
-      "月面"
-    ],
-    "answer": "太陽系の外側",
-    "explanation": "2026年7月後半のGame Sparkのニュースによると、『GUNDAM ROGUE ORBIT』は「太陽系外から飛来したシリコン生命体」との戦闘を描きます。これは舞台が太陽系の外側に広がっていることを示唆しています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "2026年6月2日のState of Playで発表された『真・三國無双2』に参戦が決定した紫鸞は、この発表イベントにおいてどのような形で紹介されましたか？",
-    "choices": [
-      "CGムービーで初登場",
-      "開発者による解説",
-      "ゲームプレイ映像で確認",
-      "設定画のみ公開"
-    ],
-    "answer": "CGムービーで初登場",
-    "explanation": "2026年6月2日のState of Playの発表まとめによると、『真・三國無双2』に紫鸞が参戦することが報じられました。このような発表イベントでは、新キャラクターは通常、CGムービーやゲームプレイ映像で華々しく紹介されます。選択肢Cも可能性としてはありますが、「参戦」という言葉から単なる確認ではなく、登場が強調されると考えCGムービーとしました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "2026年8月のGameWithのニュースで、最新アップデート情報がまとめられている『トモダチコレクションわくわく生活』は、どのような種類のゲームコンテンツを提供していますか？",
-    "choices": [
-      "新たなキャラクター",
-      "ミニゲーム",
-      "イベント",
-      "全て"
-    ],
-    "answer": "全て",
-    "explanation": "2026年8月のGameWithのニュースで『トモダチコレクションわくわく生活』の「アップデートの最新情報まとめ」が報じられました。アップデート情報には、新しいキャラクター、ミニゲーム、イベントなどが含まれるのが一般的です。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "2026年8月のGameWithのニュースで、開発者ノートが公開された『セブンナイツ リバース』は、この情報を通じてどのようなプレイヤーの疑問に応えようとしていますか？",
-    "choices": [
-      "ゲームの難易度",
-      "今後のゲームの方向性",
-      "キャラクターの強さ",
-      "課金要素"
-    ],
-    "answer": "今後のゲームの方向性",
-    "explanation": "2026年8月のGameWithのニュースによると、『セブンナイツ リバース』の最新アップデート情報として「開発者ノート」が公開されました。開発者ノートは、今後のアップデートやゲームの方向性についてプレイヤーが抱く疑問に応える目的で公開されることが多いです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "2026年8月のファミ通のニュースで、『FGOフェス2026』が「11th Anniversary～」として発表まとめが報じられましたが、このイベントの主な発表内容はどのようなものですか？",
-    "choices": [
-      "新作アニメ映画の発表",
-      "ゲームの大型アップデート情報",
-      "声優のトークショー",
-      "過去作の振り返り"
-    ],
-    "answer": "ゲームの大型アップデート情報",
-    "explanation": "2026年8月のファミ通のニュースによると、『FGOフェス2026』では「ゲーム最新情報」やTYPE-MOON関連ニュースが一挙紹介されました。周年イベントでの「ゲーム最新情報」は、通常、大型アップデートに関する情報が含まれます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "2026年8月のgamecity.ne.jpのニュースで発売決定が発表された『進撃の巨人３』は、物語を最初から最後まで描く集大成とされていますが、これは過去の『進撃の巨人』ゲームシリーズと比べてどのような点が強化されていると示唆されますか？",
-    "choices": [
-      "グラフィックの進化",
-      "ストーリーの網羅性",
-      "オンライン機能",
-      "キャラクターカスタマイズ"
-    ],
-    "answer": "ストーリーの網羅性",
-    "explanation": "2026年8月のgamecity.ne.jpのニュースによると、『進撃の巨人３』は「進撃の巨人」の物語を最初から最後まで描く集大成と発表されました。これは、過去作ではカバーしきれなかったストーリーを網羅するという点で強化されていると示唆されます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "2026年8月のYahoo!ニュースで、埼玉新聞が報じた「ゲーム依存、若年層は１０％」というニュースは、どのような読者層に特に注意を促すことを目的としていますか？",
-    "choices": [
-      "ゲーム業界関係者",
-      "子育て中の親",
-      "学校の教師",
-      "全て"
-    ],
-    "answer": "全て",
-    "explanation": "2026年8月のYahoo!ニュースで、埼玉新聞が「ゲーム依存、若年層は１０％」と報じたニュースは、若年層のゲーム依存という社会問題に焦点を当てており、ゲーム業界関係者、子育て中の親、学校の教師といった幅広い読者層に注意を促すことを目的としています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "2026年8月23日に本日発売と報じられたSAOゲームシリーズ最新作「Echoes of Aincrad」と「TATSUJIN EXTREME」は、共通してどのような情報をニュースで公開しましたか？",
-    "choices": [
-      "開発者インタビュー",
-      "体験版の配信",
-      "最新PVの公開",
-      "コラボイベントの発表"
-    ],
-    "answer": "最新PVの公開",
-    "explanation": "2026年8月のGAME Watchのニュースによると、SAOゲームシリーズ最新作「Echoes of Aincrad」が本日発売され、また「TATSUJIN EXTREME」も本日発売で最新PVが公開されました。SAOのPVについては明記されていませんが、新作発売時にはPVが公開されるのが通例であり、TATSUJIN EXTREMEで明記されているため、共通の「情報公開」として選択肢に挙げられます。しかし、SAOのPV公開はニュースに明記されていないため、この選択肢はやや推測を含みます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "2026年8月22日に新発売されたONE PIECEカードゲームのブースターパック「世界最強の戦士【OP-17】」は、どのような媒体で情報が公開されましたか？",
-    "choices": [
-      "テレビCM",
-      "公式X (旧Twitter)",
-      "ONE PIECE.com",
-      "YouTubeチャンネル"
-    ],
-    "answer": "ONE PIECE.com",
-    "explanation": "2026年8月のONE PIECE.comのニュースによると、ブースターパック 世界最強の戦士【OP-17】が2026年8月22日に新発売されました。これは公式サイトでの情報公開です。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "2026年8月のYahoo!ニュースで、宮崎英高氏が「直接殴り合う以外でも勝てるゲームにしたい」と語ったSwitch2向けフロム最新作「ダスクブラッド」は、どのようなゲーム体験を目指していると解釈できますか？",
-    "choices": [
-      "純粋なハック＆スラッシュ",
-      "戦略性の高いアクションRPG",
-      "物語重視のアドベンチャー",
-      "PvP中心の対戦ゲーム"
-    ],
-    "answer": "戦略性の高いアクションRPG",
-    "explanation": "2026年8月のYahoo!ニュースによると、宮崎英高氏はフロム最新作「ダスクブラッド」について「直接殴り合う以外でも勝てるゲームにしたい」と語りました。これは、戦闘だけでなく、他の手段や戦略が勝利に繋がるような、より奥深いゲームプレイを目指していることを示唆しています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "2026年7月後半のGame Sparkのニュースで報じられた『GUNDAM ROGUE ORBIT』は、太陽系外から飛来したシリコン生命体との戦闘を描きますが、このゲームのジャンルはどのようなものだと推測されますか？",
-    "choices": [
-      "シミュレーションRPG",
-      "ロボットアクション",
-      "アドベンチャーゲーム",
-      "パズルゲーム"
-    ],
-    "answer": "ロボットアクション",
-    "explanation": "2026年7月後半のGame Sparkのニュースによると、『GUNDAM ROGUE ORBIT』はガンダムゲーム最新作であり、主人公機と敵の設定画が公開され、戦闘を描くことから、ロボットアクションゲームであると推測されます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "2026年6月2日のState of Playで発表された『真・三國無双2』に参戦が決定した紫鸞は、このシリーズにおいてどのような役割を果たすキャラクターであると期待されますか？",
-    "choices": [
-      "物語の語り部",
-      "新しい勢力のリーダー",
-      "プレイヤーが操作できる武将",
-      "敵対勢力のボス"
-    ],
-    "answer": "プレイヤーが操作できる武将",
-    "explanation": "2026年6月2日のState of Playの発表まとめによると、『真・三國無双2』に紫鸞が「参戦」することが報じられました。無双シリーズにおける「参戦」は、通常プレイヤーが操作できる武将として登場することを意味します。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "2026年8月のGameWithのニュースで、最新イベント情報がまとめられている「怪獣8号ゲーム」は、ゲームの更新情報を提供するためにどのような形式のページを使用していますか？",
-    "choices": [
-      "公式ブログ",
-      "情報まとめページ",
-      "開発者ダイアリー",
-      "フォーラム"
-    ],
-    "answer": "情報まとめページ",
-    "explanation": "2026年8月のGameWithのニュースによると、『怪獣8号ゲーム』の「最新イベント情報まとめ」という形式で情報が提供されています。これは特定の情報を集約したまとめページです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "2026年8月のGameWithのニュースで、開発者ノートが公開された『セブンナイツ リバース』は、どのようなゲームジャンルのタイトルですか？",
-    "choices": [
-      "MMORPG",
-      "カードバトルRPG",
-      "タワーディフェンス",
-      "コマンドRPG"
-    ],
-    "answer": "カードバトルRPG",
-    "explanation": "2026年8月のGameWithのニュースで『セブンナイツ リバース』のアップデート情報が報じられました。『セブンナイツ』シリーズは、キャラクターを収集・育成し、ターン制バトルを行うカードバトルRPGの要素を持つゲームです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "2026年8月のファミ通のニュースで、『FGOフェス2026』が開催され、ゲーム最新情報やTYPE-MOON関連ニュースが一挙紹介されましたが、このイベントは主にどのようなファン層をターゲットにしていますか？",
-    "choices": [
-      "新規プレイヤー",
-      "ライトユーザー",
-      "コアファン",
-      "海外プレイヤー"
-    ],
-    "answer": "コアファン",
-    "explanation": "2026年8月のファミ通のニュースによると、『FGOフェス2026』ではゲーム最新情報やTYPE-MOON関連ニュースが一挙紹介されました。このような大規模な周年イベントは、通常、作品の深いファンであるコアファンを主なターゲットとしています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "2026年8月のgamecity.ne.jpのニュースで発売決定が発表された『進撃の巨人３』は、過去のゲームシリーズと比較して、どのような点が最も特徴的であると強調されていますか？",
-    "choices": [
-      "よりリアルなグラフィック",
-      "オンラインマルチプレイの強化",
-      "原作物語の完全再現",
-      "新キャラクターの追加"
-    ],
-    "answer": "原作物語の完全再現",
-    "explanation": "2026年8月のgamecity.ne.jpのニュースによると、『進撃の巨人３』は「進撃の巨人」の物語を最初から最後まで描く集大成と発表されており、原作物語の完全再現が最も強調された特徴です。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "2026年8月のYahoo!ニュースで、埼玉新聞が報じた「ゲーム依存、若年層は１０％」というニュースは、どのような種類の情報として扱われていますか？",
-    "choices": [
-      "意見記事",
-      "広告",
-      "調査報告",
-      "エンタメ情報"
-    ],
-    "answer": "調査報告",
-    "explanation": "2026年8月のYahoo!ニュースによると、埼玉新聞が「ゲーム依存、若年層は１０％」と報じました。これは具体的な数値を含むため、調査や統計に基づく報告として扱われています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "2026年8月23日に本日発売と報じられたSAOゲームシリーズ最新作「Echoes of Aincrad」は、GAME Watchのニュースでどのような文脈で紹介されましたか？",
-    "choices": [
-      "今後のゲーム市場のトレンド",
-      "本日発売の注目タイトル",
-      "開発者のインタビュー",
-      "過去作の評価"
-    ],
-    "answer": "本日発売の注目タイトル",
-    "explanation": "2026年8月のGAME Watchのニュースによると、SAOゲームシリーズ最新作「Echoes of Aincrad」が「本日発売」と報じられました。これは、本日発売される注目タイトルの一つとして紹介されたことを意味します。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "2026年8月のONE PIECE.comのニュースで、ONE PIECEカードゲームの特報が解禁された『ONE PIECE DAY’26』は、どのような形式のイベントとして開催されましたか？",
-    "choices": [
-      "オンライン配信のみ",
-      "リアルイベントのみ",
-      "オンラインとリアルイベントの複合",
-      "テレビ特番"
-    ],
-    "answer": "オンラインとリアルイベントの複合",
-    "explanation": "2026年8月のONE PIECE.comのニュースで『ONE PIECE DAY’26』での特報が報じられました。ONE PIECE DAYは例年、オンラインとリアルイベントを複合した大規模なイベントとして開催されています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "2026年8月のYahoo!ニュースで、宮崎英高氏がSwitch2向けフロム最新作「ダスクブラッド」について語った「直接殴り合う以外でも勝てるゲームにしたい」という発言は、どのようなゲームプレイの自由度をプレイヤーに提供することを示唆していますか？",
-    "choices": [
-      "一本道のストーリー",
-      "限られた選択肢",
-      "高い自由度と多様な解決策",
-      "特定のプレイスタイルの強制"
-    ],
-    "answer": "高い自由度と多様な解決策",
-    "explanation": "2026年8月のYahoo!ニュースによると、宮崎英高氏はフロム最新作「ダスクブラッド」について「直接殴り合う以外でも勝てるゲームにしたい」と語りました。これは、プレイヤーが様々な方法でゲームを進められる高い自由度と多様な解決策が用意されていることを示唆しています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "2026年7月後半のGame Sparkのニュースで報じられた『GUNDAM ROGUE ORBIT』は、主人公機と敵の設定画が公開され、太陽系外から飛来したシリコン生命体との戦闘を描くとのことですが、このゲームの発表は、どのような情報公開の段階にありますか？",
-    "choices": [
-      "開発初期段階",
-      "詳細なゲームプレイ公開段階",
-      "発売直前段階",
-      "発表前のリーク情報"
-    ],
-    "answer": "開発初期段階",
-    "explanation": "2026年7月後半のGame Sparkのニュースで『GUNDAM ROGUE ORBIT』の「設定画が公開」されたと報じられました。設定画の公開は、一般的にゲーム開発の比較的初期段階での情報公開です。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "2026年6月2日のState of Playで発表された『エースコンバット8』の発売日決定、『真・三國無双2』に紫鸞参戦、完全新作『鬼武者』体験版配信は、どのような目的で一挙に発表されましたか？",
-    "choices": [
-      "新ハードの発表",
-      "ライバル社の対抗",
-      "PlayStationのラインナップ強化",
-      "特定の開発会社のプロモーション"
-    ],
-    "answer": "PlayStationのラインナップ強化",
-    "explanation": "2026年6月2日のファミ通のニュースによると、「State of Play新発表まとめ。」として報じられました。State of PlayはPlayStationのイベントであり、これらの発表はPlayStationプラットフォームのラインナップを強化し、ユーザーの期待を高めることを目的としています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "2026年8月のGameWithのニュースで、最新イベント情報がまとめられている「怪獣8号ゲーム」は、どのような情報源に基づいてイベント情報をまとめていますか？",
-    "choices": [
-      "公式発表",
-      "ユーザーの口コミ",
-      "データマイニング",
-      "個人的な予想"
-    ],
-    "answer": "公式発表",
-    "explanation": "2026年8月のGameWithのニュースで『怪獣8号ゲーム』の「最新イベント情報まとめ」が提供されています。ゲーム攻略サイトの情報は、通常、ゲーム運営からの公式発表に基づいて作成されます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "2026年8月のGameWithのニュースで、開発者ノートが公開された『セブンナイツ リバース』は、この情報を通じてプレイヤーにどのような印象を与えようとしていますか？",
-    "choices": [
-      "開発の遅延",
-      "ゲームの安定性",
-      "開発チームの熱意と誠実さ",
-      "ゲームの複雑さ"
-    ],
-    "answer": "開発チームの熱意と誠実さ",
-    "explanation": "2026年8月のGameWithのニュースによると、『セブンナイツ リバース』の最新アップデート情報として「開発者ノート」が公開されました。開発者が自らの言葉でゲームについて語ることで、開発チームの熱意やプレイヤーへの誠実な姿勢を伝えることができます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "2026年8月のファミ通のニュースで、『FGOフェス2026』が「11th Anniversary～」として発表まとめが報じられましたが、このイベントはFGOというゲームのどのような側面を強調していますか？",
-    "choices": [
-      "新規ユーザー獲得",
-      "コミュニティの活性化",
-      "長期運営とコンテンツの充実",
-      "海外展開の強化"
-    ],
-    "answer": "長期運営とコンテンツの充実",
-    "explanation": "2026年8月のファミ通のニュースによると、『FGOフェス2026』は『11th Anniversary～』として発表まとめが報じられました。11周年という長期間の運営と、それに伴うコンテンツの充実を強調しています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "2026年8月のgamecity.ne.jpのニュースで発売決定が発表された『進撃の巨人３』は、「進撃の巨人」の物語を最初から最後まで描く集大成とされていますが、これはどのようなゲームの目標設定を示唆していますか？",
-    "choices": [
-      "短期間でのクリア",
-      "プレイヤーの自由な探索",
-      "原作の世界観への没入",
-      "高難易度チャレンジ"
-    ],
-    "answer": "原作の世界観への没入",
-    "explanation": "2026年8月のgamecity.ne.jpのニュースによると、『進撃の巨人３』は「進撃の巨人」の物語を最初から最後まで描く集大成と発表されました。これは、プレイヤーが原作の世界観に深く没入し、物語を体験することを目標としていることを示唆しています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "2026年8月のYahoo!ニュースで、埼玉新聞が報じた「ゲーム依存、若年層は１０％」というニュースは、どのような情報源からの引用としてYahoo!ニュースに掲載されましたか？",
-    "choices": [
-      "独自の調査",
-      "他社メディアの報道",
-      "政府機関の発表",
-      "学術論文"
-    ],
-    "answer": "他社メディアの報道",
-    "explanation": "2026年8月のYahoo!ニュースによると、「埼玉新聞」が「ゲーム依存、若年層は１０％」と報じました。Yahoo!ニュースは他社メディアである埼玉新聞の報道を引用して掲載しています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "2026年8月23日に本日発売と報じられた「TATSUJIN EXTREME」とSAOゲームシリーズ最新作「Echoes of Aincrad」は、いずれもどのメディアのニュース記事でその情報が確認できますか？",
+    "difficulty": 4,
+    "question": "2026年8月24日のニュースで、本日発売と報じられた「SAO」ゲームシリーズ最新作『Echoes of Aincrad』は、どのメディアで取り上げられましたか？",
     "choices": [
       "ファミ通",
-      "GameWith",
       "GAME Watch",
-      "電撃オンライン"
+      "電撃オンライン",
+      "IGN JAPAN"
     ],
     "answer": "GAME Watch",
-    "explanation": "2026年8月のGAME Watchのニュースによると、SAOゲームシリーズ最新作「Echoes of Aincrad」と「TATSUJIN EXTREME」がともに本日（2026年8月23日）発売されたと報じられました。"
+    "explanation": "2026年8月24日のニュースによると、「SAO」ゲームシリーズ最新作「Echoes of Aincrad」が本日発売とGAME Watchで報じられました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 8,
-    "question": "2026年8月22日に新発売されたONE PIECEカードゲームのブースターパック「世界最強の戦士【OP-17】」は、ONE PIECE.comのニュースで「明日」発売と報じられましたが、このニュースが公開されたのは何月何日と推測されますか？",
+    "difficulty": 4,
+    "question": "2026年8月のニュースで、発売決定が報じられたゲーム『進撃の巨人３』は、どのウェブサイトで発表されましたか？",
     "choices": [
-      "2026年8月21日",
-      "2026年8月22日",
-      "2026年8月23日",
-      "2026年8月20日"
+      "gamecity.ne.jp",
+      "shingeki.jp",
+      "koei.com",
+      "titan.jp"
     ],
-    "answer": "2026年8月21日",
-    "explanation": "2026年8月のONE PIECE.comのニュースで「明日8月22日(土)にブースターパック 世界最強の戦士【OP-17】が新発売！」と報じられています。本日の日付が2026年8月23日であることから、「明日8月22日」と書かれたニュースは8月21日に公開されたと推測されます。"
+    "answer": "gamecity.ne.jp",
+    "explanation": "2026年8月のニュースによると、ゲーム『進撃の巨人３』の発売決定はgamecity.ne.jpで報じられました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 8,
-    "question": "2026年8月のYahoo!ニュースで、宮崎英高氏がSwitch2向けフロム最新作「ダスクブラッド」について語った「直接殴り合う以外でも勝てるゲームにしたい」という発言は、どのようなゲームデザイン哲学を反映していると考えられますか？",
+    "difficulty": 4,
+    "question": "2026年8月のニュースで、GameWithが『トモダチコレクションわくわく生活』の何に関する情報をまとめましたか？",
     "choices": [
-      "カジュアルゲーマー向け",
-      "高難易度アクション",
-      "プレイヤーの選択肢を広げる",
-      "オンライン対戦の重視"
+      "新要素",
+      "アップデート",
+      "セール",
+      "攻略"
     ],
-    "answer": "プレイヤーの選択肢を広げる",
-    "explanation": "2026年8月のYahoo!ニュースによると、宮崎英高氏はフロム最新作「ダスクブラッド」について「直接殴り合う以外でも勝てるゲームにしたい」と語りました。これは、プレイヤーが様々なアプローチで問題を解決できるような、選択肢の幅を広げるゲームデザイン哲学を反映していると考えられます。"
+    "answer": "アップデート",
+    "explanation": "2026年8月のニュースによると、『トモダチコレクションわくわく生活』のアップデートの最新情報がまとめられました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 8,
-    "question": "2026年7月後半のGame Sparkのニュースで報じられた『GUNDAM ROGUE ORBIT』は、太陽系外から飛来したシリコン生命体との戦闘を描くとのことですが、このゲームが「HOTな『ロボゲー』」として紹介された時期はいつですか？",
+    "difficulty": 4,
+    "question": "2026年6月2日のState of Playで、発売日決定が発表された『エースコンバット8』は、どのジャンルのゲームですか？",
     "choices": [
-      "2026年6月後半",
-      "2026年7月前半",
-      "2026年7月後半",
-      "2026年8月前半"
+      "レース",
+      "フライトシューティング",
+      "ロボットアクション",
+      "戦略シミュレーション"
     ],
-    "answer": "2026年7月後半",
-    "explanation": "2026年7月後半のGame Sparkのニュースによると、『GUNDAM ROGUE ORBIT』は「26年7月後半にHOTな「ロボゲー」はこれだ！」という記事で紹介されました。"
+    "answer": "フライトシューティング",
+    "explanation": "2026年6月2日のState of Playの発表によると、『エースコンバット8』の発売日決定が報じられました。エースコンバットシリーズはフライトシューティングです。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 8,
-    "question": "2026年6月2日のState of Playで発表された『エースコンバット8』の発売日決定、『真・三國無双2』に紫鸞参戦、『鬼武者』体験版配信に関する情報が掲載されたのは、ファミ通のどの記事ですか？",
+    "difficulty": 4,
+    "question": "2026年6月2日のState of Playで、発売日決定が発表された『エースコンバット8』は、どのような情報まとめの一部として報じられましたか？",
     "choices": [
-      "速報！ゲームニュース",
-      "特集：新作ゲームの展望",
+      "サマーゲームフェス",
       "State of Play新発表まとめ",
-      "今週の注目ゲーム"
+      "E3速報",
+      "東京ゲームショウ"
     ],
     "answer": "State of Play新発表まとめ",
-    "explanation": "2026年6月2日のファミ通のニュースによると、「State of Play新発表まとめ。」という記事でこれらの情報が一挙紹介されました。"
+    "explanation": "2026年6月2日のState of Playの発表によると、「State of Play新発表まとめ」の一部として『エースコンバット8』の発売日決定が報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "2026年7月後半のニュースで、「HOTな『ロボゲー』」として紹介された『GUNDAM ROGUE ORBIT』の敵は、太陽系外から飛来しましたが、その敵の構成物質は何でしたか？",
+    "choices": [
+      "炭素",
+      "鉄",
+      "シリコン",
+      "プラチナ"
+    ],
+    "answer": "シリコン",
+    "explanation": "2026年7月後半のニュースによると、『GUNDAM ROGUE ORBIT』は太陽系外から飛来したシリコン生命体との戦闘を描いています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "2026年6月2日のState of Playで、発売日決定が発表された『エースコンバット8』は、どのゲームメーカーのタイトルですか？",
+    "choices": [
+      "スクウェア・エニックス",
+      "カプコン",
+      "バンダイナムコエンターテインメント",
+      "コーエーテクモゲームス"
+    ],
+    "answer": "バンダイナムコエンターテインメント",
+    "explanation": "2026年6月2日のState of Playの発表によると、『エースコンバット8』の発売日決定が報じられました。エースコンバットシリーズはバンダイナムコエンターテインメントのタイトルです。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "2026年8月のニュースで、ゲーム『進撃の巨人３』の発売決定が報じられた公式サイトのドメインは何ですか？",
+    "choices": [
+      "game.co.jp",
+      "gamecity.ne.jp",
+      "koei.jp",
+      "shingeki.com"
+    ],
+    "answer": "gamecity.ne.jp",
+    "explanation": "2026年8月のニュースによると、『進撃の巨人３』の発売決定はgamecity.ne.jpで報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "2026年8月のニュースで、オリコンニュースが報じた『キングダム ハーツIV』の発表は、主にどのゲーム機向けの発売を示唆していましたか？",
+    "choices": [
+      "次世代機と現行機",
+      "PC専用",
+      "モバイル専用",
+      "VR専用"
+    ],
+    "answer": "次世代機と現行機",
+    "explanation": "2026年8月のニュースによると、『キングダム ハーツIV』はSwitch2やPS5など、次世代機と現行機で発売されると発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "2026年6月3日のState of Playの配信情報が報じられたメディアは何ですか？",
+    "choices": [
+      "ファミ通",
+      "GAME Watch",
+      "電撃オンライン",
+      "IGN JAPAN"
+    ],
+    "answer": "GAME Watch",
+    "explanation": "2026年6月3日のニュースによると、「State of Play」の配信情報がGAME Watchで報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "2026年8月24日のニュースで、本日発売と報じられた『TATSUJIN EXTREME』は、どのメディアで紹介されましたか？",
+    "choices": [
+      "ファミ通",
+      "GAME Watch",
+      "電撃オンライン",
+      "IGN JAPAN"
+    ],
+    "answer": "GAME Watch",
+    "explanation": "2026年8月24日のニュースによると、シリーズ最新作「TATSUJIN EXTREME」が本日発売され、GAME Watchで紹介されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "2026年8月のニュースで、GameWithが『トモダチコレクションわくわく生活』の最新アップデート情報をまとめた際、どのような見出しで報じられましたか？",
+    "choices": [
+      "【トモコレ】最新パッチノート",
+      "【トモコレ】アップデートの最新情報まとめ",
+      "【トモコレ】新要素追加",
+      "【トモコレ】バグ修正情報"
+    ],
+    "answer": "【トモコレ】アップデートの最新情報まとめ",
+    "explanation": "2026年8月のニュースによると、『トモコレ』アップデートの最新情報まとめがGameWithで報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "2026年8月のニュースで、若年層のゲーム依存の割合が報じられましたが、これはどの層の割合について言及していますか？",
+    "choices": [
+      "成人層",
+      "高齢者層",
+      "若年層",
+      "全年齢層"
+    ],
+    "answer": "若年層",
+    "explanation": "2026年8月の埼玉新聞のニュースによると、「ゲーム依存、若年層は１０％」と報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "2026年8月21日のニュースで、新発売が報じられた『ONE PIECEカードゲーム』のブースターパック「世界最強の戦士【OP-17】」は、どのような情報として公開されましたか？",
+    "choices": [
+      "本日発売",
+      "明日発売",
+      "来週発売",
+      "予約開始"
+    ],
+    "answer": "明日発売",
+    "explanation": "2026年8月21日のニュースによると、『ONE PIECEカードゲーム』のブースターパック「世界最強の戦士【OP-17】」が「明日8月22日(土)に新発売」と報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "2026年6月2日のState of Playで、完全新作『鬼武者』のどのようなコンテンツの配信が発表されましたか？",
+    "choices": [
+      "プロモーションビデオ",
+      "コンセプトアート",
+      "体験版",
+      "サウンドトラック"
+    ],
+    "answer": "体験版",
+    "explanation": "2026年6月2日のState of Playの発表によると、完全新作『鬼武者』の体験版配信が発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "2026年6月3日のState of Playで、主にどのゲームの最新情報が60分以上にわたって届けられると報じられましたか？",
+    "choices": [
+      "Marvel's Spider-Man 3",
+      "Marvel's Venom",
+      "Marvel's Wolverine",
+      "Marvel's Avengers Reborn"
+    ],
+    "answer": "Marvel's Wolverine",
+    "explanation": "2026年6月3日のニュースによると、State of Playでは「Marvel's Wolverine」最新情報などが60分以上で届けられると報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "2026年8月のニュースで、オリコンニュースが報じた『キングダム ハーツ』シリーズの最新作は何ですか？",
+    "choices": [
+      "キングダム ハーツ Re:Coded",
+      "キングダム ハーツ Birth by Sleep",
+      "キングダム ハーツIV",
+      "キングダム ハーツ Union χ"
+    ],
+    "answer": "キングダム ハーツIV",
+    "explanation": "2026年8月のニュースによると、『キングダム ハーツ』シリーズ最新作として『キングダム ハーツIV』が発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "2026年8月のニュースで、ファミ通が報じた『FGOフェス2026』は、どのような記念イベントとして開催されましたか？",
+    "choices": [
+      "5周年記念",
+      "10周年記念",
+      "11周年記念",
+      "15周年記念"
+    ],
+    "answer": "11周年記念",
+    "explanation": "2026年8月のニュースによると、『FGOフェス2026』は「11th Anniversary～」として開催されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "2026年8月のニュースで、GameWithが紹介したSwitchのゲームニュースの活用方法は、具体的にどのゲーム機の情報に特化していますか？",
+    "choices": [
+      "ニンテンドー3DS",
+      "Nintendo Switch",
+      "Wii U",
+      "ニンテンドーDS"
+    ],
+    "answer": "Nintendo Switch",
+    "explanation": "2026年8月のニュースによると、GameWithは「Switchのゲームニュースの使い方」を紹介しました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "2026年7月後半のニュースで、『GUNDAM ROGUE ORBIT』の主人公機と敵の設定画が公開されましたが、このゲームの舞台はどこですか？",
+    "choices": [
+      "地球圏",
+      "コロニー内",
+      "太陽系外",
+      "月面"
+    ],
+    "answer": "太陽系外",
+    "explanation": "2026年7月後半のニュースによると、『GUNDAM ROGUE ORBIT』は太陽系外から飛来したシリコン生命体との戦闘を描いています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "2026年6月9日に開催された「ニンテンドーダイレクト」の発表内容まとめがYahoo!ニュースで報じられましたが、この情報はどのゲーム情報サイトから提供されましたか？",
+    "choices": [
+      "ファミ通",
+      "GAME Watch",
+      "電撃オンライン",
+      "IGN JAPAN"
+    ],
+    "answer": "GAME Watch",
+    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」発表内容まとめは（GAME Watch）提供としてYahoo!ニュースで報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "2026年8月のニュースで、発売決定が報じられたゲーム『進撃の巨人３』は、どのゲームメーカーから発売されますか？",
+    "choices": [
+      "カプコン",
+      "バンダイナムコエンターテインメント",
+      "コーエーテクモゲームス",
+      "スクウェア・エニックス"
+    ],
+    "answer": "コーエーテクモゲームス",
+    "explanation": "2026年8月のニュースによると、ゲーム『進撃の巨人３』はgamecity.ne.jpで発表されました。gamecity.ne.jpはコーエーテクモゲームスの公式ウェブサイトです。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "2026年8月のニュースで、GameWithが紹介したSwitchのゲームニュースの活用方法は、具体的にどのような最新情報を対象としていますか？",
+    "choices": [
+      "ユーザーが作成した情報",
+      "公式の最新情報",
+      "非公式のリーク情報",
+      "海外版の最新情報"
+    ],
+    "answer": "公式の最新情報",
+    "explanation": "2026年8月のニュースによると、GameWithは「Switchのゲームニュースの使い方！公式の最新情報を有効活用する方法」を紹介しました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "2026年6月2日のState of Playで、『真・三國無双2』に参戦が発表された紫鸞は、どのゲームメーカーの代表的なシリーズのキャラクターですか？",
+    "choices": [
+      "カプコン",
+      "バンダイナムコエンターテインメント",
+      "コーエーテクモゲームス",
+      "セガ"
+    ],
+    "answer": "コーエーテクモゲームス",
+    "explanation": "2026年6月2日のState of Playの発表によると、『真・三國無双2』に紫鸞が参戦すると報じられました。真・三國無双シリーズはコーエーテクモゲームスの代表的なシリーズです。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "2026年8月のニュースで、Oriocn Newsが報じた『キングダム ハーツIV』の発表は、どのシリーズの最新作として位置づけられていますか？",
+    "choices": [
+      "ファイナルファンタジー",
+      "ブレイブリーデフォルト",
+      "キングダム ハーツ",
+      "すばらしきこのせかい"
+    ],
+    "answer": "キングダム ハーツ",
+    "explanation": "2026年8月のニュースによると、『キングダム ハーツ』シリーズ最新作として『キングダム ハーツIV』が発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "2026年8月のニュースで『FGOフェス2026』が開催され、ゲーム最新情報やTYPE-MOON関連ニュースが一挙紹介されましたが、このイベントの正式名称の一部は何ですか？",
+    "choices": [
+      "～10th Anniversary",
+      "～11th Anniversary",
+      "～2026 Summer",
+      "～TYPE-MOON World"
+    ],
+    "answer": "～11th Anniversary",
+    "explanation": "2026年8月のニュースによると、『FGOフェス2026』は「11th Anniversary～」として開催されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "2026年8月24日のニュースで、本日発売と報じられた「SAO」ゲームシリーズ最新作『Echoes of Aincrad』は、どのようなゲームジャンルに属すると考えられますか？",
+    "choices": [
+      "リズムゲーム",
+      "RPG",
+      "パズルゲーム",
+      "シミュレーションゲーム"
+    ],
+    "answer": "RPG",
+    "explanation": "2026年8月24日のニュースによると、「SAO」ゲームシリーズ最新作「Echoes of Aincrad」が本日発売と報じられました。SAOシリーズのゲームは通常RPGジャンルに属します。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "2026年8月24日のニュースで、本日発売と報じられた『TATSUJIN EXTREME』は、どのゲームシリーズの最新作ですか？",
+    "choices": [
+      "グラディウス",
+      "R-TYPE",
+      "TATSUJIN",
+      "ダライアス"
+    ],
+    "answer": "TATSUJIN",
+    "explanation": "2026年8月24日のニュースによると、「シリーズ最新作『TATSUJIN EXTREME』」が本日発売されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "2026年8月21日のニュースで、明日8月22日(土)に新発売と報じられた『ONE PIECEカードゲーム』のブースターパック【OP-17】の正式名称は何ですか？",
+    "choices": [
+      "世界最強の海賊たち",
+      "偉大なる航路の冒険",
+      "世界最強の戦士",
+      "新時代の幕開け"
+    ],
+    "answer": "世界最強の戦士",
+    "explanation": "2026年8月21日のニュースによると、ブースターパック 世界最強の戦士【OP-17】が新発売されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "2026年8月のニュースで、最新アップデート情報と開発者ノートがGameWithで公開されたゲームの略称は何ですか？",
+    "choices": [
+      "セナリバ",
+      "セブナイ",
+      "ナイリバ",
+      "セブンリ"
+    ],
+    "answer": "セナリバ",
+    "explanation": "2026年8月のニュースによると、「【セナリバ】最新アップデート情報｜開発者ノート【セブンナイツ リバース】」という見出しで報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "2026年6月3日のState of Playで、最新情報が公開された「Marvel's Wolverine」は、どのメディアで配信情報が報じられましたか？",
+    "choices": [
+      "ファミ通",
+      "GAME Watch",
+      "電撃オンライン",
+      "IGN JAPAN"
+    ],
+    "answer": "GAME Watch",
+    "explanation": "2026年6月3日のニュースによると、「State of Play」の配信情報がGAME Watchで報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "2026年8月21日のニュースで、明日8月22日(土)に新発売と報じられた『ONE PIECEカードゲーム』のブースターパックの具体的な番号は何ですか？",
+    "choices": [
+      "OP-15",
+      "OP-16",
+      "OP-17",
+      "OP-18"
+    ],
+    "answer": "OP-17",
+    "explanation": "2026年8月21日のニュースによると、ブースターパック 世界最強の戦士【OP-17】が新発売されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "2026年8月のニュースで、ファミ通が報じた『FGOフェス2026』は、FGOの何周年記念のイベントでしたか？",
+    "choices": [
+      "5th Anniversary",
+      "10th Anniversary",
+      "11th Anniversary",
+      "15th Anniversary"
+    ],
+    "answer": "11th Anniversary",
+    "explanation": "2026年8月のニュースによると、『FGOフェス2026』は「11th Anniversary～」として開催されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "2026年7月後半のニュースで、「HOTな『ロボゲー』」として紹介された『GUNDAM ROGUE ORBIT』は、どのメディアのYahoo!ニュースで報じられましたか？",
+    "choices": [
+      "ファミ通",
+      "Game Spark",
+      "電撃オンライン",
+      "IGN JAPAN"
+    ],
+    "answer": "Game Spark",
+    "explanation": "2026年7月後半のニュースによると、『GUNDAM ROGUE ORBIT』は「Game Spark」提供としてYahoo!ニュースで報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "2026年6月3日のState of Playで『Marvel's Wolverine』の最新情報が公開されましたが、このイベントは何時に開始されましたか？",
+    "choices": [
+      "午前1時",
+      "午前6時",
+      "午後1時",
+      "午後6時"
+    ],
+    "answer": "午前6時",
+    "explanation": "2026年6月3日のニュースによると、「State of Play」は6月3日6時から配信されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "2026年8月のニュースで、『セブンナイツ リバース』の最新アップデート情報がGameWithで公開されましたが、その情報には何が添えられていましたか？",
+    "choices": [
+      "プロモーションムービー",
+      "開発者ノート",
+      "ユーザーアンケート結果",
+      "今後のロードマップ"
+    ],
+    "answer": "開発者ノート",
+    "explanation": "2026年8月のニュースによると、『セブンナイツ リバース』の最新アップデート情報が開発者ノートと共にGameWithで公開されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "2026年8月のニュースで、オリコンニュースが『キングダム ハーツIV』の発表を報じましたが、この情報はどのプラットフォームを中心に展開されると示唆されましたか？",
+    "choices": [
+      "PCとモバイル",
+      "Switch2とPS5",
+      "XboxとPC",
+      "旧世代コンソール"
+    ],
+    "answer": "Switch2とPS5",
+    "explanation": "2026年8月のニュースによると、『キングダム ハーツIV』はSwitch2やPS5などで発売されると発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "2026年6月2日のState of Playの発表で、完全新作『鬼武者』の体験版配信が発表されましたが、このイベントの開催日は何月何日でしたか？",
+    "choices": [
+      "6月1日",
+      "6月2日",
+      "6月3日",
+      "6月4日"
+    ],
+    "answer": "6月2日",
+    "explanation": "2026年6月2日のState of Playの発表によると、このイベントは「ステートオブプレイ June 2, 2026」として開催されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "2026年8月のニュースで、GameWithが『トモダチコレクションわくわく生活』のアップデート情報をまとめた際、その見出しにはどのようなゲームタイトル名が使われていましたか？",
+    "choices": [
+      "トモダチコレクション",
+      "トモダチコレクションわくわく生活",
+      "トモダチコレクション 新生活",
+      "トモダチコレクション DX"
+    ],
+    "answer": "トモダチコレクションわくわく生活",
+    "explanation": "2026年8月のニュースによると、『トモダチコレクションわくわく生活』のアップデート情報がまとめられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "2026年8月のニュースで、埼玉新聞が報じた若年層のゲーム依存の割合10%は、どのような形で提示されましたか？",
+    "choices": [
+      "速報",
+      "調査結果",
+      "推定値",
+      "統計データ"
+    ],
+    "answer": "調査結果",
+    "explanation": "2026年8月の埼玉新聞のニュースによると、「ゲーム依存、若年層は１０％」という見出しで、調査結果が報じられたと推測されます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "2026年8月24日のニュースで、本日発売と報じられた「SAO」ゲームシリーズ最新作『Echoes of Aincrad』は、どのアニメまたは小説シリーズを原作としていますか？",
+    "choices": [
+      "Re:ゼロから始める異世界生活",
+      "この素晴らしい世界に祝福を！",
+      "ソードアート・オンライン",
+      "オーバーロード"
+    ],
+    "answer": "ソードアート・オンライン",
+    "explanation": "2026年8月24日のニュースによると、「SAO」ゲームシリーズ最新作「Echoes of Aincrad」が本日発売と報じられました。SAOはソードアート・オンラインの略称です。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "2026年8月のニュースで、『ONE PIECEカードゲーム』の特報が解禁される「ONE PIECE DAY’26」は、どのような情報としてONE PIECE.comで報じられましたか？",
+    "choices": [
+      "イベントスケジュール",
+      "最新情報",
+      "チケット販売",
+      "開催場所"
+    ],
+    "answer": "最新情報",
+    "explanation": "2026年8月のニュースによると、「ONE PIECEカードゲーム 最新情報」として「ONE PIECE DAY’26」での特報解禁が報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "2026年6月9日に開催された「ニンテンドーダイレクト」の発表内容まとめがYahoo!ニュースで報じられましたが、その記事のタイトルはどのような形式でしたか？",
+    "choices": [
+      "【速報】Nintendo Direct 2026.6.9",
+      "【ニンダイまとめ】「ニンテンドーダイレクト 2026.6.9」発表内容まとめ",
+      "Nintendo Direct 2026.6.9 全内容",
+      "Nintendo Direct 2026.6.9 最新情報"
+    ],
+    "answer": "【ニンダイまとめ】「ニンテンドーダイレクト 2026.6.9」発表内容まとめ",
+    "explanation": "2026年6月のニュースによると、「【ニンダイまとめ】「ニンテンドーダイレクト 2026.6.9」発表内容まとめ」というタイトルで報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "2026年8月のニュースで、GameWithが紹介したSwitchのゲームニュースの活用方法において、対象となる情報はどのような性質のものですか？",
+    "choices": [
+      "非公式情報",
+      "公式の最新情報",
+      "ユーザーレビュー",
+      "リーク情報"
+    ],
+    "answer": "公式の最新情報",
+    "explanation": "2026年8月のニュースによると、GameWithは「Switchのゲームニュースの使い方！公式の最新情報を有効活用する方法」を紹介しました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "2026年8月24日のニュースで、本日発売と報じられた『TATSUJIN EXTREME』の魅力を紹介するために公開されたのは何ですか？",
+    "choices": [
+      "開発者インタビュー",
+      "最新PV",
+      "体験版",
+      "サウンドトラック"
+    ],
+    "answer": "最新PV",
+    "explanation": "2026年8月24日のニュースによると、『TATSUJIN EXTREME』の発売に合わせて、本作の魅力を紹介する最新PVが公開されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "2026年6月9日に開催された「ニンテンドーダイレクト」の発表内容まとめがYahoo!ニュースで報じられましたが、このニュースはどのゲーム情報サイトからの提供情報でしたか？",
+    "choices": [
+      "ファミ通",
+      "GAME Watch",
+      "電撃オンライン",
+      "IGN JAPAN"
+    ],
+    "answer": "GAME Watch",
+    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」発表内容まとめは（GAME Watch）提供としてYahoo!ニュースで報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "2026年8月のニュースで、最新アップデート情報と開発者ノートがGameWithで公開された『セブンナイツ リバース』は、どのような情報としてまとめられましたか？",
+    "choices": [
+      "攻略情報",
+      "イベント情報",
+      "最新アップデート情報",
+      "キャラクター情報"
+    ],
+    "answer": "最新アップデート情報",
+    "explanation": "2026年8月のニュースによると、『セブンナイツ リバース』の「最新アップデート情報」が開発者ノートと共にGameWithで公開されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 8,
-    "question": "2026年8月のGameWithのニュースで、最新アップデート情報がまとめられている「怪獣8号ゲーム」の【怪獣8G】という略称は、どのような意味合いで使われていますか？",
+    "question": "2026年7月後半のニュースで、「HOTな『ロボゲー』」として紹介された『GUNDAM ROGUE ORBIT』は、太陽系外から飛来したシリコン生命体と戦闘を描いていますが、これは何に関する設定画の公開と報じられましたか？",
     "choices": [
-      "ゲームのバージョン名",
-      "公式ハッシュタグ",
-      "記事のタグ",
-      "開発コードネーム"
+      "モビルスーツと戦艦",
+      "主人公機と敵",
+      "パイロットと司令官",
+      "兵器と基地"
     ],
-    "answer": "記事のタグ",
-    "explanation": "2026年8月のGameWithのニュースによると、【怪獣8号ゲーム】の最新アップデート情報が【怪獣8G】という形で記事のタイトルや見出しに含まれています。これはGameWith内での記事を識別するためのタグや略称として使われています。"
+    "answer": "主人公機と敵",
+    "explanation": "2026年7月後半のニュースによると、『GUNDAM ROGUE ORBIT』の主人公機と敵の設定画が公開され、太陽系外から飛来したシリコン生命体との戦闘が描かれると報じられました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 8,
-    "question": "2026年8月のGameWithのニュースで、開発者ノートが公開された『セブンナイツ リバース』は、どのような目的で開発者ノートを公開していると推測できますか？",
+    "question": "2026年6月2日のState of Playで、発売日決定が発表された『エースコンバット8』の発表は、どのような内容まとめの一部として報じられましたか？",
     "choices": [
-      "ゲームの不具合報告",
-      "今後の開発方針の共有",
-      "プレイヤーからのフィードバック募集",
-      "ゲームの宣伝活動"
+      "PlayStation Showcase",
+      "State of Play新発表まとめ",
+      "Summer Game Fest",
+      "Tokyo Game Show"
     ],
-    "answer": "今後の開発方針の共有",
-    "explanation": "2026年8月のGameWithのニュースによると、『セブンナイツ リバース』の最新アップデート情報として「開発者ノート」が公開されました。開発者ノートは通常、ゲームの現状や今後のアップデート、開発チームの考えなどをプレイヤーに伝えることで、開発方針を共有する目的で使われます。"
+    "answer": "State of Play新発表まとめ",
+    "explanation": "2026年6月2日のState of Playの発表によると、「State of Play新発表まとめ」の一部として『エースコンバット8』の発売日決定が報じられました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 8,
-    "question": "2026年8月のファミ通のニュースで、『FGOフェス2026』が「11th Anniversary～」として発表まとめが報じられましたが、このイベントの主な目的は何ですか？",
+    "question": "2026年8月のニュースで、ゲーム『進撃の巨人３』の発売決定が報じられましたが、このゲームは「進撃の巨人」の物語をどのように描く集大成と表現されましたか？",
     "choices": [
-      "新規ユーザー獲得",
-      "作品の宣伝",
-      "ファンへの感謝と情報提供",
-      "eスポーツ大会開催"
+      "過去の出来事を深掘り",
+      "主要キャラクターの視点から",
+      "最初から最後まで",
+      "未来の展開を予測"
     ],
-    "answer": "ファンへの感謝と情報提供",
-    "explanation": "2026年8月のファミ通のニュースによると、『FGOフェス2026』は『11th Anniversary～』として、ゲーム最新情報やTYPE-MOON関連ニュースが一挙紹介されました。周年イベントは通常、これまでのファンへの感謝と、今後の展開に関する情報提供が主な目的です。"
+    "answer": "最初から最後まで",
+    "explanation": "2026年8月のニュースによると、ゲーム『進撃の巨人３』は「進撃の巨人」の物語を最初から最後まで描く集大成と報じられました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 8,
-    "question": "2026年8月のgamecity.ne.jpのニュースで発売決定が発表された『進撃の巨人３』は、「進撃の巨人」の物語を最初から最後まで描く集大成とされていますが、これはどのような期待をプレイヤーに抱かせますか？",
+    "question": "2026年8月のニュースで、若年層のゲーム依存の割合10%を報じた埼玉新聞の記事は、どのような社会課題に焦点を当てていますか？",
     "choices": [
-      "原作アニメの続編",
-      "外伝ストーリーの追加",
-      "原作の結末をゲームで体験",
-      "マルチエンディングの導入"
+      "教育格差",
+      "少子高齢化",
+      "ゲーム依存",
+      "地域経済の活性化"
     ],
-    "answer": "原作の結末をゲームで体験",
-    "explanation": "2026年8月のgamecity.ne.jpのニュースによると、『進撃の巨人３』は「進撃の巨人」の物語を最初から最後まで描く集大成と発表されました。これは、原作の物語をゲーム内で完全に追体験し、その結末までを体験できるという期待をプレイヤーに抱かせます。"
+    "answer": "ゲーム依存",
+    "explanation": "2026年8月の埼玉新聞のニュースによると、「ゲーム依存、若年層は１０％」という見出しで、ゲーム依存という社会課題に焦点を当てています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 8,
-    "question": "2026年8月のYahoo!ニュースで、埼玉新聞が報じた「ゲーム依存、若年層は１０％」という見出しは、どのような読者層に向けて発信されていると考えられますか？",
+    "question": "2026年8月のニュースで、オリコンニュースが報じた『キングダム ハーツIV』の発表は、どのような形式のニュースとして公開されましたか？",
     "choices": [
-      "ゲーム開発者",
-      "ゲームメディア関係者",
-      "保護者や教育関係者",
-      "ゲームプレイヤー全般"
+      "ゲームレビュー",
+      "シリーズ最新作発表",
+      "開発者インタビュー",
+      "セール情報"
     ],
-    "answer": "保護者や教育関係者",
-    "explanation": "2026年8月のYahoo!ニュースで、埼玉新聞が「ゲーム依存、若年層は１０％」と報じた見出しは、若年層のゲーム利用に関する懸念を持つ保護者や教育関係者に向けて、特に問題提起する意図で発信されていると考えられます。"
+    "answer": "シリーズ最新作発表",
+    "explanation": "2026年8月のニュースによると、『キングダム ハーツ』シリーズ最新作発表として『キングダム ハーツIV』が報じられました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 8,
-    "question": "2026年8月23日に本日発売と報じられたSAOゲームシリーズ最新作「Echoes of Aincrad」は、GAME Watchのニュース記事のタイトルで、どのような形式で紹介されましたか？",
+    "question": "2026年6月3日のState of Playの配信情報がGAME Watchで報じられましたが、この配信で「Marvel's Wolverine」の最新情報以外に注目された内容は何ですか？",
     "choices": [
-      "【速報】SAO新作発売！",
-      "「SAO」ゲームシリーズ最新作「Echoes of Aincrad」本日発売",
-      "SAO最新作、ついに登場",
-      "Echoes of Aincrad、本日よりプレイ可能"
-    ],
-    "answer": "「SAO」ゲームシリーズ最新作「Echoes of Aincrad」本日発売",
-    "explanation": "2026年8月のGAME Watchのニュースによると、見出しは「「SAO」ゲームシリーズ最新作「Echoes of Aincrad」本日発売」と記載されています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "2026年8月のONE PIECE.comのニュースで、ONE PIECEカードゲームのブースターパック「世界最強の戦士【OP-17】」が新発売されましたが、このパックが発売された曜日は何曜日ですか？",
-    "choices": [
-      "金曜日",
-      "土曜日",
-      "日曜日",
-      "月曜日"
-    ],
-    "answer": "土曜日",
-    "explanation": "2026年8月のONE PIECE.comのニュースで「明日8月22日(土)にブースターパック 世界最強の戦士【OP-17】が新発売！」と報じられています。8月22日が土曜日であることが明記されています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "2026年8月のYahoo!ニュースで、宮崎英高氏がSwitch2向けフロム最新作「ダスクブラッド」について語った「直接殴り合う以外でも勝てるゲームにしたい」という発言は、どのようなゲーム体験の向上を目指していると解釈できますか？",
-    "choices": [
-      "グラフィックの向上",
-      "サウンドの没入感",
-      "リプレイ性の向上",
-      "キャラクター育成の深さ"
-    ],
-    "answer": "リプレイ性の向上",
-    "explanation": "2026年8月のYahoo!ニュースによると、宮崎英高氏はフロム最新作「ダスクブラッド」について「直接殴り合う以外でも勝てるゲームにしたい」と語りました。これは、プレイヤーが異なるアプローチを試すことで、ゲームを何度も楽しめるようなリプレイ性の向上を目指していると解釈できます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "2026年7月後半のGame Sparkのニュースで報じられた『GUNDAM ROGUE ORBIT』は、主人公機と敵の設定画が公開され、太陽系外から飛来したシリコン生命体との戦闘を描くとのことですが、このゲームの「主人公機」の設定画が公開された目的は何ですか？",
-    "choices": [
-      "ゲームの難易度を示す",
-      "プレイヤーの期待感を高める",
-      "ストーリーのヒントを与える",
-      "開発チームの技術力を見せる"
-    ],
-    "answer": "プレイヤーの期待感を高める",
-    "explanation": "2026年7月後半のGame Sparkのニュースで『GUNDAM ROGUE ORBIT』の「主人公機と敵の設定画が公開」されたと報じられました。新作ゲームの主人公機のデザインを公開することは、プレイヤーにゲームへの期待感を抱かせることを主な目的とします。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "2026年6月2日のState of Playで発表された『エースコンバット8』の発売日決定、『真・三國無双2』に紫鸞参戦、完全新作『鬼武者』体験版配信について、ファミ通のニュース記事ではこれらの情報をどのような言葉で総括していますか？",
-    "choices": [
-      "衝撃の発表",
-      "最新情報ラッシュ",
-      "新発表まとめ",
-      "サプライズ公開"
-    ],
-    "answer": "新発表まとめ",
-    "explanation": "2026年6月2日のファミ通のニュースによると、「State of Play新発表まとめ。」という言葉でこれらの情報が総括されています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "2026年8月のGameWithのニュースで、最新イベント情報がまとめられている「怪獣8号ゲーム」は、どのようなゲームの最新情報を専門的に扱っているサイトの記事ですか？",
-    "choices": [
-      "家庭用ゲーム",
-      "PCゲーム",
-      "モバイルゲーム",
-      "全てのゲーム"
-    ],
-    "answer": "モバイルゲーム",
-    "explanation": "2026年8月のGameWithのニュースで『怪獣8号ゲーム』の「最新イベント情報まとめ」が提供されています。GameWithはモバイルゲームの攻略情報に特化したサイトとして知られています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "2026年8月のGameWithのニュースで、開発者ノートが公開された『セブンナイツ リバース』は、この情報を通じてプレイヤーと開発チームの間にどのような関係性を築こうとしていますか？",
-    "choices": [
-      "消費者と供給者",
-      "ファンとクリエイター",
-      "ユーザーと運営",
-      "対等なパートナーシップ"
-    ],
-    "answer": "ファンとクリエイター",
-    "explanation": "2026年8月のGameWithのニュースによると、『セブンナイツ リバース』の最新アップデート情報として「開発者ノート」が公開されました。開発者ノートは、開発チームの考えや熱意を直接伝えることで、プレイヤーを単なるユーザーではなく、作品を愛するファンとして捉え、クリエイターとしての開発チームとの関係性を築こうとしています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "2026年8月のファミ通のニュースで、『FGOフェス2026』が「11th Anniversary～」として発表まとめが報じられましたが、このイベントの開催は、FGOというゲームのどのような影響力を示していますか？",
-    "choices": [
-      "新規ユーザー獲得力",
-      "国際的な人気",
-      "IPとしての強さ",
-      "eスポーツへの参入"
-    ],
-    "answer": "IPとしての強さ",
-    "explanation": "2026年8月のファミ通のニュースによると、『FGOフェス2026』は『11th Anniversary～』として発表まとめが報じられ、ゲーム最新情報やTYPE-MOON関連ニュースが一挙紹介されました。11周年という長期運営と大規模なイベント開催は、FGOが単なるゲームにとどまらない、強力な知的財産（IP）としての影響力を持っていることを示しています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "2026年8月のgamecity.ne.jpのニュースで発売決定が発表された『進撃の巨人３』は、「進撃の巨人」の物語を最初から最後まで描く集大成とされていますが、これはゲームのどのような要素に最も重点を置いていることを示唆していますか？",
-    "choices": [
-      "グラフィック表現",
-      "キャラクターボイス",
-      "ストーリーテリング",
-      "オンライン対戦"
-    ],
-    "answer": "ストーリーテリング",
-    "explanation": "2026年8月のgamecity.ne.jpのニュースによると、『進撃の巨人３』は「進撃の巨人」の物語を最初から最後まで描く集大成と発表されました。これは、ゲームがストーリーテリング、つまり物語を伝えることに最も重点を置いていることを示唆しています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "2026年8月のYahoo!ニュースで、埼玉新聞が報じた「ゲーム依存、若年層は１０％」というニュースは、ゲーム依存問題に対するどのような社会的な認識の必要性を示唆していますか？",
-    "choices": [
-      "娯楽としての普及",
-      "個人の責任",
-      "社会全体での対策",
-      "ゲーム業界の規制強化"
-    ],
-    "answer": "社会全体での対策",
-    "explanation": "2026年8月のYahoo!ニュースで、埼玉新聞が「ゲーム依存、若年層は１０％」と報じたニュースは、特定の層に問題が集中していることを示唆しており、これは個人だけでなく社会全体で問題に取り組む必要性があるという認識を促しています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 9,
-    "question": "2026年8月23日に本日発売と報じられたSAOゲームシリーズ最新作「Echoes of Aincrad」は、GAME Watchのニュースでどのような表現で紹介されましたか？",
-    "choices": [
-      "待望の新作",
-      "シリーズ最新作",
-      "新たな挑戦",
-      "伝説の復活"
-    ],
-    "answer": "シリーズ最新作",
-    "explanation": "2026年8月のGAME Watchのニュースによると、SAOゲームシリーズ「最新作」「Echoes of Aincrad」が本日（2026年8月23日）発売されました。ニュースでは「シリーズ最新作」という表現が使われています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 9,
-    "question": "2026年8月22日に新発売されたONE PIECEカードゲームのブースターパック「世界最強の戦士【OP-17】」の発売を報じたONE PIECE.comのニュースは、記事の公開日を考慮すると、どのような情報提供の形態をとっていたと推測されますか？",
-    "choices": [
-      "発売前日の予告",
-      "発売当日の告知",
-      "発売後のレビュー",
-      "緊急速報"
-    ],
-    "answer": "発売前日の予告",
-    "explanation": "2026年8月のONE PIECE.comのニュースで「明日8月22日(土)にブースターパック 世界最強の戦士【OP-17】が新発売！」と報じられています。本日の日付が2026年8月23日であることから、「明日8月22日」と書かれたニュースは8月21日に公開されたと推測され、これは発売前日の予告にあたります。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 9,
-    "question": "2026年8月のYahoo!ニュースで、宮崎英高氏がSwitch2向けフロム最新作「ダスクブラッド」について語った「直接殴り合う以外でも勝てるゲームにしたい」というコメントは、どのような文脈で述べられましたか？",
-    "choices": [
-      "開発の苦労話",
-      "ゲームのコンセプト説明",
-      "プレイヤーからの要望",
-      "新しいエンジンについて"
-    ],
-    "answer": "ゲームのコンセプト説明",
-    "explanation": "2026年8月のYahoo!ニュースによると、Switch2「ダスクブラッド」に関する宮崎英高氏のインタビューでこの発言がありました。これは、ゲームがどのような体験を提供するのかというコンセプトを説明する文脈で述べられたと考えられます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 9,
-    "question": "2026年7月後半のGame Sparkのニュースで報じられた『GUNDAM ROGUE ORBIT』は、主人公機と敵の設定画が公開され、太陽系外から飛来したシリコン生命体との戦闘を描くとのことですが、このニュースが掲載された特集記事の目的は何ですか？",
-    "choices": [
-      "新作ゲームの紹介と期待感の醸成",
-      "ロボットゲーム市場の分析",
+      "新作ゲームの発表",
       "開発者のインタビュー",
-      "グラフィック技術の解説"
+      "60分以上の配信時間",
+      "過去作のセール情報"
     ],
-    "answer": "新作ゲームの紹介と期待感の醸成",
-    "explanation": "2026年7月後半のGame Sparkのニュースによると、『GUNDAM ROGUE ORBIT』は「26年7月後半にHOTな「ロボゲー」はこれだ！」という特集の中で、設定画公開という形で紹介されました。これは新作ゲームの注目度を高め、プレイヤーの期待感を醸成することを目的としています。"
+    "answer": "60分以上の配信時間",
+    "explanation": "2026年6月3日のニュースによると、State of Playは「Marvel's Wolverine」最新情報などを「60分以上」でお届けすると報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "2026年8月24日のニュースで、本日発売と報じられた『TATSUJIN EXTREME』は、どのような情報を伴って公開されましたか？",
+    "choices": [
+      "体験版の配信",
+      "開発者インタビュー",
+      "最新PV公開",
+      "限定版の特典"
+    ],
+    "answer": "最新PV公開",
+    "explanation": "2026年8月24日のニュースによると、『TATSUJIN EXTREME』の発売に合わせて、本作の魅力を紹介する最新PVが公開されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "2026年8月のニュースで、GameWithが『トモダチコレクションわくわく生活』のアップデート情報をまとめる際に使用したゲームの略称は何ですか？",
+    "choices": [
+      "トモコレ",
+      "わくコレ",
+      "トモ生",
+      "コレ活"
+    ],
+    "answer": "トモコレ",
+    "explanation": "2026年8月のニュースによると、「【トモコレ】アップデートの最新情報まとめ【トモダチコレクションわくわく生活】」という見出しで報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "2026年8月21日のニュースで、新発売が報じられた『ONE PIECEカードゲーム』のブースターパック「世界最強の戦士【OP-17】」のナンバリングは何ですか？",
+    "choices": [
+      "OP-10",
+      "OP-15",
+      "OP-17",
+      "OP-20"
+    ],
+    "answer": "OP-17",
+    "explanation": "2026年8月21日のニュースによると、ブースターパック 世界最強の戦士【OP-17】が新発売されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "2026年8月24日のニュースで、本日発売と報じられたSAOゲームシリーズ最新作『Echoes of Aincrad』は、どのような情報としてGAME Watchに掲載されましたか？",
+    "choices": [
+      "速報",
+      "ニュース",
+      "特集",
+      "レビュー"
+    ],
+    "answer": "ニュース",
+    "explanation": "2026年8月24日のニュースによると、「SAO」ゲームシリーズ最新作「Echoes of Aincrad」本日発売（GAME Watch）- Yahoo!ニュースと報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "2026年8月のニュースで、ファミ通が報じた『FGOフェス2026』の発表まとめは、FGOとどのような関連ニュースを一挙紹介しましたか？",
+    "choices": [
+      "アニメ関連",
+      "漫画関連",
+      "TYPE-MOON関連",
+      "グッズ関連"
+    ],
+    "answer": "TYPE-MOON関連",
+    "explanation": "2026年8月のニュースによると、『FGOフェス2026』ではゲーム最新情報やTYPE-MOON関連ニュースが一挙紹介されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "2026年7月後半のニュースで、「HOTな『ロボゲー』」として紹介された『GUNDAM ROGUE ORBIT』は、どのような敵との戦闘を描いていますか？",
+    "choices": [
+      "地球連邦軍",
+      "ジオン公国軍",
+      "シリコン生命体",
+      "異星人"
+    ],
+    "answer": "シリコン生命体",
+    "explanation": "2026年7月後半のニュースによると、『GUNDAM ROGUE ORBIT』は太陽系外から飛来したシリコン生命体との戦闘を描いています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "2026年6月2日のState of Playで、『真・三國無双2』に参戦が発表されたキャラクターは、どのような情報として報じられましたか？",
+    "choices": [
+      "新キャラクター",
+      "隠しキャラクター",
+      "追加DLCキャラクター",
+      "コラボキャラクター"
+    ],
+    "answer": "新キャラクター",
+    "explanation": "2026年6月2日のState of Playの発表によると、『真・三國無双2』に紫鸞が参戦すると報じられ、これは新キャラクターの参戦を意味します。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "2026年8月24日のニュースで、本日発売と報じられた「SAO」ゲームシリーズ最新作『Echoes of Aincrad』は、GAME Watchでどのような情報として公開されましたか？",
+    "choices": [
+      "本日発売",
+      "予約開始",
+      "開発中止",
+      "延期発表"
+    ],
+    "answer": "本日発売",
+    "explanation": "2026年8月24日のニュースによると、「SAO」ゲームシリーズ最新作「Echoes of Aincrad」が「本日発売」とGAME Watchで報じられました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "2026年6月2日のState of Playで発表された『エースコンバット8』の発売日決定、『真・三國無双2』に紫鸞参戦、完全新作『鬼武者』体験版配信について、ファミ通が報じた記事のタイトルに含まれる具体的な日付は何ですか？",
+    "question": "2026年7月後半のニュースで、Yahoo!ニュースが「HOTな『ロボゲー』はこれだ！」として紹介した『GUNDAM ROGUE ORBIT』は、どのゲーム情報サイトからの提供情報でしたか？",
     "choices": [
-      "June 1, 2026",
-      "June 2, 2026",
-      "June 9, 2026",
-      "July 2, 2026"
+      "ファミ通",
+      "Game Spark",
+      "電撃オンライン",
+      "IGN JAPAN"
     ],
-    "answer": "June 2, 2026",
-    "explanation": "2026年6月2日のファミ通のニュースによると、「State of Play新発表まとめ。【ステートオブプレイ June 2, 2026】」として報じられました。"
+    "answer": "Game Spark",
+    "explanation": "2026年7月後半のニュースによると、『GUNDAM ROGAM ORBIT』のニュースは「（Game Spark） - Yahoo!ニュース」として報じられました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "2026年8月のGameWithのニュースで、最新イベント情報がまとめられている「怪獣8号ゲーム」は、今後のイベント情報をどのような形式で提供し続けていくと推測されますか？",
+    "question": "2026年6月2日のState of Playの発表で、完全新作『鬼武者』の体験版配信が発表されましたが、この発表のまとめ記事はどのメディアで報じられましたか？",
     "choices": [
-      "月刊誌での連載",
-      "テレビ番組での発表",
-      "ウェブサイトでの定期更新",
-      "SNSでのゲリラ発表"
+      "ファミ通",
+      "GAME Watch",
+      "電撃オンライン",
+      "IGN JAPAN"
     ],
-    "answer": "ウェブサイトでの定期更新",
-    "explanation": "2026年8月のGameWithのニュースによると、『怪獣8号ゲーム』の「最新イベント情報まとめ」が提供されています。GameWithはゲーム情報サイトであり、「まとめ」という形式から、ウェブサイトで定期的に情報が更新されていくと推測されます。"
+    "answer": "ファミ通",
+    "explanation": "2026年6月2日のState of Playの発表によると、「State of Play新発表まとめ」がファミ通で報じられました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "2026年8月のGameWithのニュースで、開発者ノートが公開された『セブンナイツ リバース』は、この情報を通じてどのようなプレイヤーとの関係構築を目指していると解釈できますか？",
+    "question": "2026年8月のニュースで、ゲーム『進撃の巨人３』の発売決定が報じられましたが、このゲームはどの公式サイトで発表されましたか？",
     "choices": [
-      "一方的な情報提供",
-      "双方向のコミュニケーション",
-      "開発の透明性の向上",
-      "ゲームの批判を受け入れる姿勢"
+      "shingeki.com",
+      "koei.com",
+      "gamecity.ne.jp",
+      "attackontitan.jp"
     ],
-    "answer": "開発の透明性の向上",
-    "explanation": "2026年8月のGameWithのニュースによると、『セブンナイツ リバース』の最新アップデート情報として「開発者ノート」が公開されました。開発者ノートは、開発の裏側や意図をプレイヤーに伝えることで、ゲーム開発の透明性を高め、プレイヤーとの信頼関係を築くことを目指していると解釈できます。"
+    "answer": "gamecity.ne.jp",
+    "explanation": "2026年8月のニュースによると、『進撃の巨人３』の発売決定はgamecity.ne.jpで報じられました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "2026年8月のファミ通のニュースで、『FGOフェス2026』の発表まとめが報じられましたが、このイベントは具体的にどのような種類のコンテンツに関する最新情報を扱いましたか？",
+    "question": "2026年8月のニュースで、オリコンニュースが報じた『キングダム ハーツIV』の発表は、どのゲーム機の次世代機が含まれる形で報じられましたか？",
     "choices": [
-      "アニメ作品のみ",
-      "ゲーム作品のみ",
-      "ゲームとTYPE-MOON関連作品",
-      "映画と舞台"
+      "Xbox Series X",
+      "Nintendo Switch2",
+      "PlayStation 6",
+      "PC"
     ],
-    "answer": "ゲームとTYPE-MOON関連作品",
-    "explanation": "2026年8月のファミ通のニュースによると、『FGOフェス2026』では「ゲーム最新情報やTYPE-MOON関連ニュース」が一挙紹介されました。"
+    "answer": "Nintendo Switch2",
+    "explanation": "2026年8月のニュースによると、『キングダム ハーツIV』は「Switch2やPS5など」で発売されると発表されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "2026年8月のgamecity.ne.jpのニュースで発売決定が発表された『進撃の巨人３』は、「進撃の巨人」の物語を最初から最後まで描く集大成とされていますが、このゲームが対象としている原作のメディアは何ですか？",
+    "question": "2026年6月3日のState of Playの配信情報がGAME Watchで報じられましたが、この配信の具体的な開始時間は何時何分でしたか？",
     "choices": [
-      "漫画版",
-      "アニメ版",
-      "実写映画版",
-      "小説版"
+      "午前6時00分",
+      "午前6時30分",
+      "午前7時00分",
+      "午前7時30分"
     ],
-    "answer": "漫画版",
-    "explanation": "2026年8月のgamecity.ne.jpのニュースによると、『進撃の巨人３』は「進撃の巨人」の物語を最初から最後まで描く集大成と発表されました。特に指定がない場合、「物語」は原作漫画のストーリーを指すのが一般的です。"
+    "answer": "午前6時00分",
+    "explanation": "2026年6月3日のニュースによると、「State of Play」は「6月3日6時から」配信されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "2026年8月のYahoo!ニュースで、埼玉新聞が報じた「ゲーム依存、若年層は１０％」というニュースは、どのような媒体の情報を引用してYahoo!ニュースで再報されましたか？",
+    "question": "2026年8月のニュースで、GameWithが『トモダチコレクションわくわく生活』のアップデート情報をまとめた際、見出しに含まれていたサブタイトルは何ですか？",
     "choices": [
-      "テレビニュース",
-      "地方新聞",
-      "専門誌",
-      "インターネット記事"
+      "~新生活~",
+      "~みんなの毎日~",
+      "~わくわく生活~",
+      "~島の日常~"
     ],
-    "answer": "地方新聞",
-    "explanation": "2026年8月のYahoo!ニュースによると、「埼玉新聞」が「ゲーム依存、若年層は１０％」と報じました。埼玉新聞は地方新聞にあたります。"
+    "answer": "~わくわく生活~",
+    "explanation": "2026年8月のニュースによると、「【トモコレ】アップデートの最新情報まとめ【トモダチコレクションわくわく生活】」という見出しで報じられました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "2026年8月23日に本日発売と報じられた「TATSUJIN EXTREME」は、GAME Watchのニュース記事で「本作の魅力を紹介する最新PV公開」と報じられましたが、このPVはどのような媒体で視聴可能と推測されますか？",
+    "question": "2026年8月のニュースで、埼玉新聞が報じた若年層のゲーム依存10%という数値は、どのような調査の結果として提示されましたか？",
     "choices": [
-      "テレビCM限定",
-      "劇場公開のみ",
-      "YouTubeなどの動画共有サイト",
-      "ゲーム機本体のストア"
+      "全国調査",
+      "地域限定調査",
+      "国際共同調査",
+      "専門家による推定"
     ],
-    "answer": "YouTubeなどの動画共有サイト",
-    "explanation": "2026年8月のGAME Watchのニュースによると、「TATSUJIN EXTREME」の発売に合わせて「最新PV公開」と報じられました。現代のゲームのPVは通常、YouTubeなどの動画共有サイトで視聴可能となります。"
+    "answer": "地域限定調査",
+    "explanation": "2026年8月の埼玉新聞のニュースによると、「ゲーム依存、若年層は１０％ - 埼玉新聞」と報じられており、埼玉という地域名が特定されているため、地域限定調査の結果と推測されます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "2026年8月のONE PIECE.comのニュースで、ONE PIECEカードゲームの特報が解禁された『ONE PIECE DAY’26』は、どのようなコンテンツの最新情報を一挙に発表するイベントとして知られていますか？",
+    "question": "2026年8月24日のニュースで、本日発売と報じられた『TATSUJIN EXTREME』の魅力を紹介する最新PVが公開されましたが、これはどのメディアで報じられましたか？",
     "choices": [
-      "アニメのみ",
-      "漫画のみ",
-      "アニメ、漫画、ゲーム、グッズなどIP全体",
-      "映画のみ"
+      "ファミ通",
+      "GAME Watch",
+      "電撃オンライン",
+      "IGN JAPAN"
     ],
-    "answer": "アニメ、漫画、ゲーム、グッズなどIP全体",
-    "explanation": "2026年8月のONE PIECE.comのニュースで『ONE PIECE DAY’26』でのONE PIECEカードゲームの特報が報じられました。ONE PIECE DAYは、原作漫画、アニメ、映画、ゲーム、グッズなど、「ONE PIECE」の知的財産（IP）全体に関する最新情報を一挙に発表する総合イベントとして知られています。"
+    "answer": "GAME Watch",
+    "explanation": "2026年8月24日のニュースによると、シリーズ最新作「TATSUJIN EXTREME」本日発売。本作の魅力を紹介する最新PV公開（GAME Watch）と報じられました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "2026年8月のYahoo!ニュースで、宮崎英高氏がSwitch2向けフロム最新作「ダスクブラッド」について語った「直接殴り合う以外でも勝てるゲームにしたい」という発言は、フロム・ソフトウェアのゲーム開発におけるどのような進化を示唆していますか？",
+    "question": "2026年8月のニュースで、『FGOフェス2026』の発表まとめがファミ通で紹介されましたが、このイベントはFGOの何周年記念として位置づけられていますか？",
     "choices": [
-      "ストーリーテリングへの注力",
-      "グラフィックのリアリズム追求",
-      "ゲームプレイの多様性とアクセシビリティの向上",
-      "オンラインマルチプレイの強化"
+      "5周年",
+      "10周年",
+      "11周年",
+      "15周年"
     ],
-    "answer": "ゲームプレイの多様性とアクセシビリティの向上",
-    "explanation": "2026年8月のYahoo!ニュースによると、宮崎英高氏はフロム最新作「ダスクブラッド」について「直接殴り合う以外でも勝てるゲームにしたい」と語りました。これは、従来のフロム作品のイメージとは異なる、より多様な攻略方法や、それによって幅広いプレイヤーが楽しめるようなアクセシビリティの向上を目指していることを示唆しています。"
+    "answer": "11周年",
+    "explanation": "2026年8月のニュースによると、『FGOフェス2026』は「11th Anniversary～」として開催されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "2026年7月後半のGame Sparkのニュースで報じられた『GUNDAM ROGUE ORBIT』は、主人公機と敵の設定画が公開され、太陽系外から飛来したシリコン生命体との戦闘を描くとのことですが、このゲームの「ROGUE ORBIT」というタイトルは、どのようなゲームコンセプトを連想させますか？",
+    "question": "2026年8月24日のニュースで、本日発売と報じられた「SAO」ゲームシリーズ最新作『Echoes of Aincrad』は、どのメディアによって報じられましたか？",
     "choices": [
-      "正規軍による大規模作戦",
-      "宇宙を舞台にした探索と戦闘",
-      "惑星間貿易",
-      "地球防衛戦"
+      "ファミ通",
+      "GAME Watch",
+      "電撃オンライン",
+      "IGN JAPAN"
     ],
-    "answer": "宇宙を舞台にした探索と戦闘",
-    "explanation": "2026年7月後半のGame Sparkのニュースで『GUNDAM ROGUE ORBIT』が「太陽系外から飛来したシリコン生命体との戦闘を描く」と報じられました。「ROGUE ORBIT（ならず者の軌道）」というタイトルは、宇宙を舞台にした自由な探索や、正規の軌道から外れた場所での戦闘を連想させます。"
+    "answer": "GAME Watch",
+    "explanation": "2026年8月24日のニュースによると、「SAO」ゲームシリーズ最新作「Echoes of Aincrad」本日発売（GAME Watch）と報じられました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "2026年6月2日のState of Playで発表された『エースコンバット8』の発売日決定、『真・三國無双2』に紫鸞参戦、完全新作『鬼武者』体験版配信について、ファミ通のニュース記事はこれらの情報が「一挙紹介」されたと報じていますが、これはどのような記事構成を示唆していますか？",
+    "question": "2026年8月21日のニュースで、明日8月22日(土)に新発売と報じられた『ONE PIECEカードゲーム』のブースターパック「世界最強の戦士【OP-17】」は、どのような情報としてONE PIECE.comで報じられましたか？",
     "choices": [
-      "個別の詳細記事",
-      "単一の記事で複数の情報をまとめる",
-      "速報と後日詳細記事",
-      "開発者インタビュー中心の記事"
+      "イベント告知",
+      "製品発売情報",
+      "キャンペーン情報",
+      "大会情報"
     ],
-    "answer": "単一の記事で複数の情報をまとめる",
-    "explanation": "2026年6月2日のファミ通のニュースによると、「State of Play新発表まとめ。」の記事内でこれらの情報が「一挙紹介」されたと報じられています。これは、単一の記事で複数の発表内容をまとめて紹介する構成を示唆しています。"
+    "answer": "製品発売情報",
+    "explanation": "2026年8月21日のニュースによると、「ONE PIECEカードゲーム 最新情報」としてブースターパック「世界最強の戦士【OP-17】」の新発売が報じられました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "2026年8月のGameWithのニュースで、最新イベント情報がまとめられている「怪獣8号ゲーム」は、どのようなゲームの最新情報を効率的にユーザーに届けるための手法として「まとめ」形式を採用していると考えられますか？",
+    "question": "2026年8月のニュースで、GameWithが紹介したSwitchのゲームニュースの使い方において、ユーザーが有効活用すべき情報源は何と説明されていますか？",
     "choices": [
-      "ユーザーからの情報提供",
-      "ゲーム内の複雑なシステム解説",
-      "リアルタイムでの情報更新",
-      "膨大な情報量の整理と要約"
+      "非公式のブログ",
+      "公式の最新情報",
+      "SNSの投稿",
+      "友人からの口コミ"
     ],
-    "answer": "膨大な情報量の整理と要約",
-    "explanation": "2026年8月のGameWithのニュースで『怪獣8号ゲーム』の「最新イベント情報まとめ」が提供されています。ゲーム攻略サイトにおける「まとめ」は、日々更新される膨大なゲーム情報をユーザーが効率的に把握できるよう、整理・要約して提供するための手法です。"
+    "answer": "公式の最新情報",
+    "explanation": "2026年8月のニュースによると、GameWithは「Switchのゲームニュースの使い方！公式の最新情報を有効活用する方法」を紹介しました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "2026年8月のGameWithのニュースで、開発者ノートが公開された『セブンナイツ リバース』は、この情報を通じてプレイヤーにどのような長期的な視点を提供しようとしていますか？",
+    "question": "2026年8月のニュースで、埼玉新聞が報じた若年層のゲーム依存10%という数値は、どのような性質の調査結果と推測されますか？",
     "choices": [
-      "ゲームの短期的な目標",
-      "ゲームの最終的なサービス終了",
-      "将来のアップデート計画とビジョン",
-      "過去のゲームの成功事例"
+      "予備調査",
+      "本調査",
+      "速報値",
+      "暫定値"
     ],
-    "answer": "将来のアップデート計画とビジョン",
-    "explanation": "2026年8月のGameWithのニュースによると、『セブンナイツ リバース』の最新アップデート情報として「開発者ノート」が公開されました。開発者ノートは、単なる現状報告だけでなく、今後のアップデート計画やゲームの長期的なビジョンをプレイヤーに提示することで、ゲームの将来に対する期待感を高める目的があります。"
+    "answer": "本調査",
+    "explanation": "2026年8月の埼玉新聞のニュースによると、「ゲーム依存、若年層は１０％」と具体的な数値が報じられており、これは本調査の結果であると推測されます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "2026年8月のファミ通のニュースで、『FGOフェス2026』が「11th Anniversary～」として発表まとめが報じられましたが、このイベントの開催は、FGOというゲームがどのようなファンベースを築いていることを示唆していますか？",
+    "question": "2026年6月2日のState of Playで、体験版配信が発表された完全新作『鬼武者』は、どのようなゲームシリーズとして知られていますか？",
     "choices": [
-      "一時的なブーム",
-      "ニッチな層に特化",
-      "幅広い層に支持される大規模なファンベース",
-      "特定の地域限定のファンベース"
+      "アクションRPG",
+      "サバイバルホラー",
+      "戦国アクション",
+      "格闘ゲーム"
     ],
-    "answer": "幅広い層に支持される大規模なファンベース",
-    "explanation": "2026年8月のファミ通のニュースによると、『FGOフェス2026』は『11th Anniversary～』として発表まとめが報じられ、ゲーム最新情報やTYPE-MOON関連ニュースが一挙紹介されました。11周年という長期運営で大規模なイベントが開催されることは、FGOが幅広い層に支持される強固なファンベースを築いていることを示唆しています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 9,
-    "question": "2026年8月のgamecity.ne.jpのニュースで発売決定が発表された『進撃の巨人３』は、「進撃の巨人」の物語を最初から最後まで描く集大成とされていますが、これはゲームのどのような要素が最も重要視されていると解釈できますか？",
-    "choices": [
-      "キャラクターデザイン",
-      "音楽",
-      "ストーリーの忠実な再現",
-      "操作性"
-    ],
-    "answer": "ストーリーの忠実な再現",
-    "explanation": "2026年8月のgamecity.ne.jpのニュースによると、『進撃の巨人３』は「進撃の巨人」の物語を最初から最後まで描く集大成と発表されました。これは、原作ストーリーの忠実な再現がゲーム開発において最も重要視されていることを示唆しています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 9,
-    "question": "2026年8月のYahoo!ニュースで、埼玉新聞が報じた「ゲーム依存、若年層は１０％」というニュースは、ゲーム依存問題に対するどのような社会的な行動を促す可能性が最も高いですか？",
-    "choices": [
-      "ゲームの販売禁止",
-      "ゲーム時間の規制強化",
-      "予防と治療の啓発",
-      "ゲームの推奨"
-    ],
-    "answer": "予防と治療の啓発",
-    "explanation": "2026年8月のYahoo!ニュースで、埼玉新聞が「ゲーム依存、若年層は１０％」と報じたニュースは、若年層におけるゲーム依存の現状を数値で示すことで、この問題に対する予防策の啓発や、依存に陥った場合の治療の必要性について、社会的な行動を促す可能性が最も高いです。"
+    "answer": "戦国アクション",
+    "explanation": "2026年6月2日のState of Playの発表によると、完全新作『鬼武者』の体験版配信が発表されました。鬼武者シリーズは戦国時代を舞台としたアクションゲームです。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "2026年8月23日に本日発売と報じられた「TATSUJIN EXTREME」は、GAME Watchのニュースで「シリーズ最新作」と紹介されましたが、この「TATSUJIN」シリーズの源流となるゲームジャンルは何ですか？",
+    "question": "2026年7月後半のニュースで、「HOTな『ロボゲー』」として紹介された『GUNDAM ROGUE ORBIT』は、主人公機と敵の設定画が公開されましたが、その敵は太陽系外から飛来した何という存在でしたか？",
     "choices": [
-      "ベルトスクロールアクション",
-      "対戦格闘",
-      "縦スクロールシューティング",
-      "パズルゲーム"
+      "宇宙海賊",
+      "異星人",
+      "シリコン生命体",
+      "機械生命体"
     ],
-    "answer": "縦スクロールシューティング",
-    "explanation": "2026年8月のGAME Watchのニュースによると、「TATSUJIN EXTREME」が本日発売されました。「TATSUJIN（達人）」は、縦スクロールシューティングゲームの古典的なシリーズです。"
+    "answer": "シリコン生命体",
+    "explanation": "2026年7月後半のニュースによると、『GUNDAM ROGUE ORBIT』は太陽系外から飛来したシリコン生命体との戦闘を描いています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "2026年8月22日に新発売されたONE PIECEカードゲームのブースターパック「世界最強の戦士【OP-17】」の発売を報じたONE PIECE.comのニュースは、記事の公開日を考慮すると、この情報公開はONE PIECE DAY’26での特報とどのように関連していると推測されますか？",
+    "question": "2026年6月2日のState of Playで、発売日決定が発表された『エースコンバット8』は、どのゲームメーカーの代表的なシリーズですか？",
     "choices": [
-      "全くの別件",
-      "特報の続報",
-      "特報の事前情報",
-      "特報を否定する内容"
+      "カプコン",
+      "バンダイナムコエンターテインメント",
+      "スクウェア・エニックス",
+      "セガ"
     ],
-    "answer": "特報の続報",
-    "explanation": "2026年8月のONE PIECE.comのニュースによると、『ONE PIECE DAY’26』にて特報が解禁され、その後「明日8月22日(土)にブースターパック 世界最強の戦士【OP-17】が新発売！」と報じられました。特報で何らかの発表があり、その詳細がブースターパックとして発売されたと考えるのが自然であり、これは特報の続報にあたります。"
+    "answer": "バンダイナムコエンターテインメント",
+    "explanation": "2026年6月2日のState of Playの発表によると、『エースコンバット8』の発売日決定が報じられました。エースコンバットはバンダイナムコエンターテインメントの代表的なシリーズです。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "2026年8月のYahoo!ニュースで、宮崎英高氏がSwitch2向けフロム最新作「ダスクブラッド」について語った「直接殴り合う以外でも勝てるゲームにしたい」という発言は、過去のフロム・ソフトウェアの作品のプレイスタイルと比べて、どのような変化を示唆していますか？",
+    "question": "2026年8月のニュースで、ゲーム『進撃の巨人３』の発売決定が報じられましたが、このゲームは「進撃の巨人」の物語のどのような側面を強調した集大成と表現されていますか？",
     "choices": [
-      "より線形なストーリー",
-      "アクション要素の削減",
-      "多様な攻略アプローチの導入",
-      "難易度の大幅な低下"
+      "アクション要素",
+      "キャラクターの成長",
+      "物語の全体像",
+      "グラフィックの美しさ"
     ],
-    "answer": "多様な攻略アプローチの導入",
-    "explanation": "2026年8月のYahoo!ニュースによると、宮崎英高氏はフロム最新作「ダスクブラッド」について「直接殴り合う以外でも勝てるゲームにしたい」と語りました。これは、従来のフロム作品の多くが直接的な戦闘を主体としていたのに対し、より多様な攻略アプローチや非戦闘的な解決策を導入することを示唆しています。"
+    "answer": "物語の全体像",
+    "explanation": "2026年8月のニュースによると、ゲーム『進撃の巨人３』は「物語を最初から最後まで描く集大成」とされており、物語の全体像を強調しています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "2026年7月後半のGame Sparkのニュースで報じられた『GUNDAM ROGUE ORBIT』は、太陽系外から飛来したシリコン生命体との戦闘を描くとのことですが、この「シリコン生命体」という設定は、ガンダムシリーズの過去作品における敵対勢力と比べてどのような点で新規性がありますか？",
+    "question": "2026年8月のニュースで、若年層のゲーム依存の割合が10%と報じられましたが、この情報はどの新聞社から提供されましたか？",
     "choices": [
-      "地球連邦軍の派閥",
-      "異星人との接触",
-      "コロニー住民の反乱",
-      "AIの暴走"
+      "読売新聞",
+      "朝日新聞",
+      "埼玉新聞",
+      "日本経済新聞"
     ],
-    "answer": "異星人との接触",
-    "explanation": "2026年7月後半のGame Sparkのニュースによると、『GUNDAM ROGUE ORBIT』は太陽系外から飛来したシリコン生命体との戦闘を描きます。従来のガンダムシリーズの多くの敵は地球圏内の人間が中心であり、「太陽系外から飛来したシリコン生命体」という設定は、異星人との本格的な接触を描くという点で新規性があります。"
+    "answer": "埼玉新聞",
+    "explanation": "2026年8月の埼玉新聞のニュースによると、「ゲーム依存、若年層は１０％ - 埼玉新聞」と報じられました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "2026年6月2日のState of Playで発表された『真・三國無双2』に参戦が決定した紫鸞は、ファミ通のニュース記事の見出しではどのように紹介されましたか？",
+    "question": "2026年8月のニュースで、オリコンニュースが報じた『キングダム ハーツIV』の発表は、どのゲームシリーズの最新作として特に注目されていますか？",
     "choices": [
-      "新武将 紫鸞 登場",
-      "紫鸞、ついに参戦",
-      "『真・三國無双2』に紫鸞参戦",
-      "謎の美少女 紫鸞"
+      "ファイナルファンタジー",
+      "キングダム ハーツ",
+      "ブレイブリーデフォルト",
+      "すばらしきこのせかい"
     ],
-    "answer": "『真・三國無双2』に紫鸞参戦",
-    "explanation": "2026年6月2日のファミ通のニュースによると、「State of Play新発表まとめ。」の記事内で「『真・三國無双2』に紫鸞参戦」という具体的な見出しが使われています。"
+    "answer": "キングダム ハーツ",
+    "explanation": "2026年8月のニュースによると、『キングダム ハーツ』シリーズ最新作発表として『キングダム ハーツIV』が報じられました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "2026年8月のGameWithのニュースで、最新アップデート情報がまとめられている「怪獣8号ゲーム」の【怪獣8G】という略称は、GameWithのサイト内でどのような目的で使われている可能性が最も高いですか？",
+    "question": "2026年6月3日のState of Playの配信情報がGAME Watchで報じられましたが、この配信の主な見どころとして「Marvel's Wolverine」の他に挙げられたのは何ですか？",
     "choices": [
-      "読者の検索利便性向上",
-      "著作権回避",
-      "記事の文字数削減",
-      "ゲームの知名度向上"
+      "新作発表の数",
+      "配信時間の長さ",
+      "開発者の豪華さ",
+      "サプライズ発表の多さ"
     ],
-    "answer": "読者の検索利便性向上",
-    "explanation": "2026年8月のGameWithのニュースによると、【怪獣8号ゲーム】の最新アップデート情報が【怪獣8G】という形で記事のタイトルや見出しに含まれています。ゲーム攻略サイトでは、略称を使うことで読者がより素早く情報を探し出せるよう、検索利便性を高める目的で使われることが多いです。"
+    "answer": "配信時間の長さ",
+    "explanation": "2026年6月3日のニュースによると、State of Playは「Marvel's Wolverine」最新情報などを「60分以上」でお届けすると報じられ、配信時間の長さも注目点でした。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "2026年8月のGameWithのニュースで、開発者ノートが公開された『セブンナイツ リバース』は、この情報を通じてプレイヤーにどのような行動を期待していると解釈できますか？",
+    "question": "2026年8月24日のニュースで、本日発売と報じられた『TATSUJIN EXTREME』は、どのメディアでその魅力が紹介されましたか？",
     "choices": [
-      "課金を促す",
-      "ゲームへの継続的なプレイ",
-      "SNSでの情報拡散",
-      "開発チームへの直接的なフィードバック"
+      "ファミ通",
+      "GAME Watch",
+      "電撃オンライン",
+      "IGN JAPAN"
     ],
-    "answer": "ゲームへの継続的なプレイ",
-    "explanation": "2026年8月のGameWithのニュースによると、『セブンナイツ リバース』の最新アップデート情報として「開発者ノート」が公開されました。開発者ノートで今後の展望や改善点を伝えることは、プレイヤーにゲームの将来性を示し、継続的なプレイを促すことを期待していると解釈できます。"
+    "answer": "GAME Watch",
+    "explanation": "2026年8月24日のニュースによると、シリーズ最新作「TATSUJIN EXTREME」本日発売。本作の魅力を紹介する最新PV公開（GAME Watch）と報じられました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "2026年8月のファミ通のニュースで、『FGOフェス2026』が「11th Anniversary～」として発表まとめが報じられましたが、このイベントの開催時期は、FGOがサービス開始された時期と関連してどのように設定されていると推測できますか？",
+    "question": "2026年8月のニュースで、GameWithが『トモダチコレクションわくわく生活』のアップデート情報をまとめる際に、記事タイトルに含めたゲームの正式名称は何ですか？",
     "choices": [
-      "サービス開始日とは無関係",
-      "サービス開始日とほぼ同時期",
-      "サービス開始日の半年後",
-      "サービス開始日の数ヶ月前倒し"
+      "トモダチコレクション",
+      "トモダチコレクション 新生活",
+      "トモダチコレクション わくわく生活",
+      "トモダチコレクション DX"
     ],
-    "answer": "サービス開始日とほぼ同時期",
-    "explanation": "2026年8月のファミ通のニュースによると、『FGOフェス2026』は『11th Anniversary～』として発表まとめが報じられました。アニバーサリーイベントは通常、ゲームのサービス開始日、またはそれに近い時期に合わせて開催されるため、FGOのサービス開始日も8月頃であると推測できます。"
+    "answer": "トモダチコレクション わくわく生活",
+    "explanation": "2026年8月のニュースによると、「【トモコレ】アップデートの最新情報まとめ【トモダチコレクションわくわく生活】」というタイトルで報じられました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "2026年8月のgamecity.ne.jpのニュースで発売決定が発表された『進撃の巨人３』は、「進撃の巨人」の物語を最初から最後まで描く集大成とされていますが、これはどのようなゲームプレイの形式を示唆していますか？",
+    "question": "2026年8月21日のニュースで、明日8月22日(土)に新発売と報じられた『ONE PIECEカードゲーム』のブースターパック「世界最強の戦士【OP-17】」は、どのような情報カテゴリでONE PIECE.comに掲載されましたか？",
     "choices": [
-      "オープンワールドRPG",
-      "ストーリー主導型アクション",
-      "マルチプレイヤーPvP",
-      "リズムアクションゲーム"
+      "商品情報",
+      "イベント情報",
+      "最新情報",
+      "キャンペーン情報"
     ],
-    "answer": "ストーリー主導型アクション",
-    "explanation": "2026年8月のgamecity.ne.jpのニュースによると、『進撃の巨人３』は「進撃の巨人」の物語を最初から最後まで描く集大成と発表されました。これは、原作のストーリーを忠実に追体験する、ストーリー主導型のアクションゲームプレイを示唆しています。"
+    "answer": "最新情報",
+    "explanation": "2026年8月21日のニュースによると、「ONE PIECEカードゲーム 最新情報」としてブースターパック「世界最強の戦士【OP-17】」の新発売が報じられました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "2026年8月のYahoo!ニュースで、埼玉新聞が報じた「ゲーム依存、若年層は１０％」というニュースは、ゲーム依存という問題に対してどのような社会的視点を提供していると考えられますか？",
+    "question": "2026年8月24日のニュースで、本日発売と報じられたSAOゲームシリーズ最新作『Echoes of Aincrad』は、どのような情報としてGAME Watchに掲載されましたか？",
     "choices": [
-      "娯楽としてのゲームの重要性",
-      "経済成長への貢献",
-      "健康と教育への影響",
-      "テクノロジーの進歩"
+      "レビュー記事",
+      "開発者インタビュー",
+      "発売日告知",
+      "攻略情報"
     ],
-    "answer": "健康と教育への影響",
-    "explanation": "2026年8月のYahoo!ニュースで、埼玉新聞が「ゲーム依存、若年層は１０％」と報じた見出しは、若年層のゲーム利用が過度になることで生じる健康や教育、日常生活への悪影響という社会的視点を提供していると考えられます。"
+    "answer": "発売日告知",
+    "explanation": "2026年8月24日のニュースによると、「SAO」ゲームシリーズ最新作「Echoes of Aincrad」本日発売（GAME Watch）と報じられ、発売日を告知する内容でした。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "2026年8月23日に本日発売と報じられた「TATSUJIN EXTREME」は、GAME Watchのニュース記事で「本作の魅力を紹介する最新PV公開」と報じられましたが、この「魅力を紹介する」という表現は、どのようなマーケティング戦略の一環として位置づけられますか？",
+    "question": "2026年6月9日に開催された「ニンテンドーダイレクト」の発表内容まとめがYahoo!ニュースで報じられましたが、このニュースはどの組織によって提供されましたか？",
     "choices": [
-      "製品の品質保証",
-      "ターゲット層へのアピール",
-      "競合他社との差別化",
-      "開発費の回収"
+      "任天堂",
+      "GAME Watch",
+      "Yahoo!ニュース編集部",
+      "ファミ通"
     ],
-    "answer": "ターゲット層へのアピール",
-    "explanation": "2026年8月のGAME Watchのニュースによると、「TATSUJIN EXTREME」の発売に合わせて「本作の魅力を紹介する最新PV」が公開されました。「魅力を紹介する」という表現は、ゲームのターゲット層に対して、ゲームの楽しさや独自性を伝え、購入意欲を高めるためのマーケティング戦略の一環です。"
+    "answer": "GAME Watch",
+    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」発表内容まとめは（GAME Watch）提供としてYahoo!ニュースで報じられました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "2026年8月のONE PIECE.comのニュースで、ONE PIECEカードゲームのブースターパック「世界最強の戦士【OP-17】」が新発売されましたが、このパックの発売は、ONE PIECEというIPのどのような戦略的展開の一部と捉えられますか？",
+    "question": "2026年6月2日のState of Playで、体験版配信が発表された完全新作の『鬼武者』は、どのゲームメーカーのIPですか？",
     "choices": [
-      "アニメの放送終了",
-      "漫画の完結",
-      "メディアミックス戦略",
-      "ゲーム事業からの撤退"
+      "スクウェア・エニックス",
+      "カプコン",
+      "バンダイナムコエンターテインメント",
+      "コーエーテクモゲームス"
     ],
-    "answer": "メディアミックス戦略",
-    "explanation": "2026年8月のONE PIECE.comのニュースでONE PIECEカードゲームのブースターパック新発売が報じられました。ONE PIECEは漫画、アニメ、映画、ゲーム、カードゲームなど多岐にわたるメディアで展開されており、カードゲームの発売もそのメディアミックス戦略の一環と捉えられます。"
+    "answer": "カプコン",
+    "explanation": "2026年6月2日のState of Playの発表によると、完全新作『鬼武者』の体験版配信が発表されました。鬼武者シリーズはカプコンのIPです。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "2026年8月のYahoo!ニュースで、宮崎英高氏がSwitch2向けフロム最新作「ダスクブラッド」について語った「直接殴り合う以外でも勝てるゲームにしたい」という発言は、フロム・ソフトウェアが今後開発するゲームの難易度設定にどのような影響を与える可能性がありますか？",
+    "question": "2026年8月24日のニュースで、本日発売と報じられた『TATSUJIN EXTREME』の「EXREME」という副題は、どのような特徴を示唆していますか？",
     "choices": [
-      "難易度を大幅に上げる",
-      "難易度を大幅に下げる",
-      "難易度の選択肢を増やす",
-      "難易度を固定する"
+      "カジュアル性",
+      "高難易度",
+      "ストーリー重視",
+      "多人数プレイ"
     ],
-    "answer": "難易度の選択肢を増やす",
-    "explanation": "2026年8月のYahoo!ニュースによると、宮崎英高氏はフロム最新作「ダスクブラッド」について「直接殴り合う以外でも勝てるゲームにしたい」と語りました。これは、単に難易度を上げ下げするのではなく、プレイヤーが様々な方法でゲームを攻略できるような、難易度に対するアプローチの選択肢を増やすことを示唆していると考えられます。"
+    "answer": "高難易度",
+    "explanation": "2026年8月24日のニュースによると、シリーズ最新作『TATSUJIN EXTREME』が本日発売と報じられました。「EXTREME」という副題は、一般的にゲームにおいて高難易度や過激な要素を示唆します。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "2026年7月後半のGame Sparkのニュースで報じられた『GUNDAM ROGUE ORBIT』は、主人公機と敵の設定画が公開され、太陽系外から飛来したシリコン生命体との戦闘を描くとのことですが、この「シリコン生命体」という設定は、ガンダムシリーズのどのようなテーマ性を深める可能性がありますか？",
+    "question": "2026年8月21日のニュースで、明日8月22日(土)に新発売と報じられた『ONE PIECEカードゲーム』のブースターパック「世界最強の戦士【OP-17】」は、ONE PIECE.comでどのようなカテゴリに分類されていましたか？",
     "choices": [
-      "人類同士の争い",
-      "戦争の悲惨さ",
-      "異種族理解と共存の可能性",
-      "技術の暴走"
+      "アニメ",
+      "漫画",
+      "イベント",
+      "カードゲーム"
     ],
-    "answer": "異種族理解と共存の可能性",
-    "explanation": "2026年7月後半のGame Sparkのニュースで『GUNDAM ROGUE ORBIT』が「太陽系外から飛来したシリコン生命体との戦闘を描く」と報じられました。ガンダムシリーズは人類同士の戦争を描くことが多いですが、異星の生命体との戦闘という設定は、異種族間の理解や共存といった新たなテーマ性を深める可能性があります。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 10,
-    "question": "2026年6月2日のState of Playで発表された『エースコンバット8』の発売日決定、『真・三國無双2』に紫鸞参戦、完全新作『鬼武者』体験版配信について、ファミ通のニュース記事の見出し「State of Play新発表まとめ。」は、どのような情報提供の緊急性を示唆していますか？",
-    "choices": [
-      "数日後の詳細発表",
-      "即時性の高い速報",
-      "長期的な展望",
-      "過去の情報の再確認"
-    ],
-    "answer": "即時性の高い速報",
-    "explanation": "2026年6月2日のファミ通のニュースによると、「State of Play新発表まとめ。」という見出しが使われています。「まとめ」という言葉とイベント直後の報道であることから、発表された情報を迅速に、かつ網羅的に伝える即時性の高い速報としての性質を示唆しています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 10,
-    "question": "2026年8月のGameWithのニュースで、最新イベント情報がまとめられている「怪獣8号ゲーム」は、GameWithというサイトがどのような役割を果たすことを目的として情報を提供していると考えられますか？",
-    "choices": [
-      "ゲームの宣伝",
-      "開発者からの公式発表",
-      "ユーザーのゲーム体験のサポート",
-      "ゲーム業界の評論"
-    ],
-    "answer": "ユーザーのゲーム体験のサポート",
-    "explanation": "2026年8月のGameWithのニュースで『怪獣8号ゲーム』の「最新イベント情報まとめ」が提供されています。GameWithのような攻略サイトは、ゲームプレイヤーがゲームをより楽しむための情報（攻略、イベント、キャラデータなど）を提供することで、ユーザーのゲーム体験をサポートする役割を果たすことを目的としています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 10,
-    "question": "2026年8月のGameWithのニュースで、開発者ノートが公開された『セブンナイツ リバース』は、この情報を通じてプレイヤーにどのような参加意識を促そうとしていますか？",
-    "choices": [
-      "ゲームの評価を下す",
-      "開発プロセスへの間接的な参加",
-      "ゲームの改善提案を直接行う",
-      "新規ユーザーの誘致"
-    ],
-    "answer": "開発プロセスへの間接的な参加",
-    "explanation": "2026年8月のGameWithのニュースによると、『セブンナイツ リバース』の最新アップデート情報として「開発者ノート」が公開されました。開発者ノートは、開発の意図や今後の展望を共有することで、プレイヤーにゲーム開発の一部を理解させ、間接的に開発プロセスに参加しているかのような意識を促す効果があります。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 10,
-    "question": "2026年8月のファミ通のニュースで、『FGOフェス2026』が「11th Anniversary～」として発表まとめが報じられましたが、このイベントの開催は、FGOというゲームがどのような文化的な地位を確立していることを示唆していますか？",
-    "choices": [
-      "単なる娯楽コンテンツ",
-      "サブカルチャーの象徴",
-      "一時的な流行",
-      "ニッチなファン向け"
-    ],
-    "answer": "サブカルチャーの象徴",
-    "explanation": "2026年8月のファミ通のニュースによると、『FGOフェス2026』は『11th Anniversary～』として発表まとめが報じられ、ゲーム最新情報やTYPE-MOON関連ニュースが一挙紹介されました。11周年という長期運営と大規模なフェス開催は、FGOが単なるゲームを超え、日本のサブカルチャーにおける重要な象徴の一つとしての地位を確立していることを示唆しています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 10,
-    "question": "2026年8月のgamecity.ne.jpのニュースで発売決定が発表された『進撃の巨人３』は、「進撃の巨人」の物語を最初から最後まで描く集大成とされていますが、これはゲームの制作においてどのような課題に直面する可能性がありますか？",
-    "choices": [
-      "グラフィックの技術的な限界",
-      "声優のキャスティング",
-      "長大な原作をゲームとして破綻なくまとめる",
-      "オンライン機能の実装"
-    ],
-    "answer": "長大な原作をゲームとして破綻なくまとめる",
-    "explanation": "2026年8月のgamecity.ne.jpのニュースによると、『進撃の巨人３』は「進撃の巨人」の物語を最初から最後まで描く集大成と発表されました。原作が長大な物語であるため、それをゲームとして破綻なくまとめ、かつゲームとしての面白さを両立させることは、制作において非常に大きな課題となります。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 10,
-    "question": "2026年8月のYahoo!ニュースで、埼玉新聞が報じた「ゲーム依存、若年層は１０％」というニュースは、どのような社会的な議論を喚起する可能性がありますか？",
-    "choices": [
-      "ゲームの教育的利用",
-      "ゲーム業界の倫理的責任",
-      "ゲームによる経済効果",
-      "ゲームの芸術性"
-    ],
-    "answer": "ゲーム業界の倫理的責任",
-    "explanation": "2026年8月のYahoo!ニュースで、埼玉新聞が「ゲーム依存、若年層は１０％」と報じたニュースは、若年層のゲーム依存という問題に対し、ゲームを提供する業界がどのような倫理的責任を負うべきか、という社会的な議論を喚起する可能性があります。"
+    "answer": "カードゲーム",
+    "explanation": "2026年8月21日のニュースによると、「ONE PIECEカードゲーム 最新情報」としてブースターパック「世界最強の戦士【OP-17】」の新発売が報じられました。"
   },
   {
     "category": "世界情勢",
