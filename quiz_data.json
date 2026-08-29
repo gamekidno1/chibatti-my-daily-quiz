@@ -5202,1822 +5202,1432 @@
   {
     "category": "ゲーム",
     "difficulty": 1,
-    "question": "2026年8月22日に新発売された『ONE PIECEカードゲーム』のブースターパックのタイトルは何ですか？",
+    "question": "2026年6月2日に配信された「State of Play」で、発売日が決定したゲームのタイトルは何ですか？",
     "choices": [
-      "世界最強の海賊",
-      "世界最強の戦士【OP-17】",
-      "新世界の冒険者",
-      "伝説の海賊王"
-    ],
-    "answer": "世界最強の戦士【OP-17】",
-    "explanation": "2026年8月21日のニュースによると、『ONE PIECEカードゲーム』のブースターパック「世界最強の戦士【OP-17】」が8月22日に新発売されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "2026年7月後半に設定画が公開されたガンダムゲーム最新作のタイトルは何ですか？",
-    "choices": [
-      "GUNDAM BREAKER 4",
-      "GUNDAM ROGUE ORBIT",
-      "機動戦士ガンダム エターナル",
-      "ガンダムバトルオペレーション3"
-    ],
-    "answer": "GUNDAM ROGUE ORBIT",
-    "explanation": "2026年7月後半のニュースによると、ガンダムゲーム最新作『GUNDAM ROGUE ORBIT』の主人公機と敵の設定画が公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "『キングダム ハーツ』シリーズの最新作として発表されたタイトルは何ですか？",
-    "choices": [
-      "キングダム ハーツIII ReMind",
-      "キングダム ハーツ Melody of Memory",
-      "キングダム ハーツIV",
-      "キングダム ハーツ Birth by Sleep 0.2"
-    ],
-    "answer": "キングダム ハーツIV",
-    "explanation": "2026年8月のニュースによると、『キングダム ハーツ』シリーズ最新作として『キングダム ハーツIV』が発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "2026年6月9日に開催された任天堂の発表会イベントは何ですか？",
-    "choices": [
-      "Nintendo Direct E3 2026",
-      "Nintendo Direct 2026.6.9",
-      "Nintendo Live 2026",
-      "Nintendo Game Show"
-    ],
-    "answer": "Nintendo Direct 2026.6.9",
-    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」が開催されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "2026年6月2日のState of Playで発売日決定が発表されたフライトシューティングゲームは何ですか？",
-    "choices": [
-      "エースコンバット7",
       "エースコンバット8",
-      "トップガン マーヴェリック",
-      "スカイクロラ"
+      "真・三國無双2",
+      "鬼武者",
+      "ファイナルファンタジー レゾナンス"
     ],
     "answer": "エースコンバット8",
-    "explanation": "2026年6月2日のState of Playの発表によると、『エースコンバット8』の発売日決定が報じられました。"
+    "explanation": "2026年6月のニュースによると、「State of Play新発表まとめ」の中で『エースコンバット8』の発売日決定が報じられました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 1,
-    "question": "2026年8月24日のニュースで、本日発売と報じられたSAOゲームシリーズ最新作のタイトルは何ですか？",
+    "question": "「ONE PIECEカードゲーム」の特報が解禁されるイベントは何ですか？",
     "choices": [
-      "Sword Art Online Alicization Lycoris",
-      "Sword Art Online Fatal Bullet",
-      "Echoes of Aincrad",
-      "Sword Art Online Last Recollection"
-    ],
-    "answer": "Echoes of Aincrad",
-    "explanation": "2026年8月24日のニュースによると、「SAO」ゲームシリーズ最新作「Echoes of Aincrad」が本日発売されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "2026年8月24日のニュースで、本日発売と報じられたシューティングゲーム『TATSUJIN』シリーズの最新作は何ですか？",
-    "choices": [
-      "TATSUJIN REBOOT",
-      "TATSUJIN ORIGIN",
-      "TATSUJIN EXTREME",
-      "TATSUJIN ARCADE"
-    ],
-    "answer": "TATSUJIN EXTREME",
-    "explanation": "2026年8月24日のニュースによると、シリーズ最新作「TATSUJIN EXTREME」が本日発売されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "『ONE PIECEカードゲーム』の特報が解禁されるイベントは何ですか？",
-    "choices": [
-      "ONE PIECE GRAND ARENA",
-      "ONE PIECE SUMMIT",
       "ONE PIECE DAY’26",
-      "ONE PIECE FESTIVAL"
+      "DREAMDAZE Ⅳ",
+      "FGOフェス2026",
+      "XBOX FanFest Tokyo"
     ],
     "answer": "ONE PIECE DAY’26",
-    "explanation": "2026年8月のニュースによると、「ONE PIECE DAY’26」にて『ONE PIECEカードゲーム』の特報が解禁される予定です。"
+    "explanation": "2026年夏頃のニュースによると、「ONE PIECE DAY’26」にて「ONE PIECEカードゲーム」の特報が解禁されると発表されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 1,
-    "question": "若年層のゲーム依存の割合が何パーセントであると、2026年8月の埼玉新聞で報じられましたか？",
+    "question": "『キングダム ハーツIV』の発売が発表されたプラットフォームの一つは何ですか？",
     "choices": [
-      "5%",
-      "10%",
-      "15%",
-      "20%"
-    ],
-    "answer": "10%",
-    "explanation": "2026年8月の埼玉新聞のニュースによると、若年層のゲーム依存は10%であると報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "2026年8月のニュースで、最新アップデート情報がGameWithでまとめられたNintendo Switchのゲームは何ですか？",
-    "choices": [
-      "あつまれ どうぶつの森",
-      "スプラトゥーン3",
-      "トモダチコレクションわくわく生活",
-      "ゼルダの伝説 ティアーズ オブ ザ キングダム"
-    ],
-    "answer": "トモダチコレクションわくわく生活",
-    "explanation": "2026年8月のニュースによると、『トモダチコレクションわくわく生活』のアップデート最新情報がGameWithでまとめられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "2026年8月のニュースで『FGOフェス2026』が開催され、ゲーム最新情報やTYPE-MOON関連ニュースが一挙紹介されましたが、このイベントの略称は何ですか？",
-    "choices": [
-      "FGOフェス",
-      "FGO祭",
-      "FGOエキスポ",
-      "FGOサミット"
-    ],
-    "answer": "FGOフェス",
-    "explanation": "2026年8月のニュースによると、『FGOフェス2026』の発表まとめがファミ通で紹介されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "2026年8月のニュースで、特報が解禁されると報じられた『ONE PIECEカードゲーム』のイベントは何ですか？",
-    "choices": [
-      "ONE PIECE Festival",
-      "ONE PIECE DAY’26",
-      "ONE PIECE Championship",
-      "ONE PIECE World"
-    ],
-    "answer": "ONE PIECE DAY’26",
-    "explanation": "2026年8月のニュースによると、「ONE PIECE DAY’26」にて『ONE PIECEカードゲーム』の特報が解禁されると報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "2026年8月24日のニュースで、本日発売と報じられたSAOゲームシリーズ最新作のタイトルは何ですか？",
-    "choices": [
-      "Sword Art Online: Integral Factor",
-      "Sword Art Online: Hollow Realization",
-      "Echoes of Aincrad",
-      "Sword Art Online: Last Recollection"
-    ],
-    "answer": "Echoes of Aincrad",
-    "explanation": "2026年8月24日のニュースによると、「SAO」ゲームシリーズ最新作「Echoes of Aincrad」が本日発売されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "2026年6月3日に配信されたState of Playで、最新情報が公開されたゲームのタイトルは何ですか？",
-    "choices": [
-      "Marvel's Spider-Man 2",
-      "Marvel's Guardians of the Galaxy",
-      "Marvel's Wolverine",
-      "Marvel's Midnight Suns"
-    ],
-    "answer": "Marvel's Wolverine",
-    "explanation": "2026年6月3日のニュースによると、State of Playでは「Marvel's Wolverine」最新情報などが届けられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "2026年8月のニュースで発売決定が報じられた、漫画「進撃の巨人」の物語を最初から最後まで描く集大成ゲームのタイトルは何ですか？",
-    "choices": [
-      "進撃の巨人 FINAL",
-      "進撃の巨人３",
-      "進撃の巨人 REBORN",
-      "進撃の巨人 ULTIMATE"
-    ],
-    "answer": "進撃の巨人３",
-    "explanation": "2026年8月のニュースによると、「進撃の巨人」の物語を最初から最後まで描く集大成ゲーム『進撃の巨人３』の発売が決定しました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "2026年6月2日のState of Playで、体験版の配信が発表された完全新作のゲームシリーズは何ですか？",
-    "choices": [
-      "デビルメイクライ",
-      "バイオハザード",
-      "鬼武者",
-      "ゴッドイーター"
-    ],
-    "answer": "鬼武者",
-    "explanation": "2026年6月2日のState of Playの発表によると、完全新作『鬼武者』の体験版配信が発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "2026年6月3日のState of Playで、60分以上にわたって最新情報が届けられると発表されたタイトルは何ですか？",
-    "choices": [
-      "Marvel's Spider-Man 3",
-      "Marvel's Venom",
-      "Marvel's Wolverine",
-      "Marvel's Avengers Reborn"
-    ],
-    "answer": "Marvel's Wolverine",
-    "explanation": "2026年6月3日のニュースによると、State of Playでは「Marvel's Wolverine」の最新情報などが60分以上で届けられると発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "2026年8月のニュースで、GameWithにて開発者ノートと共に最新アップデート情報が公開されたゲームは何ですか？",
-    "choices": [
-      "セブンナイツ レガシー",
-      "セブンナイツ リバース",
-      "セブンナイツ エボリューション",
-      "セブンナイツ オリジン"
-    ],
-    "answer": "セブンナイツ リバース",
-    "explanation": "2026年8月のニュースによると、『セブンナイツ リバース』の最新アップデート情報が開発者ノートと共にGameWithで公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "2026年8月のニュースで『FGOフェス2026』が開催され、ゲーム最新情報やTYPE-MOON関連ニュースが一挙紹介されましたが、これは何周年記念のイベントでしたか？",
-    "choices": [
-      "5th Anniversary",
-      "8th Anniversary",
-      "10th Anniversary",
-      "11th Anniversary"
-    ],
-    "answer": "11th Anniversary",
-    "explanation": "2026年8月のニュースによると、『FGOフェス2026』は11th Anniversaryとして開催されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "『GUNDAM ROGUE ORBIT』で描かれる戦闘の相手となるのは、太陽系外から飛来した何という生命体ですか？",
-    "choices": [
-      "炭素生命体",
-      "有機生命体",
-      "シリコン生命体",
-      "プラズマ生命体"
-    ],
-    "answer": "シリコン生命体",
-    "explanation": "2026年7月後半のニュースによると、『GUNDAM ROGUE ORBIT』は太陽系外から飛来したシリコン生命体との戦闘を描いています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "2026年8月のニュースで、『キングダム ハーツIV』の発売が発表されたプラットフォームの一つは何ですか？",
-    "choices": [
+      "Switch2",
       "Xbox Series X",
-      "Nintendo Switch2",
-      "Steam Deck",
+      "PC",
       "Google Stadia"
     ],
-    "answer": "Nintendo Switch2",
-    "explanation": "2026年8月のニュースによると、『キングダム ハーツIV』はSwitch2やPS5などで発売されると発表されました。"
+    "answer": "Switch2",
+    "explanation": "2026年夏頃のニュースによると、『キングダム ハーツIV』はSwitch2やPS5などで発売されると発表されました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 2,
-    "question": "2026年8月24日のニュースで、本日発売と報じられた『TATSUJIN EXTREME』の魅力を紹介する目的で公開されたものは何ですか？",
+    "difficulty": 1,
+    "question": "若年層におけるゲーム依存の割合は何パーセントと報じられましたか？",
     "choices": [
-      "開発者インタビュー",
-      "最新PV",
-      "体験版",
-      "サウンドトラック"
-    ],
-    "answer": "最新PV",
-    "explanation": "2026年8月24日のニュースによると、『TATSUJIN EXTREME』の発売に合わせて、本作の魅力を紹介する最新PVが公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "2026年6月2日のState of Playで、真・三國無双2に参戦が発表されたキャラクターは誰ですか？",
-    "choices": [
-      "趙雲",
-      "紫鸞",
-      "呂布",
-      "関羽"
-    ],
-    "answer": "紫鸞",
-    "explanation": "2026年6月2日のState of Playの発表によると、『真・三國無双2』に紫鸞が参戦することが発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "2026年8月のニュースでGameWithが紹介した、Switchの公式最新情報を有効活用する方法は何ですか？",
-    "choices": [
-      "Switchのゲームニュース",
-      "Switchのeショップ",
-      "Switchのフレンド機能",
-      "Switchのアルバム機能"
-    ],
-    "answer": "Switchのゲームニュース",
-    "explanation": "2026年8月のニュースによると、GameWithは「Switchのゲームニュースの使い方！公式の最新情報を有効活用する方法」を紹介しました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "2026年8月のニュースで、Switchのどの機能の使い方がGameWithで紹介されましたか？",
-    "choices": [
-      "ゲームニュース",
-      "オンラインプレイ",
-      "セーブデータお預かり",
-      "スクリーンショット"
-    ],
-    "answer": "ゲームニュース",
-    "explanation": "2026年8月のニュースによると、GameWithは「Switchのゲームニュースの使い方」を紹介しました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "2026年8月のニュースで、若年層のゲーム依存の割合が報じられましたが、そのパーセンテージは何ですか？",
-    "choices": [
-      "5%",
       "10%",
+      "5%",
       "15%",
       "20%"
     ],
     "answer": "10%",
-    "explanation": "2026年8月の埼玉新聞のニュースによると、若年層のゲーム依存は10%であると報じられました。"
+    "explanation": "2026年夏頃のニュースによると、若年層におけるゲーム依存の割合は10%であると報じられました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 2,
-    "question": "2026年8月のニュースで、開発者ノートと共に最新アップデート情報が公開されたゲームのタイトルは何ですか？",
+    "difficulty": 1,
+    "question": "2026年9月17日に配信が予定されている番組のタイトルは何ですか？",
     "choices": [
-      "セブンナイツ",
-      "セブンナイツ リバース",
-      "セブンナイツ レボリューション",
-      "セブンナイツ タイムワープ"
+      "XBOX東京ゲームショウ2026ブロードキャスト",
+      "State of Play",
+      "ニンテンドーダイレクト 2026.6.9",
+      "FGOフェス2026"
     ],
-    "answer": "セブンナイツ リバース",
-    "explanation": "2026年8月のニュースによると、『セブンナイツ リバース』の最新アップデート情報が開発者ノートと共にGameWithで公開されました。"
+    "answer": "XBOX東京ゲームショウ2026ブロードキャスト",
+    "explanation": "2026年夏頃のニュースによると、「XBOX東京ゲームショウ2026ブロードキャスト」が2026年9月17日に配信される予定です。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 2,
-    "question": "2026年8月のニュースで、Oriocn Newsが報じた『キングダム ハーツIV』は、どのプラットフォームでの発売が示唆されていますか？",
+    "difficulty": 1,
+    "question": "『ポケポケ』の新パックのタイトルは何ですか？",
     "choices": [
-      "PCとXboxのみ",
-      "Switch2とPS5など",
-      "モバイル専用",
-      "VR専用"
+      "天空の支配者",
+      "地の開拓者",
+      "海の探検者",
+      "森の守護者"
     ],
-    "answer": "Switch2とPS5など",
-    "explanation": "2026年8月のニュースによると、『キングダム ハーツIV』はSwitch2やPS5などで発売されると発表されました。"
+    "answer": "天空の支配者",
+    "explanation": "2026年7月のニュースによると、『ポケポケ』の新パックは「天空の支配者」というタイトルで最新情報が公開されました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 3,
-    "question": "『ONE PIECEカードゲーム』のブースターパック「世界最強の戦士【OP-17】」が新発売された具体的な日付は何曜日でしたか？",
+    "difficulty": 1,
+    "question": "2026年6月9日に配信された任天堂の発表会の名称は何ですか？",
     "choices": [
-      "月曜日",
-      "水曜日",
-      "金曜日",
-      "土曜日"
+      "ニンテンドーダイレクト 2026.6.9",
+      "Nintendo Game Show",
+      "Nintendo Live",
+      "Nintendo Spotlight"
     ],
-    "answer": "土曜日",
-    "explanation": "2026年8月21日のニュースによると、ブースターパック「世界最強の戦士【OP-17】」は明日8月22日(土)に新発売されました。"
+    "answer": "ニンテンドーダイレクト 2026.6.9",
+    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」が配信され、その内容がまとめられました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年7月後半のニュースで、最新作『GUNDAM ROGUE ORBIT』の設定画が公開されたのは、どのような種類の機体とキャラクターでしたか？",
+    "difficulty": 1,
+    "question": "『ONE PIECE』の家庭用ゲーム最新作のタイトルは何ですか？",
     "choices": [
-      "モビルスーツとパイロット",
-      "主人公機と敵",
-      "戦艦と司令官",
-      "兵士と兵器"
+      "ONE PIECE 海のごちそうレストラン",
+      "ONE PIECE 大海賊時代の幕開け",
+      "ONE PIECE 夢の航海",
+      "ONE PIECE 新世界冒険記"
     ],
-    "answer": "主人公機と敵",
-    "explanation": "2026年7月後半のニュースによると、『GUNDAM ROGUE ORBIT』の主人公機と敵の設定画が公開されました。"
+    "answer": "ONE PIECE 海のごちそうレストラン",
+    "explanation": "2026年夏頃のニュースによると、『ONE PIECE』家庭用ゲーム最新作のタイトルは『ONE PIECE 海のごちそうレストラン』です。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年6月2日のState of Playで、発売日決定が発表された『エースコンバット8』は、どのジャンルのゲームですか？",
+    "difficulty": 1,
+    "question": "「ファイナルファンタジー レゾナンス」の最新情報として報じられた内容の一つは何ですか？",
     "choices": [
-      "レースゲーム",
-      "フライトシューティング",
-      "ロボットアクション",
-      "戦略シミュレーション"
+      "新ワールド",
+      "新アニメーション",
+      "新映画",
+      "新コミック"
     ],
-    "answer": "フライトシューティング",
-    "explanation": "2026年6月2日のState of Playの発表によると、『エースコンバット8』の発売日決定が報じられました。エースコンバットシリーズはフライトシューティングです。"
+    "answer": "新ワールド",
+    "explanation": "2026年夏頃のニュースによると、「ファイナルファンタジー レゾナンス」の最新情報として新ワールドや新キャラ、ゲームシステムなどがまとめられました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年6月3日に配信されたState of Playの開始時刻は何時でしたか？",
+    "difficulty": 1,
+    "question": "「DREAMDAZE Ⅳ」で発表された情報は何に関するものですか？",
     "choices": [
-      "午前3時",
-      "午前6時",
-      "午後3時",
-      "午後6時"
+      "ゲーム情報",
+      "アニメ情報",
+      "音楽情報",
+      "映画情報"
     ],
-    "answer": "午前6時",
-    "explanation": "2026年6月3日のニュースによると、「State of Play」は6月3日6時から配信されました。"
+    "answer": "ゲーム情報",
+    "explanation": "2026年夏頃のニュースによると、「DREAMDAZE Ⅳ」で発表されたのはゲーム情報です。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年8月のニュースで『トモダチコレクションわくわく生活』の最新情報がまとめられたサイトは何ですか？",
+    "difficulty": 1,
+    "question": "『キングダム ハーツ』シリーズ最新作は何と発表されましたか？",
     "choices": [
-      "ファミ通",
-      "電撃オンライン",
-      "GameWith",
-      "IGN JAPAN"
-    ],
-    "answer": "GameWith",
-    "explanation": "2026年8月のニュースによると、『トモダチコレクションわくわく生活』のアップデート最新情報がGameWithでまとめられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年8月24日のニュースで、本日発売と報じられたSAOゲームシリーズ最新作『Echoes of Aincrad』は、GAME Watchでどのような情報として取り上げられましたか？",
-    "choices": [
-      "限定版特典",
-      "本日発売",
-      "開発秘話",
-      "セール情報"
-    ],
-    "answer": "本日発売",
-    "explanation": "2026年8月24日のニュースによると、「SAO」ゲームシリーズ最新作「Echoes of Aincrad」が本日発売とGAME Watchで報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年8月のニュースで、『セブンナイツ リバース』の最新アップデート情報が開発者ノートと共に公開されたサイトは何ですか？",
-    "choices": [
-      "4Gamer.net",
-      "GameWith",
-      "AppMedia",
-      "Boom App Games"
-    ],
-    "answer": "GameWith",
-    "explanation": "2026年8月のニュースによると、『セブンナイツ リバース』の最新アップデート情報がGameWithにて開発者ノートと共に公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年8月のニュースで、発売が決定したゲーム『進撃の巨人３』は、原作漫画のどのような内容を扱うと報じられましたか？",
-    "choices": [
-      "物語の一部を抜粋",
-      "物語の過去を描く",
-      "物語の未来を描く",
-      "物語を最初から最後まで描く集大成"
-    ],
-    "answer": "物語を最初から最後まで描く集大成",
-    "explanation": "2026年8月のニュースによると、ゲーム『進撃の巨人３』は「進撃の巨人」の物語を最初から最後まで描く集大成と報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年8月のニュースで、オリコンニュースが報じた『キングダム ハーツIV』の発売が予定されているプラットフォームの一つは何ですか？",
-    "choices": [
-      "Nintendo Switch",
-      "PlayStation 5",
-      "Xbox One",
-      "PC (Steam)"
-    ],
-    "answer": "PlayStation 5",
-    "explanation": "2026年8月のニュースによると、『キングダム ハーツIV』はSwitch2やPS5などで発売されると発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年6月2日のState of Playで体験版配信が発表された完全新作『鬼武者』は、過去にどのゲームメーカーから発売されたシリーズですか？",
-    "choices": [
-      "スクウェア・エニックス",
-      "カプコン",
-      "バンダイナムコエンターテインメント",
-      "コーエーテクモゲームス"
-    ],
-    "answer": "カプコン",
-    "explanation": "2026年6月2日のState of Playの発表によると、完全新作『鬼武者』の体験版配信が発表されました。鬼武者シリーズはカプコンの代表的なシリーズです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年6月9日に開催された「ニンテンドーダイレクト」は、どのメディアで発表内容がまとめられましたか？",
-    "choices": [
-      "ファミ通",
-      "GAME Watch",
-      "電撃オンライン",
-      "IGN JAPAN"
-    ],
-    "answer": "GAME Watch",
-    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」発表内容まとめはGAME Watchで報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年6月2日のState of Playで、発売日決定が発表されたゲームのタイトルは何ですか？",
-    "choices": [
-      "エースコンバット7",
-      "エースコンバット8",
-      "プロジェクトウィング",
-      "スカイウォリアーズ"
-    ],
-    "answer": "エースコンバット8",
-    "explanation": "2026年6月2日のState of Playの発表によると、『エースコンバット8』の発売日決定が報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年8月のニュースで、発売決定が報じられたゲーム『進撃の巨人３』は、漫画「進撃の巨人」の物語をどのように描くとされていますか？",
-    "choices": [
-      "一部を抜粋",
-      "主要キャラクターに焦点を当てる",
-      "最初から最後まで",
-      "外伝的なストーリー"
-    ],
-    "answer": "最初から最後まで",
-    "explanation": "2026年8月のニュースによると、ゲーム『進撃の巨人３』は「進撃の巨人」の物語を最初から最後まで描く集大成と報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "2026年7月後半に設定画が公開されたガンダムゲーム最新作『GUNDAM ROGUE ORBIT』で描かれる戦闘の相手は何ですか？",
-    "choices": [
-      "地球連邦軍",
-      "ジオン公国軍",
-      "シリコン生命体",
-      "謎の宇宙人"
-    ],
-    "answer": "シリコン生命体",
-    "explanation": "2026年7月後半のニュースによると、『GUNDAM ROGUE ORBIT』は太陽系外から飛来したシリコン生命体との戦闘を描いています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年8月のニュースで『FGOフェス2026』が開催され、ゲーム最新情報やTYPE-MOON関連ニュースが一挙紹介されたメディアは何ですか？",
-    "choices": [
-      "電撃オンライン",
-      "ファミ通",
-      "4Gamer.net",
-      "Game Watch"
-    ],
-    "answer": "ファミ通",
-    "explanation": "2026年8月のニュースによると、『FGOフェス2026』の発表まとめがファミ通で紹介されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年7月後半のニュースで『GUNDAM ROGUE ORBIT』の主人公機と敵の設定画が公開された際、Yahoo!ニュースではどのようなキーワードで紹介されましたか？",
-    "choices": [
-      "「ロボットアクション」はこれだ！",
-      "「ロボゲー」はこれだ！",
-      "「ガンダムバトル」はこれだ！",
-      "「宇宙戦争」はこれだ！"
-    ],
-    "answer": "「ロボゲー」はこれだ！",
-    "explanation": "2026年7月後半のニュースによると、『GUNDAM ROGUE ORBIT』は「26年7月後半にHOTな『ロボゲー』はこれだ！」という見出しで紹介されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年6月9日に開催された「ニンテンドーダイレクト」の内容まとめを報じたメディアは何ですか？",
-    "choices": [
-      "ファミ通",
-      "GAME Watch",
-      "電撃オンライン",
-      "IGN Japan"
-    ],
-    "answer": "GAME Watch",
-    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」の発表内容まとめがGAME Watchで報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年8月のニュースで、若年層のゲーム依存について報じた新聞社は何ですか？",
-    "choices": [
-      "読売新聞",
-      "朝日新聞",
-      "埼玉新聞",
-      "日本経済新聞"
-    ],
-    "answer": "埼玉新聞",
-    "explanation": "2026年8月のニュースによると、「ゲーム依存、若年層は１０％」と埼玉新聞が報じました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年8月24日のニュースで、本日発売と報じられた『TATSUJIN EXTREME』は、どのメディアでその魅力が紹介されましたか？",
-    "choices": [
-      "4Gamer.net",
-      "GAME Watch",
-      "ファミ通.com",
-      "IGN Japan"
-    ],
-    "answer": "GAME Watch",
-    "explanation": "2026年8月24日のニュースによると、シリーズ最新作「TATSUJIN EXTREME」が本日発売され、本作の魅力を紹介する最新PVがGAME Watchで公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年6月2日のState of Playの発表で、『真・三國無双』シリーズのどのナンバリングタイトルに紫鸞が参戦すると報じられましたか？",
-    "choices": [
-      "真・三國無双",
-      "真・三國無双2",
-      "真・三國無双3",
-      "真・三國無双8 Empires"
-    ],
-    "answer": "真・三國無双2",
-    "explanation": "2026年6月2日のState of Playの発表によると、『真・三國無双2』に紫鸞が参戦すると報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年8月のニュースで、任天堂のどのゲーム機のニュース機能の活用方法がGameWithで紹介されましたか？",
-    "choices": [
-      "ニンテンドー3DS",
-      "Wii U",
-      "Nintendo Switch",
-      "ニンテンドーDS"
-    ],
-    "answer": "Nintendo Switch",
-    "explanation": "2026年8月のニュースによると、GameWithは「Switchのゲームニュースの使い方！公式の最新情報を有効活用する方法」を紹介しました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年6月3日のState of Playは、合計で何分以上の配信時間でしたか？",
-    "choices": [
-      "30分",
-      "45分",
-      "60分",
-      "90分"
-    ],
-    "answer": "60分",
-    "explanation": "2026年6月3日のニュースによると、State of Playは「60分以上」で「Marvel's Wolverine」の最新情報などが届けられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年8月のニュースで、『ONE PIECEカードゲーム』の特報が解禁される「ONE PIECE DAY’26」は、どのようなイベントと関連付けられていますか？",
-    "choices": [
-      "アニメシリーズ25周年",
-      "漫画連載20周年",
-      "ONE PIECEの総合的な祭典",
-      "映画公開記念"
-    ],
-    "answer": "ONE PIECEの総合的な祭典",
-    "explanation": "2026年8月のニュースによると、「ONE PIECE DAY’26」は『ONE PIECE』の総合的な祭典であり、そこで『ONE PIECEカードゲーム』の特報が解禁されると報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年8月24日のニュースで、本日発売と報じられた「SAO」ゲームシリーズ最新作『Echoes of Aincrad』は、どのメディアで取り上げられましたか？",
-    "choices": [
-      "ファミ通",
-      "GAME Watch",
-      "電撃オンライン",
-      "IGN JAPAN"
-    ],
-    "answer": "GAME Watch",
-    "explanation": "2026年8月24日のニュースによると、「SAO」ゲームシリーズ最新作「Echoes of Aincrad」が本日発売とGAME Watchで報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年8月のニュースで、発売決定が報じられたゲーム『進撃の巨人３』は、どのウェブサイトで発表されましたか？",
-    "choices": [
-      "gamecity.ne.jp",
-      "shingeki.jp",
-      "koei.com",
-      "titan.jp"
-    ],
-    "answer": "gamecity.ne.jp",
-    "explanation": "2026年8月のニュースによると、ゲーム『進撃の巨人３』の発売決定はgamecity.ne.jpで報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年8月のニュースで、GameWithが『トモダチコレクションわくわく生活』の何に関する情報をまとめましたか？",
-    "choices": [
-      "新要素",
-      "アップデート",
-      "セール",
-      "攻略"
-    ],
-    "answer": "アップデート",
-    "explanation": "2026年8月のニュースによると、『トモダチコレクションわくわく生活』のアップデートの最新情報がまとめられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年6月2日のState of Playで、発売日決定が発表された『エースコンバット8』は、どのジャンルのゲームですか？",
-    "choices": [
-      "レース",
-      "フライトシューティング",
-      "ロボットアクション",
-      "戦略シミュレーション"
-    ],
-    "answer": "フライトシューティング",
-    "explanation": "2026年6月2日のState of Playの発表によると、『エースコンバット8』の発売日決定が報じられました。エースコンバットシリーズはフライトシューティングです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "2026年6月2日のState of Playで、発売日決定が発表された『エースコンバット8』は、どのような情報まとめの一部として報じられましたか？",
-    "choices": [
-      "サマーゲームフェス",
-      "State of Play新発表まとめ",
-      "E3速報",
-      "東京ゲームショウ"
-    ],
-    "answer": "State of Play新発表まとめ",
-    "explanation": "2026年6月2日のState of Playの発表によると、「State of Play新発表まとめ」の一部として『エースコンバット8』の発売日決定が報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "2026年7月後半のニュースで、「HOTな『ロボゲー』」として紹介された『GUNDAM ROGUE ORBIT』の敵は、太陽系外から飛来しましたが、その敵の構成物質は何でしたか？",
-    "choices": [
-      "炭素",
-      "鉄",
-      "シリコン",
-      "プラチナ"
-    ],
-    "answer": "シリコン",
-    "explanation": "2026年7月後半のニュースによると、『GUNDAM ROGUE ORBIT』は太陽系外から飛来したシリコン生命体との戦闘を描いています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "2026年6月2日のState of Playで、発売日決定が発表された『エースコンバット8』は、どのゲームメーカーのタイトルですか？",
-    "choices": [
-      "スクウェア・エニックス",
-      "カプコン",
-      "バンダイナムコエンターテインメント",
-      "コーエーテクモゲームス"
-    ],
-    "answer": "バンダイナムコエンターテインメント",
-    "explanation": "2026年6月2日のState of Playの発表によると、『エースコンバット8』の発売日決定が報じられました。エースコンバットシリーズはバンダイナムコエンターテインメントのタイトルです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "2026年8月のニュースで、ゲーム『進撃の巨人３』の発売決定が報じられた公式サイトのドメインは何ですか？",
-    "choices": [
-      "game.co.jp",
-      "gamecity.ne.jp",
-      "koei.jp",
-      "shingeki.com"
-    ],
-    "answer": "gamecity.ne.jp",
-    "explanation": "2026年8月のニュースによると、『進撃の巨人３』の発売決定はgamecity.ne.jpで報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "2026年8月のニュースで、オリコンニュースが報じた『キングダム ハーツIV』の発表は、主にどのゲーム機向けの発売を示唆していましたか？",
-    "choices": [
-      "次世代機と現行機",
-      "PC専用",
-      "モバイル専用",
-      "VR専用"
-    ],
-    "answer": "次世代機と現行機",
-    "explanation": "2026年8月のニュースによると、『キングダム ハーツIV』はSwitch2やPS5など、次世代機と現行機で発売されると発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "2026年6月3日のState of Playの配信情報が報じられたメディアは何ですか？",
-    "choices": [
-      "ファミ通",
-      "GAME Watch",
-      "電撃オンライン",
-      "IGN JAPAN"
-    ],
-    "answer": "GAME Watch",
-    "explanation": "2026年6月3日のニュースによると、「State of Play」の配信情報がGAME Watchで報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "2026年8月24日のニュースで、本日発売と報じられた『TATSUJIN EXTREME』は、どのメディアで紹介されましたか？",
-    "choices": [
-      "ファミ通",
-      "GAME Watch",
-      "電撃オンライン",
-      "IGN JAPAN"
-    ],
-    "answer": "GAME Watch",
-    "explanation": "2026年8月24日のニュースによると、シリーズ最新作「TATSUJIN EXTREME」が本日発売され、GAME Watchで紹介されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "2026年8月のニュースで、GameWithが『トモダチコレクションわくわく生活』の最新アップデート情報をまとめた際、どのような見出しで報じられましたか？",
-    "choices": [
-      "【トモコレ】最新パッチノート",
-      "【トモコレ】アップデートの最新情報まとめ",
-      "【トモコレ】新要素追加",
-      "【トモコレ】バグ修正情報"
-    ],
-    "answer": "【トモコレ】アップデートの最新情報まとめ",
-    "explanation": "2026年8月のニュースによると、『トモコレ』アップデートの最新情報まとめがGameWithで報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "2026年8月のニュースで、若年層のゲーム依存の割合が報じられましたが、これはどの層の割合について言及していますか？",
-    "choices": [
-      "成人層",
-      "高齢者層",
-      "若年層",
-      "全年齢層"
-    ],
-    "answer": "若年層",
-    "explanation": "2026年8月の埼玉新聞のニュースによると、「ゲーム依存、若年層は１０％」と報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "2026年8月21日のニュースで、新発売が報じられた『ONE PIECEカードゲーム』のブースターパック「世界最強の戦士【OP-17】」は、どのような情報として公開されましたか？",
-    "choices": [
-      "本日発売",
-      "明日発売",
-      "来週発売",
-      "予約開始"
-    ],
-    "answer": "明日発売",
-    "explanation": "2026年8月21日のニュースによると、『ONE PIECEカードゲーム』のブースターパック「世界最強の戦士【OP-17】」が「明日8月22日(土)に新発売」と報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "2026年6月2日のState of Playで、完全新作『鬼武者』のどのようなコンテンツの配信が発表されましたか？",
-    "choices": [
-      "プロモーションビデオ",
-      "コンセプトアート",
-      "体験版",
-      "サウンドトラック"
-    ],
-    "answer": "体験版",
-    "explanation": "2026年6月2日のState of Playの発表によると、完全新作『鬼武者』の体験版配信が発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "2026年6月3日のState of Playで、主にどのゲームの最新情報が60分以上にわたって届けられると報じられましたか？",
-    "choices": [
-      "Marvel's Spider-Man 3",
-      "Marvel's Venom",
-      "Marvel's Wolverine",
-      "Marvel's Avengers Reborn"
-    ],
-    "answer": "Marvel's Wolverine",
-    "explanation": "2026年6月3日のニュースによると、State of Playでは「Marvel's Wolverine」最新情報などが60分以上で届けられると報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "2026年8月のニュースで、オリコンニュースが報じた『キングダム ハーツ』シリーズの最新作は何ですか？",
-    "choices": [
-      "キングダム ハーツ Re:Coded",
-      "キングダム ハーツ Birth by Sleep",
       "キングダム ハーツIV",
-      "キングダム ハーツ Union χ"
+      "キングダム ハーツIII リメイク",
+      "キングダム ハーツ ワールド",
+      "キングダム ハーツ ネクスト"
     ],
     "answer": "キングダム ハーツIV",
-    "explanation": "2026年8月のニュースによると、『キングダム ハーツ』シリーズ最新作として『キングダム ハーツIV』が発表されました。"
+    "explanation": "2026年夏頃のニュースによると、『キングダム ハーツ』シリーズ最新作は『キングダム ハーツIV』と発表されました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 5,
-    "question": "2026年8月のニュースで、ファミ通が報じた『FGOフェス2026』は、どのような記念イベントとして開催されましたか？",
+    "difficulty": 2,
+    "question": "『真・三國無双2』に参戦が発表された新キャラクターの名前は何ですか？",
     "choices": [
-      "5周年記念",
-      "10周年記念",
-      "11周年記念",
-      "15周年記念"
+      "紫鸞",
+      "赤壁",
+      "青龍",
+      "白虎"
     ],
-    "answer": "11周年記念",
-    "explanation": "2026年8月のニュースによると、『FGOフェス2026』は「11th Anniversary～」として開催されました。"
+    "answer": "紫鸞",
+    "explanation": "2026年6月のニュースによると、2026年6月2日のState of Playで『真・三國無双2』に紫鸞が参戦することが発表されました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 5,
-    "question": "2026年8月のニュースで、GameWithが紹介したSwitchのゲームニュースの活用方法は、具体的にどのゲーム機の情報に特化していますか？",
+    "difficulty": 2,
+    "question": "ゲーム『進撃の巨人３』は、物語のどの範囲を描く集大成とされていますか？",
     "choices": [
-      "ニンテンドー3DS",
-      "Nintendo Switch",
-      "Wii U",
-      "ニンテンドーDS"
-    ],
-    "answer": "Nintendo Switch",
-    "explanation": "2026年8月のニュースによると、GameWithは「Switchのゲームニュースの使い方」を紹介しました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "2026年7月後半のニュースで、『GUNDAM ROGUE ORBIT』の主人公機と敵の設定画が公開されましたが、このゲームの舞台はどこですか？",
-    "choices": [
-      "地球圏",
-      "コロニー内",
-      "太陽系外",
-      "月面"
-    ],
-    "answer": "太陽系外",
-    "explanation": "2026年7月後半のニュースによると、『GUNDAM ROGUE ORBIT』は太陽系外から飛来したシリコン生命体との戦闘を描いています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "2026年6月9日に開催された「ニンテンドーダイレクト」の発表内容まとめがYahoo!ニュースで報じられましたが、この情報はどのゲーム情報サイトから提供されましたか？",
-    "choices": [
-      "ファミ通",
-      "GAME Watch",
-      "電撃オンライン",
-      "IGN JAPAN"
-    ],
-    "answer": "GAME Watch",
-    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」発表内容まとめは（GAME Watch）提供としてYahoo!ニュースで報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "2026年8月のニュースで、発売決定が報じられたゲーム『進撃の巨人３』は、どのゲームメーカーから発売されますか？",
-    "choices": [
-      "カプコン",
-      "バンダイナムコエンターテインメント",
-      "コーエーテクモゲームス",
-      "スクウェア・エニックス"
-    ],
-    "answer": "コーエーテクモゲームス",
-    "explanation": "2026年8月のニュースによると、ゲーム『進撃の巨人３』はgamecity.ne.jpで発表されました。gamecity.ne.jpはコーエーテクモゲームスの公式ウェブサイトです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "2026年8月のニュースで、GameWithが紹介したSwitchのゲームニュースの活用方法は、具体的にどのような最新情報を対象としていますか？",
-    "choices": [
-      "ユーザーが作成した情報",
-      "公式の最新情報",
-      "非公式のリーク情報",
-      "海外版の最新情報"
-    ],
-    "answer": "公式の最新情報",
-    "explanation": "2026年8月のニュースによると、GameWithは「Switchのゲームニュースの使い方！公式の最新情報を有効活用する方法」を紹介しました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "2026年6月2日のState of Playで、『真・三國無双2』に参戦が発表された紫鸞は、どのゲームメーカーの代表的なシリーズのキャラクターですか？",
-    "choices": [
-      "カプコン",
-      "バンダイナムコエンターテインメント",
-      "コーエーテクモゲームス",
-      "セガ"
-    ],
-    "answer": "コーエーテクモゲームス",
-    "explanation": "2026年6月2日のState of Playの発表によると、『真・三國無双2』に紫鸞が参戦すると報じられました。真・三國無双シリーズはコーエーテクモゲームスの代表的なシリーズです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "2026年8月のニュースで、Oriocn Newsが報じた『キングダム ハーツIV』の発表は、どのシリーズの最新作として位置づけられていますか？",
-    "choices": [
-      "ファイナルファンタジー",
-      "ブレイブリーデフォルト",
-      "キングダム ハーツ",
-      "すばらしきこのせかい"
-    ],
-    "answer": "キングダム ハーツ",
-    "explanation": "2026年8月のニュースによると、『キングダム ハーツ』シリーズ最新作として『キングダム ハーツIV』が発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "2026年8月のニュースで『FGOフェス2026』が開催され、ゲーム最新情報やTYPE-MOON関連ニュースが一挙紹介されましたが、このイベントの正式名称の一部は何ですか？",
-    "choices": [
-      "～10th Anniversary",
-      "～11th Anniversary",
-      "～2026 Summer",
-      "～TYPE-MOON World"
-    ],
-    "answer": "～11th Anniversary",
-    "explanation": "2026年8月のニュースによると、『FGOフェス2026』は「11th Anniversary～」として開催されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "2026年8月24日のニュースで、本日発売と報じられた「SAO」ゲームシリーズ最新作『Echoes of Aincrad』は、どのようなゲームジャンルに属すると考えられますか？",
-    "choices": [
-      "リズムゲーム",
-      "RPG",
-      "パズルゲーム",
-      "シミュレーションゲーム"
-    ],
-    "answer": "RPG",
-    "explanation": "2026年8月24日のニュースによると、「SAO」ゲームシリーズ最新作「Echoes of Aincrad」が本日発売と報じられました。SAOシリーズのゲームは通常RPGジャンルに属します。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "2026年8月24日のニュースで、本日発売と報じられた『TATSUJIN EXTREME』は、どのゲームシリーズの最新作ですか？",
-    "choices": [
-      "グラディウス",
-      "R-TYPE",
-      "TATSUJIN",
-      "ダライアス"
-    ],
-    "answer": "TATSUJIN",
-    "explanation": "2026年8月24日のニュースによると、「シリーズ最新作『TATSUJIN EXTREME』」が本日発売されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "2026年8月21日のニュースで、明日8月22日(土)に新発売と報じられた『ONE PIECEカードゲーム』のブースターパック【OP-17】の正式名称は何ですか？",
-    "choices": [
-      "世界最強の海賊たち",
-      "偉大なる航路の冒険",
-      "世界最強の戦士",
-      "新時代の幕開け"
-    ],
-    "answer": "世界最強の戦士",
-    "explanation": "2026年8月21日のニュースによると、ブースターパック 世界最強の戦士【OP-17】が新発売されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "2026年8月のニュースで、最新アップデート情報と開発者ノートがGameWithで公開されたゲームの略称は何ですか？",
-    "choices": [
-      "セナリバ",
-      "セブナイ",
-      "ナイリバ",
-      "セブンリ"
-    ],
-    "answer": "セナリバ",
-    "explanation": "2026年8月のニュースによると、「【セナリバ】最新アップデート情報｜開発者ノート【セブンナイツ リバース】」という見出しで報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "2026年6月3日のState of Playで、最新情報が公開された「Marvel's Wolverine」は、どのメディアで配信情報が報じられましたか？",
-    "choices": [
-      "ファミ通",
-      "GAME Watch",
-      "電撃オンライン",
-      "IGN JAPAN"
-    ],
-    "answer": "GAME Watch",
-    "explanation": "2026年6月3日のニュースによると、「State of Play」の配信情報がGAME Watchで報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "2026年8月21日のニュースで、明日8月22日(土)に新発売と報じられた『ONE PIECEカードゲーム』のブースターパックの具体的な番号は何ですか？",
-    "choices": [
-      "OP-15",
-      "OP-16",
-      "OP-17",
-      "OP-18"
-    ],
-    "answer": "OP-17",
-    "explanation": "2026年8月21日のニュースによると、ブースターパック 世界最強の戦士【OP-17】が新発売されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "2026年8月のニュースで、ファミ通が報じた『FGOフェス2026』は、FGOの何周年記念のイベントでしたか？",
-    "choices": [
-      "5th Anniversary",
-      "10th Anniversary",
-      "11th Anniversary",
-      "15th Anniversary"
-    ],
-    "answer": "11th Anniversary",
-    "explanation": "2026年8月のニュースによると、『FGOフェス2026』は「11th Anniversary～」として開催されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "2026年7月後半のニュースで、「HOTな『ロボゲー』」として紹介された『GUNDAM ROGUE ORBIT』は、どのメディアのYahoo!ニュースで報じられましたか？",
-    "choices": [
-      "ファミ通",
-      "Game Spark",
-      "電撃オンライン",
-      "IGN JAPAN"
-    ],
-    "answer": "Game Spark",
-    "explanation": "2026年7月後半のニュースによると、『GUNDAM ROGUE ORBIT』は「Game Spark」提供としてYahoo!ニュースで報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "2026年6月3日のState of Playで『Marvel's Wolverine』の最新情報が公開されましたが、このイベントは何時に開始されましたか？",
-    "choices": [
-      "午前1時",
-      "午前6時",
-      "午後1時",
-      "午後6時"
-    ],
-    "answer": "午前6時",
-    "explanation": "2026年6月3日のニュースによると、「State of Play」は6月3日6時から配信されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "2026年8月のニュースで、『セブンナイツ リバース』の最新アップデート情報がGameWithで公開されましたが、その情報には何が添えられていましたか？",
-    "choices": [
-      "プロモーションムービー",
-      "開発者ノート",
-      "ユーザーアンケート結果",
-      "今後のロードマップ"
-    ],
-    "answer": "開発者ノート",
-    "explanation": "2026年8月のニュースによると、『セブンナイツ リバース』の最新アップデート情報が開発者ノートと共にGameWithで公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "2026年8月のニュースで、オリコンニュースが『キングダム ハーツIV』の発表を報じましたが、この情報はどのプラットフォームを中心に展開されると示唆されましたか？",
-    "choices": [
-      "PCとモバイル",
-      "Switch2とPS5",
-      "XboxとPC",
-      "旧世代コンソール"
-    ],
-    "answer": "Switch2とPS5",
-    "explanation": "2026年8月のニュースによると、『キングダム ハーツIV』はSwitch2やPS5などで発売されると発表されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "2026年6月2日のState of Playの発表で、完全新作『鬼武者』の体験版配信が発表されましたが、このイベントの開催日は何月何日でしたか？",
-    "choices": [
-      "6月1日",
-      "6月2日",
-      "6月3日",
-      "6月4日"
-    ],
-    "answer": "6月2日",
-    "explanation": "2026年6月2日のState of Playの発表によると、このイベントは「ステートオブプレイ June 2, 2026」として開催されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "2026年8月のニュースで、GameWithが『トモダチコレクションわくわく生活』のアップデート情報をまとめた際、その見出しにはどのようなゲームタイトル名が使われていましたか？",
-    "choices": [
-      "トモダチコレクション",
-      "トモダチコレクションわくわく生活",
-      "トモダチコレクション 新生活",
-      "トモダチコレクション DX"
-    ],
-    "answer": "トモダチコレクションわくわく生活",
-    "explanation": "2026年8月のニュースによると、『トモダチコレクションわくわく生活』のアップデート情報がまとめられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "2026年8月のニュースで、埼玉新聞が報じた若年層のゲーム依存の割合10%は、どのような形で提示されましたか？",
-    "choices": [
-      "速報",
-      "調査結果",
-      "推定値",
-      "統計データ"
-    ],
-    "answer": "調査結果",
-    "explanation": "2026年8月の埼玉新聞のニュースによると、「ゲーム依存、若年層は１０％」という見出しで、調査結果が報じられたと推測されます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "2026年8月24日のニュースで、本日発売と報じられた「SAO」ゲームシリーズ最新作『Echoes of Aincrad』は、どのアニメまたは小説シリーズを原作としていますか？",
-    "choices": [
-      "Re:ゼロから始める異世界生活",
-      "この素晴らしい世界に祝福を！",
-      "ソードアート・オンライン",
-      "オーバーロード"
-    ],
-    "answer": "ソードアート・オンライン",
-    "explanation": "2026年8月24日のニュースによると、「SAO」ゲームシリーズ最新作「Echoes of Aincrad」が本日発売と報じられました。SAOはソードアート・オンラインの略称です。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "2026年8月のニュースで、『ONE PIECEカードゲーム』の特報が解禁される「ONE PIECE DAY’26」は、どのような情報としてONE PIECE.comで報じられましたか？",
-    "choices": [
-      "イベントスケジュール",
-      "最新情報",
-      "チケット販売",
-      "開催場所"
-    ],
-    "answer": "最新情報",
-    "explanation": "2026年8月のニュースによると、「ONE PIECEカードゲーム 最新情報」として「ONE PIECE DAY’26」での特報解禁が報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "2026年6月9日に開催された「ニンテンドーダイレクト」の発表内容まとめがYahoo!ニュースで報じられましたが、その記事のタイトルはどのような形式でしたか？",
-    "choices": [
-      "【速報】Nintendo Direct 2026.6.9",
-      "【ニンダイまとめ】「ニンテンドーダイレクト 2026.6.9」発表内容まとめ",
-      "Nintendo Direct 2026.6.9 全内容",
-      "Nintendo Direct 2026.6.9 最新情報"
-    ],
-    "answer": "【ニンダイまとめ】「ニンテンドーダイレクト 2026.6.9」発表内容まとめ",
-    "explanation": "2026年6月のニュースによると、「【ニンダイまとめ】「ニンテンドーダイレクト 2026.6.9」発表内容まとめ」というタイトルで報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "2026年8月のニュースで、GameWithが紹介したSwitchのゲームニュースの活用方法において、対象となる情報はどのような性質のものですか？",
-    "choices": [
-      "非公式情報",
-      "公式の最新情報",
-      "ユーザーレビュー",
-      "リーク情報"
-    ],
-    "answer": "公式の最新情報",
-    "explanation": "2026年8月のニュースによると、GameWithは「Switchのゲームニュースの使い方！公式の最新情報を有効活用する方法」を紹介しました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "2026年8月24日のニュースで、本日発売と報じられた『TATSUJIN EXTREME』の魅力を紹介するために公開されたのは何ですか？",
-    "choices": [
-      "開発者インタビュー",
-      "最新PV",
-      "体験版",
-      "サウンドトラック"
-    ],
-    "answer": "最新PV",
-    "explanation": "2026年8月24日のニュースによると、『TATSUJIN EXTREME』の発売に合わせて、本作の魅力を紹介する最新PVが公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "2026年6月9日に開催された「ニンテンドーダイレクト」の発表内容まとめがYahoo!ニュースで報じられましたが、このニュースはどのゲーム情報サイトからの提供情報でしたか？",
-    "choices": [
-      "ファミ通",
-      "GAME Watch",
-      "電撃オンライン",
-      "IGN JAPAN"
-    ],
-    "answer": "GAME Watch",
-    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」発表内容まとめは（GAME Watch）提供としてYahoo!ニュースで報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "2026年8月のニュースで、最新アップデート情報と開発者ノートがGameWithで公開された『セブンナイツ リバース』は、どのような情報としてまとめられましたか？",
-    "choices": [
-      "攻略情報",
-      "イベント情報",
-      "最新アップデート情報",
-      "キャラクター情報"
-    ],
-    "answer": "最新アップデート情報",
-    "explanation": "2026年8月のニュースによると、『セブンナイツ リバース』の「最新アップデート情報」が開発者ノートと共にGameWithで公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "2026年7月後半のニュースで、「HOTな『ロボゲー』」として紹介された『GUNDAM ROGUE ORBIT』は、太陽系外から飛来したシリコン生命体と戦闘を描いていますが、これは何に関する設定画の公開と報じられましたか？",
-    "choices": [
-      "モビルスーツと戦艦",
-      "主人公機と敵",
-      "パイロットと司令官",
-      "兵器と基地"
-    ],
-    "answer": "主人公機と敵",
-    "explanation": "2026年7月後半のニュースによると、『GUNDAM ROGUE ORBIT』の主人公機と敵の設定画が公開され、太陽系外から飛来したシリコン生命体との戦闘が描かれると報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "2026年6月2日のState of Playで、発売日決定が発表された『エースコンバット8』の発表は、どのような内容まとめの一部として報じられましたか？",
-    "choices": [
-      "PlayStation Showcase",
-      "State of Play新発表まとめ",
-      "Summer Game Fest",
-      "Tokyo Game Show"
-    ],
-    "answer": "State of Play新発表まとめ",
-    "explanation": "2026年6月2日のState of Playの発表によると、「State of Play新発表まとめ」の一部として『エースコンバット8』の発売日決定が報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "2026年8月のニュースで、ゲーム『進撃の巨人３』の発売決定が報じられましたが、このゲームは「進撃の巨人」の物語をどのように描く集大成と表現されましたか？",
-    "choices": [
-      "過去の出来事を深掘り",
-      "主要キャラクターの視点から",
       "最初から最後まで",
-      "未来の展開を予測"
+      "序盤のみ",
+      "中盤のみ",
+      "終盤のみ"
     ],
     "answer": "最初から最後まで",
-    "explanation": "2026年8月のニュースによると、ゲーム『進撃の巨人３』は「進撃の巨人」の物語を最初から最後まで描く集大成と報じられました。"
+    "explanation": "2026年夏頃のニュースによると、ゲーム『進撃の巨人３』は「進撃の巨人」の物語を最初から最後まで描く集大成と発表されました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 8,
-    "question": "2026年8月のニュースで、若年層のゲーム依存の割合10%を報じた埼玉新聞の記事は、どのような社会課題に焦点を当てていますか？",
+    "difficulty": 2,
+    "question": "「XBOX FanFest Tokyo」の参加応募受付はいつ始まりましたか？",
     "choices": [
-      "教育格差",
-      "少子高齢化",
-      "ゲーム依存",
-      "地域経済の活性化"
+      "XBOX東京ゲームショウ2026ブロードキャストの同日",
+      "2026年9月17日",
+      "2026年10月1日",
+      "2026年8月1日"
     ],
-    "answer": "ゲーム依存",
-    "explanation": "2026年8月の埼玉新聞のニュースによると、「ゲーム依存、若年層は１０％」という見出しで、ゲーム依存という社会課題に焦点を当てています。"
+    "answer": "XBOX東京ゲームショウ2026ブロードキャストの同日",
+    "explanation": "2026年夏頃のニュースによると、「XBOX東京ゲームショウ2026ブロードキャスト」が配信される9月17日と同日に開催される「XBOX FanFest Tokyo」の参加応募受付が開始されました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 8,
-    "question": "2026年8月のニュースで、オリコンニュースが報じた『キングダム ハーツIV』の発表は、どのような形式のニュースとして公開されましたか？",
+    "difficulty": 2,
+    "question": "“FGOフェス2026”は何周年記念として発表されましたか？",
     "choices": [
-      "ゲームレビュー",
-      "シリーズ最新作発表",
-      "開発者インタビュー",
-      "セール情報"
+      "11th Anniversary",
+      "10th Anniversary",
+      "12th Anniversary",
+      "5th Anniversary"
     ],
-    "answer": "シリーズ最新作発表",
-    "explanation": "2026年8月のニュースによると、『キングダム ハーツ』シリーズ最新作発表として『キングダム ハーツIV』が報じられました。"
+    "answer": "11th Anniversary",
+    "explanation": "2026年夏頃のニュースによると、“FGOフェス2026”は「11th Anniversary」として発表されました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 8,
-    "question": "2026年6月3日のState of Playの配信情報がGAME Watchで報じられましたが、この配信で「Marvel's Wolverine」の最新情報以外に注目された内容は何ですか？",
+    "difficulty": 2,
+    "question": "『ポケポケ』新パック「天空の支配者」の最新情報が公開されたのは何月何日ですか？",
     "choices": [
-      "新作ゲームの発表",
-      "開発者のインタビュー",
-      "60分以上の配信時間",
-      "過去作のセール情報"
+      "7月23日",
+      "6月9日",
+      "9月17日",
+      "10月22日"
     ],
-    "answer": "60分以上の配信時間",
-    "explanation": "2026年6月3日のニュースによると、State of Playは「Marvel's Wolverine」最新情報などを「60分以上」でお届けすると報じられました。"
+    "answer": "7月23日",
+    "explanation": "2026年7月のニュースによると、『ポケポケ』新パック「天空の支配者」の最新情報は本日7月23日に公開されました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 8,
-    "question": "2026年8月24日のニュースで、本日発売と報じられた『TATSUJIN EXTREME』は、どのような情報を伴って公開されましたか？",
+    "difficulty": 2,
+    "question": "『ONE PIECE 海のごちそうレストラン』の発売予定日はいつですか？",
     "choices": [
-      "体験版の配信",
-      "開発者インタビュー",
-      "最新PV公開",
-      "限定版の特典"
+      "2026年10月22日(木)",
+      "2026年9月17日(火)",
+      "2027年1月1日(金)",
+      "2026年12月25日(水)"
     ],
-    "answer": "最新PV公開",
-    "explanation": "2026年8月24日のニュースによると、『TATSUJIN EXTREME』の発売に合わせて、本作の魅力を紹介する最新PVが公開されました。"
+    "answer": "2026年10月22日(木)",
+    "explanation": "2026年夏頃のニュースによると、『ONE PIECE 海のごちそうレストラン』は2026年10月22日(木)に発売が決定しました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 8,
-    "question": "2026年8月のニュースで、GameWithが『トモダチコレクションわくわく生活』のアップデート情報をまとめる際に使用したゲームの略称は何ですか？",
+    "difficulty": 2,
+    "question": "「トモダチコレクションわくわく生活」の最新情報は何に関するものとして報じられましたか？",
     "choices": [
-      "トモコレ",
-      "わくコレ",
-      "トモ生",
-      "コレ活"
+      "アップデート",
+      "新作発表",
+      "アニメ化",
+      "映画化"
     ],
-    "answer": "トモコレ",
-    "explanation": "2026年8月のニュースによると、「【トモコレ】アップデートの最新情報まとめ【トモダチコレクションわくわく生活】」という見出しで報じられました。"
+    "answer": "アップデート",
+    "explanation": "2026年夏頃のニュースによると、「トモダチコレクションわくわく生活」の最新情報としてアップデート情報がまとめられました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 8,
-    "question": "2026年8月21日のニュースで、新発売が報じられた『ONE PIECEカードゲーム』のブースターパック「世界最強の戦士【OP-17】」のナンバリングは何ですか？",
+    "difficulty": 2,
+    "question": "「原神」の最新情報がまとめられた番組の形式は何ですか？",
     "choices": [
-      "OP-10",
-      "OP-15",
-      "OP-17",
-      "OP-20"
+      "生放送(予告番組)",
+      "録画番組",
+      "ラジオ番組",
+      "Web記事"
     ],
-    "answer": "OP-17",
-    "explanation": "2026年8月21日のニュースによると、ブースターパック 世界最強の戦士【OP-17】が新発売されました。"
+    "answer": "生放送(予告番組)",
+    "explanation": "2026年夏頃のニュースによると、「原神」の最新情報は生放送(予告番組)の形式でまとめられました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 8,
-    "question": "2026年8月24日のニュースで、本日発売と報じられたSAOゲームシリーズ最新作『Echoes of Aincrad』は、どのような情報としてGAME Watchに掲載されましたか？",
+    "difficulty": 2,
+    "question": "2026年6月2日のState of Playで体験版が配信された完全新作ゲームのタイトルは何ですか？",
     "choices": [
-      "速報",
-      "ニュース",
-      "特集",
-      "レビュー"
+      "鬼武者",
+      "エースコンバット8",
+      "真・三國無双2",
+      "ファイナルファンタジー レゾナンス"
     ],
-    "answer": "ニュース",
-    "explanation": "2026年8月24日のニュースによると、「SAO」ゲームシリーズ最新作「Echoes of Aincrad」本日発売（GAME Watch）- Yahoo!ニュースと報じられました。"
+    "answer": "鬼武者",
+    "explanation": "2026年6月のニュースによると、2026年6月2日のState of Playで完全新作『鬼武者』の体験版配信が発表されました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 8,
-    "question": "2026年8月のニュースで、ファミ通が報じた『FGOフェス2026』の発表まとめは、FGOとどのような関連ニュースを一挙紹介しましたか？",
+    "difficulty": 2,
+    "question": "「ファイナルファンタジー レゾナンス」の最新情報として、新キャラクターの他に報じられたゲーム要素は何ですか？",
     "choices": [
-      "アニメ関連",
-      "漫画関連",
-      "TYPE-MOON関連",
-      "グッズ関連"
+      "ゲームシステム",
+      "サウンドトラック",
+      "ストーリー詳細",
+      "開発秘話"
     ],
-    "answer": "TYPE-MOON関連",
-    "explanation": "2026年8月のニュースによると、『FGOフェス2026』ではゲーム最新情報やTYPE-MOON関連ニュースが一挙紹介されました。"
+    "answer": "ゲームシステム",
+    "explanation": "2026年夏頃のニュースによると、「ファイナルファンタジー レゾナンス」の最新情報として、新ワールドや新キャラ、ゲームシステムなどがまとめられました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 8,
-    "question": "2026年7月後半のニュースで、「HOTな『ロボゲー』」として紹介された『GUNDAM ROGUE ORBIT』は、どのような敵との戦闘を描いていますか？",
+    "difficulty": 2,
+    "question": "『キングダム ハーツIV』が発売されると発表された次世代機の一つは何ですか？",
     "choices": [
-      "地球連邦軍",
-      "ジオン公国軍",
-      "シリコン生命体",
-      "異星人"
-    ],
-    "answer": "シリコン生命体",
-    "explanation": "2026年7月後半のニュースによると、『GUNDAM ROGUE ORBIT』は太陽系外から飛来したシリコン生命体との戦闘を描いています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "2026年6月2日のState of Playで、『真・三國無双2』に参戦が発表されたキャラクターは、どのような情報として報じられましたか？",
-    "choices": [
-      "新キャラクター",
-      "隠しキャラクター",
-      "追加DLCキャラクター",
-      "コラボキャラクター"
-    ],
-    "answer": "新キャラクター",
-    "explanation": "2026年6月2日のState of Playの発表によると、『真・三國無双2』に紫鸞が参戦すると報じられ、これは新キャラクターの参戦を意味します。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "2026年8月24日のニュースで、本日発売と報じられた「SAO」ゲームシリーズ最新作『Echoes of Aincrad』は、GAME Watchでどのような情報として公開されましたか？",
-    "choices": [
-      "本日発売",
-      "予約開始",
-      "開発中止",
-      "延期発表"
-    ],
-    "answer": "本日発売",
-    "explanation": "2026年8月24日のニュースによると、「SAO」ゲームシリーズ最新作「Echoes of Aincrad」が「本日発売」とGAME Watchで報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 9,
-    "question": "2026年7月後半のニュースで、Yahoo!ニュースが「HOTな『ロボゲー』はこれだ！」として紹介した『GUNDAM ROGUE ORBIT』は、どのゲーム情報サイトからの提供情報でしたか？",
-    "choices": [
-      "ファミ通",
-      "Game Spark",
-      "電撃オンライン",
-      "IGN JAPAN"
-    ],
-    "answer": "Game Spark",
-    "explanation": "2026年7月後半のニュースによると、『GUNDAM ROGAM ORBIT』のニュースは「（Game Spark） - Yahoo!ニュース」として報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 9,
-    "question": "2026年6月2日のState of Playの発表で、完全新作『鬼武者』の体験版配信が発表されましたが、この発表のまとめ記事はどのメディアで報じられましたか？",
-    "choices": [
-      "ファミ通",
-      "GAME Watch",
-      "電撃オンライン",
-      "IGN JAPAN"
-    ],
-    "answer": "ファミ通",
-    "explanation": "2026年6月2日のState of Playの発表によると、「State of Play新発表まとめ」がファミ通で報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 9,
-    "question": "2026年8月のニュースで、ゲーム『進撃の巨人３』の発売決定が報じられましたが、このゲームはどの公式サイトで発表されましたか？",
-    "choices": [
-      "shingeki.com",
-      "koei.com",
-      "gamecity.ne.jp",
-      "attackontitan.jp"
-    ],
-    "answer": "gamecity.ne.jp",
-    "explanation": "2026年8月のニュースによると、『進撃の巨人３』の発売決定はgamecity.ne.jpで報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 9,
-    "question": "2026年8月のニュースで、オリコンニュースが報じた『キングダム ハーツIV』の発表は、どのゲーム機の次世代機が含まれる形で報じられましたか？",
-    "choices": [
+      "Switch2",
       "Xbox Series X",
-      "Nintendo Switch2",
-      "PlayStation 6",
+      "PS4",
       "PC"
     ],
-    "answer": "Nintendo Switch2",
-    "explanation": "2026年8月のニュースによると、『キングダム ハーツIV』は「Switch2やPS5など」で発売されると発表されました。"
+    "answer": "Switch2",
+    "explanation": "2026年夏頃のニュースによると、『キングダム ハーツIV』はSwitch2やPS5などで発売されると発表されました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 9,
-    "question": "2026年6月3日のState of Playの配信情報がGAME Watchで報じられましたが、この配信の具体的な開始時間は何時何分でしたか？",
+    "difficulty": 3,
+    "question": "『キングダム ハーツIV』の発売が発表されたPlayStationシリーズのプラットフォームは何ですか？",
     "choices": [
-      "午前6時00分",
-      "午前6時30分",
-      "午前7時00分",
-      "午前7時30分"
+      "PS5",
+      "PS4",
+      "PS3",
+      "PSVita"
     ],
-    "answer": "午前6時00分",
-    "explanation": "2026年6月3日のニュースによると、「State of Play」は「6月3日6時から」配信されました。"
+    "answer": "PS5",
+    "explanation": "2026年夏頃のニュースによると、『キングダム ハーツIV』はSwitch2やPS5などで発売されると発表されました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 9,
-    "question": "2026年8月のニュースで、GameWithが『トモダチコレクションわくわく生活』のアップデート情報をまとめた際、見出しに含まれていたサブタイトルは何ですか？",
+    "difficulty": 3,
+    "question": "ゲーム『進撃の巨人３』は、どのような位置づけの作品として発表されましたか？",
     "choices": [
-      "~新生活~",
-      "~みんなの毎日~",
-      "~わくわく生活~",
-      "~島の日常~"
+      "集大成ゲーム",
+      "スピンオフ作品",
+      "リメイク版",
+      "外伝ストーリー"
     ],
-    "answer": "~わくわく生活~",
-    "explanation": "2026年8月のニュースによると、「【トモコレ】アップデートの最新情報まとめ【トモダチコレクションわくわく生活】」という見出しで報じられました。"
+    "answer": "集大成ゲーム",
+    "explanation": "2026年夏頃のニュースによると、ゲーム『進撃の巨人３』は「進撃の巨人」の物語を最初から最後まで描く集大成ゲームとして発売が決定しました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 9,
-    "question": "2026年8月のニュースで、埼玉新聞が報じた若年層のゲーム依存10%という数値は、どのような調査の結果として提示されましたか？",
+    "difficulty": 3,
+    "question": "2026年9月17日に開催される「XBOX FanFest Tokyo」では、何が開始されましたか？",
     "choices": [
-      "全国調査",
-      "地域限定調査",
-      "国際共同調査",
-      "専門家による推定"
+      "参加応募受付",
+      "グッズ販売",
+      "ゲーム体験会",
+      "開発者トークショー"
     ],
-    "answer": "地域限定調査",
-    "explanation": "2026年8月の埼玉新聞のニュースによると、「ゲーム依存、若年層は１０％ - 埼玉新聞」と報じられており、埼玉という地域名が特定されているため、地域限定調査の結果と推測されます。"
+    "answer": "参加応募受付",
+    "explanation": "2026年夏頃のニュースによると、2026年9月17日に開催される「XBOX FanFest Tokyo」の参加応募受付が開始されました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 9,
-    "question": "2026年8月24日のニュースで、本日発売と報じられた『TATSUJIN EXTREME』の魅力を紹介する最新PVが公開されましたが、これはどのメディアで報じられましたか？",
+    "difficulty": 3,
+    "question": "“FGOフェス2026”で紹介されたゲーム最新情報の他に、どのようなニュースが一挙に紹介されましたか？",
     "choices": [
-      "ファミ通",
-      "GAME Watch",
-      "電撃オンライン",
-      "IGN JAPAN"
+      "TYPE-MOON関連ニュース",
+      "アニメ関連ニュース",
+      "音楽関連ニュース",
+      "コミック関連ニュース"
     ],
-    "answer": "GAME Watch",
-    "explanation": "2026年8月24日のニュースによると、シリーズ最新作「TATSUJIN EXTREME」本日発売。本作の魅力を紹介する最新PV公開（GAME Watch）と報じられました。"
+    "answer": "TYPE-MOON関連ニュース",
+    "explanation": "2026年夏頃のニュースによると、“FGOフェス2026”ではゲーム最新情報やTYPE-MOON関連ニュースが一挙に紹介されました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 9,
-    "question": "2026年8月のニュースで、『FGOフェス2026』の発表まとめがファミ通で紹介されましたが、このイベントはFGOの何周年記念として位置づけられていますか？",
+    "difficulty": 3,
+    "question": "『ポケポケ』新パック「天空の支配者」で収録カード解禁に期待が寄せられている具体的なポケモンは何ですか？",
     "choices": [
-      "5周年",
-      "10周年",
-      "11周年",
-      "15周年"
+      "メガレックウザ",
+      "ピカチュウ",
+      "リザードン",
+      "ミュウツー"
     ],
-    "answer": "11周年",
-    "explanation": "2026年8月のニュースによると、『FGOフェス2026』は「11th Anniversary～」として開催されました。"
+    "answer": "メガレックウザ",
+    "explanation": "2026年7月のニュースによると、『ポケポケ』新パック「天空の支配者」でメガレックウザほか収録カード解禁に期待が寄せられています。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 9,
-    "question": "2026年8月24日のニュースで、本日発売と報じられた「SAO」ゲームシリーズ最新作『Echoes of Aincrad』は、どのメディアによって報じられましたか？",
+    "difficulty": 3,
+    "question": "2026年6月9日に配信された「ニンテンドーダイレクト」でまとめられたのはどのような内容ですか？",
     "choices": [
-      "ファミ通",
-      "GAME Watch",
-      "電撃オンライン",
-      "IGN JAPAN"
+      "発表内容",
+      "売上データ",
+      "開発者インタビュー",
+      "ユーザーアンケート"
     ],
-    "answer": "GAME Watch",
-    "explanation": "2026年8月24日のニュースによると、「SAO」ゲームシリーズ最新作「Echoes of Aincrad」本日発売（GAME Watch）と報じられました。"
+    "answer": "発表内容",
+    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」では発表内容がまとめられました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 9,
-    "question": "2026年8月21日のニュースで、明日8月22日(土)に新発売と報じられた『ONE PIECEカードゲーム』のブースターパック「世界最強の戦士【OP-17】」は、どのような情報としてONE PIECE.comで報じられましたか？",
+    "difficulty": 3,
+    "question": "「ONE PIECE DAY’26」で特報が解禁されるのは、どのONE PIECE関連のゲームですか？",
     "choices": [
-      "イベント告知",
-      "製品発売情報",
-      "キャンペーン情報",
-      "大会情報"
+      "ONE PIECEカードゲーム",
+      "ONE PIECE 海のごちそうレストラン",
+      "ONE PIECE Odyssey",
+      "ONE PIECE Pirate Warriors"
     ],
-    "answer": "製品発売情報",
-    "explanation": "2026年8月21日のニュースによると、「ONE PIECEカードゲーム 最新情報」としてブースターパック「世界最強の戦士【OP-17】」の新発売が報じられました。"
+    "answer": "ONE PIECEカードゲーム",
+    "explanation": "2026年夏頃のニュースによると、「ONE PIECE DAY’26」にて「ONE PIECEカードゲーム」の特報が解禁されると発表されました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 9,
-    "question": "2026年8月のニュースで、GameWithが紹介したSwitchのゲームニュースの使い方において、ユーザーが有効活用すべき情報源は何と説明されていますか？",
+    "difficulty": 3,
+    "question": "「ファイナルファンタジー レゾナンス」の最新情報として、新ワールドの他に報じられたゲーム要素は何ですか？",
     "choices": [
-      "非公式のブログ",
-      "公式の最新情報",
-      "SNSの投稿",
-      "友人からの口コミ"
+      "新キャラ",
+      "新マップ",
+      "新武器",
+      "新ダンジョン"
     ],
-    "answer": "公式の最新情報",
-    "explanation": "2026年8月のニュースによると、GameWithは「Switchのゲームニュースの使い方！公式の最新情報を有効活用する方法」を紹介しました。"
+    "answer": "新キャラ",
+    "explanation": "2026年夏頃のニュースによると、「ファイナルファンタジー レゾナンス」の最新情報として新ワールドや新キャラ、ゲームシステムなどがまとめられました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 9,
-    "question": "2026年8月のニュースで、埼玉新聞が報じた若年層のゲーム依存10%という数値は、どのような性質の調査結果と推測されますか？",
+    "difficulty": 3,
+    "question": "2026年6月2日のState of Playで発表された『真・三國無双2』に関する情報は何ですか？",
     "choices": [
-      "予備調査",
-      "本調査",
-      "速報値",
-      "暫定値"
+      "紫鸞参戦",
+      "発売日決定",
+      "体験版配信",
+      "新モード追加"
     ],
-    "answer": "本調査",
-    "explanation": "2026年8月の埼玉新聞のニュースによると、「ゲーム依存、若年層は１０％」と具体的な数値が報じられており、これは本調査の結果であると推測されます。"
+    "answer": "紫鸞参戦",
+    "explanation": "2026年6月のニュースによると、2026年6月2日のState of Playで『真・三國無双2』に紫鸞が参戦することが発表されました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 9,
-    "question": "2026年6月2日のState of Playで、体験版配信が発表された完全新作『鬼武者』は、どのようなゲームシリーズとして知られていますか？",
+    "difficulty": 3,
+    "question": "「ゲーム依存、若年層は１０％」というニュースは、どの新聞で報じられましたか？",
     "choices": [
-      "アクションRPG",
-      "サバイバルホラー",
-      "戦国アクション",
-      "格闘ゲーム"
-    ],
-    "answer": "戦国アクション",
-    "explanation": "2026年6月2日のState of Playの発表によると、完全新作『鬼武者』の体験版配信が発表されました。鬼武者シリーズは戦国時代を舞台としたアクションゲームです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 10,
-    "question": "2026年7月後半のニュースで、「HOTな『ロボゲー』」として紹介された『GUNDAM ROGUE ORBIT』は、主人公機と敵の設定画が公開されましたが、その敵は太陽系外から飛来した何という存在でしたか？",
-    "choices": [
-      "宇宙海賊",
-      "異星人",
-      "シリコン生命体",
-      "機械生命体"
-    ],
-    "answer": "シリコン生命体",
-    "explanation": "2026年7月後半のニュースによると、『GUNDAM ROGUE ORBIT』は太陽系外から飛来したシリコン生命体との戦闘を描いています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 10,
-    "question": "2026年6月2日のState of Playで、発売日決定が発表された『エースコンバット8』は、どのゲームメーカーの代表的なシリーズですか？",
-    "choices": [
-      "カプコン",
-      "バンダイナムコエンターテインメント",
-      "スクウェア・エニックス",
-      "セガ"
-    ],
-    "answer": "バンダイナムコエンターテインメント",
-    "explanation": "2026年6月2日のState of Playの発表によると、『エースコンバット8』の発売日決定が報じられました。エースコンバットはバンダイナムコエンターテインメントの代表的なシリーズです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 10,
-    "question": "2026年8月のニュースで、ゲーム『進撃の巨人３』の発売決定が報じられましたが、このゲームは「進撃の巨人」の物語のどのような側面を強調した集大成と表現されていますか？",
-    "choices": [
-      "アクション要素",
-      "キャラクターの成長",
-      "物語の全体像",
-      "グラフィックの美しさ"
-    ],
-    "answer": "物語の全体像",
-    "explanation": "2026年8月のニュースによると、ゲーム『進撃の巨人３』は「物語を最初から最後まで描く集大成」とされており、物語の全体像を強調しています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 10,
-    "question": "2026年8月のニュースで、若年層のゲーム依存の割合が10%と報じられましたが、この情報はどの新聞社から提供されましたか？",
-    "choices": [
-      "読売新聞",
-      "朝日新聞",
       "埼玉新聞",
+      "朝日新聞",
+      "読売新聞",
       "日本経済新聞"
     ],
     "answer": "埼玉新聞",
-    "explanation": "2026年8月の埼玉新聞のニュースによると、「ゲーム依存、若年層は１０％ - 埼玉新聞」と報じられました。"
+    "explanation": "2026年夏頃のニュースによると、「ゲーム依存、若年層は１０％」という記事が埼玉新聞で報じられました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 10,
-    "question": "2026年8月のニュースで、オリコンニュースが報じた『キングダム ハーツIV』の発表は、どのゲームシリーズの最新作として特に注目されていますか？",
+    "difficulty": 3,
+    "question": "『キングダム ハーツIV』の発売が発表されたPlayStationシリーズの最新プラットフォームは何ですか？",
     "choices": [
-      "ファイナルファンタジー",
-      "キングダム ハーツ",
-      "ブレイブリーデフォルト",
-      "すばらしきこのせかい"
+      "PS5",
+      "PS4",
+      "PS3",
+      "PS2"
     ],
-    "answer": "キングダム ハーツ",
-    "explanation": "2026年8月のニュースによると、『キングダム ハーツ』シリーズ最新作発表として『キングダム ハーツIV』が報じられました。"
+    "answer": "PS5",
+    "explanation": "2026年夏頃のニュースによると、『キングダム ハーツIV』はSwitch2やPS5などで発売されると発表されました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 10,
-    "question": "2026年6月3日のState of Playの配信情報がGAME Watchで報じられましたが、この配信の主な見どころとして「Marvel's Wolverine」の他に挙げられたのは何ですか？",
+    "difficulty": 4,
+    "question": "『キングダム ハーツ』シリーズ最新作『キングダム ハーツIV』が発売されると発表されたプラットフォームは、具体的にどれとどれですか？",
     "choices": [
-      "新作発表の数",
-      "配信時間の長さ",
-      "開発者の豪華さ",
-      "サプライズ発表の多さ"
+      "Switch2とPS5",
+      "PS4とXbox One",
+      "PCとPS5",
+      "SwitchとXbox Series X"
     ],
-    "answer": "配信時間の長さ",
-    "explanation": "2026年6月3日のニュースによると、State of Playは「Marvel's Wolverine」最新情報などを「60分以上」でお届けすると報じられ、配信時間の長さも注目点でした。"
+    "answer": "Switch2とPS5",
+    "explanation": "2026年夏頃のニュースによると、『キングダム ハーツIV』はSwitch2やPS5などで発売されると発表されました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 10,
-    "question": "2026年8月24日のニュースで、本日発売と報じられた『TATSUJIN EXTREME』は、どのメディアでその魅力が紹介されましたか？",
+    "difficulty": 4,
+    "question": "「XBOX東京ゲームショウ2026ブロードキャスト」と「XBOX FanFest Tokyo」は、いつ開催されますか？",
     "choices": [
-      "ファミ通",
+      "2026年9月17日",
+      "2026年6月2日",
+      "2026年7月23日",
+      "2026年10月22日"
+    ],
+    "answer": "2026年9月17日",
+    "explanation": "2026年夏頃のニュースによると、「XBOX東京ゲームショウ2026ブロードキャスト」は2026年9月17日に配信され、同日に「XBOX FanFest Tokyo」も開催されます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "“FGOフェス2026”で発表された主なニュースの種類は何と何ですか？",
+    "choices": [
+      "ゲーム最新情報とTYPE-MOON関連ニュース",
+      "アニメ最新情報とコミック関連ニュース",
+      "音楽最新情報と映画関連ニュース",
+      "イベント情報とグッズ販売情報"
+    ],
+    "answer": "ゲーム最新情報とTYPE-MOON関連ニュース",
+    "explanation": "2026年夏頃のニュースによると、“FGOフェス2026”ではゲーム最新情報やTYPE-MOON関連ニュースが一挙に紹介されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "『ポケポケ』新パック「天空の支配者」の最新情報が公開された具体的な時間帯は何時ですか？",
+    "choices": [
+      "22時",
+      "12時",
+      "18時",
+      "24時"
+    ],
+    "answer": "22時",
+    "explanation": "2026年7月のニュースによると、『ポケポケ』新パック「天空の支配者」の最新情報は本日7月23日22時に公開されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "『ONE PIECE 海のごちそうレストラン』は、どのような種類のゲームとして発売されますか？",
+    "choices": [
+      "家庭用ゲーム",
+      "スマートフォンゲーム",
+      "アーケードゲーム",
+      "PCゲーム"
+    ],
+    "answer": "家庭用ゲーム",
+    "explanation": "2026年夏頃のニュースによると、『ONE PIECE』家庭用ゲーム最新作として『ONE PIECE 海のごちそうレストラン』が発売されます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "「ニンテンドーダイレクト 2026.6.9」の発表内容まとめが報じられたのはどのメディアですか？",
+    "choices": [
+      "GAME Watch - Yahoo!ニュース",
+      "ファミ通.com",
+      "Saiga NAK",
+      "GameWith"
+    ],
+    "answer": "GAME Watch - Yahoo!ニュース",
+    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」の発表内容まとめはGAME Watch - Yahoo!ニュースで報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "2026年6月2日のState of Playで、発売日決定が発表されたゲームと、体験版配信が発表された完全新作ゲームの組み合わせとして正しいものはどれですか？",
+    "choices": [
+      "エースコンバット8と鬼武者",
+      "真・三國無双2とエースコンバット8",
+      "鬼武者と真・三國無双2",
+      "ファイナルファンタジー レゾナンスと鬼武者"
+    ],
+    "answer": "エースコンバット8と鬼武者",
+    "explanation": "2026年6月のニュースによると、2026年6月2日のState of Playで『エースコンバット8』の発売日決定と、完全新作『鬼武者』の体験版配信が発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "「トモダチコレクションわくわく生活」のアップデート情報がまとめられたのは、どのゲーム情報サイトですか？",
+    "choices": [
+      "GameWith",
+      "ファミ通.com",
       "GAME Watch",
-      "電撃オンライン",
-      "IGN JAPAN"
+      "インサイド"
+    ],
+    "answer": "GameWith",
+    "explanation": "2026年夏頃のニュースによると、「トモダチコレクションわくわく生活」のアップデートの最新情報はGameWithでまとめられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "「ファイナルファンタジー レゾナンス」に関する最新情報がまとめられたメディアは何ですか？",
+    "choices": [
+      "GAME Watch - Yahoo!ニュース",
+      "ファミ通.com",
+      "GameWith",
+      "Saiga NAK"
+    ],
+    "answer": "GAME Watch - Yahoo!ニュース",
+    "explanation": "2026年夏頃のニュースによると、「ファイナルファンタジー レゾナンス」の最新情報はGAME Watch - Yahoo!ニュースでまとめられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "「DREAMDAZE Ⅳ」で発表されたゲーム情報について報じられたのは、どのゲーム関連サイトですか？",
+    "choices": [
+      "monster-strike.com",
+      "gamecity.ne.jp",
+      "ONE PIECE.com",
+      "オリコンニュース"
+    ],
+    "answer": "monster-strike.com",
+    "explanation": "2026年夏頃のニュースによると、「DREAMDAZE Ⅳ」で発表したゲーム情報はmonster-strike.comでまとめられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "『キングダム ハーツIV』の発表に関するニュースを報じたメディアはどこですか？",
+    "choices": [
+      "オリコンニュース",
+      "ファミ通.com",
+      "GAME Watch",
+      "GameWith"
+    ],
+    "answer": "オリコンニュース",
+    "explanation": "2026年夏頃のニュースによると、『キングダム ハーツ』シリーズ最新作発表はオリコンニュースで報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "2026年6月2日のState of Playで発表された『真・三國無双2』に参戦する新キャラクター「紫鸞」と、体験版が配信された完全新作ゲームの正しい組み合わせはどれですか？",
+    "choices": [
+      "紫鸞と鬼武者",
+      "紫鸞とエースコンバット8",
+      "紫鸞とファイナルファンタジー レゾナンス",
+      "紫鸞とキングダム ハーツIV"
+    ],
+    "answer": "紫鸞と鬼武者",
+    "explanation": "2026年6月のニュースによると、2026年6月2日のState of Playで『真・三國無双2』に紫鸞が参戦し、完全新作『鬼武者』の体験版が配信されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "ゲーム『進撃の巨人３』は、どのような特徴を持つ作品として発表されましたか？",
+    "choices": [
+      "物語を最初から最後まで描く集大成",
+      "原作の序盤のみを忠実に再現",
+      "アニメ版のストーリーを補完",
+      "キャラクターの日常を描くスピンオフ"
+    ],
+    "answer": "物語を最初から最後まで描く集大成",
+    "explanation": "2026年夏頃のニュースによると、ゲーム『進撃の巨人３』は「進撃の巨人」の物語を最初から最後まで描く集大成として発売が決定しました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "「XBOX東京ゲームショウ2026ブロードキャスト」が配信される2026年9月17日には、他にどのようなイベントが同日開催されますか？",
+    "choices": [
+      "XBOX FanFest Tokyo",
+      "東京ゲームショウ2026",
+      "PlayStation Showcase",
+      "Nintendo Live"
+    ],
+    "answer": "XBOX FanFest Tokyo",
+    "explanation": "2026年夏頃のニュースによると、2026年9月17日に「XBOX東京ゲームショウ2026ブロードキャスト」が配信され、同日開催で「XBOX FanFest Tokyo」の参加応募受付もスタートしました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "“FGOフェス2026”で紹介された「TYPE-MOON関連ニュース」とは、具体的にどのような内容が期待されますか？",
+    "choices": [
+      "FGO以外のTYPE-MOON作品の情報",
+      "FGOの次期アップデート情報",
+      "FGOのアニメ化情報",
+      "FGOのコミカライズ情報"
+    ],
+    "answer": "FGO以外のTYPE-MOON作品の情報",
+    "explanation": "2026年夏頃のニュースによると、“FGOフェス2026”ではゲーム最新情報やTYPE-MOON関連ニュースが一挙に紹介されるとあり、FGO以外のTYPE-MOON作品の情報も含まれると解釈できます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "『ポケポケ』新パック「天空の支配者」の最新情報が公開されたのは、どのゲーム情報サイトですか？",
+    "choices": [
+      "インサイド",
+      "ファミ通.com",
+      "GameWith",
+      "GAME Watch"
+    ],
+    "answer": "インサイド",
+    "explanation": "2026年7月のニュースによると、『ポケポケ』新パック「天空の支配者」の最新情報はインサイドで報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "『ONE PIECE 海のごちそうレストラン』の発売日が決定したことを報じたのは、どの公式ウェブサイトですか？",
+    "choices": [
+      "ONE PIECE.com",
+      "gamecity.ne.jp",
+      "monster-strike.com",
+      "オリコンニュース"
+    ],
+    "answer": "ONE PIECE.com",
+    "explanation": "2026年夏頃のニュースによると、『ONE PIECE』家庭用ゲーム最新作『ONE PIECE 海のごちそうレストラン』の発売決定はONE PIECE.comで報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "「トモダチコレクションわくわく生活」のアップデート情報まとめについて、記事のタイトルに用いられている略称は何ですか？",
+    "choices": [
+      "トモコレ",
+      "トモワク",
+      "トモ生",
+      "わくコレ"
+    ],
+    "answer": "トモコレ",
+    "explanation": "2026年夏頃のニュースによると、「【トモコレ】アップデートの最新情報まとめ【トモダチコレクションわくわく生活】」というタイトルで報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "「原神」の生放送(予告番組)の最新情報まとめが報じられたのは、どのゲーム情報サイトですか？",
+    "choices": [
+      "GameWith",
+      "ファミ通.com",
+      "GAME Watch",
+      "インサイド"
+    ],
+    "answer": "GameWith",
+    "explanation": "2026年夏頃のニュースによると、「原神」の生放送(予告番組)の最新情報はGameWithでまとめられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "「ONE PIECE DAY’26」で「ONE PIECEカードゲーム」の特報が解禁されることについて報じられたのは、どの公式ウェブサイトですか？",
+    "choices": [
+      "ONE PIECE.com",
+      "gamecity.ne.jp",
+      "monster-strike.com",
+      "オリコンニュース"
+    ],
+    "answer": "ONE PIECE.com",
+    "explanation": "2026年夏頃のニュースによると、「ONE PIECE DAY’26」にて「ONE PIECEカードゲーム」の特報が解禁されることはONE PIECE.comで報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "「ファイナルファンタジー レゾナンス」の最新情報として、新ワールド、新キャラの他にどのような要素がまとめられましたか？",
+    "choices": [
+      "ゲームシステム",
+      "追加DLC情報",
+      "アニメ化情報",
+      "映画化情報"
+    ],
+    "answer": "ゲームシステム",
+    "explanation": "2026年夏頃のニュースによると、「ファイナルファンタジー レゾナンス」の最新情報として新ワールドや新キャラ、ゲームシステムなどがまとめられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "『キングダム ハーツIV』が発売されると発表されたプラットフォームは、任天堂とソニーの次世代機として、それぞれ何ですか？",
+    "choices": [
+      "Switch2とPS5",
+      "SwitchとPS4",
+      "Switch LiteとPS5",
+      "Switch ProとPS5"
+    ],
+    "answer": "Switch2とPS5",
+    "explanation": "2026年夏頃のニュースによると、『キングダム ハーツIV』はSwitch2やPS5などで発売されると発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "2026年6月2日のState of Playで発表された情報の中で、発売日決定、新キャラクター参戦、体験版配信の3つのカテゴリに該当するゲームの組み合わせはどれですか？",
+    "choices": [
+      "エースコンバット8、真・三國無双2、鬼武者",
+      "ファイナルファンタジー レゾナンス、キングダム ハーツIV、進撃の巨人３",
+      "ONE PIECE 海のごちそうレストラン、ポケポケ、トモダチコレクションわくわく生活",
+      "原神、FGOフェス2026、DREAMDAZE Ⅳ"
+    ],
+    "answer": "エースコンバット8、真・三國無双2、鬼武者",
+    "explanation": "2026年6月のニュースによると、2026年6月2日のState of Playで『エースコンバット8』の発売日決定、『真・三國無双2』に紫鸞参戦、完全新作『鬼武者』体験版配信が発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "ゲーム『進撃の巨人３』が発売決定したことを報じた公式ウェブサイトのドメインは何ですか？",
+    "choices": [
+      "gamecity.ne.jp",
+      "ONE PIECE.com",
+      "monster-strike.com",
+      "オリコンニュース"
+    ],
+    "answer": "gamecity.ne.jp",
+    "explanation": "2026年夏頃のニュースによると、ゲーム『進撃の巨人３』の発売決定はgamecity.ne.jpで報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "「XBOX東京ゲームショウ2026ブロードキャスト」の配信日と、「XBOX FanFest Tokyo」の開催日に関する記述として正しいものはどれですか？",
+    "choices": [
+      "両方とも2026年9月17日",
+      "ブロードキャストは9月17日、FanFestは9月18日",
+      "ブロードキャストは9月16日、FanFestは9月17日",
+      "両方とも2026年8月29日"
+    ],
+    "answer": "両方とも2026年9月17日",
+    "explanation": "2026年夏頃のニュースによると、「XBOX東京ゲームショウ2026ブロードキャスト」が9月17日に配信され、同日開催「XBOX FanFest Tokyo」の参加応募受付もスタートしました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "『キングダム ハーツ』シリーズ最新作『キングダム ハーツIV』の発表を報じたメディアは何ですか？",
+    "choices": [
+      "オリコンニュース",
+      "ファミ通.com",
+      "GameWith",
+      "GAME Watch"
+    ],
+    "answer": "オリコンニュース",
+    "explanation": "2026年夏頃のニュースによると、『キングダム ハーツ』シリーズ最新作発表はオリコンニュースで報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "“FGOフェス2026”で紹介されたニュースの発表元として、FGO以外の関連作品も含む可能性のあるキーワードは何ですか？",
+    "choices": [
+      "TYPE-MOON関連ニュース",
+      "Fateシリーズ新作",
+      "アニプレックス作品",
+      "KADOKAWAタイトル"
+    ],
+    "answer": "TYPE-MOON関連ニュース",
+    "explanation": "2026年夏頃のニュースによると、“FGOフェス2026”ではゲーム最新情報やTYPE-MOON関連ニュースが一挙に紹介されるとあり、TYPE-MOONはFGO以外の作品も手掛けているため、関連ニュースも含まれると解釈できます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "『ポケポケ』新パック「天空の支配者」の最新情報が本日7月23日22時に公開された際に、特に期待が寄せられた収録カードは何ですか？",
+    "choices": [
+      "メガレックウザ",
+      "カイオーガ",
+      "グラードン",
+      "レシラム"
+    ],
+    "answer": "メガレックウザ",
+    "explanation": "2026年7月のニュースによると、『ポケポケ』新パック「天空の支配者」の最新情報が本日7月23日22時に公開され、メガレックウザほか、収録カード解禁に期待が寄せられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "2026年6月9日に配信された「ニンテンドーダイレクト」の内容まとめを報じたのは、どのウェブサイトとニュースポータルサイトの組み合わせですか？",
+    "choices": [
+      "GAME Watch - Yahoo!ニュース",
+      "ファミ通.com - Googleニュース",
+      "GameWith - MSNニュース",
+      "インサイド - Livedoorニュース"
+    ],
+    "answer": "GAME Watch - Yahoo!ニュース",
+    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」の発表内容まとめはGAME Watch - Yahoo!ニュースで報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "『ONE PIECE 海のごちそうレストラン』の発売日として発表された曜日と日付はどれですか？",
+    "choices": [
+      "2026年10月22日(木)",
+      "2026年10月22日(水)",
+      "2026年10月22日(金)",
+      "2026年10月22日(火)"
+    ],
+    "answer": "2026年10月22日(木)",
+    "explanation": "2026年夏頃のニュースによると、『ONE PIECE 海のごちそうレストラン』は2026年10月22日(木)に発売が決定しました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "「トモダチコレクションわくわく生活」のアップデートの最新情報がまとめられた記事のタイトルから、このゲームの正式名称は何ですか？",
+    "choices": [
+      "トモダチコレクションわくわく生活",
+      "トモダチコレクション新生活",
+      "トモダチコレクション夢の生活",
+      "トモダチコレクション楽しい生活"
+    ],
+    "answer": "トモダチコレクションわくわく生活",
+    "explanation": "2026年夏頃のニュースによると、「【トモコレ】アップデートの最新情報まとめ【トモダチコレクションわくわく生活】」というタイトルで報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "「ファイナルファンタジー レゾナンス」の最新情報まとめで、新ワールド、新キャラ、ゲームシステム以外に言及されたカテゴリは何ですか？",
+    "choices": [
+      "上記3つが全て",
+      "新ストーリー",
+      "新モード",
+      "追加コスチューム"
+    ],
+    "answer": "上記3つが全て",
+    "explanation": "2026年夏頃のニュースによると、「ファイナルファンタジー レゾナンス」の最新情報として新ワールドや新キャラ、ゲームシステムなどがまとめられました。それ以外の具体的なカテゴリは言及されていません。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "『キングダム ハーツIV』の発表を報じたオリコンニュースの記事見出しには、どのような表現で最新作であることが示されていますか？",
+    "choices": [
+      "シリーズ最新作発表",
+      "新作ゲーム発売",
+      "待望の続編",
+      "次世代の冒険"
+    ],
+    "answer": "シリーズ最新作発表",
+    "explanation": "2026年夏頃のニュースによると、「『キングダム ハーツ』シリーズ最新作発表 『キングダム ハーツIV』Switch2やPS5などで発売へ - オリコンニュース」という見出しで報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "2026年6月2日のState of Playで発表された『真・三國無双2』に関する情報と、完全新作『鬼武者』に関する情報をまとめたものとして正しいのはどれですか？",
+    "choices": [
+      "『真・三國無双2』に紫鸞参戦、『鬼武者』体験版配信",
+      "『真・三國無双2』発売日決定、『鬼武者』新キャラ参戦",
+      "『真・三國無双2』体験版配信、『鬼武者』発売日決定",
+      "『真・三國無双2』新モード追加、『鬼武者』DLC発表"
+    ],
+    "answer": "『真・三國無双2』に紫鸞参戦、『鬼武者』体験版配信",
+    "explanation": "2026年6月のニュースによると、2026年6月2日のState of Playで『真・三國無双2』に紫鸞参戦、完全新作『鬼武者』体験版配信が発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "ゲーム『進撃の巨人３』が「物語を最初から最後まで描く集大成」とされたことについて、この発表をしたウェブサイトはどのゲームメーカーの公式サイトですか？",
+    "choices": [
+      "gamecity.ne.jp (コーエーテクモゲームス)",
+      "bandainamcoent.co.jp (バンダイナムコエンターテインメント)",
+      "square-enix.com (スクウェア・エニックス)",
+      "capcom.co.jp (カプコン)"
+    ],
+    "answer": "gamecity.ne.jp (コーエーテクモゲームス)",
+    "explanation": "2026年夏頃のニュースによると、ゲーム『進撃の巨人３』の発売決定はgamecity.ne.jpで報じられました。gamecity.ne.jpはコーエーテクモゲームスのドメインです。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "「XBOX東京ゲームショウ2026ブロードキャスト」の配信日と「XBOX FanFest Tokyo」の参加応募受付開始日の関係について、ニュースが伝えているのはどれですか？",
+    "choices": [
+      "ブロードキャスト配信日と同日",
+      "ブロードキャスト配信日の前日",
+      "ブロードキャスト配信日の翌日",
+      "ブロードキャスト配信日とは関係なく開始"
+    ],
+    "answer": "ブロードキャスト配信日と同日",
+    "explanation": "2026年夏頃のニュースによると、「XBOX東京ゲームショウ2026ブロードキャスト」が9月17日に配信され、同日開催「XBOX FanFest Tokyo」の参加応募受付もスタートしました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "『キングダム ハーツIV』が発表された際に挙げられたプラットフォーム「Switch2」とは、どのようなハードウェアを指すと推測されますか？",
+    "choices": [
+      "Nintendo Switchの後継機",
+      "Nintendo Switchのマイナーチェンジ版",
+      "Nintendo Switchの廉価版",
+      "Nintendo SwitchのVR対応版"
+    ],
+    "answer": "Nintendo Switchの後継機",
+    "explanation": "2026年夏頃のニュースで『キングダム ハーツIV』がSwitch2やPS5などで発売されると報じられました。PS5が最新の据え置き機であることから、Switch2はNintendo Switchの次世代機（後継機）を指すと考えるのが自然です。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "“FGOフェス2026”の発表まとめで、「ゲーム最新情報やTYPE-MOON関連ニュースを一挙紹介」という記述から、FGOフェスがどのような位置づけのイベントであると推測されますか？",
+    "choices": [
+      "FGOとその関連作品全般の総合的な発表イベント",
+      "FGOのみに特化した情報発表イベント",
+      "TYPE-MOON作品の新作発表のみのイベント",
+      "過去のFGO作品を振り返るイベント"
+    ],
+    "answer": "FGOとその関連作品全般の総合的な発表イベント",
+    "explanation": "2026年夏頃のニュースによると、“FGOフェス2026”では「ゲーム最新情報やTYPE-MOON関連ニュースを一挙紹介」とあり、FGOだけでなくTYPE-MOON全体の情報を扱う総合的なイベントであることが示唆されています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "『ポケポケ』新パック「天空の支配者」の最新情報が本日7月23日22時に公開された際、具体的に期待が寄せられたのは何ですか？",
+    "choices": [
+      "メガレックウザの収録カード解禁",
+      "新ルールの発表",
+      "新キャラクターの登場",
+      "アニメ化の発表"
+    ],
+    "answer": "メガレックウザの収録カード解禁",
+    "explanation": "2026年7月のニュースによると、『ポケポケ』新パック「天空の支配者」の最新情報が本日7月23日22時に公開され、メガレックウザほか、収録カード解禁に期待が寄せられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "「ニンテンドーダイレクト 2026.6.9」の発表内容がまとめられたニュースは、どのニュースサイトによって報じられましたか？",
+    "choices": [
+      "Yahoo!ニュースのGAME Watch",
+      "Googleニュースのファミ通.com",
+      "MSNニュースのGameWith",
+      "Livedoorニュースのインサイド"
+    ],
+    "answer": "Yahoo!ニュースのGAME Watch",
+    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」発表内容まとめは（GAME Watch）- Yahoo!ニュースで報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "『ONE PIECE 海のごちそうレストラン』が2026年10月22日(木)に発売決定したことについて、この情報が掲載された公式ウェブサイトのURLは何ですか？",
+    "choices": [
+      "ONE PIECE.com",
+      "gamecity.ne.jp",
+      "monster-strike.com",
+      "oricon.co.jp"
+    ],
+    "answer": "ONE PIECE.com",
+    "explanation": "2026年夏頃のニュースによると、『ONE PIECE』家庭用ゲーム最新作『ONE PIECE 海のごちそうレストラン』の発売決定はONE PIECE.comで報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "「トモダチコレクションわくわく生活」のアップデートの最新情報まとめが報じられたGameWithの記事タイトルに含まれる略称と正式名称の組み合わせとして正しいものはどれですか？",
+    "choices": [
+      "トモコレとトモダチコレクションわくわく生活",
+      "トモ生とトモダチコレクションわくわく生活",
+      "わくコレとトモダチコレクションわくわく生活",
+      "トモコレとトモダチコレクション新生活"
+    ],
+    "answer": "トモコレとトモダチコレクションわくわく生活",
+    "explanation": "2026年夏頃のニュースによると、「【トモコレ】アップデートの最新情報まとめ【トモダチコレクションわくわく生活】」というタイトルで報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "「原神」の生放送(予告番組)の最新情報まとめがGameWithで報じられた際、記事のタイトルにはどのようなゲーム情報サイトの名称が含まれていますか？",
+    "choices": [
+      "GameWith",
+      "ファミ通.com",
+      "GAME Watch",
+      "インサイド"
+    ],
+    "answer": "GameWith",
+    "explanation": "2026年夏頃のニュースによると、「【原神】生放送(予告番組)の最新情報まとめ - GameWith」というタイトルで報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "『キングダム ハーツIV』がSwitch2やPS5などで発売されるというニュースは、どのシリーズの最新作として報じられましたか？",
+    "choices": [
+      "『キングダム ハーツ』シリーズ",
+      "『ファイナルファンタジー』シリーズ",
+      "『テイルズ オブ』シリーズ",
+      "『ゼルダの伝説』シリーズ"
+    ],
+    "answer": "『キングダム ハーツ』シリーズ",
+    "explanation": "2026年夏頃のニュースによると、『キングダム ハーツ』シリーズ最新作発表として『キングダム ハーツIV』が報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "2026年6月2日のState of Playで発表された『エースコンバット8』の発売日決定と、『真・三國無双2』に紫鸞参戦のニュースは、どちらも『State of Play新発表まとめ』として報じられました。このまとめ記事を掲載したメディアは何ですか？",
+    "choices": [
+      "ファミ通.com",
+      "GAME Watch",
+      "GameWith",
+      "オリコンニュース"
+    ],
+    "answer": "ファミ通.com",
+    "explanation": "2026年6月のニュースによると、「State of Play新発表まとめ。『エースコンバット8』発売日決定、『真・三國無双2』に紫鸞参戦、完全新作『鬼武者』体験版配信など【ステートオブプレイ June 2, 2026】 - ファミ通.com」という記事で報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "ゲーム『進撃の巨人３』が発売決定したことを報じたニュースの見出しに含まれるキーワードとして正しいものはどれですか？",
+    "choices": [
+      "物語を最初から最後まで描く集大成",
+      "アニメ最終章を補完する",
+      "原作の新たな側面を描く",
+      "キャラクターの日常に焦点を当てる"
+    ],
+    "answer": "物語を最初から最後まで描く集大成",
+    "explanation": "2026年夏頃のニュースによると、「『進撃の巨人』の物語を最初から最後まで描く集大成 ゲーム『進撃の巨人３』発売決定！」という見出しで報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "「XBOX東京ゲームショウ2026ブロードキャスト」の配信と「XBOX FanFest Tokyo」の開催が予定されている9月17日に関するニュースを報じたメディアは何ですか？",
+    "choices": [
+      "Saiga NAK",
+      "ファミ通.com",
+      "GAME Watch",
+      "オリコンニュース"
+    ],
+    "answer": "Saiga NAK",
+    "explanation": "2026年夏頃のニュースによると、「最新情報番組「XBOX東京ゲームショウ2026ブロードキャスト」が9月17日に配信！同日開催「XBOX FanFest Tokyo」の参加応募受付もスタート - Saiga NAK」という記事で報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "『キングダム ハーツ』シリーズ最新作『キングダム ハーツIV』の発表を報じたオリコンニュースの記事タイトルに、発売予定のプラットフォームとして明記されていたのはどれとどれですか？",
+    "choices": [
+      "Switch2やPS5",
+      "PS5やXbox Series X",
+      "SwitchやPC",
+      "PS4やXbox One"
+    ],
+    "answer": "Switch2やPS5",
+    "explanation": "2026年夏頃のニュースによると、「『キングダム ハーツ』シリーズ最新作発表 『キングダム ハーツIV』Switch2やPS5などで発売へ - オリコンニュース」という記事タイトルで報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "“FGOフェス2026”の発表まとめを報じたファミ通.comの記事タイトルに含まれるキーワードとして正しいものはどれですか？",
+    "choices": [
+      "11th Anniversary～",
+      "10th Anniversary記念",
+      "FGO新作発表",
+      "TYPE-MOON最新作"
+    ],
+    "answer": "11th Anniversary～",
+    "explanation": "2026年夏頃のニュースによると、“FGOフェス2026”発表まとめは「【11th Anniversary～】」というキーワードを含むタイトルでファミ通.comで報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "『ポケポケ』新パック「天空の支配者」の最新情報が本日7月23日22時に公開された際、収録カード解禁に期待が寄せられたポケモンは「メガレックウザ」の他にどのような表現で示唆されていますか？",
+    "choices": [
+      "ほか",
+      "など",
+      "多数",
+      "含む"
+    ],
+    "answer": "ほか",
+    "explanation": "2026年7月のニュースによると、『ポケポケ』新パック「天空の支配者」の最新情報が本日7月23日22時公開！メガレックウザほか、収録カード解禁に期待と報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "2026年6月9日に配信された「ニンテンドーダイレクト」の発表内容まとめを報じたYahoo!ニュースの記事は、どのゲーム情報サイトからの提供ですか？",
+    "choices": [
+      "GAME Watch",
+      "ファミ通.com",
+      "GameWith",
+      "インサイド"
     ],
     "answer": "GAME Watch",
-    "explanation": "2026年8月24日のニュースによると、シリーズ最新作「TATSUJIN EXTREME」本日発売。本作の魅力を紹介する最新PV公開（GAME Watch）と報じられました。"
+    "explanation": "2026年6月のニュースによると、「【ニンダイまとめ】「ニンテンドーダイレクト 2026.6.9」発表内容まとめ（GAME Watch） - Yahoo!ニュース」という形で報じられました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 10,
-    "question": "2026年8月のニュースで、GameWithが『トモダチコレクションわくわく生活』のアップデート情報をまとめる際に、記事タイトルに含めたゲームの正式名称は何ですか？",
+    "difficulty": 8,
+    "question": "『ONE PIECE』家庭用ゲーム最新作『ONE PIECE 海のごちそうレストラン』の発売決定が報じられたのは、どのドメインのウェブサイトですか？",
     "choices": [
-      "トモダチコレクション",
-      "トモダチコレクション 新生活",
-      "トモダチコレクション わくわく生活",
-      "トモダチコレクション DX"
+      "ONE PIECE.com",
+      "gamecity.ne.jp",
+      "monster-strike.com",
+      "oricon.co.jp"
     ],
-    "answer": "トモダチコレクション わくわく生活",
-    "explanation": "2026年8月のニュースによると、「【トモコレ】アップデートの最新情報まとめ【トモダチコレクションわくわく生活】」というタイトルで報じられました。"
+    "answer": "ONE PIECE.com",
+    "explanation": "2026年夏頃のニュースによると、『ONE PIECE』家庭用ゲーム最新作『ONE PIECE 海のごちそうレストラン』の発売決定はONE PIECE.comで報じられました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 10,
-    "question": "2026年8月21日のニュースで、明日8月22日(土)に新発売と報じられた『ONE PIECEカードゲーム』のブースターパック「世界最強の戦士【OP-17】」は、どのような情報カテゴリでONE PIECE.comに掲載されましたか？",
+    "difficulty": 8,
+    "question": "「トモダチコレクションわくわく生活」のアップデートの最新情報まとめを報じたGameWithの記事タイトルには、ゲームの略称と正式名称がどのように併記されていますか？",
     "choices": [
-      "商品情報",
-      "イベント情報",
-      "最新情報",
-      "キャンペーン情報"
+      "【トモコレ】アップデートの最新情報まとめ【トモダチコレクションわくわく生活】",
+      "トモダチコレクションわくわく生活のアップデート情報【トモコレ】",
+      "トモコレ（トモダチコレクションわくわく生活）最新情報",
+      "「トモダチコレクションわくわく生活」【トモコレ】アップデート"
     ],
-    "answer": "最新情報",
-    "explanation": "2026年8月21日のニュースによると、「ONE PIECEカードゲーム 最新情報」としてブースターパック「世界最強の戦士【OP-17】」の新発売が報じられました。"
+    "answer": "【トモコレ】アップデートの最新情報まとめ【トモダチコレクションわくわく生活】",
+    "explanation": "2026年夏頃のニュースによると、「【トモコレ】アップデートの最新情報まとめ【トモダチコレクションわくわく生活】 - GameWith」というタイトルで報じられました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 10,
-    "question": "2026年8月24日のニュースで、本日発売と報じられたSAOゲームシリーズ最新作『Echoes of Aincrad』は、どのような情報としてGAME Watchに掲載されましたか？",
+    "difficulty": 8,
+    "question": "「ファイナルファンタジー レゾナンス」の最新情報まとめを報じたYahoo!ニュースの記事は、どのゲーム情報サイトからの提供ですか？",
     "choices": [
-      "レビュー記事",
-      "開発者インタビュー",
-      "発売日告知",
-      "攻略情報"
-    ],
-    "answer": "発売日告知",
-    "explanation": "2026年8月24日のニュースによると、「SAO」ゲームシリーズ最新作「Echoes of Aincrad」本日発売（GAME Watch）と報じられ、発売日を告知する内容でした。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 10,
-    "question": "2026年6月9日に開催された「ニンテンドーダイレクト」の発表内容まとめがYahoo!ニュースで報じられましたが、このニュースはどの組織によって提供されましたか？",
-    "choices": [
-      "任天堂",
       "GAME Watch",
-      "Yahoo!ニュース編集部",
-      "ファミ通"
+      "ファミ通.com",
+      "GameWith",
+      "インサイド"
     ],
     "answer": "GAME Watch",
-    "explanation": "2026年6月のニュースによると、「ニンテンドーダイレクト 2026.6.9」発表内容まとめは（GAME Watch）提供としてYahoo!ニュースで報じられました。"
+    "explanation": "2026年夏頃のニュースによると、「「ファイナルファンタジー レゾナンス」新ワールドや新キャラ、ゲームシステムなど最新情報まとめ（GAME Watch） - Yahoo!ニュース」という形で報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "『キングダム ハーツIV』の発表を報じたオリコンニュースの記事タイトルで、発売予定のプラットフォームが「Switch2やPS5などで発売へ」と記載されたことの意味として最も適切なものはどれですか？",
+    "choices": [
+      "Switch2とPS5が主要なプラットフォームであり、他にも発売される可能性があること",
+      "Switch2とPS5のみで発売されること",
+      "Switch2が主要でPS5は後日発売されること",
+      "Switch2とPS5は仮のプラットフォームであること"
+    ],
+    "answer": "Switch2とPS5が主要なプラットフォームであり、他にも発売される可能性があること",
+    "explanation": "2026年夏頃のニュースによると、「『キングダム ハーツIV』Switch2やPS5などで発売へ」とあり、「など」という表現は、Switch2とPS5以外にも発売されるプラットフォームがある可能性を示唆しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 9,
+    "question": "2026年6月2日のState of Playで発表された『エースコンバット8』の発売日決定と、完全新作『鬼武者』の体験版配信に関するニュースは、ファミ通.comの記事タイトルにおいてどのように日付が記載されていますか？",
+    "choices": [
+      "【ステートオブプレイ June 2, 2026】",
+      "【2026年6月2日発表】",
+      "【State of Play 6/2】",
+      "【State of Play 最新】"
+    ],
+    "answer": "【ステートオブプレイ June 2, 2026】",
+    "explanation": "2026年6月のニュースによると、「State of Play新発表まとめ。（中略）【ステートオブプレイ June 2, 2026】 - ファミ通.com」というタイトルで報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 9,
+    "question": "ゲーム『進撃の巨人３』の発売決定を報じたgamecity.ne.jpの記事見出しで、「進撃の巨人」の物語がどのように表現されていますか？",
+    "choices": [
+      "最初から最後まで描く",
+      "最終章を彩る",
+      "新たな視点で描く",
+      "過去と未来を繋ぐ"
+    ],
+    "answer": "最初から最後まで描く",
+    "explanation": "2026年夏頃のニュースによると、「「進撃の巨人」の物語を最初から最後まで描く集大成 ゲーム『進撃の巨人３』発売決定！」という見出しで報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 9,
+    "question": "「XBOX東京ゲームショウ2026ブロードキャスト」の配信が2026年9月17日に決定したことと、同日開催の「XBOX FanFest Tokyo」の参加応募受付がスタートしたことを報じたSaiga NAKの記事は、どのような情報カテゴリとして報じられていますか？",
+    "choices": [
+      "最新情報番組",
+      "イベント告知",
+      "ゲームニュース",
+      "メディア発表"
+    ],
+    "answer": "最新情報番組",
+    "explanation": "2026年夏頃のニュースによると、「最新情報番組「XBOX東京ゲームショウ2026ブロードキャスト」が9月17日に配信！同日開催「XBOX FanFest Tokyo」の参加応募受付もスタート - Saiga NAK」というタイトルで報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 9,
+    "question": "『キングダム ハーツIV』がSwitch2やPS5などで発売されるというオリコンニュースの発表において、「Switch2」という表記が示唆する状況として最も適切なものはどれですか？",
+    "choices": [
+      "Nintendo Switchの後継機が発表されている、または発表が近い",
+      "Nintendo Switchの強化版が発売されたばかりである",
+      "Nintendo Switchの小型版が発売されたばかりである",
+      "Nintendo SwitchがPC向けにエミュレートされる"
+    ],
+    "answer": "Nintendo Switchの後継機が発表されている、または発表が近い",
+    "explanation": "2026年夏頃のニュースで『キングダム ハーツIV』がSwitch2やPS5などで発売されると報じられました。PS5が最新機であることと、「Switch2」という名称から、Nintendo Switchの次世代機（後継機）が発表されているか、発表が近い状況であることを強く示唆しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 9,
+    "question": "“FGOフェス2026”で発表された情報がファミ通.comにまとめられた際、記事タイトルでフェスの開催時期やテーマを示すものとして用いられたキーワードは何ですか？",
+    "choices": [
+      "11th Anniversary～",
+      "FGO夏祭り",
+      "TYPE-MOON祭",
+      "グランドオーダーフェス"
+    ],
+    "answer": "11th Anniversary～",
+    "explanation": "2026年夏頃のニュースによると、“FGOフェス2026”発表まとめは「【11th Anniversary～】」というキーワードを含むタイトルでファミ通.comで報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 9,
+    "question": "『ポケポケ』新パック「天空の支配者」の最新情報が本日7月23日22時に公開された際、インサイドの記事見出しで収録カード解禁に期待が寄せられた具体的なポケモンと、その後に続く表現として正しいものはどれですか？",
+    "choices": [
+      "メガレックウザほか、収録カード解禁に期待",
+      "メガレックウザなど、多くのカードが解禁",
+      "メガレックウザを筆頭に、新カードが多数",
+      "メガレックウザと新ポケモン、収録決定"
+    ],
+    "answer": "メガレックウザほか、収録カード解禁に期待",
+    "explanation": "2026年7月のニュースによると、『ポケポケ』新パック「天空の支配者」最新情報が本日7月23日22時公開！メガレックウザほか、収録カード解禁に期待と報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 9,
+    "question": "2026年6月9日に配信された「ニンテンドーダイレクト」の発表内容まとめを報じたGAME Watchの記事タイトルに含まれる略称は何ですか？",
+    "choices": [
+      "ニンダイ",
+      "ニンテン",
+      "ダイレクト",
+      "任天堂"
+    ],
+    "answer": "ニンダイ",
+    "explanation": "2026年6月のニュースによると、「【ニンダイまとめ】「ニンテンドーダイレクト 2026.6.9」発表内容まとめ（GAME Watch） - Yahoo!ニュース」というタイトルで報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 9,
+    "question": "『ONE PIECE』家庭用ゲーム最新作『ONE PIECE 海のごちそうレストラン』の発売決定が2026年10月22日(木)と報じられたONE PIECE.comの記事は、どのようなカテゴリの最新情報として扱われていますか？",
+    "choices": [
+      "家庭用ゲーム最新作",
+      "ゲーム情報",
+      "新着情報",
+      "イベント情報"
+    ],
+    "answer": "家庭用ゲーム最新作",
+    "explanation": "2026年夏頃のニュースによると、「『ONE PIECE』家庭用ゲーム最新作『ONE PIECE 海のごちそうレストラン』2026年10月22日(木)発売決定！ - ONE PIECE.com」という見出しで報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 9,
+    "question": "「トモダチコレクションわくわく生活」のアップデートの最新情報まとめがGameWithで報じられた際、記事タイトルで正式名称が括弧書きで示されている形式として正しいものはどれですか？",
+    "choices": [
+      "【トモダチコレクションわくわく生活】",
+      "（トモダチコレクションわくわく生活）",
+      "「トモダチコレクションわくわく生活」",
+      "トモダチコレクションわくわく生活"
+    ],
+    "answer": "【トモダチコレクションわくわく生活】",
+    "explanation": "2026年夏頃のニュースによると、「【トモコレ】アップデートの最新情報まとめ【トモダチコレクションわくわく生活】 - GameWith」というタイトルで報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 9,
+    "question": "「ファイナルファンタジー レゾナンス」の新ワールドや新キャラ、ゲームシステムなど最新情報まとめを報じたYahoo!ニュースの記事は、どのゲーム情報サイトからの提供ですか？",
+    "choices": [
+      "GAME Watch",
+      "ファミ通.com",
+      "GameWith",
+      "インサイド"
+    ],
+    "answer": "GAME Watch",
+    "explanation": "2026年夏頃のニュースによると、「「ファイナルファンタジー レゾナンス」新ワールドや新キャラ、ゲームシステムなど最新情報まとめ（GAME Watch） - Yahoo!ニュース」という形で報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 9,
+    "question": "『キングダム ハーツ』シリーズ最新作『キングダム ハーツIV』の発表を報じたオリコンニュースの記事タイトルは、どのような構成になっていますか？",
+    "choices": [
+      "シリーズ名、最新作発表、具体的なタイトル、発売予定プラットフォーム",
+      "最新作のタイトル、発売日、対応機種",
+      "ゲームの概要、PV公開情報、開発者のコメント",
+      "シリーズの歴史、今回の位置づけ、今後の展望"
+    ],
+    "answer": "シリーズ名、最新作発表、具体的なタイトル、発売予定プラットフォーム",
+    "explanation": "2026年夏頃のニュースによると、「『キングダム ハーツ』シリーズ最新作発表 『キングダム ハーツIV』Switch2やPS5などで発売へ - オリコンニュース」というタイトルで報じられています。これはシリーズ名、最新作発表という形式、具体的なタイトル、発売予定プラットフォームの順で構成されています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "2026年6月2日のState of Playで、体験版配信が発表された完全新作の『鬼武者』は、どのゲームメーカーのIPですか？",
+    "question": "2026年6月2日のState of Play新発表まとめに関するファミ通.comの記事タイトルには、いつのState of Playに関する情報であるかを明示する具体的な日付表記がどのように含まれていますか？",
     "choices": [
-      "スクウェア・エニックス",
-      "カプコン",
-      "バンダイナムコエンターテインメント",
-      "コーエーテクモゲームス"
+      "【ステートオブプレイ June 2, 2026】",
+      "【State of Play 2026.6.2】",
+      "【2026年6月2日のState of Play】",
+      "【State of Play 最新情報】"
     ],
-    "answer": "カプコン",
-    "explanation": "2026年6月2日のState of Playの発表によると、完全新作『鬼武者』の体験版配信が発表されました。鬼武者シリーズはカプコンのIPです。"
+    "answer": "【ステートオブプレイ June 2, 2026】",
+    "explanation": "2026年6月のニュースによると、「State of Play新発表まとめ。（中略）【ステートオブプレイ June 2, 2026】 - ファミ通.com」というタイトルで報じられました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "2026年8月24日のニュースで、本日発売と報じられた『TATSUJIN EXTREME』の「EXREME」という副題は、どのような特徴を示唆していますか？",
+    "question": "ゲーム『進撃の巨人３』の発売決定を報じたgamecity.ne.jpの記事見出しで、「進撃の巨人」の物語が「最初から最後まで描く集大成」と表現されたのは、どのような種類のゲームであることを強調していますか？",
     "choices": [
-      "カジュアル性",
-      "高難易度",
-      "ストーリー重視",
-      "多人数プレイ"
+      "原作の物語を網羅する完結編",
+      "シリーズの集大成となるリメイク",
+      "新たな展開を見せる続編",
+      "キャラクターに焦点を当てた外伝"
     ],
-    "answer": "高難易度",
-    "explanation": "2026年8月24日のニュースによると、シリーズ最新作『TATSUJIN EXTREME』が本日発売と報じられました。「EXTREME」という副題は、一般的にゲームにおいて高難易度や過激な要素を示唆します。"
+    "answer": "原作の物語を網羅する完結編",
+    "explanation": "2026年夏頃のニュースによると、「「進撃の巨人」の物語を最初から最後まで描く集大成 ゲーム『進撃の巨人３』発売決定！」とあり、原作の物語全体を網羅する完結編的な位置づけを強調しています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "2026年8月21日のニュースで、明日8月22日(土)に新発売と報じられた『ONE PIECEカードゲーム』のブースターパック「世界最強の戦士【OP-17】」は、ONE PIECE.comでどのようなカテゴリに分類されていましたか？",
+    "question": "「XBOX東京ゲームショウ2026ブロードキャスト」が9月17日に配信され、同日開催の「XBOX FanFest Tokyo」の参加応募受付もスタートしたことを報じたSaiga NAKの記事は、どのような情報種類であると明記していますか？",
     "choices": [
-      "アニメ",
-      "漫画",
-      "イベント",
-      "カードゲーム"
+      "最新情報番組",
+      "特別イベント",
+      "公式発表",
+      "緊急告知"
     ],
-    "answer": "カードゲーム",
-    "explanation": "2026年8月21日のニュースによると、「ONE PIECEカードゲーム 最新情報」としてブースターパック「世界最強の戦士【OP-17】」の新発売が報じられました。"
+    "answer": "最新情報番組",
+    "explanation": "2026年夏頃のニュースによると、「最新情報番組「XBOX東京ゲームショウ2026ブロードキャスト」が9月17日に配信！同日開催「XBOX FanFest Tokyo」の参加応募受付もスタート - Saiga NAK」というタイトルで、情報が「最新情報番組」に関するものであると明記されています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 10,
+    "question": "『キングダム ハーツ』シリーズ最新作『キングダム ハーツIV』がSwitch2やPS5などで発売されるというオリコンニュースの発表は、具体的に何を発表したという形式で報じられていますか？",
+    "choices": [
+      "シリーズ最新作発表",
+      "新作ゲーム発売",
+      "ゲームタイトル発表",
+      "プラットフォーム発表"
+    ],
+    "answer": "シリーズ最新作発表",
+    "explanation": "2026年夏頃のニュースによると、「『キングダム ハーツ』シリーズ最新作発表 『キングダム ハーツIV』Switch2やPS5などで発売へ - オリコンニュース」という見出しで報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 10,
+    "question": "“FGOフェス2026”発表まとめを報じたファミ通.comの記事タイトルで、「ゲーム最新情報やTYPE-MOON関連ニュースを一挙紹介」という内容が、フェスのどの側面を強調していますか？",
+    "choices": [
+      "幅広い情報網羅性",
+      "FGO単独の特別性",
+      "TYPE-MOON作品の新作発表",
+      "過去作品の振り返り"
+    ],
+    "answer": "幅広い情報網羅性",
+    "explanation": "2026年夏頃のニュースによると、“FGOフェス2026”では「ゲーム最新情報やTYPE-MOON関連ニュースを一挙紹介」とあり、FGOだけでなくTYPE-MOON全体の幅広い情報を網羅している点を強調しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 10,
+    "question": "『ポケポケ』新パック「天空の支配者」の最新情報が本日7月23日22時に公開された際に、インサイドの記事見出しで「メガレックウザほか、収録カード解禁に期待」と報じられましたが、この「ほか」という表現が示唆する内容として最も適切なものはどれですか？",
+    "choices": [
+      "メガレックウザ以外にも複数の新カードが収録されること",
+      "メガレックウザの派生形態が収録されること",
+      "メガレックウザの別イラスト版が収録されること",
+      "メガレックウザが最もレアなカードであること"
+    ],
+    "answer": "メガレックウザ以外にも複数の新カードが収録されること",
+    "explanation": "2026年7月のニュースによると、「メガレックウザほか、収録カード解禁に期待」とあり、「ほか」はメガレックウザ以外にも収録されるカードがあることを示唆しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 10,
+    "question": "2026年6月9日に配信された「ニンテンドーダイレクト」の発表内容まとめを報じたYahoo!ニュースの記事タイトルで、ニンテンドーダイレクトの開催年月日はどのように記載されていますか？",
+    "choices": [
+      "2026.6.9",
+      "2026年6月9日",
+      "6月9日",
+      "本日"
+    ],
+    "answer": "2026.6.9",
+    "explanation": "2026年6月のニュースによると、「【ニンダイまとめ】「ニンテンドーダイレクト 2026.6.9」発表内容まとめ（GAME Watch） - Yahoo!ニュース」というタイトルで報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 10,
+    "question": "『ONE PIECE』家庭用ゲーム最新作『ONE PIECE 海のごちそうレストラン』の発売決定が2026年10月22日(木)と報じられたONE PIECE.comの記事は、どのような種類のゲームとして位置づけていますか？",
+    "choices": [
+      "家庭用ゲーム最新作",
+      "モバイルゲーム",
+      "アーケードゲーム",
+      "PCオンラインゲーム"
+    ],
+    "answer": "家庭用ゲーム最新作",
+    "explanation": "2026年夏頃のニュースによると、「『ONE PIECE』家庭用ゲーム最新作『ONE PIECE 海のごちそうレストラン』2026年10月22日(木)発売決定！ - ONE PIECE.com」という見出しで報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 10,
+    "question": "「トモダチコレクションわくわく生活」のアップデートの最新情報まとめを報じたGameWithの記事タイトルにおいて、略称と正式名称が併記されているのは、どのような目的のためと考えられますか？",
+    "choices": [
+      "検索性向上と読者への親和性",
+      "記事の文字数制限のため",
+      "正式名称が未確定であるため",
+      "他のゲームとの混同を避けるため"
+    ],
+    "answer": "検索性向上と読者への親和性",
+    "explanation": "2026年夏頃のニュースによると、「【トモコレ】アップデートの最新情報まとめ【トモダチコレクションわくわく生活】」というタイトルで報じられました。略称は親しみやすさや検索性、正式名称は正確性を確保する目的があると考えられます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 10,
+    "question": "「ファイナルファンタジー レゾナンス」の新ワールドや新キャラ、ゲームシステムなど最新情報まとめを報じたYahoo!ニュースの記事で、具体的にどの要素が「最新情報」として挙げられていますか？",
+    "choices": [
+      "新ワールド、新キャラ、ゲームシステム",
+      "新ストーリー、新ボス、新アイテム",
+      "新地域、新ダンジョン、新クエスト",
+      "新エンディング、新モード、新スキル"
+    ],
+    "answer": "新ワールド、新キャラ、ゲームシステム",
+    "explanation": "2026年夏頃のニュースによると、「「ファイナルファンタジー レゾナンス」新ワールドや新キャラ、ゲームシステムなど最新情報まとめ（GAME Watch） - Yahoo!ニュース」という形で報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 10,
+    "question": "『キングダム ハーツ』シリーズ最新作『キングダム ハーツIV』がSwitch2やPS5などで発売されるというオリコンニュースの発表において、「Switch2」という表記は、このゲームがどのような市場に向けて開発されていることを強く示唆していますか？",
+    "choices": [
+      "次世代コンソール市場",
+      "現行コンソール市場",
+      "レトロゲーム市場",
+      "PCゲーム市場"
+    ],
+    "answer": "次世代コンソール市場",
+    "explanation": "2026年夏頃のニュースで『キングダム ハーツIV』がSwitch2やPS5などで発売されると報じられました。PS5が最新の据え置き機であり、「Switch2」がNintendo Switchの次世代機を指すことから、このゲームが次世代コンソール市場をターゲットにしていることを強く示唆しています。"
   },
   {
     "category": "世界情勢",
