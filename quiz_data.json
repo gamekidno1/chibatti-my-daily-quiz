@@ -4669,254 +4669,189 @@
   {
     "category": "ゲーム",
     "difficulty": 1,
-    "question": "にじさんじの完全新作カードゲームのタイトルは何ですか？",
+    "question": "2026年10月のニュースによると、埼玉新聞が「開幕」を報じた大規模なゲームイベントは何ですか？",
     "choices": [
-      "NIJISANJI Rainbow Battle",
-      "NIJISANJI 7 Colors Card Game",
-      "NIJISANJI Starry Deck",
-      "NIJISANJI Virtual Clash"
-    ],
-    "answer": "NIJISANJI 7 Colors Card Game",
-    "explanation": "2026年10月のニュースによると、にじさんじの完全新作カードゲームは『NIJISANJI 7 Colors Card Game』です。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "「ONE PIECEカードゲーム」で新たに開催が決定したイベントの名前は何ですか？",
-    "choices": [
-      "ONE PIECEカードゲーム Pirate Festival",
-      "ONE PIECEカードゲーム Grand Battle",
-      "ONE PIECEカードゲーム Heroines CUP -3on3-",
-      "ONE PIECEカードゲーム Marineford War"
-    ],
-    "answer": "ONE PIECEカードゲーム Heroines CUP -3on3-",
-    "explanation": "2026年10月のニュースによると、「ONE PIECEカードゲーム」のイベントは「ONE PIECEカードゲーム Heroines CUP -3on3-」です。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "自宅で遊べるリアル脱出ゲームの最新作のタイトルは何ですか？",
-    "choices": [
-      "謎解きミステリーハウス",
-      "ゆるゆる生配信する推しは100万回死ぬ",
-      "秘密の地下室からの脱出",
-      "呪われた美術館"
-    ],
-    "answer": "ゆるゆる生配信する推しは100万回死ぬ",
-    "explanation": "2026年10月のニュースによると、自宅で遊べるリアル脱出ゲーム最新作のタイトルは『ゆるゆる生配信する推しは100万回死ぬ』です。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "「モンハンアセンダンス」とは何の略称ですか？",
-    "choices": [
-      "モンスターハンターライズ",
-      "モンスターハンターアセンダンス",
-      "モンスターハンターフロンティア",
-      "モンスターハンターワールド"
-    ],
-    "answer": "モンスターハンターアセンダンス",
-    "explanation": "2026年10月のニュースによると、「モンハンアセンダンス」は「モンハンアセンダンス」の最新情報が報じられています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "「GUNDAM-Con2027 SIDE MAKUHARI」で最新情報が公開される新作アクションゲームのタイトルは何ですか？",
-    "choices": [
-      "GUNDAM BATTLEFIELD",
-      "GUNDAM INFINITY",
-      "GUNDAM ROGUE ORBIT",
-      "GUNDAM FRONTIER"
-    ],
-    "answer": "GUNDAM ROGUE ORBIT",
-    "explanation": "2026年10月のニュースによると、「GUNDAM-Con2027 SIDE MAKUHARI」で公開される新作アクションゲームは『GUNDAM ROGUE ORBIT』です。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "「ポケモンウインド・ウェーブ」は、どのシリーズのゲームですか？",
-    "choices": [
-      "デジタルモンスター",
-      "妖怪ウォッチ",
-      "ポケットモンスター",
-      "デジモン"
-    ],
-    "answer": "ポケットモンスター",
-    "explanation": "2026年10月のニュースによると、「ポケモンウインド・ウェーブ」はポケモンの新作です。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "『悪魔城ドラキュラ』シリーズ最新作のタイトルは何ですか？",
-    "choices": [
-      "Castlevania: Symphony of the Night 2",
-      "Castlevania: Belmont’s Curse",
-      "Castlevania: Dawn of Sorrow 2",
-      "Castlevania: Lords of Shadow 3"
-    ],
-    "answer": "Castlevania: Belmont’s Curse",
-    "explanation": "2026年10月のニュースによると、『悪魔城ドラキュラ』シリーズ最新作のタイトルは『Castlevania: Belmont’s Curse』です。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "「時のオカリナリメイク」は何のゲームのリメイク版ですか？",
-    "choices": [
-      "ゼルダの伝説 夢をみる島",
-      "ゼルダの伝説 ブレス オブ ザ ワイルド",
-      "ゼルダの伝説 時のオカリナ",
-      "ゼルダの伝説 ムジュラの仮面"
-    ],
-    "answer": "ゼルダの伝説 時のオカリナ",
-    "explanation": "2026年10月のニュースによると、「時のオカリナリメイク」は「時のオカリナ」のリメイクです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "2026年6月9日に開催されたゲーム関連のイベントは何ですか？",
-    "choices": [
-      "PlayStation Showcase",
-      "Xbox Games Showcase",
-      "ニンテンドーダイレクト",
-      "東京ゲームショウ"
-    ],
-    "answer": "ニンテンドーダイレクト",
-    "explanation": "2026年10月のニュースによると、2026年6月9日には「ニンテンドーダイレクト 2026.6.9」が開催されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "「セブンナイツ リバース」の略称は何ですか？",
-    "choices": [
-      "セナリバ",
-      "セブナイ",
-      "セナライ",
-      "セブリス"
-    ],
-    "answer": "セナリバ",
-    "explanation": "2026年10月のニュースによると、「セブンナイツ リバース」の略称は「セナリバ」です。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 1,
-    "question": "2026年10月のニュースで開幕が報じられた大規模なゲームイベントは何ですか？",
-    "choices": [
-      "E3",
-      "Gamescom",
       "東京ゲームショウ",
-      "PAX"
+      "GUNDAM-Con2027",
+      "State of Play",
+      "ニンテンドーダイレクト"
     ],
     "answer": "東京ゲームショウ",
-    "explanation": "2026年10月のニュースによると、「東京ゲームショウ開幕」と報じられています。"
+    "explanation": "2026年10月のニュースによると、埼玉新聞は「東京ゲームショウ開幕」と報じています。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 2,
-    "question": "『NIJISANJI 7 Colors Card Game』の最新映像でテキストが公開されたにじさんじライバーは誰ですか？",
+    "difficulty": 1,
+    "question": "2026年10月のニュースによると、Steamのオータムセールで25%OFFになっている自宅で遊べるリアル脱出ゲームのタイトルは何ですか？",
     "choices": [
-      "壱百満天原サロメ",
-      "葛葉",
-      "不破湊",
-      "叶"
+      "『GUNDAM ROGUE ORBIT』",
+      "『NIJISANJI 7 Colors Card Game』",
+      "『ゆるゆる生配信する推しは100万回死ぬ』",
+      "『TATSUJIN EXTREME』"
     ],
-    "answer": "葛葉",
-    "explanation": "2026年10月のニュースによると、『NIJISANJI 7 Colors Card Game』の最新映像では葛葉のテキストが公開されました。"
+    "answer": "『ゆるゆる生配信する推しは100万回死ぬ』",
+    "explanation": "2026年10月のニュースによると、『ゆるゆる生配信する推しは100万回死ぬ』がSteamオータムセールで25%OFFになっています。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 2,
-    "question": "「ONE PIECEカードゲーム Heroines CUP -3on3-」のイベント形式は何ですか？",
+    "difficulty": 1,
+    "question": "2026年6月2日のニュースによると、State of Playで発売日決定が発表されたゲームのタイトルは何ですか？",
     "choices": [
-      "個人戦",
-      "タッグ戦",
-      "3on3",
-      "チームバトルロイヤル"
+      "『真・三國無双2』",
+      "『エースコンバット8』",
+      "『鬼武者』",
+      "『時のオカリナリメイク』"
     ],
-    "answer": "3on3",
-    "explanation": "2026年10月のニュースによると、「ONE PIECEカードゲーム Heroines CUP -3on3-」は3on3形式のイベントです。"
+    "answer": "『エースコンバット8』",
+    "explanation": "2026年6月2日のニュースによると、State of Playで『エースコンバット8』の発売日決定が発表されました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 2,
-    "question": "自宅で遊べるリアル脱出ゲーム最新作『ゆるゆる生配信する推しは100万回死ぬ』は、どのプラットフォームでセールが行われていますか？",
+    "difficulty": 1,
+    "question": "2026年6月9日のニュースによると、発表内容がまとめられたイベントは何ですか？",
     "choices": [
-      "Epic Games Store",
-      "Nintendo eShop",
-      "Steam",
-      "PlayStation Store"
+      "GUNDAM-Con2027",
+      "State of Play",
+      "東京ゲームショウ",
+      "ニンテンドーダイレクト"
     ],
-    "answer": "Steam",
-    "explanation": "2026年10月のニュースによると、『ゆるゆる生配信する推しは100万回死ぬ』はSteamオータムセールで割引されています。"
+    "answer": "ニンテンドーダイレクト",
+    "explanation": "2026年6月9日のニュースによると、「ニンテンドーダイレクト 2026.6.9」の発表内容がまとめられました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 2,
-    "question": "「GUNDAM-Con2027 SIDE MAKUHARI」で新作アクションゲーム『GUNDAM ROGUE ORBIT』の最新情報が公開されるイベントは、どのガンダムイベントの一部ですか？",
+    "difficulty": 1,
+    "question": "2026年10月のニュースによると、最新情報が公開されたにじさんじの完全新作カードゲームのタイトルは何ですか？",
     "choices": [
-      "GUNDAM EXPO",
-      "GUNDAM FESTIVAL",
-      "GUNDAM-Con2027 SIDE MAKUHARI",
-      "GUNDAM WORLD"
+      "『ONE PIECEカードゲーム』",
+      "『NIJISANJI 7 Colors Card Game』",
+      "『怪獣8号ゲーム』",
+      "『モンハンアセンダンス』"
     ],
-    "answer": "GUNDAM-Con2027 SIDE MAKUHARI",
-    "explanation": "2026年10月のニュースによると、『GUNDAM ROGUE ORBIT』の最新情報は「GUNDAM-Con2027 SIDE MAKUHARI」で公開されます。"
+    "answer": "『NIJISANJI 7 Colors Card Game』",
+    "explanation": "2026年10月のニュースによると、『NIJISANJI 7 Colors Card Game』の最新映像が公開されました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 2,
-    "question": "「ポケモンウインド・ウェーブ」に関する情報は、主に何がまとめられていますか？",
+    "difficulty": 1,
+    "question": "2026年10月のニュースによると、ONE PIECEカードゲームで開催が決定したイベントの名称は何ですか？",
     "choices": [
-      "キャラクターデザイン",
-      "発売日と最新情報",
-      "アニメ化情報",
-      "コミカライズ情報"
+      "Heroines CUP -3on3-",
+      "Pirate King Tournament",
+      "Grand Battle Royale",
+      "Marineford Cup"
     ],
-    "answer": "発売日と最新情報",
-    "explanation": "2026年10月のニュースによると、「ポケモンウインド・ウェーブ」の発売日と最新情報がまとめられています。"
+    "answer": "Heroines CUP -3on3-",
+    "explanation": "2026年10月のニュースによると、「ONE PIECEカードゲーム Heroines CUP -3on3-」の開催が決定しました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 2,
-    "question": "「東京ゲームショウ2026」に関して、開幕前に公開された情報は何ですか？",
+    "difficulty": 1,
+    "question": "2026年10月のニュースによると、GameWithが最新アップデート情報をまとめたゲームのタイトルは何ですか？",
     "choices": [
-      "来場者数予測",
-      "最新出展情報や会場マップ",
-      "次回の開催地",
-      "特別ゲストの発表"
+      "『時のオカリナリメイク』",
+      "『ポケモンウインド・ウェーブ』",
+      "『怪獣8号ゲーム』",
+      "『モンハンアセンダンス』"
     ],
-    "answer": "最新出展情報や会場マップ",
-    "explanation": "2026年10月のニュースによると、「東京ゲームショウ2026」の開幕前に最新出展情報や会場マップが公開されました。"
+    "answer": "『怪獣8号ゲーム』",
+    "explanation": "2026年10月のニュースによると、GameWithは「【怪獣8号ゲーム】最新アップデート/アプデ情報まとめ」を公開しています。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 2,
-    "question": "『Castlevania: Belmont’s Curse』は、どの都市を舞台に序盤を遊べる体験版が配信開始されましたか？",
+    "difficulty": 1,
+    "question": "2026年10月のニュースによると、AppBankがランキングを発表したアプリの種類は何ですか？",
     "choices": [
-      "ロンドン",
-      "ローマ",
-      "パリ",
-      "ベルリン"
+      "ゲーム攻略アプリ",
+      "アニメ・ゲーム関連ニュースアプリ",
+      "ライブ配信アプリ",
+      "カードゲームアプリ"
     ],
-    "answer": "パリ",
-    "explanation": "2026年10月のニュースによると、『Castlevania: Belmont’s Curse』の体験版では魔物はびこるパリが舞台とされています。"
+    "answer": "アニメ・ゲーム関連ニュースアプリ",
+    "explanation": "2026年10月のニュースによると、AppBankは「おすすめのアニメ・ゲーム関連ニュースアプリランキング」を発表しました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 2,
-    "question": "「セブンナイツ リバース」の最新アップデート情報は何という形式で公開されましたか？",
+    "difficulty": 1,
+    "question": "2026年10月のニュースによると、本日発売されたシリーズ最新作のタイトルは何ですか？",
     "choices": [
-      "公式生放送",
-      "開発者ノート",
-      "Q&Aセッション",
-      "インタビュー記事"
+      "『GUNDAM ROGUE ORBIT』",
+      "『TATSUJIN EXTREME』",
+      "『モンハンアセンダンス』",
+      "『真・三國無双2』"
     ],
-    "answer": "開発者ノート",
-    "explanation": "2026年10月のニュースによると、「セブンナイツ リバース」の最新アップデート情報は開発者ノートで公開されました。"
+    "answer": "『TATSUJIN EXTREME』",
+    "explanation": "2026年10月のニュースによると、シリーズ最新作「TATSUJIN EXTREME」が本日発売されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 1,
+    "question": "2026年10月のニュースによると、GameWithが最新情報を掲載しているモンスターハンターシリーズのゲームは何ですか？",
+    "choices": [
+      "『モンハンワールド』",
+      "『モンハンアセンダンス』",
+      "『モンハンライズ』",
+      "『モンハンフロンティア』"
+    ],
+    "answer": "『モンハンアセンダンス』",
+    "explanation": "2026年10月のニュースによると、GameWithは「アセンダンス攻略｜モンハンアセンダンスの最新情報」を公開しています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 2,
-    "question": "「東京ゲームショウ2026」の開幕について報じている新聞社はどこですか？",
+    "question": "2026年10月のニュースによると、GUNDAM-Con2027 SIDE MAKUHARIで最新情報が公開される新作アクションゲームのタイトルは何ですか？",
+    "choices": [
+      "『GUNDAM EVOLUTION』",
+      "『GUNDAM ROGUE ORBIT』",
+      "『GUNDAM BREAKER』",
+      "『GUNDAM BATTLE OPERATION』"
+    ],
+    "answer": "『GUNDAM ROGUE ORBIT』",
+    "explanation": "2026年10月のニュースによると、「GUNDAM-Con2027 SIDE MAKUHARI」で新作アクションゲーム『GUNDAM ROGUE ORBIT』の最新情報が公開されます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 2,
+    "question": "2026年10月のニュースによると、ONE PIECEカードゲームの「Heroines CUP」はどのようなコンセプトのイベントですか？",
+    "choices": [
+      "男性キャラクターが中心のイベント",
+      "女性キャラクターが中心のイベント",
+      "海賊船をテーマにしたイベント",
+      "新世界を舞台にしたイベント"
+    ],
+    "answer": "女性キャラクターが中心のイベント",
+    "explanation": "2026年10月のニュースによると、「Heroines CUP」という名称から、女性キャラクターに焦点を当てたイベントであることが示唆されています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 2,
+    "question": "2026年10月のニュースによると、Steamオータムセールで割引されている『ゆるゆる生配信する推しは100万回死ぬ』は、どのようなジャンルのゲームですか？",
+    "choices": [
+      "RPG",
+      "アクションゲーム",
+      "リアル脱出ゲーム",
+      "シミュレーションゲーム"
+    ],
+    "answer": "リアル脱出ゲーム",
+    "explanation": "2026年10月のニュースによると、『ゆるゆる生配信する推しは100万回死ぬ』は「自宅で遊べるリアル脱出ゲーム最新作」とされています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 2,
+    "question": "2026年10月のニュースによると、にじさんじの完全新作カードゲーム『NIJISANJI 7 Colors Card Game』の最新情報として何が公開されましたか？",
+    "choices": [
+      "発売日",
+      "体験版",
+      "最新映像",
+      "公式サイト"
+    ],
+    "answer": "最新映像",
+    "explanation": "2026年10月のニュースによると、『NIJISANJI 7 Colors Card Game』の「最新映像が公開」されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 2,
+    "question": "2026年10月のニュースによると、東京ゲームショウの開幕を報じた新聞社はどこですか？",
     "choices": [
       "読売新聞",
       "朝日新聞",
@@ -4924,1177 +4859,1112 @@
       "日本経済新聞"
     ],
     "answer": "埼玉新聞",
-    "explanation": "2026年10月のニュースによると、「東京ゲームショウ開幕」は埼玉新聞で報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "「ニンテンドーダイレクト 2026.6.9」の発表内容をまとめたメディアはどこですか？",
-    "choices": [
-      "ファミ通.com",
-      "GAME Watch",
-      "電撃オンライン",
-      "4Gamer.net"
-    ],
-    "answer": "GAME Watch",
-    "explanation": "2026年10月のニュースによると、「ニンテンドーダイレクト 2026.6.9」のまとめはGAME Watchで報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 2,
-    "question": "「東京ゲームショウ2026」の開幕について報じているのは、どの地方新聞ですか？",
-    "choices": [
-      "北海道新聞",
-      "埼玉新聞",
-      "中日新聞",
-      "西日本新聞"
-    ],
-    "answer": "埼玉新聞",
     "explanation": "2026年10月のニュースによると、「東京ゲームショウ開幕 - 埼玉新聞」と報じられています。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 3,
-    "question": "『NIJISANJI 7 Colors Card Game』の最新映像でテキストが公開されたにじさんじライバーとして、葛葉と剣持刀也の他に挙げられているのは誰ですか？",
+    "difficulty": 2,
+    "question": "2026年6月2日のニュースによると、State of Playで体験版の配信が発表された完全新作ゲームのタイトルは何ですか？",
     "choices": [
-      "本間ひまわり",
-      "リゼ・ヘルエスタ",
-      "星川サラ",
-      "月ノ美兎"
+      "『エースコンバット8』",
+      "『真・三國無双2』",
+      "『鬼武者』",
+      "『ファイナルファンタジー16』"
     ],
-    "answer": "リゼ・ヘルエスタ",
-    "explanation": "2026年10月のニュースによると、『NIJISANJI 7 Colors Card Game』の最新映像では葛葉、剣持刀也、リゼ・ヘルエスタのテキストが公開されました。"
+    "answer": "『鬼武者』",
+    "explanation": "2026年6月2日のニュースによると、State of Playで「完全新作『鬼武者』体験版配信」が発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 2,
+    "question": "2026年6月9日のニュースによると、ニンテンドーダイレクトで発表された内容を受けて、発売日と最新情報が報じられたゼルダの伝説シリーズのリメイク作品は何ですか？",
+    "choices": [
+      "『時のオカリナリメイク』",
+      "『ムジュラの仮面リメイク』",
+      "『ゼルダの伝説 ティアーズ オブ ザ キングダム』",
+      "『ゼルダの伝説 スカイウォードソード HD』"
+    ],
+    "answer": "『時のオカリナリメイク』",
+    "explanation": "2026年6月9日のニュースによると、ニンテンドーダイレクトの発表内容を受けて「時のオカリナリメイクの発売日と最新情報」が報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 2,
+    "question": "2026年6月9日のニュースによると、ニンテンドーダイレクトで発表された内容を受けて、発売日と最新情報が報じられたポケモンシリーズの新作タイトルは何ですか？",
+    "choices": [
+      "『ポケモン スカーレット・バイオレット』",
+      "『ポケモンレジェンズ アルセウス』",
+      "『ポケモンウインド・ウェーブ』",
+      "『ポケモン不思議のダンジョン』"
+    ],
+    "answer": "『ポケモンウインド・ウェーブ』",
+    "explanation": "2026年6月9日のニュースによると、ニンテンドーダイレクトの発表内容を受けて「ポケモンウインド・ウェーブの発売日と最新情報」が報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 2,
+    "question": "2026年10月のニュースによると、シリーズ最新作『TATSUJIN EXTREME』の本日発売に合わせて公開されたものは何ですか？",
+    "choices": [
+      "体験版",
+      "公式サイト",
+      "最新PV",
+      "サウンドトラック"
+    ],
+    "answer": "最新PV",
+    "explanation": "2026年10月のニュースによると、「シリーズ最新作「TATSUJIN EXTREME」本日発売。本作の魅力を紹介する最新PV公開」と報じられています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 2,
+    "question": "2026年10月のニュースによると、GameWithが攻略情報を掲載している「アセンダンス」というタイトルのゲームは、どのシリーズの一部ですか？",
+    "choices": [
+      "ファイナルファンタジー",
+      "モンスターハンター",
+      "ドラゴンクエスト",
+      "ゼルダの伝説"
+    ],
+    "answer": "モンスターハンター",
+    "explanation": "2026年10月のニュースによると、「モンハンアセンダンス」として情報が公開されており、モンスターハンターシリーズの一部であることが分かります。"
   },
   {
     "category": "ゲーム",
     "difficulty": 3,
-    "question": "自宅で遊べるリアル脱出ゲーム最新作『ゆるゆる生配信する推しは100万回死ぬ』のSteamオータムセールでの割引率は何%ですか？",
-    "choices": [
-      "10%OFF",
-      "15%OFF",
-      "25%OFF",
-      "50%OFF"
-    ],
-    "answer": "25%OFF",
-    "explanation": "2026年10月のニュースによると、『ゆるゆる生配信する推しは100万回死ぬ』はSteamオータムセールで25%OFFになっています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "新作アクションゲーム『GUNDAM ROGUE ORBIT』の最新情報が公開されるイベント「GUNDAM-Con2027 SIDE MAKUHARI」で登壇するアニメ「機動戦士ガンダムRG XARX-ZERO」の監督は誰ですか？",
+    "question": "2026年10月のニュースによると、GUNDAM-Con2027 SIDE MAKUHARIに登壇するアニメ「機動戦士ガンダムRG XARX-ZERO」の監督は誰ですか？",
     "choices": [
       "富野由悠季",
       "神山健治",
-      "福田己津央",
-      "大河原邦男"
+      "大河原邦男",
+      "安彦良和"
     ],
     "answer": "神山健治",
-    "explanation": "2026年10月のニュースによると、「GUNDAM-Con2027 SIDE MAKUHARI」にはアニメ「機動戦士ガンダムRG XARX-ZERO」の神山健治監督が登壇します。"
+    "explanation": "2026年10月のニュースによると、GUNDAM-Con2027 SIDE MAKUHARIにはアニメ「機動戦士ガンダムRG XARX-ZERO」の神山健治監督が登壇します。"
   },
   {
     "category": "ゲーム",
     "difficulty": 3,
-    "question": "『Castlevania: Belmont’s Curse』の体験版が配信開始されたことについて報じているメディアはどこですか？",
+    "question": "2026年10月のニュースによると、ONE PIECEカードゲームの「Heroines CUP」は、どのような対戦形式で開催されますか？",
+    "choices": [
+      "1on1",
+      "2on2",
+      "3on3",
+      "4on4"
+    ],
+    "answer": "3on3",
+    "explanation": "2026年10月のニュースによると、「ONE PIECEカードゲーム Heroines CUP -3on3-」として開催が決定しました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "2026年10月のニュースによると、Steamオータムセールで『ゆるゆる生配信する推しは100万回死ぬ』が割引されている割合は何パーセントですか？",
+    "choices": [
+      "10%",
+      "15%",
+      "20%",
+      "25%"
+    ],
+    "answer": "25%",
+    "explanation": "2026年10月のニュースによると、『ゆるゆる生配信する推しは100万回死ぬ』は「25%OFF」になっています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "2026年10月のニュースによると、にじさんじの新作カードゲーム『NIJISANJI 7 Colors Card Game』の最新映像で、テキストが公開されたライバーとして挙げられているのは誰ですか？",
+    "choices": [
+      "月ノ美兎、樋口楓、静凛",
+      "葛葉、剣持刀也、リゼ・ヘルエスタ",
+      "壱百満天原サロメ、不破湊、甲斐田晴",
+      "叶、加賀美ハヤト、黛灰"
+    ],
+    "answer": "葛葉、剣持刀也、リゼ・ヘルエスタ",
+    "explanation": "2026年10月のニュースによると、最新映像には「葛葉や剣持刀也にリゼ・ヘルエスタなどのテキストも」含まれていました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "2026年10月のニュースによると、開催目前と報じられた「東京ゲームショウ2026」で、事前に公開された情報は何ですか？",
+    "choices": [
+      "参加タイトル一覧",
+      "最新出展情報や会場マップ",
+      "公式テーマソング",
+      "ゲスト声優リスト"
+    ],
+    "answer": "最新出展情報や会場マップ",
+    "explanation": "2026年10月のニュースによると、「東京ゲームショウ2026」の「最新出展情報や会場マップなどが公開」されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "2026年6月2日のニュースによると、State of Playで『真・三國無双2』に参戦が発表された新キャラクターの名前は何ですか？",
+    "choices": [
+      "趙雲",
+      "呂布",
+      "紫鸞",
+      "関羽"
+    ],
+    "answer": "紫鸞",
+    "explanation": "2026年6月2日のニュースによると、State of Playで『真・三國無双2』に「紫鸞参戦」が発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 3,
+    "question": "2026年6月9日のニュースによると、ニンテンドーダイレクトの発表内容まとめを掲載したメディアはどこですか？",
     "choices": [
       "ファミ通.com",
-      "Game Spark",
-      "電撃オンライン",
-      "4Gamer.net"
-    ],
-    "answer": "Game Spark",
-    "explanation": "2026年10月のニュースによると、『Castlevania: Belmont’s Curse』の体験版配信開始はGame Sparkで報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "「ポケモンウインド・ウェーブ」の別名としてニュースに記載されているのは何ですか？",
-    "choices": [
-      "ポケモン嵐",
-      "ポケモン風波",
-      "ポケモン潮流",
-      "ポケモン大波"
-    ],
-    "answer": "ポケモン風波",
-    "explanation": "2026年10月のニュースによると、「ポケモンウインド・ウェーブ」の別名は「ポケモン風波」です。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "「ニンテンドーダイレクト 2026.6.9」の発表内容まとめが報じられたメディアは、どのYahoo!ニュースの配信元ですか？",
-    "choices": [
       "GAME Watch",
       "インサイド",
-      "Game Spark",
-      "Newscast.jp"
+      "AppBank"
     ],
     "answer": "GAME Watch",
-    "explanation": "2026年10月のニュースによると、「ニンテンドーダイレクト 2026.6.9」のまとめはGAME Watch（Yahoo!ニュース）で報じられました。"
+    "explanation": "2026年6月9日のニュースによると、「【ニンダイまとめ】「ニンテンドーダイレクト 2026.6.9」発表内容まとめ（GAME Watch）」と報じられています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 3,
-    "question": "「東京ゲームショウ2026」の開催目前に公開された情報には、最新出展情報と何が含まれていますか？",
+    "question": "2026年10月のニュースによると、本日発売された『TATSUJIN EXTREME』は、何を紹介する最新PVが公開されましたか？",
     "choices": [
-      "交通機関の情報",
-      "会場マップ",
-      "公式グッズ情報",
-      "飲食店の情報"
+      "開発秘話",
+      "ストーリーのあらすじ",
+      "本作の魅力",
+      "登場キャラクター"
     ],
-    "answer": "会場マップ",
-    "explanation": "2026年10月のニュースによると、「東京ゲームショウ2026」の開催目前に最新出展情報や会場マップが公開されました。"
+    "answer": "本作の魅力",
+    "explanation": "2026年10月のニュースによると、『TATSUJIN EXTREME』の「本作の魅力を紹介する最新PV」が公開されました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 3,
-    "question": "「モンハンアセンダンス」の最新情報が掲載されているゲーム攻略サイトは何ですか？",
-    "choices": [
-      "ファミ通App",
-      "GameWith",
-      "AppMedia",
-      "Gamer"
-    ],
-    "answer": "GameWith",
-    "explanation": "2026年10月のニュースによると、「モンハンアセンダンス」の最新情報はGameWithで報じられています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "『NIJISANJI 7 Colors Card Game』の最新映像が公開されたことを報じているメディアはどこですか？",
-    "choices": [
-      "Game Spark",
-      "インサイド",
-      "ファミ通.com",
-      "電撃オンライン"
-    ],
-    "answer": "インサイド",
-    "explanation": "2026年10月のニュースによると、『NIJISANJI 7 Colors Card Game』の最新映像公開はインサイド（Yahoo!ニュース）で報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 3,
-    "question": "『GUNDAM ROGUE ORBIT』の最新情報が公開される「GUNDAM-Con2027 SIDE MAKUHARI」で登壇する声優は誰ですか？",
+    "question": "2026年10月のニュースによると、GUNDAM-Con2027 SIDE MAKUHARIに登壇予定の声優は誰ですか？",
     "choices": [
       "古谷徹",
       "池田秀一",
       "大塚剛央",
-      "緑川光"
+      "潘めぐみ"
     ],
     "answer": "大塚剛央",
-    "explanation": "2026年10月のニュースによると、「GUNDAM-Con2027 SIDE MAKUHARI」には大塚剛央さんも登壇します。"
+    "explanation": "2026年10月のニュースによると、GUNDAM-Con2027 SIDE MAKUHARIには「大塚剛央さんも登壇」します。"
   },
   {
     "category": "ゲーム",
     "difficulty": 3,
-    "question": "「東京ゲームショウ2026」の開催目前に公開された情報として、最新出展情報と会場マップの他に何が挙げられますか？",
+    "question": "2026年10月のニュースによると、GameWithが最新情報をまとめている『怪獣8号ゲーム』の情報は、具体的に何に関するものですか？",
     "choices": [
-      "コスプレイベントの詳細",
-      "出展社リスト",
-      "特別講演のゲスト",
-      "来場者特典"
+      "ストーリー攻略情報",
+      "キャラクター情報",
+      "最新アップデート/アプデ情報",
+      "発売日情報"
     ],
-    "answer": "出展社リスト",
-    "explanation": "2026年10月のニュースによると、「最新出展情報や会場マップなどが公開」とあり、これは通常、出展社リストも含む広範な情報です。"
+    "answer": "最新アップデート/アプデ情報",
+    "explanation": "2026年10月のニュースによると、GameWithは「【怪獣8号ゲーム】最新アップデート/アプデ情報まとめ【怪獣8G】」を公開しています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 4,
-    "question": "『NIJISANJI 7 Colors Card Game』に関するニュースで、「最新映像が公開」されたと同時に言及された内容は主に何ですか？",
+    "question": "2026年10月のニュースによると、Gundam-Con2027はどの都市の会場で開催される予定ですか？",
     "choices": [
-      "ゲームの発売日",
-      "葛葉や剣持刀也などのテキスト",
-      "新しいゲームシステム",
-      "限定グッズ情報"
+      "東京",
+      "大阪",
+      "幕張",
+      "名古屋"
     ],
-    "answer": "葛葉や剣持刀也などのテキスト",
-    "explanation": "2026年10月のニュースによると、『NIJISANJI 7 Colors Card Game』の最新映像では葛葉や剣持刀也などのテキストが公開されました。"
+    "answer": "幕張",
+    "explanation": "2026年10月のニュースによると、イベント名は「GUNDAM-Con2027 SIDE MAKUHARI」とされており、幕張で開催される予定です。"
   },
   {
     "category": "ゲーム",
     "difficulty": 4,
-    "question": "「ONE PIECEカードゲーム Heroines CUP -3on3-」は、どのようなキャラクターに焦点を当てたイベントだと推測できますか？",
+    "question": "2026年10月のニュースによると、ONE PIECEカードゲームの「Heroines CUP」の開催決定は、どの公式サイトで報じられましたか？",
     "choices": [
-      "男性キャラクター",
-      "海賊キャラクター",
-      "女性キャラクター",
-      "海軍キャラクター"
+      "bandai-tcg.com",
+      "one-piece.com",
+      "shueisha.co.jp",
+      "jump.com"
     ],
-    "answer": "女性キャラクター",
-    "explanation": "2026年10月のニュースによると、「Heroines CUP」という名称から女性キャラクターに焦点を当てたイベントだと推測されます。"
+    "answer": "one-piece.com",
+    "explanation": "2026年10月のニュースによると、「ONE PIECEカードゲーム Heroines CUP -3on3-」の開催決定は「- one-piece.com」で報じられました。"
   },
   {
     "category": "ゲーム",
     "difficulty": 4,
-    "question": "自宅で遊べるリアル脱出ゲーム最新作『ゆるゆる生配信する推しは100万回死ぬ』が割引されているセールは、季節でいうといつのセールですか？",
+    "question": "2026年10月のニュースによると、自宅で遊べるリアル脱出ゲーム『ゆるゆる生配信する推しは100万回死ぬ』が割引されているセールイベントの名称は何ですか？",
     "choices": [
-      "スプリングセール",
-      "サマーセール",
-      "オータムセール",
-      "ウィンターセール"
+      "Steamサマーセール",
+      "Steamスプリングセール",
+      "Steamウィンターセール",
+      "Steamオータムセール"
     ],
-    "answer": "オータムセール",
-    "explanation": "2026年10月のニュースによると、『ゆるゆる生配信する推しは100万回死ぬ』はSteamオータムセールで割引されています。"
+    "answer": "Steamオータムセール",
+    "explanation": "2026年10月のニュースによると、『ゆるゆる生配信する推しは100万回死ぬ』は「Steamオータムセールで25%OFF」になっています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 4,
-    "question": "「GUNDAM-Con2027 SIDE MAKUHARI」で新作アクションゲーム『GUNDAM ROGUE ORBIT』が発表されると同時に言及されたアニメのタイトルは何ですか？",
-    "choices": [
-      "機動戦士ガンダム 閃光のハサウェイ",
-      "機動戦士ガンダム 水星の魔女",
-      "機動戦士ガンダムRG XARX-ZERO",
-      "機動戦士ガンダムSEED FREEDOM"
-    ],
-    "answer": "機動戦士ガンダムRG XARX-ZERO",
-    "explanation": "2026年10月のニュースによると、「GUNDAM-Con2027 SIDE MAKUHARI」では『GUNDAM ROGUE ORBIT』の発表とともにアニメ「機動戦士ガンダムRG XARX-ZERO」が言及されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "「ポケモンウインド・ウェーブ」の最新情報が掲載されているGameWithの記事のタイトルに含まれるキーワードは何ですか？",
-    "choices": [
-      "攻略",
-      "速報",
-      "まとめ",
-      "レビュー"
-    ],
-    "answer": "まとめ",
-    "explanation": "2026年10月のニュースによると、「ポケモンウインド・ウェーブの発売日と最新情報まとめ」という記事で報じられています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "「東京ゲームショウ2026」の開催が報じられた時期は、ニュースの記述から見ていつ頃ですか？",
-    "choices": [
-      "開幕の数ヶ月前",
-      "開幕の数週間前",
-      "開幕直前",
-      "開幕の翌日"
-    ],
-    "answer": "開幕直前",
-    "explanation": "2026年10月のニュースによると、「開催目前！」と報じられているため開幕直前です。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "『Castlevania: Belmont’s Curse』の体験版で、プレイヤーがひと足先に訪れることができるとされている場所は何ですか？",
-    "choices": [
-      "魔王城",
-      "魔物はびこるパリ",
-      "古びた教会",
-      "呪われた森"
-    ],
-    "answer": "魔物はびこるパリ",
-    "explanation": "2026年10月のニュースによると、『Castlevania: Belmont’s Curse』の体験版では「ひと足先に魔物はびこるパリへ」と記載されています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "「時のオカリナリメイク」の最新情報が掲載されているGameWithの記事のタイトルに含まれるキーワードは何ですか？",
-    "choices": [
-      "攻略",
-      "発売日と最新情報",
-      "裏技",
-      "レビュー"
-    ],
-    "answer": "発売日と最新情報",
-    "explanation": "2026年10月のニュースによると、「時のオカリナリメイクの発売日と最新情報」という記事で報じられています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "「セブンナイツ リバース」の最新アップデート情報について、開発者ノートで言及されている内容は主に何ですか？",
-    "choices": [
-      "新規キャラクターの紹介",
-      "今後の開発方針",
-      "バグ修正の詳細",
-      "イベントスケジュール"
-    ],
-    "answer": "今後の開発方針",
-    "explanation": "2026年10月のニュースによると、「開発者ノート」は今後の開発方針に関する情報が多いです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "ゲーム関連のニュースアプリランキングを紹介しているメディアはどこですか？",
-    "choices": [
-      "GameWith",
-      "AppBank",
-      "電撃オンライン",
-      "ファミ通.com"
-    ],
-    "answer": "AppBank",
-    "explanation": "2026年10月のニュースによると、AppBankがおすすめのアニメ・ゲーム関連ニュースアプリランキングを紹介しています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 4,
-    "question": "「東京ゲームショウ2026」の最新出展情報や会場マップが公開されたことを報じているメディアは、どのYahoo!ニュースの配信元ですか？",
-    "choices": [
-      "インサイド",
-      "GAME Watch",
-      "Game Spark",
-      "Newscast.jp"
-    ],
-    "answer": "GAME Watch",
-    "explanation": "2026年10月のニュースによると、「東京ゲームショウ2026」のニュースはGAME Watch（Yahoo!ニュース）で報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "『NIJISANJI 7 Colors Card Game』のニュースは、どのニュースサイトのYahoo!ニュースで報じられましたか？",
-    "choices": [
-      "Game Spark",
-      "インサイド",
-      "Newscast.jp",
-      "ONE PIECE.com"
-    ],
-    "answer": "インサイド",
-    "explanation": "2026年10月のニュースによると、『NIJISANJI 7 Colors Card Game』のニュースはインサイド（Yahoo!ニュース）で報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "「ONE PIECEカードゲーム Heroines CUP -3on3-」の開催決定が報じられた公式メディアは何ですか？",
-    "choices": [
-      "週刊少年ジャンプ公式サイト",
-      "ONE PIECE.com",
-      "バンダイナムコエンターテインメント公式サイト",
-      "集英社公式サイト"
-    ],
-    "answer": "ONE PIECE.com",
-    "explanation": "2026年10月のニュースによると、「ONE PIECEカードゲーム Heroines CUP -3on3-」はONE PIECE.comで報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "自宅で遊べるリアル脱出ゲーム最新作『ゆるゆる生配信する推しは100万回死ぬ』のニュースは、どのニュースサイトで報じられましたか？",
-    "choices": [
-      "Game Spark",
-      "インサイド",
-      "Newscast.jp",
-      "Yahoo!ニュース"
-    ],
-    "answer": "Newscast.jp",
-    "explanation": "2026年10月のニュースによると、『ゆるゆる生配信する推しは100万回死ぬ』のニュースはNewscast.jpで報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "「モンハンアセンダンス」の最新情報が掲載されているGameWithの記事のタイトルは「アセンダンス攻略」と何ですか？",
-    "choices": [
-      "モンハンアセンダンスの最新情報",
-      "モンハンアセンダンスの初心者ガイド",
-      "モンハンアセンダンスの武器一覧",
-      "モンハンアセンダンスのモンスター図鑑"
-    ],
-    "answer": "モンハンアセンダンスの最新情報",
-    "explanation": "2026年10月のニュースによると、「アセンダンス攻略｜モンハンアセンダンスの最新情報」という記事で報じられています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "「GUNDAM-Con2027 SIDE MAKUHARI」で新作アクションゲーム『GUNDAM ROGUE ORBIT』の最新情報が公開されると報じられたのは、どのニュースサイトのYahoo!ニュースですか？",
-    "choices": [
-      "Game Spark",
-      "インサイド",
-      "Newscast.jp",
-      "GAME Watch"
-    ],
-    "answer": "インサイド",
-    "explanation": "2026年10月のニュースによると、『GUNDAM ROGUE ORBIT』のニュースはインサイド（Yahoo!ニュース）で報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "「ポケモンウインド・ウェーブ」の最新情報が掲載されているGameWithの記事のタイトルに含まれる別名は何ですか？",
-    "choices": [
-      "ポケモン波風",
-      "ポケモン風波",
-      "ポケモン大風",
-      "ポケモン潮風"
-    ],
-    "answer": "ポケモン風波",
-    "explanation": "2026年10月のニュースによると、「ポケモンウインド・ウェーブの発売日と最新情報まとめ｜ポケモン風波」という記事で報じられています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 5,
-    "question": "「東京ゲームショウ2026」の最新出展情報や会場マップが公開されたことを報じているメディアはどこですか？",
+    "question": "2026年10月のニュースによると、にじさんじの新作カードゲーム『NIJISANJI 7 Colors Card Game』の最新映像を報じたメディアはどこですか？",
     "choices": [
       "ファミ通.com",
       "GAME Watch",
-      "電撃オンライン",
-      "4Gamer.net"
+      "インサイド - Yahoo!ニュース",
+      "AppBank"
     ],
-    "answer": "GAME Watch",
-    "explanation": "2026年10月のニュースによると、「東京ゲームショウ2026」の最新出展情報公開はGAME Watchで報じられました。"
+    "answer": "インサイド - Yahoo!ニュース",
+    "explanation": "2026年10月のニュースによると、「にじさんじの完全新作カードゲーム『NIJISANJI 7 Colors Card Game』最新映像が公開！...（インサイド） - Yahoo!ニュース」と報じられています。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 5,
-    "question": "『Castlevania: Belmont’s Curse』の体験版配信開始を報じているYahoo!ニュースの配信元はどこですか？",
+    "difficulty": 4,
+    "question": "2026年10月のニュースによると、東京ゲームショウ2026が「開催目前！」と報じたメディアはどこですか？",
     "choices": [
+      "埼玉新聞",
+      "ファミ通.com",
+      "GAME Watch",
+      "インサイド"
+    ],
+    "answer": "GAME Watch",
+    "explanation": "2026年10月のニュースによると、「開催目前！ 「東京ゲームショウ2026」最新出展情報や会場マップなどが公開（GAME Watch）」と報じられています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "2026年6月2日のニュースによると、State of Playで『エースコンバット8』について発表された具体的な内容は何ですか？",
+    "choices": [
+      "体験版配信",
+      "新キャラクター参戦",
+      "発売日決定",
+      "最新PV公開"
+    ],
+    "answer": "発売日決定",
+    "explanation": "2026年6月2日のニュースによると、State of Playで「『エースコンバット8』発売日決定」が発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "2026年6月9日のニュースによると、ニンテンドーダイレクトの発表内容まとめを報じたメディアはどこですか？",
+    "choices": [
+      "インサイド - Yahoo!ニュース",
+      "ファミ通.com",
+      "GAME Watch - Yahoo!ニュース",
+      "AppBank"
+    ],
+    "answer": "GAME Watch - Yahoo!ニュース",
+    "explanation": "2026年6月9日のニュースによると、「【ニンダイまとめ】「ニンテンドーダイレクト 2026.6.9」発表内容まとめ（GAME Watch） - Yahoo!ニュース」と報じられています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "2026年10月のニュースによると、GameWithが「時のオカリナリメイクの発売日と最新情報」を報じたのは、どのイベントの発表内容を受けてのことと考えられますか？",
+    "choices": [
+      "State of Play June 2, 2026",
+      "GUNDAM-Con2027",
+      "ニンテンドーダイレクト 2026.6.9",
+      "東京ゲームショウ2026"
+    ],
+    "answer": "ニンテンドーダイレクト 2026.6.9",
+    "explanation": "2026年6月9日のニュースでニンテンドーダイレクトの発表内容がまとめられており、その後に「時のオカリナリメイクの発売日と最新情報」が報じられているため、関連性が高いと推測されます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "2026年10月のニュースによると、GameWithが「ポケモンウインド・ウェーブの発売日と最新情報」を報じたのは、どのイベントの発表内容を受けてのことと考えられますか？",
+    "choices": [
+      "State of Play June 2, 2026",
+      "GUNDAM-Con2027",
+      "ニンテンドーダイレクト 2026.6.9",
+      "東京ゲームショウ2026"
+    ],
+    "answer": "ニンテンドーダイレクト 2026.6.9",
+    "explanation": "2026年6月9日のニュースでニンテンドーダイレクトの発表内容がまとめられており、その後に「ポケモンウインド・ウェーブの発売日と最新情報」が報じられているため、関連性が高いと推測されます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 4,
+    "question": "2026年10月のニュースによると、シリーズ最新作『TATSUJIN EXTREME』の本日発売を報じたメディアはどこですか？",
+    "choices": [
+      "ファミ通.com",
       "インサイド",
-      "Game Spark",
       "GAME Watch",
-      "Newscast.jp"
+      "AppBank"
     ],
-    "answer": "Game Spark",
-    "explanation": "2026年10月のニュースによると、『Castlevania: Belmont’s Curse』のニュースはGame Spark（Yahoo!ニュース）で報じられました。"
+    "answer": "GAME Watch",
+    "explanation": "2026年10月のニュースによると、「シリーズ最新作「TATSUJIN EXTREME」本日発売。（GAME Watch）」と報じられています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 5,
-    "question": "「時のオカリナリメイク」の最新情報が掲載されているGameWithの記事のタイトルは何ですか？",
+    "question": "2026年10月のニュースによると、GUNDAM-Con2027 SIDE MAKUHARIで最新情報が公開される『GUNDAM ROGUE ORBIT』は、アニメ「機動戦士ガンダムRG XARX-ZERO」の監督と声優が登壇するとのことですが、このイベントの開催時期は何年ですか？",
     "choices": [
-      "時のオカリナリメイクの評価",
-      "時のオカリナリメイクの発売日と最新情報",
-      "時のオカリナリメイクのストーリー",
-      "時のオカリナリメイクのキャラクター"
+      "2026年",
+      "2027年",
+      "2028年",
+      "不明"
     ],
-    "answer": "時のオカリナリメイクの発売日と最新情報",
-    "explanation": "2026年10月のニュースによると、「時のオカリナリメイクの発売日と最新情報」という記事で報じられています。"
+    "answer": "2027年",
+    "explanation": "2026年10月のニュースによると、イベント名は「GUNDAM-Con2027」と明記されており、2027年開催であることが分かります。"
   },
   {
     "category": "ゲーム",
     "difficulty": 5,
-    "question": "「ニンテンドーダイレクト 2026.6.9」の発表内容まとめは、どのニュースサイトで配信されましたか？",
+    "question": "2026年10月のニュースによると、ONE PIECEカードゲームの「Heroines CUP -3on3-」の開催決定を報じたone-piece.comは、どのような性質のウェブサイトですか？",
     "choices": [
-      "AppBank",
-      "GAME Watch",
-      "GameWith",
-      "ONE PIECE.com"
+      "ニュースサイト",
+      "公式サイト",
+      "ファンサイト",
+      "攻略サイト"
     ],
-    "answer": "GAME Watch",
-    "explanation": "2026年10月のニュースによると、「ニンテンドーダイレクト 2026.6.9」のまとめはGAME Watchで報じられました。"
+    "answer": "公式サイト",
+    "explanation": "2026年10月のニュースによると、ドメイン名「one-piece.com」から、ONE PIECEの公式サイトであると判断できます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 5,
-    "question": "「東京ゲームショウ2026」は、ニュースの記述から見て、いつ頃開催されていると判断できますか？",
+    "question": "2026年10月のニュースによると、自宅で遊べるリアル脱出ゲーム『ゆるゆる生配信する推しは100万回死ぬ』の特徴として挙げられているのは何ですか？",
     "choices": [
-      "2026年夏",
-      "2026年秋",
-      "2026年冬",
-      "2027年春"
-    ],
-    "answer": "2026年秋",
-    "explanation": "2026年10月のニュースで「東京ゲームショウ開幕」と報じられているため、2026年秋に開催されていると判断できます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "『NIJISANJI 7 Colors Card Game』のニュースで、葛葉、剣持刀也、リゼ・ヘルエスタの何が公開されたと具体的に言及されていますか？",
-    "choices": [
-      "ボイスデータ",
-      "キャラクターデザイン",
-      "テキスト",
-      "イラスト"
-    ],
-    "answer": "テキスト",
-    "explanation": "2026年10月のニュースによると、『NIJISANJI 7 Colors Card Game』の最新映像で、葛葉や剣持刀也にリゼ・ヘルエスタなどの「テキスト」が公開されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "「ONE PIECEカードゲーム Heroines CUP -3on3-」のイベント名にある「Heroines」は、どのような意味合いを持つと推測されますか？",
-    "choices": [
-      "英雄",
-      "悪役",
-      "主人公",
-      "ヒロイン"
-    ],
-    "answer": "ヒロイン",
-    "explanation": "2026年10月のニュースによると、「Heroines CUP」という名称から、ヒロインたちに焦点を当てたイベントだと推測されます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "自宅で遊べるリアル脱出ゲーム最新作『ゆるゆる生配信する推しは100万回死ぬ』は、Steamのどのセール期間中に25%OFFで提供されていますか？",
-    "choices": [
-      "旧正月セール",
-      "オータムセール",
-      "スプリングセール",
-      "ブラックフライデーセール"
-    ],
-    "answer": "オータムセール",
-    "explanation": "2026年10月のニュースによると、『ゆるゆる生配信する推しは100万回死ぬ』はSteamオータムセールで25%OFFになっています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "「モンハンアセンダンス」の「攻略」情報が掲載されているGameWithの記事は、主に何に関する情報を提供していますか？",
-    "choices": [
-      "武器の改造方法",
-      "最新情報",
-      "モンスターの弱点",
-      "防具の作成方法"
-    ],
-    "answer": "最新情報",
-    "explanation": "2026年10月のニュースによると、「アセンダンス攻略｜モンハンアセンダンスの最新情報」という記事で報じられています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "「GUNDAM-Con2027 SIDE MAKUHARI」で登壇するアニメ「機動戦士ガンダムRG XARX-ZERO」の監督と声優は、それぞれ誰ですか？",
-    "choices": [
-      "富野由悠季監督＆池田秀一さん",
-      "神山健治監督＆大塚剛央さん",
-      "福田己津央監督＆田中理恵さん",
-      "安彦良和監督＆古谷徹さん"
-    ],
-    "answer": "神山健治監督＆大塚剛央さん",
-    "explanation": "2026年10月のニュースによると、「GUNDAM-Con2027 SIDE MAKUHARI」には神山健治監督と大塚剛央さんが登壇します。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "「ポケモンウインド・ウェーブ」の「風波」というサブタイトルは、どの言語での表記に対応していますか？",
-    "choices": [
-      "英語",
-      "日本語",
-      "中国語",
-      "韓国語"
-    ],
-    "answer": "日本語",
-    "explanation": "2026年10月のニュースによると、「ポケモンウインド・ウェーブ」は「ポケモン風波」と日本語で表記されています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "「東京ゲームショウ2026」の「開催目前」のニュースは、どのニュースサイトのYahoo!ニュースで報じられましたか？",
-    "choices": [
-      "インサイド",
-      "Game Spark",
-      "GAME Watch",
-      "Newscast.jp"
-    ],
-    "answer": "GAME Watch",
-    "explanation": "2026年10月のニュースによると、「東京ゲームショウ2026」のニュースはGAME Watch（Yahoo!ニュース）で報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "『Castlevania: Belmont’s Curse』の体験版では、ゲームのどの部分を遊ぶことができますか？",
-    "choices": [
-      "エンディング",
-      "中盤のボス戦",
-      "序盤",
-      "隠しステージ"
-    ],
-    "answer": "序盤",
-    "explanation": "2026年10月のニュースによると、『Castlevania: Belmont’s Curse』の「序盤を遊べる体験版」が配信開始されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "「時のオカリナリメイク」の最新情報が掲載されているGameWithの記事は、主に何に関する情報を提供していますか？",
-    "choices": [
-      "裏技の紹介",
-      "発売日と最新情報",
-      "キャラクターの歴史",
-      "マップの全容"
-    ],
-    "answer": "発売日と最新情報",
-    "explanation": "2026年10月のニュースによると、「時のオカリナリメイクの発売日と最新情報」という記事で報じられています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "2026年6月9日に開催されたニンテンドーダイレクトの発表内容まとめは、どのメディアで「まとめ」として公開されましたか？",
-    "choices": [
-      "ファミ通",
-      "GAME Watch",
-      "電撃オンライン",
-      "4Gamer"
-    ],
-    "answer": "GAME Watch",
-    "explanation": "2026年10月のニュースによると、「ニンテンドーダイレクト 2026.6.9」の発表内容まとめはGAME Watchで報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 6,
-    "question": "「東京ゲームショウ2026」の「開催目前」のニュースが公開されたのは、イベントのどのタイミングと推測されますか？",
-    "choices": [
-      "開催の数日〜数週間前",
-      "開催の数ヶ月前",
-      "開催の当日",
-      "開催終了後"
-    ],
-    "answer": "開催の数日〜数週間前",
-    "explanation": "2026年10月のニュースによると、「開催目前！」という表現から、イベント開始の直前、数日〜数週間前のタイミングと推測されます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "『NIJISANJI 7 Colors Card Game』のニュースで言及された、葛葉、剣持刀也、リゼ・ヘルエスタのテキストが公開されたのは、具体的に何を通じてですか？",
-    "choices": [
-      "公式ウェブサイト",
-      "最新映像",
-      "開発者ブログ",
-      "生放送"
-    ],
-    "answer": "最新映像",
-    "explanation": "2026年10月のニュースによると、『NIJISANJI 7 Colors Card Game』の「最新映像」が公開され、その中でテキストが披露されました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "「ONE PIECEカードゲーム Heroines CUP -3on3-」のイベント名にある「-3on3-」は、どの部分を指していますか？",
-    "choices": [
-      "参加人数",
-      "チームの人数",
-      "試合時間",
-      "ラウンド数"
-    ],
-    "answer": "チームの人数",
-    "explanation": "2026年10月のニュースによると、「-3on3-」は3人対3人のチーム戦形式を指します。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "自宅で遊べるリアル脱出ゲーム最新作『ゆるゆる生配信する推しは100万回死ぬ』がSteamオータムセールで割引されていることに関するニュースは、何というカテゴリで報じられましたか？",
-    "choices": [
-      "ゲーム情報",
-      "セール情報",
-      "Newscast.jp",
-      "脱出ゲーム速報"
-    ],
-    "answer": "Newscast.jp",
-    "explanation": "2026年10月のニュースによると、『ゆるゆる生配信する推しは100万回死ぬ』のニュースはNewscast.jpで報じられました。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "「モンハンアセンダンス」の最新情報が掲載されているGameWithの記事のURLのキーワードとして「アセンダンス攻略」の後に続くものは何ですか？",
-    "choices": [
-      "mh_ascendance",
-      "mh_strategy",
-      "ascendance_info",
-      "mhascen_guide"
-    ],
-    "answer": "ascendance_info",
-    "explanation": "2026年10月のニュースによると、「アセンダンス攻略｜モンハンアセンダンスの最新情報」という記事タイトルがGameWithで公開されています。URL構造は通常タイトルに準拠します。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "「GUNDAM-Con2027 SIDE MAKUHARI」で新作アクションゲーム『GUNDAM ROGUE ORBIT』の最新情報が公開されるのは、イベントのどのセクションですか？",
-    "choices": [
-      "オープニングセレモニー",
-      "新作ゲーム発表会",
-      "SIDE MAKUHARI",
-      "スペシャルステージ"
-    ],
-    "answer": "SIDE MAKUHARI",
-    "explanation": "2026年10月のニュースによると、「GUNDAM-Con2027 SIDE MAKUHARI」というイベント名から、このセクションで発表されることが示唆されています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "「ポケモンウインド・ウェーブ」の発売日と最新情報がまとめられているGameWithの記事のタイトルは、具体的に何に関する情報を提供していますか？",
-    "choices": [
-      "登場ポケモン一覧",
-      "発売日と最新情報",
-      "バトルシステム解説",
-      "新要素の紹介"
-    ],
-    "answer": "発売日と最新情報",
-    "explanation": "2026年10月のニュースによると、「ポケモンウインド・ウェーブの発売日と最新情報まとめ」という記事で報じられています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "「東京ゲームショウ2026」の「開催目前！」のニュースで、公開された情報として「最新出展情報」と「会場マップ」の他に示唆されているものは何ですか？",
-    "choices": [
-      "イベントスケジュール",
-      "限定グッズ情報",
-      "特別講演の内容",
-      "具体的な出展企業リスト"
-    ],
-    "answer": "イベントスケジュール",
-    "explanation": "2026年10月のニュースによると、「最新出展情報や会場マップなどが公開」とあることから、イベント全体の詳細が公開されたと推測されます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "『Castlevania: Belmont’s Curse』の体験版の舞台であるパリは、どのような状況にあると描写されていますか？",
-    "choices": [
-      "平和な街",
-      "魔物はびこる",
-      "革命の渦中",
-      "未来都市"
-    ],
-    "answer": "魔物はびこる",
-    "explanation": "2026年10月のニュースによると、『Castlevania: Belmont’s Curse』の体験版では「魔物はびこるパリへ」と記載されています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "「時のオカリナリメイク」の発売日と最新情報が掲載されているGameWithの記事のタイトルに含まれるキーワードは何ですか？",
-    "choices": [
-      "攻略",
-      "発売日と最新情報",
-      "裏技",
-      "レビュー"
-    ],
-    "answer": "発売日と最新情報",
-    "explanation": "2026年10月のニュースによると、「時のオカリナリメイクの発売日と最新情報」という記事で報じられています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "「セブンナイツ リバース」の最新アップデート情報について、「開発者ノート」という形式で情報が公開されたのは、どのような意図が考えられますか？",
-    "choices": [
-      "一方的な情報公開",
-      "開発チームの視点からの情報提供",
-      "ユーザーからのフィードバック募集",
-      "広告戦略の一環"
-    ],
-    "answer": "開発チームの視点からの情報提供",
-    "explanation": "2026年10月のニュースによると、「開発者ノート」は通常、開発チームが直接、今後のアップデートや開発状況について説明する形式です。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 7,
-    "question": "「東京ゲームショウ2026」に関するニュースで、開幕を報じている埼玉新聞と、最新出展情報などを報じているGAME Watchは、それぞれ異なる種類の情報を提供していますが、共通する目的は何ですか？",
-    "choices": [
-      "イベントの歴史を記録する",
-      "イベントの最新状況を広く伝える",
-      "イベントの経済効果を分析する",
-      "イベントの批判的なレビューを提供する"
-    ],
-    "answer": "イベントの最新状況を広く伝える",
-    "explanation": "2026年10月のニュースによると、どちらのメディアも「開幕」や「最新情報」を報じていることから、イベントの現在の状況を読者に広く伝えることが共通の目的です。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "『NIJISANJI 7 Colors Card Game』の最新映像公開のニュースは、Yahoo!ニュースのどのカテゴリに掲載されましたか？",
-    "choices": [
-      "エンタメ",
-      "ゲーム",
-      "アニメ",
-      "テクノロジー"
-    ],
-    "answer": "ゲーム",
-    "explanation": "2026年10月のニュースは、ゲームに関するニュースとして報じられています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "「ONE PIECEカードゲーム Heroines CUP -3on3-」に関するニュースは、ONE PIECE.comのどのセクションで公開されましたか？",
-    "choices": [
-      "最新ニュース",
-      "イベント情報",
-      "カードゲーム情報",
-      "スペシャル"
-    ],
-    "answer": "最新情報",
-    "explanation": "2026年10月のニュースによると、「ONE PIECEカードゲーム 最新情報」というセクションで報じられています。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "自宅で遊べるリアル脱出ゲーム最新作『ゆるゆる生配信する推しは100万回死ぬ』がSteamオータムセールで25%OFFになったことについて、ニュースで特に強調されている点は何ですか？",
-    "choices": [
-      "新機能の追加",
-      "シリーズ最高傑作",
+      "オンライン専用",
+      "VR対応",
       "自宅で遊べる",
-      "オンライン対戦対応"
+      "モバイル専用"
     ],
     "answer": "自宅で遊べる",
-    "explanation": "2026年10月のニュースによると、「自宅で遊べるリアル脱出ゲーム最新作」と紹介されています。"
+    "explanation": "2026年10月のニュースによると、『ゆるゆる生配信する推しは100万回死ぬ』は「自宅で遊べるリアル脱出ゲーム最新作」とされています。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 8,
-    "question": "「モンハンアセンダンス」の最新情報が掲載されているGameWithの記事のタイトル「アセンダンス攻略」は、どのような目的で提供されている情報だと考えられますか？",
+    "difficulty": 5,
+    "question": "2026年10月のニュースによると、にじさんじの新作カードゲーム『NIJISANJI 7 Colors Card Game』の最新映像が公開された際に言及された、テキストが示されたライバーは何名ですか？",
     "choices": [
-      "ストーリーの解説",
-      "ゲームプレイのヒント",
-      "モンスターの生態分析",
-      "ゲームの最新状況を伝える"
+      "1名",
+      "2名",
+      "3名",
+      "4名"
     ],
-    "answer": "ゲームの最新状況を伝える",
-    "explanation": "2026年10月のニュースによると、「アセンダンス攻略｜モンハンアセンダンスの最新情報」という記事で、最新情報が提供されています。"
+    "answer": "3名",
+    "explanation": "2026年10月のニュースによると、「葛葉や剣持刀也にリゼ・ヘルエスタなどのテキストも」とあり、具体的な名前が3名挙げられています。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 8,
-    "question": "「GUNDAM-Con2027 SIDE MAKUHARI」で新作アクションゲーム『GUNDAM ROGUE ORBIT』の最新情報が公開されるのは、イベントが開催される何年前の発表ですか？",
+    "difficulty": 5,
+    "question": "2026年10月のニュースによると、「東京ゲームショウ2026」の「最新出展情報や会場マップなどが公開」されたという報道の直後の状態はどのようなものとして表現されましたか？",
     "choices": [
-      "1年前",
-      "2年前",
-      "数ヶ月前",
-      "開催当日"
-    ],
-    "answer": "1年前",
-    "explanation": "2026年10月のニュースで「GUNDAM-Con2027」とあるため、2027年のイベントの約1年前の発表となります。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "「ポケモンウインド・ウェーブ」の発売日と最新情報がまとめられているGameWithの記事は、主にどのようなプレイヤー層を対象としていますか？",
-    "choices": [
-      "初心者プレイヤー",
-      "上級者プレイヤー",
-      "発売を待つファン",
-      "対戦プレイヤー"
-    ],
-    "answer": "発売を待つファン",
-    "explanation": "2026年10月のニュースによると、「発売日と最新情報まとめ」というタイトルから、発売を待つファンに向けた情報提供が主だと考えられます。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 8,
-    "question": "「東京ゲームショウ2026」の開幕を報じた埼玉新聞のニュースは、イベントのどの段階を伝えていますか？",
-    "choices": [
-      "閉幕",
+      "開催終了",
+      "開催中",
       "開催決定",
-      "開幕",
-      "事前登録開始"
+      "開催目前"
     ],
-    "answer": "開幕",
-    "explanation": "2026年10月のニュースによると、「東京ゲームショウ開幕」と報じられています。"
+    "answer": "開催目前",
+    "explanation": "2026年10月のニュースによると、「開催目前！ 「東京ゲームショウ2026」最新出展情報や会場マップなどが公開」と報じられています。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 8,
-    "question": "『Castlevania: Belmont’s Curse』の体験版配信開始のニュースで、「ひと足先に魔物はびこるパリへ」という表現は、どのような感情を煽るものとして使われていますか？",
+    "difficulty": 5,
+    "question": "2026年6月2日のニュースによると、State of Playで発表された『鬼武者』は、どのような位置づけのゲームですか？",
     "choices": [
-      "安心感",
-      "好奇心や期待",
-      "郷愁",
-      "恐怖"
+      "リメイク",
+      "リマスター",
+      "続編",
+      "完全新作"
     ],
-    "answer": "好奇心や期待",
-    "explanation": "2026年10月のニュースによると、「ひと足先に」という表現は、体験版によって本編への期待感を高める意図があります。"
+    "answer": "完全新作",
+    "explanation": "2026年6月2日のニュースによると、State of Playで「完全新作『鬼武者』体験版配信」が発表されました。"
   },
   {
     "category": "ゲーム",
-    "difficulty": 8,
-    "question": "「時のオカリナリメイク」の最新情報が掲載されているGameWithの記事は、主にどのような情報を提供していますか？",
+    "difficulty": 5,
+    "question": "2026年6月9日のニュースによると、ニンテンドーダイレクトの発表内容まとめで言及された『時のオカリナリメイク』に関して、具体的に何の情報が報じられましたか？",
     "choices": [
-      "裏技の紹介",
+      "ストーリー概要",
+      "新要素",
       "発売日と最新情報",
-      "キャラクターの歴史",
-      "マップの全容"
+      "開発者インタビュー"
     ],
     "answer": "発売日と最新情報",
-    "explanation": "2026年10月のニュースによると、「時のオカリナリメイクの発売日と最新情報」という記事で報じられています。"
+    "explanation": "2026年6月9日のニュースによると、「時のオカリナリメイクの発売日と最新情報」が報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "2026年6月9日のニュースによると、ニンテンドーダイレクトの発表内容まとめで言及された『ポケモンウインド・ウェーブ』に関して、具体的に何の情報が報じられましたか？",
+    "choices": [
+      "登場ポケモン",
+      "新システム",
+      "発売日と最新情報",
+      "トレーラー映像"
+    ],
+    "answer": "発売日と最新情報",
+    "explanation": "2026年6月9日のニュースによると、「ポケモンウインド・ウェーブの発売日と最新情報」が報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "2026年10月のニュースによると、本日発売された『TATSUJIN EXTREME』は、どのシリーズの最新作ですか？",
+    "choices": [
+      "達人",
+      "疾風",
+      "TATSUJIN",
+      "マスター"
+    ],
+    "answer": "TATSUJIN",
+    "explanation": "2026年10月のニュースによると、「シリーズ最新作「TATSUJIN EXTREME」本日発売」とあり、TATSUJINシリーズであることが分かります。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 5,
+    "question": "2026年10月のニュースによると、GameWithが攻略情報を扱っている『モンハンアセンダンス』は、具体的にどのような情報が提供されていますか？",
+    "choices": [
+      "体験版情報",
+      "発売日情報",
+      "攻略情報と最新情報",
+      "コラボイベント情報"
+    ],
+    "answer": "攻略情報と最新情報",
+    "explanation": "2026年10月のニュースによると、「アセンダンス攻略｜モンハンアセンダンスの最新情報」として情報が提供されています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "2026年10月のニュースによると、GUNDAM-Con2027 SIDE MAKUHARIで『GUNDAM ROGUE ORBIT』の最新情報が公開される際、登壇するアニメ「機動戦士ガンダムRG XARX-ZERO」の監督と声優はそれぞれ何名ですか？",
+    "choices": [
+      "監督1名、声優1名",
+      "監督1名、声優2名",
+      "監督2名、声優1名",
+      "監督2名、声優2名"
+    ],
+    "answer": "監督1名、声優1名",
+    "explanation": "2026年10月のニュースによると、「神山健治監督＆大塚剛央さんも登壇」とあり、それぞれ1名ずつであることが分かります。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "2026年10月のニュースによると、ONE PIECEカードゲームの「Heroines CUP -3on3-」の開催決定は、どのような形式のニュースとして公開されましたか？",
+    "choices": [
+      "プレスリリース",
+      "公式サイトでの最新情報",
+      "テレビCM",
+      "雑誌掲載"
+    ],
+    "answer": "公式サイトでの最新情報",
+    "explanation": "2026年10月のニュースによると、「ONE PIECEカードゲーム 最新情報」として「- one-piece.com」で公開されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "2026年10月のニュースによると、Steamオータムセールで『ゆるゆる生配信する推しは100万回死ぬ』が割引されている期間はいつですか？",
+    "choices": [
+      "特定の日付",
+      "一週間限定",
+      "オータムセール期間中",
+      "不明"
+    ],
+    "answer": "オータムセール期間中",
+    "explanation": "2026年10月のニュースによると、「Steamオータムセールで25%OFFに！」とあり、セール期間中であることが分かります。具体的な期間は明記されていませんが、オータムセールという時期は示されています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "2026年10月のニュースによると、にじさんじの新作カードゲーム『NIJISANJI 7 Colors Card Game』の最新映像でテキストが確認されたライバーたちの共通点は何ですか？",
+    "choices": [
+      "全員男性ライバー",
+      "全員女性ライバー",
+      "にじさんじに所属",
+      "デビュー時期が同じ"
+    ],
+    "answer": "にじさんじに所属",
+    "explanation": "2026年10月のニュースによると、「にじさんじの完全新作カードゲーム」であり、挙げられたライバー（葛葉、剣持刀也、リゼ・ヘルエスタ）は全てにじさんじに所属しています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "2026年10月のニュースによると、東京ゲームショウの「開幕」を報じた記事と、「開催目前！」として最新情報を公開した記事のメディアはそれぞれ何ですか？",
+    "choices": [
+      "埼玉新聞、ファミ通.com",
+      "埼玉新聞、GAME Watch",
+      "インサイド、GAME Watch",
+      "ファミ通.com、埼玉新聞"
+    ],
+    "answer": "埼玉新聞、GAME Watch",
+    "explanation": "2026年10月のニュースによると、「東京ゲームショウ開幕 - 埼玉新聞」と「開催目前！ 「東京ゲームショウ2026」最新出展情報や会場マップなどが公開（GAME Watch）」と報じられています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "2026年6月2日のState of Playで発表された以下のゲームのうち、発売日決定が報じられたのはどれですか？",
+    "choices": [
+      "『真・三國無双2』",
+      "『エースコンバット8』",
+      "完全新作『鬼武者』",
+      "『時のオカリナリメイク』"
+    ],
+    "answer": "『エースコンバット8』",
+    "explanation": "2026年6月2日のニュースによると、State of Playで「『エースコンバット8』発売日決定」が発表されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "2026年6月9日のニンテンドーダイレクトの発表内容まとめを受けて、最新情報が報じられたゲームタイトルを全て挙げている選択肢はどれですか？",
+    "choices": [
+      "『時のオカリナリメイク』",
+      "『ポケモンウインド・ウェーブ』",
+      "『時のオカリナリメイク』と『ポケモンウインド・ウェーブ』",
+      "『怪獣8号ゲーム』と『モンハンアセンダンス』"
+    ],
+    "answer": "『時のオカリナリメイク』と『ポケモンウインド・ウェーブ』",
+    "explanation": "2026年6月9日のニンテンドーダイレクトの発表内容を受けて、「時のオカリナリメイクの発売日と最新情報」と「ポケモンウインド・ウェーブの発売日と最新情報」が報じられました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "2026年10月のニュースによると、『TATSUJIN EXTREME』が「本日発売」と報じられたのは、その魅力を紹介するどのようなコンテンツが同時に公開されたためですか？",
+    "choices": [
+      "ゲームプレイトレーラー",
+      "開発者インタビュー動画",
+      "最新PV",
+      "ストーリー解説動画"
+    ],
+    "answer": "最新PV",
+    "explanation": "2026年10月のニュースによると、「本作の魅力を紹介する最新PV公開」が「本日発売」に合わせて行われました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "2026年10月のニュースによると、GameWithが「アセンダンス攻略」として最新情報を掲載しているゲームの正式名称は何ですか？",
+    "choices": [
+      "モンスターハンターアセンダンス",
+      "モンハンアセンダンス",
+      "アセンダンス",
+      "モンスターハンターライズアセンダンス"
+    ],
+    "answer": "モンハンアセンダンス",
+    "explanation": "2026年10月のニュースによると、「モンハンアセンダンスの最新情報」と明記されています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 6,
+    "question": "2026年10月のニュースによると、AppBankが「おすすめのアニメ・ゲーム関連ニュースアプリランキング」を公開した主な目的は何ですか？",
+    "choices": [
+      "新しいニュースアプリを宣伝するため",
+      "アプリ市場の動向を分析するため",
+      "みんなが使っているスマホアプリを紹介するため",
+      "アプリ開発者に向けた情報提供のため"
+    ],
+    "answer": "みんなが使っているスマホアプリを紹介するため",
+    "explanation": "2026年10月のニュースによると、「みんなが使っているスマホアプリはこれ」というサブタイトルがあり、ユーザーへの紹介が目的と分かります。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "2026年10月のニュースによると、GUNDAM-Con2027 SIDE MAKUHARIで新作アクションゲーム『GUNDAM ROGUE ORBIT』の最新情報が公開される際、登壇するアニメ「機動戦士ガンダムRG XARX-ZERO」の監督が手掛けるアニメの正式名称は何ですか？",
+    "choices": [
+      "「機動戦士ガンダム 閃光のハサウェイ」",
+      "「機動戦士ガンダム ククルス・ドアンの島」",
+      "「機動戦士ガンダムRG XARX-ZERO」",
+      "「機動戦士ガンダム 水星の魔女」"
+    ],
+    "answer": "「機動戦士ガンダムRG XARX-ZERO」",
+    "explanation": "2026年10月のニュースによると、「アニメ「機動戦士ガンダムRG XARX-ZERO」神山健治監督」と明記されています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "2026年10月のニュースによると、ONE PIECEカードゲームの「Heroines CUP -3on3-」の開催決定は、公式サイトで「最新情報」として発表されましたが、このイベントはどのようなキャラクターに焦点を当てたものですか？",
+    "choices": [
+      "ルフィと仲間たち",
+      "海軍キャラクター",
+      "女性キャラクター",
+      "四皇キャラクター"
+    ],
+    "answer": "女性キャラクター",
+    "explanation": "2026年10月のニュースによると、「Heroines CUP」という名称から、女性キャラクターに焦点を当てたイベントであることが示唆されます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "2026年10月のニュースによると、Steamオータムセールで『ゆるゆる生配信する推しは100万回死ぬ』が25%OFFになったというニュースは、どのメディアで報じられましたか？",
+    "choices": [
+      "インサイド",
+      "ファミ通.com",
+      "Newscast.jp",
+      "GAME Watch"
+    ],
+    "answer": "Newscast.jp",
+    "explanation": "2026年10月のニュースによると、「自宅で遊べるリアル脱出ゲーム最新作『ゆるゆる生配信する推しは100万回死ぬ』がSteamオータムセールで25%OFFに！ - Newscast.jp」と報じられています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "2026年10月のニュースによると、にじさんじの完全新作カードゲーム『NIJISANJI 7 Colors Card Game』の最新映像が公開され、葛葉、剣持刀也、リゼ・ヘルエスタなどのテキストが確認されましたが、このゲームの「Colors」は何を指していると考えられますか？",
+    "choices": [
+      "カードのレアリティ",
+      "ゲームシステムの色要素",
+      "にじさんじライバーの多様性",
+      "7種類の属性"
+    ],
+    "answer": "にじさんじライバーの多様性",
+    "explanation": "2026年10月のニュースによると、「NIJISANJI 7 Colors Card Game」というタイトルと、多様なライバーのテキストが確認されたことから、ライバーの多様性を表現していると推測されます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "2026年10月のニュースによると、東京ゲームショウ2026の「開催目前！」を報じたGAME Watchが公開した情報には、会場マップの他に何が含まれていましたか？",
+    "choices": [
+      "交通アクセス情報",
+      "最新出展情報",
+      "飲食ブース情報",
+      "公式グッズ情報"
+    ],
+    "answer": "最新出展情報",
+    "explanation": "2026年10月のニュースによると、「最新出展情報や会場マップなどが公開」されました。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "2026年6月2日のニュースによると、State of Playで発表された『真・三國無双2』に参戦する新キャラクター「紫鸞」は、どのような立ち位置のキャラクターとして発表されたと考えられますか？",
+    "choices": [
+      "既存キャラクターのリデザイン",
+      "隠しキャラクター",
+      "新規参戦キャラクター",
+      "DLCキャラクター"
+    ],
+    "answer": "新規参戦キャラクター",
+    "explanation": "2026年6月2日のニュースによると、「『真・三國無双2』に紫鸞参戦」とあり、新たなプレイアブルキャラクターとして参戦すると考えられます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "2026年6月9日のニンテンドーダイレクトの発表内容まとめを報じたGAME Watch - Yahoo!ニュースは、ニンテンドーダイレクトのどのような内容をまとめたものですか？",
+    "choices": [
+      "特定のゲームタイトル",
+      "発表内容全般",
+      "開発者インタビュー",
+      "ファンからの反応"
+    ],
+    "answer": "発表内容全般",
+    "explanation": "2026年6月9日のニュースによると、「「ニンテンドーダイレクト 2026.6.9」発表内容まとめ」とあり、発表内容全般をまとめたものであることが分かります。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "2026年10月のニュースによると、GameWithが「時のオカリナリメイク」の発売日と最新情報を報じた際、このゲームはどのシリーズに属すると考えられますか？",
+    "choices": [
+      "ファイナルファンタジーシリーズ",
+      "ドラゴンクエストシリーズ",
+      "ゼルダの伝説シリーズ",
+      "マリオシリーズ"
+    ],
+    "answer": "ゼルダの伝説シリーズ",
+    "explanation": "2026年10月のニュースによると、「時のオカリナリメイク」とあり、『時のオカリナ』はゼルダの伝説シリーズの作品であるため、このシリーズに属すると考えられます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "2026年10月のニュースによると、GameWithが「ポケモンウインド・ウェーブ」の発売日と最新情報を報じた際、このゲームはどのシリーズに属すると考えられますか？",
+    "choices": [
+      "デジモンシリーズ",
+      "ポケモンシリーズ",
+      "妖怪ウォッチシリーズ",
+      "モンスターファームシリーズ"
+    ],
+    "answer": "ポケモンシリーズ",
+    "explanation": "2026年10月のニュースによると、「ポケモンウインド・ウェーブ」とあり、ポケモンシリーズの新作であることが分かります。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 7,
+    "question": "2026年10月のニュースによると、本日発売された『TATSUJIN EXTREME』は、「本作の魅力を紹介する最新PV公開」と報じられましたが、このゲームはどのようなジャンルであると推測されますか？",
+    "choices": [
+      "RPG",
+      "シューティングゲーム",
+      "パズルゲーム",
+      "レースゲーム"
+    ],
+    "answer": "シューティングゲーム",
+    "explanation": "「TATSUJIN」は元々シューティングゲームのシリーズ名であるため、シリーズ最新作である『TATSUJIN EXTREME』もシューティングゲームであると推測されます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 8,
-    "question": "AppBankが紹介している「おすすめのアニメ・ゲーム関連ニュースアプリランキング」は、どのような情報源を評価対象としていますか？",
+    "question": "2026年10月のニュースによると、GUNDAM-Con2027 SIDE MAKUHARIで『GUNDAM ROGUE ORBIT』の最新情報が公開される際、神山健治監督が手掛けるアニメのタイトルに含まれるローマ字表記の「XARX-ZERO」は、どのような意味合いを持つと考えられますか？",
     "choices": [
-      "コンシューマーゲーム情報",
-      "スマホアプリ",
-      "アニメ専門誌",
-      "ゲーム雑誌"
+      "開発コードネーム",
+      "作品独自のコードネーム",
+      "機体型番の一部",
+      "キャラクター名の一部"
     ],
-    "answer": "スマホアプリ",
-    "explanation": "2026年10月のニュースによると、「みんなが使っているスマホアプリはこれ」と記載されているため、スマホアプリが対象です。"
+    "answer": "作品独自のコードネーム",
+    "explanation": "2026年10月のニュースによると、「機動戦士ガンダムRG XARX-ZERO」と具体的な作品名として提示されており、作品独自のコードネームであると考えられます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 8,
-    "question": "「東京ゲームショウ2026」の開幕を報じた埼玉新聞のニュースは、その報道内容から見て、どのような読者層を最も意識していると考えられますか？",
+    "question": "2026年10月のニュースによると、ONE PIECEカードゲームの「Heroines CUP -3on3-」の開催決定が報じられましたが、このイベントの主要なターゲット層は誰だと考えられますか？",
     "choices": [
-      "全国のゲーム業界関係者",
-      "埼玉県の一般市民やゲームファン",
-      "海外のゲームメディア",
-      "ゲーム開発者"
+      "新規プレイヤー",
+      "ベテランプレイヤー",
+      "女性キャラクターを好むプレイヤー",
+      "競技志向のプレイヤー"
     ],
-    "answer": "埼玉県の一般市民やゲームファン",
-    "explanation": "2026年10月のニュースによると、地方紙である埼玉新聞が「開幕」という比較的シンプルな内容を報じていることから、地元の一般読者やゲームファンにイベント開催を伝えることを意識していると考えられます。"
+    "answer": "女性キャラクターを好むプレイヤー",
+    "explanation": "2026年10月のニュースによると、「Heroines CUP」という名称から、女性キャラクターを好むプレイヤー層が主要なターゲットであると推測されます。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "2026年10月のニュースによると、Steamオータムセールで『ゆるゆる生配信する推しは100万回死ぬ』が25%OFFになったというニュースのタイトルは、どのような形式で情報が提供されましたか？",
+    "choices": [
+      "新ゲームのリリース発表",
+      "人気ゲームのアップデート情報",
+      "自宅で遊べるリアル脱出ゲームの最新作に関するセール情報",
+      "新作ゲームの体験版配信情報"
+    ],
+    "answer": "自宅で遊べるリアル脱出ゲームの最新作に関するセール情報",
+    "explanation": "2026年10月のニュースによると、「自宅で遊べるリアル脱出ゲーム最新作『ゆるゆる生配信する推しは100万回死ぬ』がSteamオータムセールで25%OFFに！」と明記されています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "2026年10月のニュースによると、にじさんじの完全新作カードゲーム『NIJISANJI 7 Colors Card Game』の最新映像公開を報じた記事は、どの情報サイトに掲載されましたか？",
+    "choices": [
+      "ファミ通.com",
+      "GAME Watch",
+      "インサイド",
+      "AppBank"
+    ],
+    "answer": "インサイド",
+    "explanation": "2026年10月のニュースによると、「（インサイド） - Yahoo!ニュース」と報じられており、インサイドに掲載されたことが分かります。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "2026年10月のニュースによると、東京ゲームショウ2026の「開催目前！」を報じたGAME Watchの記事が公開した情報は、具体的に何と何ですか？",
+    "choices": [
+      "最新出展情報とチケット情報",
+      "最新出展情報と会場マップ",
+      "会場マップとステージスケジュール",
+      "ステージスケジュールと物販情報"
+    ],
+    "answer": "最新出展情報と会場マップ",
+    "explanation": "2026年10月のニュースによると、「最新出展情報や会場マップなどが公開」と明記されています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "2026年6月2日のニュースによると、State of Playで『真・三國無双2』に「紫鸞参戦」が発表されましたが、このイベントの開催日は正確にはいつですか？",
+    "choices": [
+      "May 2, 2026",
+      "June 2, 2026",
+      "July 2, 2026",
+      "August 2, 2026"
+    ],
+    "answer": "June 2, 2026",
+    "explanation": "2026年6月2日のニュースによると、「【ステートオブプレイ June 2, 2026】」と正確な日付が記載されています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "2026年6月9日のニュースによると、ニンテンドーダイレクトの発表内容まとめを報じたGAME Watch - Yahoo!ニュースは、その記事のタイトルでイベントの開催日をどのように表記していましたか？",
+    "choices": [
+      "2026年6月9日",
+      "June 9, 2026",
+      "2026.6.9",
+      "2026/06/09"
+    ],
+    "answer": "2026.6.9",
+    "explanation": "2026年6月9日のニュースによると、「「ニンテンドーダイレクト 2026.6.9」発表内容まとめ」と表記されています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "2026年10月のニュースによると、GameWithが「時のオカリナリメイクの発売日と最新情報」を報じた記事のタイトルは、他にどのような情報を示唆していますか？",
+    "choices": [
+      "開発の進捗状況",
+      "時のオカリナの最新情報",
+      "オリジナル版との比較",
+      "過去の発売日"
+    ],
+    "answer": "時のオカリナの最新情報",
+    "explanation": "2026年10月のニュースによると、「時のオカリナリメイクの発売日と最新情報」とあり、リメイク版に関する最新情報が含まれていることが分かります。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "2026年10月のニュースによると、GameWithが「ポケモンウインド・ウェーブの発売日と最新情報」を報じた記事のタイトルには、本作の別名として何が記載されていますか？",
+    "choices": [
+      "ポケモン嵐",
+      "ポケモン波風",
+      "ポケモン風波",
+      "ポケモン大海"
+    ],
+    "answer": "ポケモン風波",
+    "explanation": "2026年10月のニュースによると、「ポケモンウインド・ウェーブの発売日と最新情報まとめ｜ポケモン風波」と記載されています。"
+  },
+  {
+    "category": "ゲーム",
+    "difficulty": 8,
+    "question": "2026年10月のニュースによると、本日発売された『TATSUJIN EXTREME』は、その魅力を紹介する最新PVが公開されましたが、このPV公開を報じたメディアはどこですか？",
+    "choices": [
+      "ファミ通.com",
+      "インサイド",
+      "GAME Watch",
+      "AppBank"
+    ],
+    "answer": "GAME Watch",
+    "explanation": "2026年10月のニュースによると、「シリーズ最新作「TATSUJIN EXTREME」本日発売。（GAME Watch）」と報じられています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "『NIJISANJI 7 Colors Card Game』のニュースでは、最新映像公開の目的が、葛葉や剣持刀也、リゼ・ヘルエスタなどの「テキスト」を披露することにあると示唆されています。これはゲームのどの要素を強調していると考えられますか？",
+    "question": "2026年10月のニュースによると、「GUNDAM-Con2027 SIDE MAKUHARI」で新作アクションゲーム『GUNDAM ROGUE ORBIT』の最新情報が公開される際、登壇するアニメ「機動戦士ガンダムRG XARX-ZERO」の監督と声優の組み合わせとして正しいのはどれですか？",
     "choices": [
-      "グラフィック",
-      "キャラクターの個性や設定",
-      "ゲームプレイの戦略性",
-      "サウンド"
+      "富野由悠季監督と古谷徹",
+      "神山健治監督と大塚剛央",
+      "大河原邦男と池田秀一",
+      "安彦良和と潘めぐみ"
     ],
-    "answer": "キャラクターの個性や設定",
-    "explanation": "2026年10月のニュースによると、ライバーの「テキスト」が公開されたということは、彼らの個性や世界観、カードの能力などが強調されていると推測されます。"
+    "answer": "神山健治監督と大塚剛央",
+    "explanation": "2026年10月のニュースによると、「神山健治監督＆大塚剛央さんも登壇」と明記されています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "「ONE PIECEカードゲーム Heroines CUP -3on3-」の開催決定に関するニュースは、ONE PIECE.comのトップページからどのようにアクセスできると推測されますか？",
+    "question": "2026年10月のニュースによると、ONE PIECEカードゲームに関する最新情報として報じられた「Heroines CUP -3on3-」の開催決定は、どのウェブサイトの「最新情報」セクションで確認できますか？",
     "choices": [
-      "アニメ情報から",
-      "最新情報セクションから",
-      "グッズ情報から",
-      "イベントカレンダーから"
+      "Yahoo!ニュースのゲームカテゴリ",
+      "one-piece.comのイベント情報セクション",
+      "インサイドのカードゲーム記事",
+      "GameWithの攻略ページ"
     ],
-    "answer": "最新情報セクションから",
-    "explanation": "2026年10月のニュースによると、「ONE PIECEカードゲーム 最新情報」という見出しで報じられているため、最新情報セクションからのアクセスが最も自然です。"
+    "answer": "one-piece.comのイベント情報セクション",
+    "explanation": "2026年10月のニュースによると、「【ONE PIECEカードゲーム 最新情報】イベント「ONE PIECEカードゲーム Heroines CUP -3on3-」が開催決定！ - one-piece.com」と報じられており、公式サイトの最新情報として公開されたことが分かります。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "自宅で遊べるリアル脱出ゲーム最新作『ゆるゆる生配信する推しは100万回死ぬ』がSteamオータムセールで25%OFFになったことについて、このニュースが提供されているNewscast.jpはどのような種類のメディアですか？",
+    "question": "2026年10月のニュースによると、Steamオータムセールで『ゆるゆる生配信する推しは100万回死ぬ』が25%OFFになったという情報が掲載されたNewscast.jpは、どのような性質のメディアプラットフォームですか？",
     "choices": [
-      "ゲーム専門誌",
+      "一般ニュースサイト",
+      "ゲーム専門サイト",
       "プレスリリース配信サイト",
-      "個人ブログ",
-      "SNSまとめサイト"
+      "ブログプラットフォーム"
     ],
     "answer": "プレスリリース配信サイト",
-    "explanation": "2026年10月のニュースによると、Newscast.jpは企業や団体がプレスリリースを配信するためのプラットフォームです。"
+    "explanation": "「Newscast.jp」はプレスリリース配信サービスであり、企業がニュースリリースを配信するプラットフォームです。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "「モンハンアセンダンス」の「攻略」情報がGameWithで提供されていることから、このゲームのジャンルとして最も可能性が高いのは何ですか？",
+    "question": "2026年10月のニュースによると、にじさんじの完全新作カードゲーム『NIJISANJI 7 Colors Card Game』の最新映像が公開されたことについて、Yahoo!ニュースが報じた記事の提供元はどこですか？",
     "choices": [
-      "パズルゲーム",
-      "RPG",
-      "アクションゲーム",
-      "シミュレーションゲーム"
+      "ファミ通.com",
+      "GAME Watch",
+      "インサイド",
+      "AppBank"
     ],
-    "answer": "RPG",
-    "explanation": "2026年10月のニュースによると、「モンハン」という名称から、RPG要素の強いアクションゲームまたはRPGである可能性が高いです。攻略情報が提供されるのは特にRPGやアクションRPGで一般的です。"
+    "answer": "インサイド",
+    "explanation": "2026年10月のニュースによると、「（インサイド） - Yahoo!ニュース」と報じられており、インサイドが提供元であることが分かります。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "「GUNDAM-Con2027 SIDE MAKUHARI」で新作アクションゲーム『GUNDAM ROGUE ORBIT』の最新情報が公開されると同時に、アニメ「機動戦士ガンダムRG XARX-ZERO」の神山健治監督と大塚剛央さんが登壇すると報じられたことから、このゲームとアニメの関係性として何が考えられますか？",
+    "question": "2026年10月のニュースによると、「東京ゲームショウ2026」の「開催目前！」を報じたGAME Watchの記事が言及した「最新出展情報や会場マップ」は、具体的に何のために公開されたと考えられますか？",
     "choices": [
-      "全くの無関係",
-      "ゲームがアニメのスピンオフ",
-      "アニメがゲームの原作または関連作品",
-      "ゲームとアニメが同時展開のオリジナル作品"
+      "開発者向けのPRのため",
+      "出展企業向けのガイドのため",
+      "来場者への情報提供のため",
+      "開催実績の記録のため"
     ],
-    "answer": "アニメがゲームの原作または関連作品",
-    "explanation": "2026年10月のニュースによると、新作ゲームの発表会で特定のガンダムアニメの監督と声優が登壇することから、ゲームがそのアニメの世界観を共有する、または関連する作品である可能性が高いです。"
+    "answer": "来場者への情報提供のため",
+    "explanation": "2026年10月のニュースによると、「開催目前！」というタイミングで来場者がスムーズにイベントを楽しめるよう、「最新出展情報や会場マップ」が公開されたと考えるのが自然です。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "「ポケモンウインド・ウェーブ」の発売日と最新情報がGameWithで「まとめ」として提供されていることから、このゲームがどのような段階にあると推測されますか？",
+    "question": "2026年6月2日のState of Playで発表された以下の情報のうち、ゲームタイトルと発表内容の組み合わせとして誤っているものはどれですか？",
     "choices": [
-      "発売済みで攻略情報がメイン",
-      "発売直前または発売初期段階",
-      "開発中止が決定",
-      "コンセプト発表のみ"
+      "『エースコンバット8』 - 発売日決定",
+      "『真・三國無双2』 - 紫鸞参戦",
+      "完全新作『鬼武者』 - 体験版配信",
+      "『時のオカリナリメイク』 - 発売日決定"
     ],
-    "answer": "発売直前または発売初期段階",
-    "explanation": "2026年10月のニュースによると、「発売日と最新情報まとめ」というタイトルから、発売が間近か、発売直後に情報が活発に更新されている段階だと推測されます。"
+    "answer": "『時のオカリナリメイク』 - 発売日決定",
+    "explanation": "2026年6月2日のニュースによると、『時のオカリナリメイク』はState of Playではなく、2026年6月9日のニンテンドーダイレクトの発表内容を受けて報じられています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "「東京ゲームショウ2026」の「開催目前！」のニュースで、「最新出展情報や会場マップなどが公開」とあることから、このイベントがどのような形式で実施されると推測できますか？",
+    "question": "2026年6月9日のニンテンドーダイレクトの発表内容まとめを報じたGAME Watch - Yahoo!ニュースの記事は、具体的にどのウェブサイトのニュースとして掲載されましたか？",
     "choices": [
-      "オンラインのみ",
-      "完全招待制",
-      "リアル会場での開催",
-      "VR空間での開催"
+      "GAME Watch公式サイト",
+      "Yahoo!ニュースのゲームカテゴリ",
+      "Yahoo!ニュースのGAME Watchセクション",
+      "インサイドのニュース"
     ],
-    "answer": "リアル会場での開催",
-    "explanation": "2026年10月のニュースによると、「会場マップ」が公開されていることから、物理的な会場での開催が前提であると推測されます。"
+    "answer": "Yahoo!ニュースのGAME Watchセクション",
+    "explanation": "2026年6月9日のニュースによると、「（GAME Watch） - Yahoo!ニュース」とあり、Yahoo!ニュース内でGAME Watchの提供する記事として掲載されたことが分かります。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "『Castlevania: Belmont’s Curse』の体験版のニュースで、「ひと足先に魔物はびこるパリへ」という表現が使われていることから、このゲームのジャンルとして最も可能性が高いのは何ですか？",
+    "question": "2026年10月のニュースによると、GameWithが「時のオカリナリメイクの発売日と最新情報」を報じた記事は、どのゲームの「リメイク」に関するものですか？",
     "choices": [
-      "恋愛シミュレーション",
-      "ホラーアドベンチャー",
-      "リズムゲーム",
-      "スポーツゲーム"
+      "ゼルダの伝説",
+      "時のオカリナ",
+      "ムジュラの仮面",
+      "夢をみる島"
     ],
-    "answer": "ホラーアドベンチャー",
-    "explanation": "2026年10月のニュースによると、「悪魔城ドラキュラ」シリーズであり、「魔物はびこるパリ」という描写から、ホラー要素のあるアクションアドベンチャー、またはRPGであることが推測されます。"
+    "answer": "時のオカリナ",
+    "explanation": "2026年10月のニュースによると、「時のオカリナリメイク」と明記されており、『時のオカリナ』のリメイクであることが分かります。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "「時のオカリナリメイク」の発売日と最新情報がGameWithで提供されていることから、このゲームがどのような段階にあると推測されますか？",
+    "question": "2026年10月のニュースによると、GameWithが「ポケモンウインド・ウェーブの発売日と最新情報まとめ｜ポケモン風波」を報じた記事の副題「ポケモン風波」は、どのような役割を持つと考えられますか？",
     "choices": [
-      "開発中止が決定",
-      "コンセプト発表のみ",
-      "発売直前または発売初期段階",
-      "発売済みで攻略情報がメイン"
+      "海外での正式名称",
+      "日本語での別名または愛称",
+      "ゲーム内の特殊用語",
+      "開発コードネーム"
     ],
-    "answer": "発売直前または発売初期段階",
-    "explanation": "2026年10月のニュースによると、「発売日と最新情報」というタイトルから、発売が間近か、発売直後に情報が活発に更新されている段階だと推測されます。"
+    "answer": "日本語での別名または愛称",
+    "explanation": "2026年10月のニュースによると、「ポケモンウインド・ウェーブの発売日と最新情報まとめ｜ポケモン風波」とあり、日本語での別名または愛称として用いられていると推測されます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 9,
-    "question": "「セブンナイツ リバース」の最新アップデート情報が「開発者ノート」という形式で公開されたことについて、この形式のメリットとして最も考えられることは何ですか？",
+    "question": "2026年10月のニュースによると、『TATSUJIN EXTREME』が「本日発売」と報じられたGAME Watchの記事は、このゲームをどのような位置づけとして紹介していますか？",
     "choices": [
-      "簡潔な情報伝達",
-      "開発の透明性の確保",
-      "ユーザーからの直接的な意見収集",
-      "マーケティング予算の削減"
+      "完全新作",
+      "リマスター版",
+      "シリーズ最新作",
+      "スピンオフ作品"
     ],
-    "answer": "開発の透明性の確保",
-    "explanation": "2026年10月のニュースによると、「開発者ノート」は通常、開発の裏側や意図を共有することで、ユーザーへの透明性を高める目的があります。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 9,
-    "question": "「東京ゲームショウ2026」の「開催目前！」のニュースで「最新出展情報や会場マップなどが公開」と報じられたことについて、この情報が公開された時期がイベントの「目前」であることの意図として、最も適切なものは何ですか？",
-    "choices": [
-      "来場者が直前に計画を立てられるようにするため",
-      "出展社が最終準備を整えるため",
-      "イベントの開催延期を伝えるため",
-      "前回のイベントとの比較を促すため"
-    ],
-    "answer": "来場者が直前に計画を立てられるようにするため",
-    "explanation": "2026年10月のニュースによると、「開催目前」に会場マップや出展情報が公開されるのは、来場者が効率的にイベントを楽しむための計画を立てられるようにするためと考えられます。"
+    "answer": "シリーズ最新作",
+    "explanation": "2026年10月のニュースによると、「シリーズ最新作「TATSUJIN EXTREME」本日発売」と明記されています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "『NIJISANJI 7 Colors Card Game』のニュースで、葛葉や剣持刀也、リゼ・ヘルエスタなどのテキストが公開された「最新映像」は、このゲームのどのような側面をユーザーにアピールしようとしていると考えられますか？",
+    "question": "2026年10月のニュースによると、「GUNDAM-Con2027 SIDE MAKUHARI」で新作アクションゲーム『GUNDAM ROGUE ORBIT』の最新情報が公開されると報じられましたが、このイベントの名称に含まれる「SIDE MAKUHARI」は、ガンダムシリーズの文脈でどのような意味合いを持つと考えられますか？",
     "choices": [
-      "ゲームのグラフィックの美しさ",
-      "ライバー個々の魅力とゲーム世界との融合",
-      "革新的なゲームシステム",
-      "対戦時の戦略の奥深さ"
+      "宇宙コロニーの名称",
+      "特定の勢力の呼称",
+      "開催場所を示す副題",
+      "イベントのテーマ"
     ],
-    "answer": "ライバー個々の魅力とゲーム世界との融合",
-    "explanation": "2026年10月のニュースによると、人気ライバーの「テキスト」が公開されたということは、彼らの個性や世界観がゲームにどのように組み込まれているかを強調し、ファンにアピールしていると考えられます。"
+    "answer": "開催場所を示す副題",
+    "explanation": "2026年10月のニュースによると、「GUNDAM-Con2027 SIDE MAKUHARI」とあり、幕張での開催を示す副題であると推測されます。ガンダムシリーズでは「SIDE」が宇宙コロニーの名称に使われることがありますが、ここでは具体的な場所を示しています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "「ONE PIECEカードゲーム Heroines CUP -3on3-」の開催決定に関するニュースが、ONE PIECE.comの「最新情報」セクションで公開されたことの意味合いとして、最も適切なものは何ですか？",
+    "question": "2026年10月のニュースによると、ONE PIECEカードゲームの「Heroines CUP -3on3-」の開催決定が報じられましたが、このイベントが「Heroines CUP」と名付けられた具体的な理由として最も適切と考えられるのはどれですか？",
     "choices": [
-      "このイベントがシリーズ全体の集大成であること",
-      "このイベントがONE PIECEカードゲームの今後の展開において重要であること",
-      "このイベントが期間限定の特別な企画であること",
-      "このイベントが初心者向けの入門イベントであること"
+      "主催者が女性であるため",
+      "女性プレイヤーのみ参加可能であるため",
+      "女性キャラクターカードに特化したルールが採用されるため",
+      "イベントのテーマカラーがピンクであるため"
     ],
-    "answer": "このイベントがONE PIECEカードゲームの今後の展開において重要であること",
-    "explanation": "2026年10月のニュースによると、「最新情報」として大々的に報じられていることから、単なるイベントではなく、今後のカードゲーム展開における重要な位置づけを持つと考えられます。"
+    "answer": "女性キャラクターカードに特化したルールが採用されるため",
+    "explanation": "2026年10月のニュースによると、「Heroines CUP」という名称から、女性キャラクターに焦点を当てた、あるいは女性キャラクターカードに特化したルールが採用されると考えるのが自然です。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "自宅で遊べるリアル脱出ゲーム最新作『ゆるゆる生配信する推しは100万回死ぬ』がSteamオータムセールで25%OFFになったことに関するNewscast.jpのニュースは、どのような読者を想定して書かれていると考えられますか？",
+    "question": "2026年10月のニュースによると、自宅で遊べるリアル脱出ゲーム『ゆるゆる生配信する推しは100万回死ぬ』がSteamオータムセールで25%OFFになったというニュースは、どのジャンルのゲームニュースに分類されますか？",
     "choices": [
-      "ゲーム業界の投資家",
-      "リアル脱出ゲームファンやSteamユーザー",
-      "ゲーム開発者",
-      "一般的なニュース読者"
+      "AAAタイトルの最新情報",
+      "モバイルゲームのイベント",
+      "インディーゲームのセール情報",
+      "コンソールゲームの発表"
     ],
-    "answer": "リアル脱出ゲームファンやSteamユーザー",
-    "explanation": "2026年10月のニュースによると、特定のゲームのセール情報であるため、そのゲームジャンルのファンや、Steamを日常的に利用するユーザーが主なターゲット読者と考えられます。"
+    "answer": "インディーゲームのセール情報",
+    "explanation": "2026年10月のニュースによると、「リアル脱出ゲーム最新作」であり、Steamでの販売、かつセール情報であることから、インディーゲームのセール情報として分類するのが最も適切です。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "「モンハンアセンダンス」の「攻略｜最新情報」がGameWithで提供されていることから、このゲームがどのようなビジネスモデルを採用している可能性が高いですか？",
+    "question": "2026年10月のニュースによると、にじさんじの完全新作カードゲーム『NIJISANJI 7 Colors Card Game』の最新映像が公開された際に言及された「葛葉や剣持刀也にリゼ・ヘルエスタなどのテキストも」という表現は、具体的に何を示唆していますか？",
     "choices": [
-      "買い切り型のコンシューマーゲーム",
-      "月額課金制のMMORPG",
-      "基本プレイ無料のスマホゲーム",
-      "サブスクリプション制のPCゲーム"
+      "ライバーがゲームのナレーションを担当すること",
+      "各ライバーの能力や特徴がカードテキストとして表現されていること",
+      "ライバーがゲームのストーリーに登場すること",
+      "ライバーのサインがカードに印刷されていること"
     ],
-    "answer": "基本プレイ無料のスマホゲーム",
-    "explanation": "2026年10月のニュースによると、GameWithのような攻略サイトで「攻略｜最新情報」が頻繁に更新されるタイトルは、長期運営型の基本プレイ無料のスマホゲームである可能性が高いです。"
+    "answer": "各ライバーの能力や特徴がカードテキストとして表現されていること",
+    "explanation": "2026年10月のニュースによると、「テキストも」という表現から、カードゲームにおけるキャラクターカードの能力やフレーバーテキストとして、各ライバーの特徴が表現されていると推測されます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "「GUNDAM-Con2027 SIDE MAKUHARI」で新作アクションゲーム『GUNDAM ROGUE ORBIT』の最新情報が公開されると同時に、アニメ「機動戦士ガンダムRG XARX-ZERO」の監督と声優が登壇すると報じられたことから、このゲームが目指すターゲット層として最も適切なものは何ですか？",
+    "question": "2026年10月のニュースによると、東京ゲームショウ2026の「開幕」を報じた埼玉新聞と、「開催目前！」として最新情報を公開したGAME Watchの記事は、それぞれ異なる時期の状況を報じていますが、この二つの報道の時系列として最も適切なのはどれですか？",
     "choices": [
-      "既存のガンダムファンと新規アクションゲームユーザー",
-      "子供向けのカジュアルゲームユーザー",
-      "女性向けの恋愛シミュレーションゲームユーザー",
-      "コアなシミュレーションゲームファン"
+      "埼玉新聞の記事が先行し、その後GAME Watchが報じた",
+      "GAME Watchの記事が先行し、その後埼玉新聞が報じた",
+      "両記事は同時に報じられた",
+      "時系列は不明"
     ],
-    "answer": "既存のガンダムファンと新規アクションゲームユーザー",
-    "explanation": "2026年10月のニュースによると、新作アクションゲームであり、ガンダムというIP、そしてアニメの主要人物が登壇することから、既存のガンダムファンに加え、アクションゲームを好む層をターゲットにしていると考えられます。"
+    "answer": "GAME Watchの記事が先行し、その後埼玉新聞が報じた",
+    "explanation": "2026年10月のニュースによると、「開催目前！」の情報公開が「開幕」の報道より先行する自然な時系列です。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "「ポケモンウインド・ウェーブ」の発売日と最新情報がGameWithで「まとめ」として提供されていることから、このゲームの情報の鮮度や更新頻度についてどのようなことが言えますか？",
+    "question": "2026年6月2日のState of Playで発表された『エースコンバット8』の「発売日決定」、『真・三國無双2』の「紫鸞参戦」、完全新作『鬼武者』の「体験版配信」という三つの発表のうち、最も具体的な日付情報が言及されたのはどの発表内容ですか？",
     "choices": [
-      "情報はほとんど更新されていない",
-      "情報は一定期間で凍結されている",
-      "情報は継続的に更新され、鮮度が高い",
-      "情報は過去のリリースに基づいてまとめられている"
+      "『エースコンバット8』",
+      "『真・三國無双2』",
+      "完全新作『鬼武者』",
+      "全て同じ程度の具体性"
     ],
-    "answer": "情報は継続的に更新され、鮮度が高い",
-    "explanation": "2026年10月のニュースによると、「最新情報まとめ」というタイトルは、情報が継続的に収集・更新され、鮮度を保っていることを示唆しています。"
+    "answer": "『エースコンバット8』",
+    "explanation": "2026年6月2日のニュースによると、『エースコンバット8』は「発売日決定」とあり、具体的な日付が決定したことが示されています。他の二つは参戦や配信の事実のみです。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "「東京ゲームショウ2026」の「開催目前！」のニュースで、「最新出展情報や会場マップなどが公開」とあることから、このイベントが提供しようとしている主要な価値は何だと推測できますか？",
+    "question": "2026年6月9日のニンテンドーダイレクトの発表内容まとめを報じたGAME Watch - Yahoo!ニュースの記事は、具体的にどのプラットフォームのゲームに関する情報が中心であったと推測されますか？",
     "choices": [
-      "レトロゲームの展示",
-      "新作ゲームの発表と体験機会",
-      "ゲーム業界の歴史の紹介",
-      "ゲーム開発技術の学術発表"
+      "PlayStationプラットフォーム",
+      "Xboxプラットフォーム",
+      "PCプラットフォーム",
+      "任天堂プラットフォーム"
     ],
-    "answer": "新作ゲームの発表と体験機会",
-    "explanation": "2026年10月のニュースによると、「最新出展情報」が公開されていることから、新作ゲームの発表や体験がイベントの主要な価値であると推測されます。"
+    "answer": "任天堂プラットフォーム",
+    "explanation": "2026年6月9日のニュースによると、「ニンテンドーダイレクト」という名称と、「時のオカリナリメイク」「ポケモンウインド・ウェーブ」というタイトルから、任天堂プラットフォームのゲーム情報が中心であると強く推測されます。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "『Castlevania: Belmont’s Curse』の体験版のニュースで、「ひと足先に魔物はびこるパリへ」という表現が使われていることと、Yahoo!ニュースの配信元がGame Sparkであることから、このゲームが想定するユーザー層の興味関心として何が最も考えられますか？",
+    "question": "2026年10月のニュースによると、GameWithが「時のオカリナリメイクの発売日と最新情報」を報じた記事は、このリメイク版がどのような形式で提供される可能性を示唆していますか？",
     "choices": [
-      "パリの観光情報",
-      "ゴシックホラーやアクションゲーム",
-      "歴史シミュレーション",
-      "フランス文化"
+      "スマートフォンアプリ",
+      "VR専用タイトル",
+      "新規パッケージまたはダウンロード販売",
+      "クラウドストリーミングサービス"
     ],
-    "answer": "ゴシックホラーやアクションゲーム",
-    "explanation": "2026年10月のニュースによると、『悪魔城ドラキュラ』シリーズであり、「魔物はびこる」という描写、そしてGame Sparkが報じていることから、ゴシックホラーやアクションゲームのファンが主なターゲット層と考えられます。"
+    "answer": "新規パッケージまたはダウンロード販売",
+    "explanation": "2026年10月のニュースによると、「発売日と最新情報」という表現は、一般的なゲームのリリース形態である新規パッケージまたはダウンロード販売を示唆しています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "「時のオカリナリメイク」の発売日と最新情報がGameWithで提供されていることから、このゲームに関するユーザーのどのようなニーズに応えようとしていると考えられますか？",
+    "question": "2026年10月のニュースによると、GameWithが「ポケモンウインド・ウェーブの発売日と最新情報まとめ｜ポケモン風波」を報じた記事のタイトルに含まれる「まとめ」という言葉は、具体的にどのような情報収集の形式を示唆していますか？",
     "choices": [
-      "過去のゲームの歴史的意義を知りたい",
-      "リメイク版の新しい要素や変更点を知りたい",
-      "ゲームの裏技やバグを探したい",
-      "ゲームの売上データを確認したい"
+      "開発者による公式発表のみ",
+      "ユーザーからのフィードバックのみ",
+      "複数の情報源から集約された情報",
+      "独占インタビュー記事"
     ],
-    "answer": "リメイク版の新しい要素や変更点を知りたい",
-    "explanation": "2026年10月のニュースによると、「発売日と最新情報」というタイトルは、リメイク版ならではの新規情報や変更点に対するユーザーの関心に応えようとしていると考えられます。"
+    "answer": "複数の情報源から集約された情報",
+    "explanation": "2026年10月のニュースによると、「まとめ」という言葉は、様々な発表やリーク情報をGameWithが独自に収集・整理して提供していることを示唆しています。"
   },
   {
     "category": "ゲーム",
     "difficulty": 10,
-    "question": "「ニンテンドーダイレクト 2026.6.9」の発表内容まとめがGAME Watchで報じられたことについて、この「まとめ」記事がユーザーに提供する主要な価値は何だと考えられますか？",
+    "question": "2026年10月のニュースによると、本日発売された『TATSUJIN EXTREME』の「本日発売」と「本作の魅力を紹介する最新PV公開」という二つの情報の関連性として最も適切なのはどれですか？",
     "choices": [
-      "ダイレクトの全貌を網羅的に把握できること",
-      "特定のゲームの深いレビュー",
-      "ゲーム開発の裏側",
-      "任天堂の企業戦略分析"
+      "PV公開後に発売日が決定された",
+      "発売と同時にプロモーション映像が公開された",
+      "発売前にPV公開が中止された",
+      "PVは発売とは無関係に公開された"
     ],
-    "answer": "ダイレクトの全貌を網羅的に把握できること",
-    "explanation": "2026年10月のニュースによると、「発表内容まとめ」というタイトルは、長時間のダイレクトの内容を簡潔に、かつ網羅的に把握したいユーザーのニーズに応えるものです。"
-  },
-  {
-    "category": "ゲーム",
-    "difficulty": 10,
-    "question": "「東京ゲームショウ2026」の開幕が埼玉新聞で報じられ、同時にGAME Watchでは「開催目前！最新出展情報や会場マップなどが公開」と報じられたことについて、これらの報道内容の違いから、各メディアが持つ役割の違いとして最も適切なものは何ですか？",
-    "choices": [
-      "埼玉新聞はイベントの経済効果、GAME Watchはゲーム産業の技術革新に焦点を当てている",
-      "埼玉新聞は地元への告知、GAME Watchはゲームファンへの詳細情報提供に焦点を当てている",
-      "埼玉新聞はイベントの歴史的背景、GAME Watchは将来的な展望に焦点を当てている",
-      "埼玉新聞はイベントの安全性、GAME Watchはゲーム業界全体のトレンドに焦点を当てている"
-    ],
-    "answer": "埼玉新聞は地元への告知、GAME Watchはゲームファンへの詳細情報提供に焦点を当てている",
-    "explanation": "2026年10月のニュースによると、埼玉新聞は「開幕」という事実を伝え、GAME Watchは「最新出展情報や会場マップ」という詳細情報を提供していることから、それぞれのメディアが異なる読者層と役割を持っていると推測されます。"
+    "answer": "発売と同時にプロモーション映像が公開された",
+    "explanation": "2026年10月のニュースによると、「本日発売。本作の魅力を紹介する最新PV公開」とあり、発売と同時にその魅力を伝えるプロモーション映像が公開されたと考えるのが最も適切です。"
   },
   {
     "category": "世界情勢",
