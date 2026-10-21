@@ -3096,2264 +3096,1302 @@
   {
     "category": "エンタテイメント",
     "difficulty": 1,
-    "question": "最新ニュースによると、日本のどこに地域特化型の音楽レーベルが誕生しましたか？",
+    "question": "2027年2月に上演がスタートする新エンターテイメントショーの名称は何ですか？",
     "choices": [
-      "A. 東京",
-      "B. 大阪",
-      "C. 金沢",
-      "D. 福岡"
+      "FIESTA DEL AMOR",
+      "FIESTA DEL ECLIPSE",
+      "FIESTA DEL SOL",
+      "FIESTA DEL CIELO"
     ],
-    "answer": "C. 金沢",
-    "explanation": "最新ニュースによると、金沢に地域特化型の音楽レーベルが誕生しました。"
+    "answer": "FIESTA DEL ECLIPSE",
+    "explanation": "最新のNewscast.jpの報道によると、新エンターテイメントショー「FIESTA DEL ECLIPSE」が2027年2月に上演スタートすると発表されました。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 1,
-    "question": "最新ニュースで活動中断を発表したグループの名前は何ですか？",
+    "question": "にじさんじから2026年10月22日に販売開始されるグッズの名称は何ですか？",
     "choices": [
-      "A. SEVENTEEN",
-      "B. TEMPEST",
-      "C. Stray Kids",
-      "D. ENHYPEN"
+      "Dreamy Doll",
+      "Sleepy Sheepy",
+      "Fantasy Friend",
+      "Starry Sky"
     ],
-    "answer": "B. TEMPEST",
-    "explanation": "最新ニュースによると、TEMPESTがグループ活動の中断を発表しました。"
+    "answer": "Sleepy Sheepy",
+    "explanation": "2026年10月の茨城新聞クロスアイの報道によると、にじさんじから「Sleepy Sheepy」グッズが2026年10月22日(木)18時から販売開始されます。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 1,
-    "question": "Appleが発表した、エンターテインメントと家を管理する新しい方法を提供する製品名は何ですか？",
+    "question": "Appleが発表した、エンターテインメントと家管理を融合する新しいサービスは何ですか？",
     "choices": [
-      "A. Apple Vision Pro",
-      "B. Apple HomeKit",
-      "C. Apple HomeView",
-      "D. Apple TV"
+      "Apple HomeHub",
+      "Apple HomeConnect",
+      "Apple HomeView",
+      "Apple HomeLife"
     ],
-    "answer": "C. Apple HomeView",
-    "explanation": "最新ニュースによると、Apple HomeViewがエンターテインメントを楽しみ、家を管理する新しい方法として登場しました。"
+    "answer": "Apple HomeView",
+    "explanation": "最新のAppleの発表によると、「Apple HomeView」はエンターテインメントを楽しみ、家を管理する新しい方法として登場しました。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 1,
-    "question": "SABU監督の最新作のタイトルは何ですか？",
+    "question": "「VOICE MONSTER」のビジュアルが公開され、モノクルをかけて不敵な笑みを見せている人物は誰ですか？",
     "choices": [
-      "A. 記憶の彼方",
-      "B. 記憶ゼロ",
-      "C. 記憶の断片",
-      "D. 記憶の迷宮"
+      "GACKT",
+      "hyde",
+      "西川貴教",
+      "DAIGO"
     ],
-    "answer": "B. 記憶ゼロ",
-    "explanation": "最新ニュースによると、鬼才SABU監督の最新作は『記憶ゼロ』です。"
+    "answer": "西川貴教",
+    "explanation": "最新のナタリーの報道によると、「VOICE MONSTER」のビジュアルが公開され、西川貴教がモノクルをかけて不敵な笑みを見せています。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 1,
-    "question": "コナミアーケードゲームスが、出展内容第1弾を発表したイベントは何ですか？",
+    "question": "A2Oエンターテインメントのビジョナリーリーダー兼キープロデューサーとして紹介されている人物は誰ですか？",
     "choices": [
-      "A. 東京ゲームショウ",
-      "B. AMUSEMENT EXPO 2026",
-      "C. ジャパンアミューズメントエキスポ",
-      "D. E3"
+      "パン・シヒョク",
+      "ヤン・ヒョンソク",
+      "イ・スマン",
+      "パク・ジニョン"
     ],
-    "answer": "B. AMUSEMENT EXPO 2026",
-    "explanation": "最新ニュースによると、コナミアーケードゲームスは「AMUSEMENT EXPO 2026」の出展内容第1弾を発表しました。"
+    "answer": "イ・スマン",
+    "explanation": "最新の時事ドットコムの報道によると、イ・スマン氏がA2Oエンターテインメントのビジョナリーリーダー兼キープロデューサーとして紹介されています。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 1,
+    "question": "鬼才SABU監督の最新作のタイトルは何ですか？",
+    "choices": [
+      "記憶の彼方",
+      "記憶の断片",
+      "記憶ゼロ",
+      "記憶の淵"
+    ],
+    "answer": "記憶ゼロ",
+    "explanation": "2026年10月時点のYahoo!ニュースの報道によると、鬼才SABU監督の最新作は『記憶ゼロ』です。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 1,
+    "question": "金沢に共同で地域特化音楽レーベルを設立するのは、ビクターエンタテインメントとどの企業ですか？",
+    "choices": [
+      "avex trax",
+      "CCIエンタベース",
+      "ソニー・ミュージックエンタテインメント",
+      "ユニバーサルミュージック"
+    ],
+    "answer": "CCIエンタベース",
+    "explanation": "最新のｄメニューニュースの報道によると、ビクターエンタテインメントとCCIエンタベースが金沢に地域特化音楽レーベルを共同設立しました。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 1,
+    "question": "東京湾海堡ツーリズム機構が予約受付中のイベントの名称は何ですか？",
+    "choices": [
+      "YOKOSUKA Summer Festival",
+      "YOKOSUKA Marine Party",
+      "YOKOSUKA Re:EM CLUB",
+      "YOKOSUKA Port Cruise"
+    ],
+    "answer": "YOKOSUKA Re:EM CLUB ～ENTERTAINMENT & MUSIC LIVE〜 CRUISING STAGE",
+    "explanation": "最新の東京湾海堡ツーリズム機構の発表によると、「YOKOSUKA Re:EM CLUB ～ENTERTAINMENT & MUSIC LIVE〜 CRUISING STAGE」が予約受付中です。"
+  },
+  {
+    "category": "エンタテイメント",
+    "difficulty": 1,
+    "question": "THE BOYZのメンバーであるニューが、専属契約を締結した新しい事務所の名称は何ですか？",
+    "choices": [
+      "STARSHIP ENTERTAINMENT",
+      "ONLY NEW ENTERTAINMENT",
+      "CUBE ENTERTAINMENT",
+      "YG ENTERTAINMENT"
+    ],
+    "answer": "ONLY NEW ENTERTAINMENT",
+    "explanation": "最新のKstyleの報道によると、THE BOYZのニューがONLY NEW ENTERTAINMENTと専属契約を締結しました。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 1,
     "question": "Sony Pictures Entertainmentが最新作品情報を公開した、米国映画業界最大級のイベントは何ですか？",
     "choices": [
-      "A. カンヌ国際映画祭",
-      "B. アカデミー賞",
-      "C. CinemaCon 2026",
-      "D. サンダンス映画祭"
+      "Cannes Film Festival",
+      "Sundance Film Festival",
+      "CinemaCon 2026",
+      "Academy Awards"
     ],
-    "answer": "C. CinemaCon 2026",
-    "explanation": "最新ニュースによると、Sony Pictures Entertainmentは米国映画業界最大級のイベント「CinemaCon 2026」で最新作品情報を公開しました。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 1,
-    "question": "U-NEXTと包括的戦略パートナーシップを締結した企業はどこですか？",
-    "choices": [
-      "A. Disney",
-      "B. Netflix",
-      "C. Warner Bros.",
-      "D. NBCUniversal"
-    ],
-    "answer": "D. NBCUniversal",
-    "explanation": "最新ニュースによると、U-NEXTとNBCUniversalが日本市場で包括的戦略パートナーシップを締結しました。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 1,
-    "question": "THE BOYZのメンバーである「ニュー」が専属契約を締結したエンターテインメント会社はどこですか？",
-    "choices": [
-      "A. SMエンターテインメント",
-      "B. JYPエンターテインメント",
-      "C. ONLY NEW ENTERTAINMENT",
-      "D. YGエンターテインメント"
-    ],
-    "answer": "C. ONLY NEW ENTERTAINMENT",
-    "explanation": "最新ニュースによると、THE BOYZのニューはONLY NEW ENTERTAINMENTと専属契約を締結しました。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 1,
-    "question": "最新ミステリー本特集の第4弾で取り上げられた、祖母が残したメッセージのテーマは何ですか？",
-    "choices": [
-      "A. 遺言状",
-      "B. 数え歌",
-      "C. 手紙",
-      "D. 日記"
-    ],
-    "answer": "B. 数え歌",
-    "explanation": "最新ニュースによると、最新ミステリー本特集（4）は「祖母が残した数え歌のメッセージ」をテーマにしています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 1,
-    "question": "「ドハツの日！」に大募集されているものは何ですか？",
-    "choices": [
-      "A. あなたの好きな映画ベスト10",
-      "B. あなたの怒髪天のベスト10",
-      "C. あなたの思い出の曲ベスト10",
-      "D. あなたの旅行先ベスト10"
-    ],
-    "answer": "B. あなたの怒髪天のベスト10",
-    "explanation": "最新ニュースによると、「ドハツの日！」では「あなたの怒髪天のベスト10」を大募集しています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 1,
-    "question": "「ドハツの日！」という企画を報じたメディアはどこですか？",
-    "choices": [
-      "A. Kstyle",
-      "B. Newscast.jp",
-      "C. 時事ドットコム",
-      "D. Yahoo!ニュース"
-    ],
-    "answer": "B. Newscast.jp",
-    "explanation": "最新ニュースによると、「ドハツの日！」の企画はNewscast.jpで報じられました。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 1,
-    "question": "金沢に誕生した新しい音楽レーベルは、どのようなタイプのレーベルとして紹介されていますか？",
-    "choices": [
-      "A. グローバル展開専門",
-      "B. 地域特化型",
-      "C. クラシック専門",
-      "D. 海外アーティスト専門"
-    ],
-    "answer": "B. 地域特化型",
-    "explanation": "最新ニュースによると、金沢に誕生したのは「地域特化」音楽レーベルです。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 1,
-    "question": "グループ活動中断を発表したTEMPESTのメンバーが直面している状況の一つは何ですか？",
-    "choices": [
-      "A. 新規グループ結成",
-      "B. 契約終了",
-      "C. 海外留学",
-      "D. ソロデビュー"
-    ],
-    "answer": "B. 契約終了",
-    "explanation": "最新ニュースによると、TEMPESTの活動中断理由の一つはメンバーの契約終了です。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 1,
-    "question": "イ・スマン氏がキープロデューサーを務めるエンターテインメント会社は何ですか？",
-    "choices": [
-      "A. JYPエンターテインメント",
-      "B. A2Oエンターテインメント",
-      "C. HYBE",
-      "D. YGエンターテインメント"
-    ],
-    "answer": "B. A2Oエンターテインメント",
-    "explanation": "最新ニュースによると、イ・スマン氏はA2Oエンターテインメントのキープロデューサーです。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 1,
-    "question": "SABU監督の最新作『記憶ゼロ』は、どのようなタイプのエンターテインメントとして紹介されていますか？",
-    "choices": [
-      "A. 静かなドラマ",
-      "B. ノンストップ・エンターテインメント",
-      "C. 恋愛コメディ",
-      "D. ドキュメンタリー"
-    ],
-    "answer": "B. ノンストップ・エンターテインメント",
-    "explanation": "最新ニュースによると、SABU監督最新作『記憶ゼロ』はノンストップ・エンターテインメントです。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 1,
-    "question": "「YOKOSUKA Re:EM CLUB」のイベントは、どのような形式のステージですか？",
-    "choices": [
-      "A. 野外ステージ",
-      "B. クルージングステージ",
-      "C. 劇場ステージ",
-      "D. オンラインステージ"
-    ],
-    "answer": "B. クルージングステージ",
-    "explanation": "最新ニュースによると、「YOKOSUKA Re:EM CLUB」はクルージングステージです。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 1,
-    "question": "千葉テレビ放送の「ザッツエンターテイメント」で特集された本のジャンルは何ですか？",
-    "choices": [
-      "A. 料理本",
-      "B. 旅行ガイド",
-      "C. ミステリー本",
-      "D. 科学雑誌"
-    ],
-    "answer": "C. ミステリー本",
-    "explanation": "最新ニュースによると、「ザッツエンターテイメント」で最新ミステリー本特集が組まれました。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 1,
-    "question": "「AMUSEMENT EXPO 2026」で出展内容第1弾を発表したのはどの企業ですか？",
-    "choices": [
-      "A. 任天堂",
-      "B. ソニー",
-      "C. コナミアーケードゲームス",
-      "D. セガ"
-    ],
-    "answer": "C. コナミアーケードゲームス",
-    "explanation": "最新ニュースによると、コナミアーケードゲームスが「AMUSEMENT EXPO 2026」の出展内容第1弾を発表しました。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 1,
-    "question": "小栗旬が24歳上の有名俳優を呼び捨てにしていたと明かしたメディアはどこですか？",
-    "choices": [
-      "A. Kstyle",
-      "B. スポニチ Sponichi Annex",
-      "C. 時事ドットコム",
-      "D. Newscast.jp"
-    ],
-    "answer": "B. スポニチ Sponichi Annex",
-    "explanation": "最新ニュースによると、小栗旬の発言はスポニチ Sponichi Annexで報じられました。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 1,
-    "question": "Sony Pictures Entertainmentが最新作品情報を公開したイベントの開催年はいつですか？",
-    "choices": [
-      "A. 2024年",
-      "B. 2025年",
-      "C. 2026年",
-      "D. 2027年"
-    ],
-    "answer": "C. 2026年",
-    "explanation": "最新ニュースによると、Sony Pictures Entertainmentが最新作品情報を公開したのは「CinemaCon 2026」です。"
+    "answer": "CinemaCon 2026",
+    "explanation": "2026年のSonyの発表によると、Sony Pictures Entertainmentは米国映画業界最大級のイベント「CinemaCon 2026」で最新作品情報を公開しました。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 2,
-    "question": "金沢に誕生した地域特化型音楽レーベルを共同設立したのは、どの2社ですか？",
+    "question": "新エンターテイメントショー「FIESTA DEL ECLIPSE」の上演開始時期として、最新のニュースで報じられているのはいつですか？",
     "choices": [
-      "A. ソニーミュージックとエイベックス",
-      "B. ユニバーサルミュージックとワーナーミュージック",
-      "C. ビクターエンタテインメントとCCIエンタベース",
-      "D. ポニーキャニオンとキングレコード"
+      "2026年12月",
+      "2027年1月",
+      "2027年2月",
+      "2027年3月"
     ],
-    "answer": "C. ビクターエンタテインメントとCCIエンタベース",
-    "explanation": "最新ニュースによると、ビクターエンタテインメントとCCIエンタベースが金沢の地域特化型音楽レーベルを共同設立しました。"
+    "answer": "2027年2月",
+    "explanation": "最新のNewscast.jpの報道によると、新エンターテイメントショー「FIESTA DEL ECLIPSE」は2027年2月に上演スタート予定です。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 2,
-    "question": "TEMPESTがグループ活動中断を発表した主な理由として、最新ニュースで挙げられているのは何ですか？",
+    "question": "にじさんじから販売される「Sleepy Sheepy」グッズの販売開始日時として、最新のニュースで報じられているのはいつですか？",
     "choices": [
-      "A. メンバー間の不和",
-      "B. メンバーの契約終了と入隊",
-      "C. 健康上の問題",
-      "D. 新規アルバム制作の遅延"
+      "2026年10月21日(水)18時",
+      "2026年10月22日(木)18時",
+      "2026年10月23日(金)18時",
+      "2026年10月24日(土)18時"
     ],
-    "answer": "B. メンバーの契約終了と入隊",
-    "explanation": "最新ニュースによると、TEMPESTのグループ活動中断の理由は、メンバーの契約終了と入隊です。"
+    "answer": "2026年10月22日(木)18時",
+    "explanation": "2026年10月の茨城新聞クロスアイの報道によると、にじさんじの「Sleepy Sheepy」グッズは2026年10月22日(木)18時から販売開始されます。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 2,
-    "question": "日経会社情報DIGITALで最新ニュースが報じられた、株価情報が提供されているエンターテインメント企業は何ですか？",
+    "question": "Appleが新たに発表した「Apple HomeView」は、エンターテインメントとどのような要素を融合させるサービスですか？",
     "choices": [
-      "A. ソニー・エンタテインメント",
-      "B. ライブ・ネイション・エンターテーメント",
-      "C. ユニバーサル・エンターテインメント",
-      "D. ウォルト・ディズニー・カンパニー"
+      "健康管理",
+      "学習支援",
+      "家管理",
+      "交通情報"
     ],
-    "answer": "B. ライブ・ネイション・エンターテーメント",
-    "explanation": "最新ニュースによると、日経会社情報DIGITALではライブ・ネイション・エンターテーメントの株価最新ニュースが報じられています。"
+    "answer": "家管理",
+    "explanation": "最新のAppleの発表によると、「Apple HomeView」はエンターテインメントを楽しみ、家を管理する新しい方法を提供します。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 2,
-    "question": "A2Oエンターテインメントのビジョナリーリーダー兼キープロデューサーであると報じられた人物は誰ですか？",
+    "question": "西川貴教がモノクルをかけて不敵な笑みを見せるビジュアルが公開されたプロジェクトの名称は何ですか？",
     "choices": [
-      "A. パク・ジニョン",
-      "B. イ・スマン",
-      "C. ヤン・ヒョンソク",
-      "D. パン・シヒョク"
+      "SOUND MASTER",
+      "VOICE MONSTER",
+      "MUSIC LEGEND",
+      "RHYTHM KING"
     ],
-    "answer": "B. イ・スマン",
-    "explanation": "最新ニュースによると、イ・スマン氏がA2Oエンターテインメントのビジョナリーリーダー兼キープロデューサーです。"
+    "answer": "VOICE MONSTER",
+    "explanation": "最新のナタリーの報道によると、西川貴教がビジュアルを公開したのは「VOICE MONSTER」というプロジェクトです。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 2,
-    "question": "SABU監督の最新作『記憶ゼロ』は、どこでオールロケを敢行しましたか？",
+    "question": "時事ドットコムの報道によると、イ・スマン氏はA2Oエンターテインメントでどのような役職に就いていますか？",
     "choices": [
-      "A. 日本",
-      "B. 韓国",
-      "C. 台湾",
-      "D. タイ"
+      "CEO兼CFO",
+      "マーケティング部長",
+      "ビジョナリーリーダー兼キープロデューサー",
+      "広報担当マネージャー"
     ],
-    "answer": "C. 台湾",
-    "explanation": "最新ニュースによると、SABU監督の最新作『記憶ゼロ』は台湾でオールロケを敢行しました。"
+    "answer": "ビジョナリーリーダー兼キープロデューサー",
+    "explanation": "最新の時事ドットコムの報道によると、イ・スマン氏はA2Oエンターテインメントのビジョナリーリーダー兼キープロデューサーです。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 2,
-    "question": "東京湾海堡ツーリズム機構が予約受付を開始したイベントの名称は何ですか？",
+    "question": "鬼才SABU監督の最新作『記憶ゼロ』が属するエンターテイメントのジャンルとして、最新のニュースで紹介されているのは何ですか？",
     "choices": [
-      "A. TOKYO BAY LIVE FESTA",
-      "B. YOKOSUKA Re:EM CLUB CRUISING STAGE",
-      "C. BAY AREA MUSIC CRUISE",
-      "D. YOKOHAMA ENTERTAINMENT BOAT"
+      "ヒューマンドラマ",
+      "SFサスペンス",
+      "ノンストップ・エンターテインメント",
+      "歴史ロマンス"
     ],
-    "answer": "B. YOKOSUKA Re:EM CLUB CRUISING STAGE",
-    "explanation": "最新ニュースによると、東京湾海堡ツーリズム機構は「YOKOSUKA Re:EM CLUB ～ENTERTAINMENT & MUSIC LIVE〜 CRUISING STAGE」の予約受付を開始しました。"
+    "answer": "ノンストップ・エンターテインメント",
+    "explanation": "2026年10月時点のYahoo!ニュースの報道によると、SABU監督最新作『記憶ゼロ』はノンストップ・エンターテインメントとされています。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 2,
-    "question": "最新ニュースで小栗旬が、24歳上の有名俳優について20代の頃にどのような関係だったと明かしましたか？",
+    "question": "金沢に地域特化音楽レーベルを共同設立した企業の一つはビクターエンタテインメントですが、もう一つは何ですか？",
     "choices": [
-      "A. ずっと師事していた",
-      "B. ずっとライバルだった",
-      "C. ずっと食わせていた",
-      "D. ずっと共演していた"
+      "ポニーキャニオン",
+      "キングレコード",
+      "CCIエンタベース",
+      "テイチクエンタテインメント"
     ],
-    "answer": "C. ずっと食わせていた",
-    "explanation": "最新ニュースによると、小栗旬は24歳上の有名俳優について、20代の頃「ずっと食わせていましたね」と明かしました。"
+    "answer": "CCIエンタベース",
+    "explanation": "最新のｄメニューニュースの報道によると、ビクターエンタテインメントとCCIエンタベースが金沢に地域特化音楽レーベルを共同設立しました。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 2,
-    "question": "日本の子供向けエンターテインメント施設市場に関するレポートがカバーする期間はいつからいつまでですか？",
+    "question": "YOKOSUKA Re:EM CLUB ～ENTERTAINMENT & MUSIC LIVE〜 CRUISING STAGEのイベント形式として、最新のニュースで紹介されているのは何ですか？",
     "choices": [
-      "A. 2020年～2025年",
-      "B. 2024年～2030年",
-      "C. 2026年～2034年",
-      "D. 2025年～2032年"
+      "アリーナコンサート",
+      "オンライン配信",
+      "クルージングステージ",
+      "フェスティバル"
     ],
-    "answer": "C. 2026年～2034年",
-    "explanation": "最新ニュースによると、日本の子供向けエンターテインメント施設市場のレポートは2026年～2034年の展望をカバーしています。"
+    "answer": "クルージングステージ",
+    "explanation": "最新の東京湾海堡ツーリズム機構の発表によると、「YOKOSUKA Re:EM CLUB」はクルージングステージ形式で開催されます。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 2,
-    "question": "U-NEXTとNBCUniversalが締結したパートナーシップは、日本市場においてどのような目的を持っていますか？",
+    "question": "ONLY NEW ENTERTAINMENTと専属契約を締結し、新プロフィール写真を公開したTHE BOYZのメンバーは誰ですか？",
     "choices": [
-      "A. 海外市場でのみ事業を展開する",
-      "B. 映画配給に特化する",
-      "C. 新たなエンターテイメント経済圏の創出",
-      "D. テレビ番組の共同制作のみを行う"
+      "サンヨン",
+      "ジェイコブ",
+      "ニュー",
+      "ヒョンジェ"
     ],
-    "answer": "C. 新たなエンターテイメント経済圏の創出",
-    "explanation": "最新ニュースによると、U-NEXTとNBCUniversalのパートナーシップは、新たなエンターテイメント経済圏の創出を目的としています。"
+    "answer": "ニュー",
+    "explanation": "最新のKstyleの報道によると、THE BOYZのニューがONLY NEW ENTERTAINMENTと専属契約を締結し、新プロフィール写真を公開しました。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 2,
-    "question": "THE BOYZのニューがONLY NEW ENTERTAINMENTと契約を締結した後、公開されたものは何ですか？",
+    "question": "2026年に開催された「CinemaCon 2026」で、最新作品情報を一挙に公開したエンターテイメント企業はどこですか？",
     "choices": [
-      "A. デビュー曲",
-      "B. 新プロフィール写真",
-      "C. ファンクラブ名",
-      "D. 新しいグループ名"
+      "Warner Bros. Entertainment",
+      "Universal Pictures",
+      "Paramount Pictures",
+      "Sony Pictures Entertainment"
     ],
-    "answer": "B. 新プロフィール写真",
-    "explanation": "最新ニュースによると、ニューはONLY NEW ENTERTAINMENTと専属契約を締結後、新プロフィール写真を公開しました。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 2,
-    "question": "「ドハツの日！」で募集されている「怒髪天のベスト10」は、どのような内容のランキングですか？",
-    "choices": [
-      "A. 怒りを感じた出来事のトップ10",
-      "B. 好きな髪型トップ10",
-      "C. 好きなキャラクターのトップ10",
-      "D. 好きなゲームのトップ10"
-    ],
-    "answer": "A. 怒りを感じた出来事のトップ10",
-    "explanation": "最新ニュースによると、「怒髪天のベスト10」は、怒りを感じた出来事のランキングと解釈できます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 2,
-    "question": "金沢に誕生した地域特化型音楽レーベルで、総合音楽プロデューサーに就任した小野武正氏が所属するバンドは何ですか？",
-    "choices": [
-      "A. ONE OK ROCK",
-      "B. KEYTALK",
-      "C. BUMP OF CHICKEN",
-      "D. back number"
-    ],
-    "answer": "B. KEYTALK",
-    "explanation": "最新ニュースによると、総合音楽プロデューサーに就任した小野武正氏はKEYTALKのメンバーです。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 2,
-    "question": "グループ活動中断を発表したTEMPESTのメンバーが直面している状況のもう一つは何ですか？",
-    "choices": [
-      "A. 結婚",
-      "B. 入隊",
-      "C. 学業専念",
-      "D. 移籍"
-    ],
-    "answer": "B. 入隊",
-    "explanation": "最新ニュースによると、TEMPESTの活動中断理由の一つはメンバーの入隊です。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 2,
-    "question": "ライブ・ネイション・エンターテーメントの株価最新ニュースが掲載されているメディアはどこですか？",
-    "choices": [
-      "A. Kstyle",
-      "B. 日本経済新聞",
-      "C. Newscast.jp",
-      "D. スポニチ Sponichi Annex"
-    ],
-    "answer": "B. 日本経済新聞",
-    "explanation": "最新ニュースによると、ライブ・ネイション・エンターテーメントの株価最新ニュースは日本経済新聞で報じられています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 2,
-    "question": "Apple HomeViewは、どのような企業が発表した新しいサービスですか？",
-    "choices": [
-      "A. Google",
-      "B. Microsoft",
-      "C. Apple",
-      "D. Samsung"
-    ],
-    "answer": "C. Apple",
-    "explanation": "最新ニュースによると、Apple HomeViewはAppleが発表しました。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 2,
-    "question": "A2Oエンターテインメントのイ・スマン氏の役職の一つである「ビジョナリーリーダー」とは、どのような役割を指しますか？",
-    "choices": [
-      "A. 財務担当",
-      "B. 広報担当",
-      "C. 会社の未来像を描く指導者",
-      "D. 現場の営業担当"
-    ],
-    "answer": "C. 会社の未来像を描く指導者",
-    "explanation": "最新ニュースによると、イ・スマン氏はA2Oエンターテインメントのビジョナリーリーダーであり、会社の未来像を描く指導者としての役割を担っています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 2,
-    "question": "SABU監督の最新作『記憶ゼロ』の公開予定時期はいつですか？",
-    "choices": [
-      "A. 今年の冬",
-      "B. 来年初夏",
-      "C. 来年秋",
-      "D. 再来年"
-    ],
-    "answer": "B. 来年初夏",
-    "explanation": "最新ニュースによると、SABU監督最新作『記憶ゼロ』は来年初夏公開予定です。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 2,
-    "question": "「YOKOSUKA Re:EM CLUB」のイベントは、どのようなジャンルのライブですか？",
-    "choices": [
-      "A. お笑いライブ",
-      "B. ENTERTAINMENT & MUSIC LIVE",
-      "C. 演劇ライブ",
-      "D. ダンスパフォーマンス"
-    ],
-    "answer": "B. ENTERTAINMENT & MUSIC LIVE",
-    "explanation": "最新ニュースによると、「YOKOSUKA Re:EM CLUB」はENTERTAINMENT & MUSIC LIVEです。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 2,
-    "question": "千葉テレビ放送の「ザッツエンターテイメント」で特集された最新ミステリー本特集の回数は何回目ですか？",
-    "choices": [
-      "A. 1回目",
-      "B. 2回目",
-      "C. 3回目",
-      "D. 4回目"
-    ],
-    "answer": "D. 4回目",
-    "explanation": "最新ニュースによると、特集は（4）と記載されており、4回目です。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 2,
-    "question": "日本の子供向けエンターテインメント施設市場に関するレポートで言及されている、主要な分析項目の一つは何ですか？",
-    "choices": [
-      "A. 政治情勢",
-      "B. 市場規模",
-      "C. 天候予測",
-      "D. 株式市場の動向"
-    ],
-    "answer": "B. 市場規模",
-    "explanation": "最新ニュースによると、日本の子供向けエンターテインメント施設市場のレポートは市場規模、シェア、消費者需要、成長機会、主要企業、および展望をカバーしています。"
+    "answer": "Sony Pictures Entertainment",
+    "explanation": "2026年のSonyの発表によると、Sony Pictures Entertainmentが「CinemaCon 2026」で最新作品情報を一挙に公開しました。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 3,
-    "question": "金沢に新設された地域特化型音楽レーベルの総合音楽プロデューサーに就任したのは誰ですか？",
+    "question": "新エンターテイメントショー「FIESTA DEL ECLIPSE」の主な特徴として、最新のニュースで報じられているのは次のうちどれですか？",
     "choices": [
-      "A. 川谷絵音",
-      "B. 小野武正 (KEYTALK)",
-      "C. 中田ヤスタカ",
-      "D. つんく♂"
+      "AR技術を駆使したVR体験",
+      "観客参加型ミュージカル",
+      "演出の幅を広げた新たなステージ導入",
+      "歴史的建造物での上演"
     ],
-    "answer": "B. 小野武正 (KEYTALK)",
-    "explanation": "最新ニュースによると、KEYTALKの小野武正氏が金沢の地域特化型音楽レーベルの総合音楽プロデューサーに就任しました。"
+    "answer": "演出の幅を広げた新たなステージ導入",
+    "explanation": "最新のNewscast.jpの報道によると、「FIESTA DEL ECLIPSE」は演出の幅を広げた新たなステージを導入しています。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 3,
-    "question": "Apple HomeViewの主な機能として挙げられているのは、エンターテインメントを楽しむことと、もう一つは何ですか？",
+    "question": "2026年10月22日18時から「Sleepy Sheepy」グッズの販売を開始するのは、どのVTuberグループですか？",
     "choices": [
-      "A. 仕事を管理する",
-      "B. 家を管理する",
-      "C. 健康を管理する",
-      "D. 交通を管理する"
+      "ホロライブ",
+      "にじさんじ",
+      "ぶいすぽっ！",
+      "あおぎり高校"
     ],
-    "answer": "B. 家を管理する",
-    "explanation": "最新ニュースによると、Apple HomeViewはエンターテインメントを楽しみ、家を管理する新しい方法を提供します。"
+    "answer": "にじさんじ",
+    "explanation": "2026年10月の茨城新聞クロスアイの報道によると、にじさんじから「Sleepy Sheepy」グッズが2026年10月22日(木)18時から販売開始されます。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 3,
-    "question": "A2Oエンターテインメントにおけるイ・スマン氏の役職は何ですか？",
+    "question": "最新のニュースによると、Appleが新たに提供を開始した「Apple HomeView」の提供元はどこですか？",
     "choices": [
-      "A. CEO兼CFO",
-      "B. マーケティング部長",
-      "C. ビジョナリーリーダー兼キープロデューサー",
-      "D. 広報担当マネージャー"
+      "Google",
+      "Amazon",
+      "Microsoft",
+      "Apple"
     ],
-    "answer": "C. ビジョナリーリーダー兼キープロデューサー",
-    "explanation": "最新ニュースによると、イ・スマン氏はA2Oエンターテインメントのビジョナリーリーダー兼キープロデューサーです。"
+    "answer": "Apple",
+    "explanation": "最新のAppleの発表によると、「Apple HomeView」はAppleによって提供されます。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 3,
-    "question": "SABU監督最新作『記憶ゼロ』は、どのような特徴を持つエンターテインメントとして紹介されていますか？",
+    "question": "ナタリーの報道によると、西川貴教がビジュアルを公開した「VOICE MONSTER」で、彼が身につけている特徴的なアイテムは何ですか？",
     "choices": [
-      "A. ヒューマンドラマ",
-      "B. ノンストップ・エンターテインメント",
-      "C. ドキュメンタリー",
-      "D. ロマンチックコメディ"
+      "ハット",
+      "モノクル",
+      "マント",
+      "グローブ"
     ],
-    "answer": "B. ノンストップ・エンターテインメント",
-    "explanation": "最新ニュースによると、SABU監督最新作『記憶ゼロ』はノンストップ・エンターテインメントと紹介されています。"
+    "answer": "モノクル",
+    "explanation": "最新のナタリーの報道によると、西川貴教は「VOICE MONSTER」のビジュアルでモノクルをかけて不敵な笑みを見せています。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 3,
-    "question": "YOKOSUKA Re:EM CLUB CRUISING STAGEのイベントの種類は何ですか？",
+    "question": "時事ドットコムの報道によると、イ・スマン氏のA2Oエンターテインメントにおける役職の具体的な内容は「ビジョナリーリーダー」と何ですか？",
     "choices": [
-      "A. スポーツイベント",
-      "B. ファッションショー",
-      "C. ENTERTAINMENT & MUSIC LIVE",
-      "D. 映画上映会"
+      "最高執行責任者",
+      "財務部長",
+      "キープロデューサー",
+      "マーケティングディレクター"
     ],
-    "answer": "C. ENTERTAINMENT & MUSIC LIVE",
-    "explanation": "最新ニュースによると、YOKOSUKA Re:EM CLUB CRUISING STAGEはENTERTAINMENT & MUSIC LIVEです。"
+    "answer": "キープロデューサー",
+    "explanation": "最新の時事ドットコムの報道によると、イ・スマン氏はA2Oエンターテインメントのビジョナリーリーダー兼キープロデューサーです。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 3,
-    "question": "千葉テレビ放送株式会社の「ザッツエンターテインメント」で特集されたのは、どのようなジャンルの本ですか？",
+    "question": "SABU監督の最新作『記憶ゼロ』のオールロケ地として、最新のニュースで報じられているのはどこですか？",
     "choices": [
-      "A. 恋愛小説",
-      "B. 科学解説書",
-      "C. 最新ミステリー本",
-      "D. 料理本"
+      "韓国",
+      "中国",
+      "台湾",
+      "日本"
     ],
-    "answer": "C. 最新ミステリー本",
-    "explanation": "最新ニュースによると、「ザッツエンターテイメント」で最新ミステリー本特集が組まれました。"
+    "answer": "台湾",
+    "explanation": "2026年10月時点のYahoo!ニュースの報道によると、SABU監督最新作『記憶ゼロ』は台湾オールロケ敢行とされています。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 3,
-    "question": "コナミアーケードゲームスが「AMUSEMENT EXPO 2026」で発表したのは、出展内容の何弾目ですか？",
+    "question": "金沢に誕生した地域特化音楽レーベルの総合音楽プロデューサーに就任したのは誰ですか？",
     "choices": [
-      "A. 第1弾",
-      "B. 第2弾",
-      "C. 第3弾",
-      "D. 最終弾"
+      "Official髭男dism・藤原聡",
+      "KEYTALK・小野武正",
+      "YOASOBI・Ayase",
+      "Mrs. GREEN APPLE・大森元貴"
     ],
-    "answer": "A. 第1弾",
-    "explanation": "最新ニュースによると、コナミアーケードゲームスは「AMUSEMENT EXPO 2026」の出展内容第1弾を発表しました。"
+    "answer": "KEYTALK・小野武正",
+    "explanation": "最新のｄメニューニュースの報道によると、金沢に誕生した地域特化音楽レーベルの総合音楽プロデューサーにはKEYTALK・小野武正氏が就任しました。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 3,
-    "question": "小栗旬が、24歳上の有名俳優を呼び捨てにしていたと明かしたのは、自身のどの年代の頃についてですか？",
+    "question": "YOKOSUKA Re:EM CLUB ～ENTERTAINMENT & MUSIC LIVE〜 CRUISING STAGEの現在の状況として、最新のニュースで報じられているのは何ですか？",
     "choices": [
-      "A. 10代の頃",
-      "B. 20代の頃",
-      "C. 30代の頃",
-      "D. 40代の頃"
+      "公演延期",
+      "チケット完売",
+      "予約受付中",
+      "開催中止"
     ],
-    "answer": "B. 20代の頃",
-    "explanation": "最新ニュースによると、小栗旬は20代の頃に24歳上の有名俳優を呼び捨てにしていたと明かしました。"
+    "answer": "予約受付中",
+    "explanation": "最新の東京湾海堡ツーリズム機構の発表によると、「YOKOSUKA Re:EM CLUB」は現在予約受付中です。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 3,
-    "question": "U-NEXTとNBCUniversalのパートナーシップの範囲に含まれないものは何ですか？",
+    "question": "Kstyleの報道によると、THE BOYZのニューがONLY NEW ENTERTAINMENTと専属契約を締結した後、新たに公開された情報は何ですか？",
     "choices": [
-      "A. ストリーミング",
-      "B. テーマパーク",
-      "C. 日本コンテンツのグローバル展開",
-      "D. 自動車製造"
+      "新曲リリース情報",
+      "ワールドツアー日程",
+      "新プロフィール写真",
+      "ファンミーティング開催"
     ],
-    "answer": "D. 自動車製造",
-    "explanation": "最新ニュースによると、U-NEXTとNBCUniversalのパートナーシップの範囲は、ストリーミング、テーマパーク、日本コンテンツのグローバル展開までです。"
+    "answer": "新プロフィール写真",
+    "explanation": "最新のKstyleの報道によると、THE BOYZのニューはONLY NEW ENTERTAINMENTと専属契約を締結し、新プロフィール写真を公開しました。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 3,
-    "question": "「ドハツの日！」の企画は、どのメディアで報じられましたか？",
+    "question": "2026年に開催された「CinemaCon 2026」は、どのような業界で最大級のイベントとして紹介されていますか？",
     "choices": [
-      "A. Kstyle",
-      "B. 時事ドットコム",
-      "C. Newscast.jp",
-      "D. スポニチ Sponichi Annex"
+      "音楽業界",
+      "ゲーム業界",
+      "米国映画業界",
+      "アニメ業界"
     ],
-    "answer": "C. Newscast.jp",
-    "explanation": "最新ニュースによると、「ドハツの日！」の企画はNewscast.jpで報じられました。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 3,
-    "question": "「ドハツの日！」という企画は、どのような目的で「怒髪天のベスト10」を募集していると考えられますか？",
-    "choices": [
-      "A. 怒りをテーマにした創作活動の奨励",
-      "B. 一般の人々の感情や関心を調査するため",
-      "C. 怒りを鎮める方法を共有するため",
-      "D. 怒りに関する学術研究のため"
-    ],
-    "answer": "B. 一般の人々の感情や関心を調査するため",
-    "explanation": "最新ニュースによると、「ドハツの日！」が「怒髪天のベスト10」を募集していることから、一般の人々の感情や関心を調査する目的と推測されます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 3,
-    "question": "金沢に地域特化音楽レーベルが誕生したニュースは、どのメディアで報じられましたか？",
-    "choices": [
-      "A. Kstyle",
-      "B. ｄメニューニュース",
-      "C. Newscast.jp",
-      "D. 時事ドットコム"
-    ],
-    "answer": "B. ｄメニューニュース",
-    "explanation": "最新ニュースによると、金沢の音楽レーベル誕生のニュースはｄメニューニュースで報じられました。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 3,
-    "question": "TEMPESTの活動中断理由である「メンバーが契約終了・入隊へ」は、K-POP業界でどのような課題を象徴していますか？",
-    "choices": [
-      "A. グループの解散が頻繁に起こること",
-      "B. メンバーの兵役義務と契約更新による活動継続の難しさ",
-      "C. 海外プロモーションの失敗",
-      "D. 新人グループのデビュー数の減少"
-    ],
-    "answer": "B. メンバーの兵役義務と契約更新による活動継続の難しさ",
-    "explanation": "最新ニュースによると、TEMPESTの活動中断理由が「メンバーが契約終了・入隊へ」であることから、メンバーの兵役義務と契約更新による活動継続の難しさを象徴していると考えられます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 3,
-    "question": "ライブ・ネイション・エンターテーメントの株価情報が掲載されている日経会社情報DIGITALは、どのような種類の情報を提供していますか？",
-    "choices": [
-      "A. 芸能ゴシップ",
-      "B. 専門的な企業情報や経済ニュース",
-      "C. スポーツニュース",
-      "D. ファッション情報"
-    ],
-    "answer": "B. 専門的な企業情報や経済ニュース",
-    "explanation": "最新ニュースによると、日経会社情報DIGITALは専門的な企業情報や経済ニュースを提供しています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 3,
-    "question": "Apple HomeViewの登場は、エンターテインメントと家管理に関してどのような「新しい方法」を提供するとされていますか？",
-    "choices": [
-      "A. 独立した機能を提供する",
-      "B. 統合された体験を提供する",
-      "C. 複雑な操作を要求する",
-      "D. 限定的なユーザー層を対象とする"
-    ],
-    "answer": "B. 統合された体験を提供する",
-    "explanation": "最新ニュースによると、Apple HomeViewはエンターテインメントと家管理を統合する「新しい方法」を提供します。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 3,
-    "question": "A2Oエンターテインメントのイ・スマン氏の役職の一つである「キープロデューサー」とは、どのような役割を指しますか？",
-    "choices": [
-      "A. 会社の経理担当",
-      "B. 主要コンテンツの制作指揮者",
-      "C. 会社の広報責任者",
-      "D. 会社の法務担当"
-    ],
-    "answer": "B. 主要コンテンツの制作指揮者",
-    "explanation": "最新ニュースによると、イ・スマン氏はA2Oエンターテインメントのキープロデューサーであり、主要コンテンツの制作を指揮する役割を担っています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 3,
-    "question": "SABU監督の最新作『記憶ゼロ』が「台湾オールロケ敢行」であることから、作品の舞台設定に関してどのような特徴が期待されますか？",
-    "choices": [
-      "A. 日本の都会が舞台",
-      "B. 台湾の異国情緒あふれる風景",
-      "C. スタジオセットのみ",
-      "D. 架空の惑星が舞台"
-    ],
-    "answer": "B. 台湾の異国情緒あふれる風景",
-    "explanation": "最新ニュースによると、「台湾オールロケ敢行」であることから、台湾の異国情緒あふれる風景が作品の舞台設定に期待されます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 3,
-    "question": "「YOKOSUKA Re:EM CLUB ～ENTERTAINMENT & MUSIC LIVE〜 CRUISING STAGE」は、現在どのような状況ですか？",
-    "choices": [
-      "A. 公演終了済み",
-      "B. 予約受付中",
-      "C. 開催中止",
-      "D. 満席で受付終了"
-    ],
-    "answer": "B. 予約受付中",
-    "explanation": "最新ニュースによると、「YOKOSUKA Re:EM CLUB」は現在予約受付中です。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 3,
-    "question": "日本の子供向けエンターテインメント施設市場に関するレポートで、分析項目の一つとして挙げられているのは何ですか？",
-    "choices": [
-      "A. 自動車の販売台数",
-      "B. 消費者需要",
-      "C. 住宅ローン金利",
-      "D. 航空機の運航数"
-    ],
-    "answer": "B. 消費者需要",
-    "explanation": "最新ニュースによると、日本の子供向けエンターテインメント施設市場のレポートは消費者需要を分析項目としています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 3,
-    "question": "THE BOYZのニューが専属契約を締結したONLY NEW ENTERTAINMENTは、どのような会社ですか？",
-    "choices": [
-      "A. 自動車メーカー",
-      "B. ファッションブランド",
-      "C. エンターテインメント会社",
-      "D. 建設会社"
-    ],
-    "answer": "C. エンターテインメント会社",
-    "explanation": "最新ニュースによると、ニューが専属契約を締結したのはONLY NEW ENTERTAINMENTというエンターテインメント会社です。"
+    "answer": "米国映画業界",
+    "explanation": "2026年のSonyの発表によると、「CinemaCon 2026」は米国映画業界最大級のイベントです。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 4,
-    "question": "金沢で共同設立された地域特化型音楽レーベルに関する最新ニュースで、総合音楽プロデューサーに就任した人物が所属するバンド名は何ですか？",
+    "question": "Newscast.jpの報道によると、2027年2月に上演される新エンターテイメントショー「FIESTA DEL ECLIPSE」に関する記述で正しいものはどれですか？",
     "choices": [
-      "A. Official髭男dism",
-      "B. [Alexandros]",
-      "C. KEYTALK",
-      "D. King Gnu"
+      "最新のVR技術を全面採用している。",
+      "演出の幅を広げるための新たなステージを導入している。",
+      "世界各国を巡るツアーの第一弾である。",
+      "全てオンラインで配信されるショーである。"
     ],
-    "answer": "C. KEYTALK",
-    "explanation": "最新ニュースによると、金沢の地域特化型音楽レーベルの総合音楽プロデューサーに就任した小野武正氏はKEYTALKのメンバーです。"
+    "answer": "演出の幅を広げるための新たなステージを導入している。",
+    "explanation": "最新のNewscast.jpの報道によると、新エンターテイメントショー「FIESTA DEL ECLIPSE」は演出の幅を広げた新たなステージを導入して2027年2月に上演スタートします。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 4,
-    "question": "ライブ・ネイション・エンターテーメントの株価情報が日経会社情報DIGITALで報じられていますが、その銘柄コードは何ですか？",
+    "question": "茨城新聞クロスアイの報道によると、にじさんじの「Sleepy Sheepy」グッズの販売開始日時として最も正確なものはどれですか？",
     "choices": [
-      "A. SONY",
-      "B. LYV",
-      "C. DIS",
-      "D. NFLX"
+      "2026年10月22日午前10時",
+      "2026年10月22日午後6時",
+      "2026年10月23日午前0時",
+      "2026年10月23日午後3時"
     ],
-    "answer": "B. LYV",
-    "explanation": "最新ニュースによると、ライブ・ネイション・エンターテーメントの株価は[LYV]として報じられています。"
+    "answer": "2026年10月22日午後6時",
+    "explanation": "2026年10月の茨城新聞クロスアイの報道によると、「Sleepy Sheepy」グッズの販売開始は2026年10月22日(木)18時（午後6時）からです。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 4,
-    "question": "Apple HomeViewは、エンターテインメントと家を管理する「新しい方法」として登場しましたが、提供元はどこですか？",
+    "question": "Appleが発表した「Apple HomeView」の主な目的は、どのような新しい体験を提供することですか？",
     "choices": [
-      "A. Google",
-      "B. Amazon",
-      "C. Apple",
-      "D. Microsoft"
+      "ゲームプレイに特化した高機能デバイスの提供",
+      "健康管理とフィットネスの統合",
+      "エンターテインメントと家管理を両立させる新しい方法",
+      "教育コンテンツの提供と学習支援"
     ],
-    "answer": "C. Apple",
-    "explanation": "最新ニュースによると、Apple HomeViewはAppleから登場しました。"
+    "answer": "エンターテインメントと家管理を両立させる新しい方法",
+    "explanation": "最新のAppleの発表によると、「Apple HomeView」はエンターテインメントを楽しみ、家を管理する新しい方法を提供します。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 4,
-    "question": "イ・スマン氏がビジョナリーリーダー兼キープロデューサーを務める会社はどこですか？",
+    "question": "ナタリーの報道によると、西川貴教がビジュアルを公開した「VOICE MONSTER」は、どのような内容が公開されましたか？",
     "choices": [
-      "A. SMエンターテインメント",
-      "B. JYPエンターテインメント",
-      "C. A2Oエンターテインメント",
-      "D. YGエンターテインメント"
+      "新曲の先行配信",
+      "ライブツアーの日程",
+      "彼のモノクル姿のビジュアル",
+      "ドキュメンタリー映画の予告編"
     ],
-    "answer": "C. A2Oエンターテインメント",
-    "explanation": "最新ニュースによると、イ・スマン氏はA2Oエンターテインメントのビジョナリーリーダー兼キープロデューサーです。"
+    "answer": "彼のモノクル姿のビジュアル",
+    "explanation": "最新のナタリーの報道によると、西川貴教がモノクルをかけて不敵な笑みを見せている「VOICE MONSTER」のビジュアルが公開されました。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 4,
-    "question": "SABU監督の最新作『記憶ゼロ』の公開時期はいつと発表されていますか？",
+    "question": "イ・スマン氏がA2Oエンターテインメントで務める「ビジョナリーリーダー」の役割は、主にどのようなことを指しますか？",
     "choices": [
-      "A. 来年初夏",
-      "B. 来年秋",
-      "C. 来年冬",
-      "D. 今年年末"
+      "企業の財務管理と投資戦略の策定",
+      "広報活動とメディア対応の統括",
+      "将来のビジョンを提示し、方向性を決定する役割",
+      "日々の運営業務と従業員の管理"
     ],
-    "answer": "A. 来年初夏",
-    "explanation": "最新ニュースによると、SABU監督の最新作『記憶ゼロ』は来年初夏に公開されます。"
+    "answer": "将来のビジョンを提示し、方向性を決定する役割",
+    "explanation": "最新の時事ドットコムの報道によると、イ・スマン氏はA2Oエンターテインメントのビジョナリーリーダー兼キープロデューサーであり、ビジョナリーリーダーは企業の将来の方向性を示す役割を担います。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 4,
-    "question": "「YOKOSUKA Re:EM CLUB ～ENTERTAINMENT & MUSIC LIVE〜 CRUISING STAGE」の予約受付を行っているのはどの機関ですか？",
+    "question": "Yahoo!ニュースの報道によると、SABU監督の最新作『記憶ゼロ』は「来年初夏公開」とされていますが、ロケ地はどこですか？",
     "choices": [
-      "A. 横須賀市役所",
-      "B. 東京湾海堡ツーリズム機構",
-      "C. JR東日本",
-      "D. 京浜急行電鉄"
+      "日本国内の離島",
+      "韓国の釜山",
+      "台湾全域",
+      "アメリカのハリウッド"
     ],
-    "answer": "B. 東京湾海堡ツーリズム機構",
-    "explanation": "最新ニュースによると、東京湾海堡ツーリズム機構が「YOKOSUKA Re:EM CLUB ～ENTERTAINMENT & MUSIC LIVE〜 CRUISING STAGE」の予約受付を行っています。"
+    "answer": "台湾全域",
+    "explanation": "2026年10月時点のYahoo!ニュースの報道によると、SABU監督最新作『記憶ゼロ』は来年初夏公開予定で、台湾オールロケ敢行とされています。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 4,
-    "question": "千葉テレビ放送の「ザッツエンターテイメント」で特集された最新ミステリー本特集は、何回目ですか？",
+    "question": "金沢に誕生した地域特化音楽レーベルの設立形態として、最新のニュースで報じられているのは次のうちどれですか？",
     "choices": [
-      "A. 第1弾",
-      "B. 第2弾",
-      "C. 第3弾",
-      "D. 第4弾"
+      "単独企業による設立",
+      "政府機関による主導",
+      "複数の企業による共同設立",
+      "クラウドファンディングによる設立"
     ],
-    "answer": "D. 第4弾",
-    "explanation": "最新ニュースによると、千葉テレビ放送の「ザッツエンターテイメント」で特集されたのは最新ミステリー本特集（4）です。"
+    "answer": "複数の企業による共同設立",
+    "explanation": "最新のｄメニューニュースの報道によると、ビクターエンタテインメントとCCIエンタベースが共同で金沢に地域特化音楽レーベルを設立しました。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 4,
-    "question": "「AMUSEMENT EXPO 2026」の出展内容第1弾を発表した企業は、どのようなゲームを扱っていますか？",
+    "question": "東京湾海堡ツーリズム機構が企画する「YOKOSUKA Re:EM CLUB ～ENTERTAINMENT & MUSIC LIVE〜 CRUISING STAGE」の提供機関はどこですか？",
     "choices": [
-      "A. モバイルゲーム",
-      "B. コンシューマーゲーム",
-      "C. アーケードゲーム",
-      "D. ボードゲーム"
+      "横須賀市役所",
+      "神奈川県観光協会",
+      "東京湾海堡ツーリズム機構",
+      "JTB"
     ],
-    "answer": "C. アーケードゲーム",
-    "explanation": "最新ニュースによると、コナミアーケードゲームスが「AMUSEMENT EXPO 2026」の出展内容第1弾を発表しました。"
+    "answer": "東京湾海堡ツーリズム機構",
+    "explanation": "最新の東京湾海堡ツーリズム機構の発表によると、同機構が「YOKOSUKA Re:EM CLUB」の予約受付を行っています。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 4,
-    "question": "日本の子供向けエンターテインメント施設市場に関するレポートで、分析項目に含まれていないものは何ですか？",
+    "question": "THE BOYZのニューがONLY NEW ENTERTAINMENTと専属契約を締結したことに関して、Kstyleの報道で言及されている主な内容は次のうちどれですか？",
     "choices": [
-      "A. 市場規模",
-      "B. 消費者需要",
-      "C. 政治情勢",
-      "D. 主要企業"
+      "グループからの脱退",
+      "ソロ活動への移行",
+      "新しい事務所との契約とプロフィール写真公開",
+      "俳優業への本格進出"
     ],
-    "answer": "C. 政治情勢",
-    "explanation": "最新ニュースによると、日本の子供向けエンターテインメント施設市場のレポートは、市場規模、シェア、消費者需要、成長機会、主要企業、および展望をカバーしています。"
+    "answer": "新しい事務所との契約とプロフィール写真公開",
+    "explanation": "最新のKstyleの報道によると、THE BOYZのニューはONLY NEW ENTERTAINMENTと専属契約を締結し、新プロフィール写真を公開しました。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 4,
-    "question": "U-NEXTとNBCUniversalが締結した日本市場でのパートナーシップの種類は何ですか？",
+    "question": "STARTO社がSNSでの未確認情報の拡散や誹謗中傷に対し、注意喚起を行ったことに関するオリコンニュースの報道のポイントは何ですか？",
     "choices": [
-      "A. 期間限定コラボレーション",
-      "B. 共同広告キャンペーン",
-      "C. 包括的戦略パートナーシップ",
-      "D. 技術提携"
+      "新たなSNSガイドラインの発表",
+      "ファンへの情報発信に関するお願い",
+      "特定のSNSプラットフォームの利用停止勧告",
+      "未確認情報の削除要請"
     ],
-    "answer": "C. 包括的戦略パートナーシップ",
-    "explanation": "最新ニュースによると、U-NEXTとNBCUniversalは日本市場で包括的戦略パートナーシップを締結しました。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 4,
-    "question": "「ドハツの日！」で「あなたの怒髪天のベスト10を大募集！」という企画は、どのような感情をテーマにしていますか？",
-    "choices": [
-      "A. 喜び",
-      "B. 悲しみ",
-      "C. 怒り",
-      "D. 驚き"
-    ],
-    "answer": "C. 怒り",
-    "explanation": "最新ニュースによると、「怒髪天のベスト10」は「怒り」をテーマにした企画です。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 4,
-    "question": "金沢に誕生した地域特化音楽レーベルの共同設立企業の一つ「ビクターエンタテインメント」は、どのような企業ですか？",
-    "choices": [
-      "A. 建築会社",
-      "B. 大手音楽レーベル",
-      "C. ソフトウェア開発会社",
-      "D. 食品メーカー"
-    ],
-    "answer": "B. 大手音楽レーベル",
-    "explanation": "最新ニュースによると、ビクターエンタテインメントは金沢の地域特化音楽レーベルを共同設立した大手音楽レーベルです。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 4,
-    "question": "TEMPESTが活動中断を発表したメディアはどこですか？",
-    "choices": [
-      "A. Newscast.jp",
-      "B. ｄメニューニュース",
-      "C. Kstyle",
-      "D. 日本経済新聞"
-    ],
-    "answer": "C. Kstyle",
-    "explanation": "最新ニュースによると、TEMPESTの活動中断はKstyleで報じられました。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 4,
-    "question": "A2Oエンターテインメントのイ・スマン氏の肩書である「ビジョナリーリーダー」と「キープロデューサー」が同時に示している彼の役割は何ですか？",
-    "choices": [
-      "A. 会社の経理と人事",
-      "B. 経営戦略とコンテンツ制作の両面での中心人物",
-      "C. 広報とマーケティング",
-      "D. 営業と法務"
-    ],
-    "answer": "B. 経営戦略とコンテンツ制作の両面での中心人物",
-    "explanation": "最新ニュースによると、「ビジョナリーリーダー兼キープロデューサー」という肩書は、経営戦略とコンテンツ制作の両面での中心人物であることを示しています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 4,
-    "question": "SABU監督の最新作『記憶ゼロ』のロケ地はどこですか？",
-    "choices": [
-      "A. 中国",
-      "B. 韓国",
-      "C. 台湾",
-      "D. ベトナム"
-    ],
-    "answer": "C. 台湾",
-    "explanation": "最新ニュースによると、SABU監督最新作『記憶ゼロ』は台湾オールロケ敢行です。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 4,
-    "question": "千葉テレビ放送の「ザッツエンターテイメント」は、どのような種類の番組名ですか？",
-    "choices": [
-      "A. ニュース番組",
-      "B. バラエティ番組",
-      "C. エンターテインメント情報番組",
-      "D. 料理番組"
-    ],
-    "answer": "C. エンターテインメント情報番組",
-    "explanation": "最新ニュースによると、「ザッツエンターテイメント」という名称から、エンターテインメント情報番組と推測されます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 4,
-    "question": "コナミアーケードゲームスが「AMUSEMENT EXPO 2026」で発表した「出展内容第1弾」は、いつ開催されるイベントに関するものですか？",
-    "choices": [
-      "A. 昨年",
-      "B. 今年",
-      "C. 来年",
-      "D. 再来年"
-    ],
-    "answer": "C. 来年",
-    "explanation": "最新ニュースによると、「AMUSEMENT EXPO 2026」は2026年に開催されるイベントに関するもので、現在（2026年10月20日時点）から見ると来年開催です。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 4,
-    "question": "小栗旬が「ずっと食わせていましたね」と明かした有名俳優は、小栗旬より何歳上ですか？",
-    "choices": [
-      "A. 14歳上",
-      "B. 24歳上",
-      "C. 34歳上",
-      "D. 44歳上"
-    ],
-    "answer": "B. 24歳上",
-    "explanation": "最新ニュースによると、小栗旬は「24歳上の有名俳優」について語っています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 4,
-    "question": "日本の子供向けエンターテインメント施設市場のレポートで、分析項目の一つとして挙げられている「成長機会」は、何を示していますか？",
-    "choices": [
-      "A. 市場の成熟度",
-      "B. 今後の市場拡大の可能性",
-      "C. 過去の市場規模",
-      "D. 現在の市場シェア"
-    ],
-    "answer": "B. 今後の市場拡大の可能性",
-    "explanation": "最新ニュースによると、レポートの分析項目にある「成長機会」は、今後の市場拡大の可能性を示しています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 4,
-    "question": "U-NEXTとNBCUniversalのパートナーシップは、どのような市場を対象としていますか？",
-    "choices": [
-      "A. グローバル市場全体",
-      "B. 米国市場のみ",
-      "C. 欧州市場のみ",
-      "D. 日本市場"
-    ],
-    "answer": "D. 日本市場",
-    "explanation": "最新ニュースによると、U-NEXTとNBCUniversalは「日本市場で」包括的戦略パートナーシップを締結しました。"
+    "answer": "ファンへの情報発信に関するお願い",
+    "explanation": "最新のオリコンニュースの報道によると、STARTO社はSNSでの未確認情報の拡散・誹謗中傷に注意を呼びかけ、「情報を発信される皆さまに改めてお願い」しています。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 5,
-    "question": "地域特化型音楽レーベルが誕生した金沢での設立主体として、最新ニュースで報じられた正しい組み合わせはどれですか？",
+    "question": "Newscast.jpの報道によると、2027年2月に上演が開始される「FIESTA DEL ECLIPSE」は、どのような特徴を持つエンターテイメントショーとして紹介されていますか？",
     "choices": [
-      "A. ソニー・ミュージックエンタテインメントと電通",
-      "B. ビクターエンタテインメントとCCIエンタベース",
-      "C. エイベックス・エンタテインメントと博報堂DYメディアパートナーズ",
-      "D. ユニバーサルミュージック合同会社とサイバーエージェント"
+      "最新のホログラム技術を駆使したバーチャルコンサート。",
+      "大規模なオーケストラと合唱団によるクラシック音楽祭。",
+      "演出の幅を広げるための新たなステージを導入している。",
+      "観客がストーリーの結末を選ぶインタラクティブな演劇。"
     ],
-    "answer": "B. ビクターエンタテインメントとCCIエンタベース",
-    "explanation": "最新ニュースによると、金沢に誕生した地域特化型音楽レーベルは、ビクターエンタテインメントとCCIエンタベースの共同設立です。"
+    "answer": "演出の幅を広げるための新たなステージを導入している。",
+    "explanation": "最新のNewscast.jpの報道によると、「FIESTA DEL ECLIPSE」は2027年2月に上演開始予定で、演出の幅を広げた新たなステージを導入していることが特徴です。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 5,
-    "question": "TEMPESTのグループ活動中断の発表は、どのような形式で行われましたか？",
+    "question": "茨城新聞クロスアイの報道によると、2026年10月22日(木)18時から販売開始される「Sleepy Sheepy」グッズに関する情報で正しいものはどれですか？",
     "choices": [
-      "A. 非公式声明",
-      "B. 公式",
-      "C. メンバーのSNSを通じて",
-      "D. ファンミーティングで口頭発表"
+      "にじさんじから限定フィギュアとして販売される。",
+      "にじさんじから公式ぬいぐるみとして販売される。",
+      "にじさんじから公式グッズとして販売される。",
+      "にじさんじからデジタルコンテンツとして販売される。"
     ],
-    "answer": "B. 公式",
-    "explanation": "最新ニュースによると、TEMPESTのグループ活動中断は「公式」に発表されました。"
+    "answer": "にじさんじから公式グッズとして販売される。",
+    "explanation": "2026年10月の茨城新聞クロスアイの報道によると、にじさんじから「Sleepy Sheepy」グッズが2026年10月22日(木)18時から販売開始されます。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 5,
-    "question": "Apple HomeViewが提供する「新しい方法」とは、主に何を指していますか？",
+    "question": "Appleが発表した「Apple HomeView」は、エンターテインメント機能に関してどのような新しい体験を提供するとされていますか？",
     "choices": [
-      "A. 最新のゲーム体験",
-      "B. VRによる仮想現実の家管理",
-      "C. エンターテインメントと家を統合的に管理する機能",
-      "D. スマート家電の遠隔操作のみ"
+      "自宅でのVRゲーム体験を強化する",
+      "家全体で音楽や映像コンテンツをシームレスに楽しむ",
+      "スマートホームデバイスと連動したインタラクティブな映画鑑賞",
+      "パーソナルAIアシスタントによるエンタメ提案"
     ],
-    "answer": "C. エンターテインメントと家を統合的に管理する機能",
-    "explanation": "最新ニュースによると、Apple HomeViewはエンターテインメントを楽しみ、家を管理する新しい方法として登場しました。"
+    "answer": "家全体で音楽や映像コンテンツをシームレスに楽しむ",
+    "explanation": "最新のAppleの発表によると、「Apple HomeView」はエンターテインメントを楽しみながら家を管理する新しい方法を提供します。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 5,
-    "question": "イ・スマン氏の役職「ビジョナリーリーダー兼キープロデューサー」は、彼のどのような役割を示していますか？",
+    "question": "ナタリーの報道によると、西川貴教の「VOICE MONSTER」ビジュアルが公開された媒体は何ですか？",
     "choices": [
-      "A. 財務管理と広報",
-      "B. 企業戦略とコンテンツ制作の中心人物",
-      "C. 法務と人事",
-      "D. 営業とマーケティング"
+      "テレビCM",
+      "新聞広告",
+      "ナタリー（ウェブニュース）",
+      "音楽雑誌"
     ],
-    "answer": "B. 企業戦略とコンテンツ制作の中心人物",
-    "explanation": "最新ニュースによると、イ・スマン氏はA2Oエンターテインメントのビジョナリーリーダー兼キープロデューサーであり、企業戦略とコンテンツ制作の中心的な役割を担っています。"
+    "answer": "ナタリー（ウェブニュース）",
+    "explanation": "最新のナタリーの報道によると、西川貴教の「VOICE MONSTER」ビジュアルはナタリーで公開されました。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 5,
-    "question": "SABU監督の最新作『記憶ゼロ』が「ノンストップ・エンターテインメント」と称される理由として、ロケ地に関する記述はどのような点ですか？",
+    "question": "時事ドットコムの報道によると、イ・スマン氏がA2Oエンターテインメントで務める「キープロデューサー」の役割は主にどのようなことを指しますか？",
     "choices": [
-      "A. 日本の主要都市で撮影されたため",
-      "B. 台湾でオールロケを敢行したため",
-      "C. スタジオ撮影に限定されたため",
-      "D. 複数の国で分散撮影されたため"
+      "企業の法務問題を担当する",
+      "主要なプロジェクトや作品の制作を統括する",
+      "人事採用と育成計画を立案する",
+      "企業の財務報告と監査を行う"
     ],
-    "answer": "B. 台湾でオールロケを敢行したため",
-    "explanation": "最新ニュースによると、SABU監督最新作『記憶ゼロ』は台湾オールロケ敢行のノンストップ・エンターテインメントです。"
+    "answer": "主要なプロジェクトや作品の制作を統括する",
+    "explanation": "最新の時事ドットコムの報道によると、イ・スマン氏はA2Oエンターテインメントのビジョナリーリーダー兼キープロデューサーです。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 5,
-    "question": "「YOKOSUKA Re:EM CLUB ～ENTERTAINMENT & MUSIC LIVE〜 CRUISING STAGE」の「CRUISING STAGE」という言葉が示唆するイベント形式は何ですか？",
+    "question": "Yahoo!ニュースの報道によると、SABU監督の最新作『記憶ゼロ』の公開時期とロケ地に関する記述で正しいものはどれですか？",
     "choices": [
-      "A. 劇場での定点公演",
-      "B. 船上でのライブイベント",
-      "C. 野外フェスティバル",
-      "D. オンライン配信イベント"
+      "来年初夏公開、日本国内オールロケ。",
+      "来年初夏公開、台湾オールロケ敢行。",
+      "来年秋公開、韓国オールロケ敢行。",
+      "来年冬公開、アメリカ西海岸オールロケ。"
     ],
-    "answer": "B. 船上でのライブイベント",
-    "explanation": "最新ニュースによると、「CRUISING STAGE」という名称から、船上でのライブイベントであることが示唆されます。"
+    "answer": "来年初夏公開、台湾オールロケ敢行。",
+    "explanation": "2026年10月時点のYahoo!ニュースの報道によると、SABU監督最新作『記憶ゼロ』は来年初夏公開予定で、台湾オールロケ敢行のノンストップ・エンターテインメントです。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 5,
-    "question": "千葉テレビ放送の「ザッツエンターテイメント」で特集された最新ミステリー本特集のサブタイトルとして正確なものはどれですか？",
+    "question": "ｄメニューニュースの報道によると、金沢に誕生した地域特化音楽レーベルの総合音楽プロデューサーに就任したKEYTALK・小野武正氏が所属するグループは何ですか？",
     "choices": [
-      "A. 祖父が残した絵本のメッセージ",
-      "B. 祖母が残した数え歌のメッセージ",
-      "C. 友人が残した手紙のメッセージ",
-      "D. 家族が残した日記のメッセージ"
+      "[Alexandros]",
+      "KEYTALK",
+      "WANIMA",
+      "キュウソネコカミ"
     ],
-    "answer": "B. 祖母が残した数え歌のメッセージ",
-    "explanation": "最新ニュースによると、最新ミステリー本特集（4）のサブテーマは「祖母が残した数え歌のメッセージ」です。"
+    "answer": "KEYTALK",
+    "explanation": "最新のｄメニューニュースの報道によると、金沢に誕生した地域特化音楽レーベルの総合音楽プロデューサーにはKEYTALK・小野武正氏が就任しました。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 5,
-    "question": "コナミアーケードゲームスが「AMUSEMENT EXPO 2026」で発表した「出展内容第1弾」とは、具体的にどのような情報ですか？",
+    "question": "STARTO社がオリコンニュースを通じて行ったSNSでの注意喚起は、主にどのような情報に関するものですか？",
     "choices": [
-      "A. 開発中の新規ゲームの発表",
-      "B. 出展するゲームの一部詳細",
-      "C. ブースデザインの公開",
-      "D. 来場者への特典情報"
+      "ファンクラブへの入会促進情報",
+      "限定グッズの販売情報",
+      "未確認情報の拡散や誹謗中傷",
+      "アーティストのプライベートな情報共有"
     ],
-    "answer": "B. 出展するゲームの一部詳細",
-    "explanation": "最新ニュースによると、コナミアーケードゲームスは「AMUSEMENT EXPO 2026」の出展内容第1弾を発表しており、これは出展するゲームの一部詳細を指します。"
+    "answer": "未確認情報の拡散や誹謗中傷",
+    "explanation": "最新のオリコンニュースの報道によると、STARTO社はSNSでの未確認情報の拡散・誹謗中傷に対し、注意喚起を行いました。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 5,
-    "question": "日本の子供向けエンターテインメント施設市場に関するレポートの掲載元はどこですか？",
+    "question": "日本経済新聞の報道によると、カスタム・エンターテインメント（KUST/KustomEntertai）に関する最新ニュースは主にどのような情報を提供していますか？",
     "choices": [
-      "A. Yahoo!ニュース",
-      "B. Kstyle",
-      "C. Newscast.jp",
-      "D. 日本経済新聞"
+      "新製品発表情報",
+      "株価情報",
+      "企業の買収情報",
+      "新事業展開情報"
     ],
-    "answer": "C. Newscast.jp",
-    "explanation": "最新ニュースによると、日本の子供向けエンターテインメント施設市場に関するレポートはNewscast.jpで報じられました。"
+    "answer": "株価情報",
+    "explanation": "最新の日本経済新聞の報道によると、カスタム・エンターテインメントの株価[KUST/KustomEntertai]最新ニュースが日経会社情報DIGITALに掲載されています。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 5,
-    "question": "Sony Pictures Entertainmentが最新作品情報を公開した「CinemaCon 2026」は、米国映画業界においてどのような位置づけのイベントですか？",
+    "question": "2026年のNewscast.jpの市場分析によると、日本の子供向けエンターテインメント施設市場の展望が示されている期間はいつからいつまでですか？",
     "choices": [
-      "A. 小規模なインディーズ映画祭",
-      "B. 最大級のイベント",
-      "C. 監督向けのワークショップ",
-      "D. 映画音楽の祭典"
+      "2025年～2030年",
+      "2026年～2034年",
+      "2027年～2035年",
+      "2028年～2040年"
     ],
-    "answer": "B. 最大級のイベント",
-    "explanation": "最新ニュースによると、「CinemaCon 2026」は米国映画業界最大級のイベントです。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 5,
-    "question": "「ドハツの日！」が「あなたの怒髪天のベスト10を大募集！」していることの、企画の主な目的は何だと考えられますか？",
-    "choices": [
-      "A. 怒りを芸術作品として昇華させる",
-      "B. 参加者の怒りの感情を共有し、共感を促す",
-      "C. 怒りの感情を抑制する方法を教える",
-      "D. 怒りに関する統計データを収集する"
-    ],
-    "answer": "B. 参加者の怒りの感情を共有し、共感を促す",
-    "explanation": "最新ニュースによると、「怒髪天のベスト10を大募集」という企画は、参加者の怒りの感情を共有し、共感を促すことが主な目的と考えられます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 5,
-    "question": "金沢に誕生した地域特化音楽レーベルの共同設立企業の一つ「CCIエンタベース」は、その名称からどのような分野の企業と推測されますか？",
-    "choices": [
-      "A. 建築設計",
-      "B. IT・デジタルコンテンツ",
-      "C. 医療機器製造",
-      "D. 農業関連"
-    ],
-    "answer": "B. IT・デジタルコンテンツ",
-    "explanation": "最新ニュースによると、「CCIエンタベース」という名称から、IT・デジタルコンテンツやエンターテインメント関連の企業と推測されます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 5,
-    "question": "TEMPESTの活動中断の理由が「メンバーが契約終了・入隊へ」とされていることから、このグループの活動再開はどのような状況に左右されると考えられますか？",
-    "choices": [
-      "A. 新しいアルバムの売上のみ",
-      "B. メンバーの兵役終了と新たな契約の状況",
-      "C. 他のK-POPグループの活動状況",
-      "D. 音楽トレンドの変化"
-    ],
-    "answer": "B. メンバーの兵役終了と新たな契約の状況",
-    "explanation": "最新ニュースによると、活動中断理由がメンバーの契約終了と入隊であることから、活動再開はメンバーの兵役終了と新たな契約の状況に左右されると考えられます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 5,
-    "question": "Apple HomeViewが「エンターテインメントを楽しみ、家を管理する新しい方法」として登場したことで、ユーザーはどのような利便性を享受できると期待されますか？",
-    "choices": [
-      "A. 家電製品の個別操作のみ",
-      "B. 複数のアプリを切り替える手間なく、一元的に娯楽と家を制御できる",
-      "C. 外出先でのみ家を管理できる",
-      "D. エンターテインメント機能のみが強化される"
-    ],
-    "answer": "B. 複数のアプリを切り替える手間なく、一元的に娯楽と家を制御できる",
-    "explanation": "最新ニュースによると、Apple HomeViewはエンターテインメントと家管理を統合する「新しい方法」を提供するため、一元的な制御による利便性が期待されます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 5,
-    "question": "A2Oエンターテインメントのイ・スマン氏の役職が「ビジョナリーリーダー兼キープロデューサー」と記載されているメディアはどこですか？",
-    "choices": [
-      "A. Newscast.jp",
-      "B. Kstyle",
-      "C. 時事ドットコム",
-      "D. Yahoo!ニュース"
-    ],
-    "answer": "C. 時事ドットコム",
-    "explanation": "最新ニュースによると、イ・スマン氏の役職は時事ドットコムで報じられました。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 5,
-    "question": "SABU監督の最新作『記憶ゼロ』が「来年初夏公開」と報じられていることから、現在（2026年10月20日時点）から公開までの期間はどれくらいですか？",
-    "choices": [
-      "A. 数週間以内",
-      "B. 数ヶ月後",
-      "C. 1年以上先",
-      "D. すでに公開済"
-    ],
-    "answer": "B. 数ヶ月後",
-    "explanation": "最新ニュースによると、『記憶ゼロ』は来年初夏公開予定であるため、現在（2026年10月20日時点）から数ヶ月後の公開です。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 5,
-    "question": "千葉テレビ放送の「ザッツエンターテイメント」で特集された最新ミステリー本特集のタイトルとして正しいものはどれですか？",
-    "choices": [
-      "A. 祖父が残した絵本のメッセージ",
-      "B. 祖母が残した数え歌のメッセージ",
-      "C. 親友が残した日記のメッセージ",
-      "D. 家族が残した秘密のメッセージ"
-    ],
-    "answer": "B. 祖母が残した数え歌のメッセージ",
-    "explanation": "最新ニュースによると、最新ミステリー本特集（4）のサブタイトルは「祖母が残した数え歌のメッセージ」です。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 5,
-    "question": "小栗旬が「ずっと食わせていましたね」と明かした発言が掲載されたメディアはどこですか？",
-    "choices": [
-      "A. Kstyle",
-      "B. Newscast.jp",
-      "C. スポニチ Sponichi Annex",
-      "D. ｄメニューニュース"
-    ],
-    "answer": "C. スポニチ Sponichi Annex",
-    "explanation": "最新ニュースによると、小栗旬の発言はスポニチ Sponichi Annexで報じられました。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 5,
-    "question": "日本の子供向けエンターテインメント施設市場のレポートで、分析項目の一つとして挙げられているのは何ですか？",
-    "choices": [
-      "A. 通貨レートの変動",
-      "B. 主要企業",
-      "C. 株式市場の株価",
-      "D. 原油価格の動向"
-    ],
-    "answer": "B. 主要企業",
-    "explanation": "最新ニュースによると、日本の子供向けエンターテインメント施設市場のレポートは主要企業を分析項目としています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 5,
-    "question": "THE BOYZのニューが専属契約を締結したONLY NEW ENTERTAINMENTは、契約締結後、どのような情報を公開しましたか？",
-    "choices": [
-      "A. 新曲のリリース情報",
-      "B. 新プロフィール写真",
-      "C. コンサート開催情報",
-      "D. 新しいアルバムのトラックリスト"
-    ],
-    "answer": "B. 新プロフィール写真",
-    "explanation": "最新ニュースによると、ニューはONLY NEW ENTERTAINMENTと専属契約を締結後、新プロフィール写真を公開しました。"
+    "answer": "2026年～2034年",
+    "explanation": "2026年のNewscast.jpの市場分析によると、日本の子供向けエンターテインメント施設市場の展望は2026年～2034年とされています。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 6,
-    "question": "ビクターエンタテインメントとCCIエンタベースが共同設立した金沢の地域特化型音楽レーベルが目指す主な特徴は何ですか？",
+    "question": "Newscast.jpの報道にある新エンターテイメントショー「FIESTA DEL ECLIPSE」で「演出の幅を広げた新たなステージを導入」することの具体的な意図として、最も適切と考えられるものはどれですか？",
     "choices": [
-      "A. 全国規模でのヒット曲の量産",
-      "B. 特定地域の音楽文化の振興と発信",
-      "C. 海外アーティストの日本進出支援",
-      "D. クラシック音楽専門のレーベル運営"
+      "観客の視覚体験を向上させ、より没入感のあるパフォーマンスを実現するため。",
+      "舞台装置のコスト削減と設営期間の短縮を図るため。",
+      "出演者の安全性を確保し、事故のリスクを低減するため。",
+      "オンライン配信に特化した映像表現を追求するため。"
     ],
-    "answer": "B. 特定地域の音楽文化の振興と発信",
-    "explanation": "最新ニュースによると、金沢に誕生したのは「地域特化」型の音楽レーベルです。"
+    "answer": "観客の視覚体験を向上させ、より没入感のあるパフォーマンスを実現するため。",
+    "explanation": "最新のNewscast.jpの報道によると、「FIESTA DEL ECLIPSE」では演出の幅を広げた新たなステージを導入し、より豊かなエンターテイメント体験を提供することを目指しています。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 6,
-    "question": "TEMPESTの活動中断理由として挙げられた「メンバーが契約終了・入隊へ」という状況は、グループの活動にどのような影響を与えますか？",
+    "question": "「PR TIMES エンタテイメント 流通」として茨城新聞クロスアイが報じた、にじさんじの「Sleepy Sheepy」グッズ販売開始ニュースにおける「PR TIMES」の役割は何ですか？",
     "choices": [
-      "A. 新規アルバムのリリース加速",
-      "B. 海外ツアーの開始",
-      "C. グループとしての継続的な活動の困難化",
-      "D. 新メンバーの加入による再編"
+      "グッズの企画・製造元",
+      "販売チャネルの運営会社",
+      "プレスリリース配信サービス",
+      "VTuberグループの運営会社"
     ],
-    "answer": "C. グループとしての継続的な活動の困難化",
-    "explanation": "最新ニュースによると、メンバーの契約終了と入隊がグループ活動中断の理由であり、これはグループとしての継続的な活動を困難にする状況を示しています。"
+    "answer": "プレスリリース配信サービス",
+    "explanation": "2026年10月の茨城新聞クロスアイの報道によると、このニュースは「PR TIMES エンタテイメント 流通」として配信されており、PR TIMESはプレスリリース配信サービスです。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 6,
-    "question": "ライブ・ネイション・エンターテーメントの株価最新ニュースは、日経会社情報DIGITALのどのセクションで確認できますか？",
+    "question": "Appleが発表した「Apple HomeView」が提供する「家を管理する新しい方法」とは、具体的にどのようなアプローチが期待されますか？",
     "choices": [
-      "A. 経済コラム",
-      "B. 企業分析",
-      "C. 株価[LYV/LivNatEnte]",
-      "D. 市場トレンド"
+      "AIによる自動家事代行サービス",
+      "スマートホームデバイスの統合とエンタメ連携",
+      "専門業者による定期的な自宅メンテナンス",
+      "家族のスケジュール管理に特化したアプリ"
     ],
-    "answer": "C. 株価[LYV/LivNatEnte]",
-    "explanation": "最新ニュースによると、ライブ・ネイション・エンターテーメントの株価情報は日経会社情報DIGITALの「株価[LYV/LivNatEnte]」セクションで報じられています。"
+    "answer": "スマートホームデバイスの統合とエンタメ連携",
+    "explanation": "最新のAppleの発表によると、「Apple HomeView」はエンターテインメントを楽しみながら家を管理する新しい方法を提供し、スマートホームデバイスとの連携が期待されます。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 6,
-    "question": "Apple HomeViewが提供する「新しい方法」は、従来のエンターテインメントや家管理と比べてどのような点が革新的だと考えられますか？",
+    "question": "ナタリーの報道にある西川貴教の「VOICE MONSTER」ビジュアルは、モノクルをかけた不敵な笑みという具体的な描写がされていますが、これは彼のどのようなイメージを強調していると考えられますか？",
     "choices": [
-      "A. より多くのアプリをインストールできる点",
-      "B. ハードウェアの小型化",
-      "C. エンターテインメントと家管理のシームレスな統合",
-      "D. バッテリー持続時間の延長"
+      "親しみやすさとユーモア",
+      "ミステリアスで力強いキャラクター",
+      "平和主義で穏やかな一面",
+      "伝統と歴史を重んじる姿勢"
     ],
-    "answer": "C. エンターテインメントと家管理のシームレスな統合",
-    "explanation": "最新ニュースによると、Apple HomeViewはエンターテインメントと家を管理する「新しい方法」として登場しており、これら二つの機能を統合する点が革新的と示唆されます。"
+    "answer": "ミステリアスで力強いキャラクター",
+    "explanation": "最新のナタリーの報道によると、西川貴教がモノクルをかけて不敵な笑みを見せる「VOICE MONSTER」のビジュアルは、彼の新たなミステリアスで力強いイメージを強調しています。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 6,
-    "question": "イ・スマン氏の役職「ビジョナリーリーダー兼キープロデューサー」から、A2Oエンターテインメントにおける彼の役割で最も強調される点は何ですか？",
+    "question": "Yahoo!ニュースの報道によると、SABU監督の最新作『記憶ゼロ』が「ノンストップ・エンターテインメント」と称される理由として、最も適切と考えられるものはどれですか？",
     "choices": [
-      "A. 現場での実務的なプロモーション活動",
-      "B. 将来の方向性決定と主要コンテンツの指揮",
-      "C. 会社の日常的な運営管理",
-      "D. 契約交渉と法務コンプライアンス"
+      "休憩なしで連続して上映されるから。",
+      "物語が途切れることなく展開し、観客を飽きさせないから。",
+      "登場人物が常に走り続けているから。",
+      "音楽が一切途切れない構成だから。"
     ],
-    "answer": "B. 将来の方向性決定と主要コンテンツの指揮",
-    "explanation": "最新ニュースによると、イ・スマン氏は「ビジョナリーリーダー兼キープロデューサー」であり、その肩書から会社の将来の方向性を決定し、主要なコンテンツ制作を指揮する役割が強調されます。"
+    "answer": "物語が途切れることなく展開し、観客を飽きさせないから。",
+    "explanation": "2026年10月時点のYahoo!ニュースの報道によると、SABU監督最新作『記憶ゼロ』は台湾オールロケ敢行のノンストップ・エンターテインメントとされており、物語の途切れない展開を示唆しています。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 6,
-    "question": "SABU監督最新作『記憶ゼロ』が「来年初夏公開」と報じられていますが、この情報が掲載されたのはどのメディアですか？",
+    "question": "ｄメニューニュースの報道によると、金沢に地域特化音楽レーベルを共同設立した「ビクターエンタテインメント」と「CCIエンタベース」、そして総合音楽プロデューサーに就任した「KEYTALK・小野武正」の組み合わせに関する記述で正しいものはどれですか？",
     "choices": [
-      "A. Kstyle",
-      "B. dメニューニュース",
-      "C. Yahoo!ニュース",
-      "D. スポニチ Sponichi Annex"
+      "3者すべてが金沢を拠点とする企業・アーティストである。",
+      "ビクターエンタテインメントが中心となり、CCIエンタベースがプロモーションを担当する。",
+      "ビクターエンタテインメントとCCIエンタベースが共同設立し、小野武正がプロデューサーを務める。",
+      "小野武正がレーベルを立ち上げ、2社が運営をサポートする。"
     ],
-    "answer": "C. Yahoo!ニュース",
-    "explanation": "最新ニュースによると、SABU監督最新作『記憶ゼロ』の公開情報はYahoo!ニュースで報じられました。"
+    "answer": "ビクターエンタテインメントとCCIエンタベースが共同設立し、小野武正がプロデューサーを務める。",
+    "explanation": "最新のｄメニューニュースの報道によると、ビクターエンタテインメントとCCIエンタベースが共同で金沢に地域特化音楽レーベルを設立し、KEYTALK・小野武正氏が総合音楽プロデューサーに就任しました。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 6,
-    "question": "「YOKOSUKA Re:EM CLUB ～ENTERTAINMENT & MUSIC LIVE〜 CRUISING STAGE」は、予約受付中であることから、どのような状況を示していますか？",
+    "question": "東京湾海堡ツーリズム機構が予約受付中のイベントの完全な名称は何ですか？",
     "choices": [
-      "A. すでに満席でキャンセル待ち",
-      "B. 近日中に開催される予定",
-      "C. 開催が中止された",
-      "D. 過去に開催されたイベント"
+      "YOKOSUKA Re:EM CLUB",
+      "YOKOSUKA Re:EM CLUB CRUISING STAGE",
+      "YOKOSUKA Re:EM CLUB ～ENTERTAINMENT & MUSIC LIVE〜",
+      "YOKOSUKA Re:EM CLUB ～ENTERTAINMENT & MUSIC LIVE〜 CRUISING STAGE"
     ],
-    "answer": "B. 近日中に開催される予定",
-    "explanation": "最新ニュースによると、「予約受付中」であることから、イベントが近日中に開催される予定であることが示唆されます。"
+    "answer": "YOKOSUKA Re:EM CLUB ～ENTERTAINMENT & MUSIC LIVE〜 CRUISING STAGE",
+    "explanation": "最新の東京湾海堡ツーリズム機構の発表によると、イベントの完全な名称は「YOKOSUKA Re:EM CLUB ～ENTERTAINMENT & MUSIC LIVE〜 CRUISING STAGE」です。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 6,
-    "question": "千葉テレビ放送の「ザッツエンターテイメント」における「仕掛けられた罠にはまってみる」という表現が示唆するミステリー本の魅力は何ですか？",
+    "question": "Kstyleの報道によると、THE BOYZのニューがONLY NEW ENTERTAINMENTと専属契約を締結し、新プロフィール写真を公開したことに関する記述で正しいものはどれですか？",
     "choices": [
-      "A. 読者が物語の罠に誘い込まれるような構成",
-      "B. 罠の作り方を解説する内容",
-      "C. 罠を回避する方法を描く物語",
-      "D. 罠にかかった動物を救出する話"
+      "彼が新たに結成したグループのデビュー発表である。",
+      "個人活動の幅を広げるための移籍とみられる。",
+      "ONLY NEW ENTERTAINMENTがTHE BOYZの新しい所属事務所となる。",
+      "彼はソロアーティストとして活動していくことを示唆している。"
     ],
-    "answer": "A. 読者が物語の罠に誘い込まれるような構成",
-    "explanation": "最新ニュースによると、「仕掛けられた罠にはまってみる」という表現は、読者が物語の仕掛けに引き込まれるミステリー本の魅力を示唆しています。"
+    "answer": "個人活動の幅を広げるための移籍とみられる。",
+    "explanation": "最新のKstyleの報道によると、THE BOYZのニューがONLY NEW ENTERTAINMENTと専属契約を締結し、新プロフィール写真を公開したことは、彼の今後の個人活動の展開を示唆しています。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 6,
-    "question": "コナミアーケードゲームスが「AMUSEMENT EXPO 2026」で発表した出展内容第1弾は、具体的にどのようなイベントに関する情報ですか？",
+    "question": "Sonyの発表によると、「CinemaCon 2026」でSony Pictures Entertainmentが公開した最新作品情報とは、具体的にどのような内容が期待されますか？",
     "choices": [
-      "A. 2025年に開催されたイベント",
-      "B. 2026年に開催される予定のイベント",
-      "C. 2027年に開催されるイベント",
-      "D. 過去のゲームの歴史展"
+      "過去のヒット作の再上映スケジュール",
+      "今後のリリース予定映画のタイトル、キャスト、予告編など",
+      "映画業界の市場分析と将来展望",
+      "映画製作における新技術の発表"
     ],
-    "answer": "B. 2026年に開催される予定のイベント",
-    "explanation": "最新ニュースによると、「AMUSEMENT EXPO 2026」は2026年に開催される予定のイベントです。"
+    "answer": "今後のリリース予定映画のタイトル、キャスト、予告編など",
+    "explanation": "2026年のSonyの発表によると、Sony Pictures Entertainmentは「CinemaCon 2026」で最新作品情報を一挙に公開しており、これは今後のリリース予定作品の詳細に関する情報です。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 6,
-    "question": "U-NEXTとNBCUniversalのパートナーシップが目指す「新たなエンターテイメント経済圏の創出」とは、具体的にどのようなことを意味しますか？",
+    "question": "オリコンニュースの報道によると、STARTO社がSNSでの未確認情報の拡散や誹謗中傷に対し注意を呼びかけた際、特に「情報を発信される皆さまに改めてお願い」しているのはどのような点ですか？",
     "choices": [
-      "A. 特定の地域に限定された経済活動の拡大",
-      "B. 既存のエンターテインメント市場の縮小",
-      "C. ストリーミングからテーマパークまで多角的な事業連携による市場創造",
-      "D. 競合他社との市場支配競争"
+      "公式情報のみを信じること。",
+      "SNSでの個人的な意見表明を控えること。",
+      "未確認情報の拡散や誹謗中傷を行わないこと。",
+      "アーティストへの直接的なメッセージ送信を避けること。"
     ],
-    "answer": "C. ストリーミングからテーマパークまで多角的な事業連携による市場創造",
-    "explanation": "最新ニュースによると、このパートナーシップはストリーミングからテーマパーク、日本コンテンツのグローバル展開までを網羅し、「新たなエンターテイメント経済圏の創出」を目指しています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 6,
-    "question": "「ドハツの日！」で「あなたの怒髪天のベスト10を大募集！」している企画は、どのような種類のコンテンツとして分類されますか？",
-    "choices": [
-      "A. ニュース報道",
-      "B. ユーザー参加型企画",
-      "C. 専門家の評論",
-      "D. 学術論文"
-    ],
-    "answer": "B. ユーザー参加型企画",
-    "explanation": "最新ニュースによると、「大募集」という形式から、ユーザー参加型企画として分類されます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 6,
-    "question": "金沢に誕生した地域特化音楽レーベルの総合音楽プロデューサーに就任したKEYTALKの小野武正は、どのような役割を担うと考えられますか？",
-    "choices": [
-      "A. 経営戦略の立案のみ",
-      "B. 音楽制作全体の指揮とアーティスト育成",
-      "C. レーベルの広報活動のみ",
-      "D. 財務管理"
-    ],
-    "answer": "B. 音楽制作全体の指揮とアーティスト育成",
-    "explanation": "最新ニュースによると、「総合音楽プロデューサー」という役職から、音楽制作全体の指揮とアーティスト育成の役割を担うと考えられます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 6,
-    "question": "TEMPESTの活動中断理由として「メンバーが契約終了・入隊へ」と明記されていることから、この発表がファンに与える影響として最も大きいのは何ですか？",
-    "choices": [
-      "A. メンバーの健康状態への不安",
-      "B. グループの将来に対する不確実性",
-      "C. 新規アルバムへの期待感",
-      "D. メンバーのソロ活動への期待"
-    ],
-    "answer": "B. グループの将来に対する不確実性",
-    "explanation": "最新ニュースによると、契約終了と入隊という理由で活動中断が発表されたことは、グループの将来に対する不確実性をファンに強く意識させることになります。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 6,
-    "question": "ライブ・ネイション・エンターテーメントの株価最新ニュースが「日経会社情報DIGITAL」で報じられていることの、情報の信頼性に関する意味合いは何ですか？",
-    "choices": [
-      "A. 情報源が不明で信頼性が低い",
-      "B. 専門メディアであり、信頼性が高い",
-      "C. 個人の意見に基づいている",
-      "D. 過去の情報であり、最新ではない"
-    ],
-    "answer": "B. 専門メディアであり、信頼性が高い",
-    "explanation": "最新ニュースによると、「日経会社情報DIGITAL」という専門メディアで報じられていることから、情報の信頼性が高いことを意味します。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 6,
-    "question": "Apple HomeViewが「エンターテインメントを楽しみ、家を管理する新しい方法」として登場したことで、ユーザーの生活空間にどのような変化が期待されますか？",
-    "choices": [
-      "A. 家電製品の増加",
-      "B. 娯楽と生活管理がよりシームレスに融合した空間",
-      "C. 物理的な空間の縮小",
-      "D. 娯楽機能のみの強化"
-    ],
-    "answer": "B. 娯楽と生活管理がよりシームレスに融合した空間",
-    "explanation": "最新ニュースによると、Apple HomeViewはエンターテインメントと家管理を統合する「新しい方法」を提供するため、ユーザーの生活空間において娯楽と生活管理がよりシームレスに融合することが期待されます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 6,
-    "question": "SABU監督最新作『記憶ゼロ』が「ノンストップ・エンターテインメント」と称されていることから、観客はどのような映画体験を期待できますか？",
-    "choices": [
-      "A. 長い休憩を挟む映画",
-      "B. 途切れることなく展開される刺激的な物語",
-      "C. 観客が参加するインタラクティブな映画",
-      "D. 非常にゆっくりとしたペースの映画"
-    ],
-    "answer": "B. 途切れることなく展開される刺激的な物語",
-    "explanation": "最新ニュースによると、「ノンストップ・エンターテインメント」という表現は、途切れることなく展開される刺激的な物語体験を期待できることを示唆しています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 6,
-    "question": "千葉テレビ放送の「ザッツエンターテイメント」で特集された最新ミステリー本特集のタイトルに「仕掛けられた罠にはまってみる」というフレーズが含まれていることから、読者体験に関してどのような特徴が考えられますか？",
-    "choices": [
-      "A. 読者が物語の謎解きに積極的に関与する",
-      "B. 読者が物語から距離を置いて客観的に読む",
-      "C. 読者が物語の罠を避けて通る",
-      "D. 読者が物語に感情移入しない"
-    ],
-    "answer": "A. 読者が物語の謎解きに積極的に関与する",
-    "explanation": "最新ニュースによると、「仕掛けられた罠にはまってみる」というフレーズは、読者が物語の謎解きに積極的に関与する読書体験を示唆しています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 6,
-    "question": "小栗旬が24歳上の有名俳優を呼び捨てにし、「ずっと食わせていましたね」と明かした発言は、芸能界におけるどのような側面を語っていますか？",
-    "choices": [
-      "A. 芸能界の経済的な厳しさ",
-      "B. 俳優の演技力に関する評価",
-      "C. 芸能界の人間関係における意外な力関係",
-      "D. 俳優の私生活の秘密"
-    ],
-    "answer": "C. 芸能界の人間関係における意外な力関係",
-    "explanation": "最新ニュースによると、小栗旬の発言は、芸能界の人間関係における意外な力関係を語っています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 6,
-    "question": "日本の子供向けエンターテインメント施設市場のレポートが「市場規模、シェア、消費者需要、成長機会、主要企業、および展望」を分析していることから、このレポートが提供する情報価値は何ですか？",
-    "choices": [
-      "A. 特定企業の詳細な財務情報",
-      "B. 市場全体の多角的な現状と将来予測",
-      "C. 個人の消費行動に関する心理学的分析",
-      "D. 政府の経済政策に関する提言"
-    ],
-    "answer": "B. 市場全体の多角的な現状と将来予測",
-    "explanation": "最新ニュースによると、多数の分析項目をカバーしていることから、市場全体の多角的な現状と将来予測を提供する情報価値があります。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 6,
-    "question": "THE BOYZのニューがONLY NEW ENTERTAINMENTと「専属契約を締結」したことは、彼の今後のキャリアにおいてどのような意味を持ちますか？",
-    "choices": [
-      "A. グループ活動からの引退",
-      "B. ソロアーティストとしての活動開始の可能性",
-      "C. 俳優業への完全転身",
-      "D. 海外でのみ活動する"
-    ],
-    "answer": "B. ソロアーティストとしての活動開始の可能性",
-    "explanation": "最新ニュースによると、個人名での「専属契約締結」は、ソロアーティストとしての活動開始の可能性を示唆しています。"
+    "answer": "未確認情報の拡散や誹謗中傷を行わないこと。",
+    "explanation": "最新のオリコンニュースの報道によると、STARTO社はSNSでの未確認情報の拡散・誹謗中傷に注意を呼びかけ、「情報を発信される皆さまに改めてお願い」として、これらの行為を控えるよう求めています。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 7,
-    "question": "金沢に誕生した地域特化型音楽レーベルの共同設立企業である「CCIエンタベース」は、どのような事業ドメインを持つ企業と推測されますか？",
+    "question": "Newscast.jpの最新報道によると、新エンターテイメントショー「FIESTA DEL ECLIPSE」の2027年2月上演に関する記述で、最も正確なものはどれですか？",
     "choices": [
-      "A. 建設業",
-      "B. 自動車産業",
-      "C. エンターテインメント関連のデジタルコンテンツやイベント企画",
-      "D. 食品製造業"
+      "デジタル技術を駆使したバーチャルリアリティショーで、会場は限定されない。",
+      "観客がストーリー展開に影響を与えるインタラクティブな形式を採用している。",
+      "演出の幅を広げるため、物理的な新たなステージ機構を導入する予定である。",
+      "世界的アーティストとのコラボレーションが最大の特徴である。"
     ],
-    "answer": "C. エンターテインメント関連のデジタルコンテンツやイベント企画",
-    "explanation": "最新ニュースによると、「CCIエンタベース」という名称から、エンターテインメント関連のデジタルコンテンツやイベント企画に関わる企業と推測されます。"
+    "answer": "演出の幅を広げるため、物理的な新たなステージ機構を導入する予定である。",
+    "explanation": "最新のNewscast.jpの報道によると、「FIESTA DEL ECLIPSE」は2027年2月に上演スタートし、演出の幅を広げた新たなステージを導入すると明記されています。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 7,
-    "question": "TEMPESTのグループ活動中断が「公式」に発表されたことで、ファンや業界関係者にとってどのような意味合いがありますか？",
+    "question": "茨城新聞クロスアイの2026年10月の報道によると、にじさんじから販売される「Sleepy Sheepy」グッズに関する情報として正しいものは次のうちどれですか？",
     "choices": [
-      "A. 事実確認が不要な確定情報であること",
-      "B. 誤報である可能性が高いこと",
-      "C. メンバーが個人的に発表したこと",
-      "D. 活動再開がすぐに期待できること"
+      "にじさんじ公式オンラインストア限定で2026年10月22日18時から販売されるフィギュア。",
+      "にじさんじ公式オンラインストアおよび一部店舗で2026年10月22日18時から販売されるぬいぐるみ。",
+      "にじさんじ公式オンラインストアで2026年10月22日18時から販売されるグッズ。",
+      "にじさんじファンクラブ会員限定で2026年10月22日18時から先行販売されるグッズ。"
     ],
-    "answer": "A. 事実確認が不要な確定情報であること",
-    "explanation": "最新ニュースによると、「公式」という発表形式は、その情報が事実として確定していることを意味します。"
+    "answer": "にじさんじ公式オンラインストアで2026年10月22日18時から販売されるグッズ。",
+    "explanation": "2026年10月の茨城新聞クロスアイの報道によると、にじさんじから「Sleepy Sheepy」グッズが2026年10月22日(木)18時から販売開始されます。販売チャネルの詳細は明記されていませんが、一般的なグッズ販売として解釈されます。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 7,
-    "question": "ライブ・ネイション・エンターテーメントの株価最新ニュースが「日経会社情報DIGITAL」で報じられていることの意義は何ですか？",
+    "question": "最新のAppleの発表によると、「Apple HomeView」が提供する「エンターテインメントを楽しみ、家を管理する新しい方法」の趣旨として、最も適切と考えられるものはどれですか？",
     "choices": [
-      "A. 個人のブログで報じられたこと",
-      "B. 専門的な経済情報メディアで取り上げられていること",
-      "C. 娯楽雑誌で取り上げられていること",
-      "D. 地方紙で限定的に報じられていること"
+      "各デバイスを個別に操作する手間を省き、統合された体験を提供すること。",
+      "家管理のタスクを全てAIに任せ、ユーザーはエンタメに専念すること。",
+      "家族全員がそれぞれのエンターテインメントを同時に楽しめるようにすること。",
+      "エンターテインメントと日常の家管理をシームレスに連携させ、生活の質を高めること。"
     ],
-    "answer": "B. 専門的な経済情報メディアで取り上げられていること",
-    "explanation": "最新ニュースによると、「日経会社情報DIGITAL」は専門的な経済情報メディアであり、そこで報じられていることはその情報の信頼性と重要性を示唆します。"
+    "answer": "エンターテインメントと日常の家管理をシームレスに連携させ、生活の質を高めること。",
+    "explanation": "最新のAppleの発表によると、「Apple HomeView」はエンターテインメントと家管理を融合させることで、ユーザーの生活をより豊かにすることを目指しています。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 7,
-    "question": "Apple HomeViewが「エンターテインメントを楽しみ、家を管理する新しい方法」として登場したことで、ユーザーの生活にどのような変化が期待されますか？",
+    "question": "Yahoo!ニュースの報道によると、鬼才SABU監督の最新作『記憶ゼロ』に関する記述で、2026年10月時点の情報として正しいものはどれですか？",
     "choices": [
-      "A. 家電製品の買い替えが必須になる",
-      "B. 娯楽と生活管理がより密接に連携する",
-      "C. 自宅での娯楽が完全に消滅する",
-      "D. 家管理が完全に自動化され、手動操作が不要になる"
+      "来年秋に日本国内で公開予定のSF作品である。",
+      "来年初夏に台湾オールロケ敢行で公開されるノンストップ・エンターテインメントである。",
+      "来年冬に韓国で先行公開されるサスペンス映画である。",
+      "来年初夏にオンライン配信限定で公開されるドキュメンタリーである。"
     ],
-    "answer": "B. 娯楽と生活管理がより密接に連携する",
-    "explanation": "最新ニュースによると、Apple HomeViewはエンターテインメントと家管理を統合する「新しい方法」を提供するため、ユーザーの生活においてこれらの機能がより密接に連携することが期待されます。"
+    "answer": "来年初夏に台湾オールロケ敢行で公開されるノンストップ・エンターテインメントである。",
+    "explanation": "2026年10月時点のYahoo!ニュースの報道によると、SABU監督最新作『記憶ゼロ』は来年初夏公開、台湾オールロケ敢行のノンストップ・エンターテインメントです。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 7,
-    "question": "イ・スマン氏が「ビジョナリーリーダー」と称されることから、A2Oエンターテインメントにおける彼の最も重要な貢献はどのような点にあると考えられますか？",
+    "question": "ｄメニューニュースの報道によると、金沢に誕生した地域特化音楽レーベルに関する情報で、最も正確なものはどれですか？",
     "choices": [
-      "A. 日常業務の効率化",
-      "B. 長期的な事業戦略と未来像の提示",
-      "C. 他社との提携交渉",
-      "D. 従業員の福利厚生の改善"
+      "金沢市が単独で設立した音楽レーベルで、新人アーティストの発掘を目的とする。",
+      "ビクターエンタテインメントとCCIエンタベースが共同で設立し、KEYTALK・小野武正が総合音楽プロデューサーに就任した地域特化型レーベル。",
+      "金沢の伝統音楽を専門とするレーベルで、地元の音楽家のみを対象とする。",
+      "KEYTALK・小野武正が個人で立ち上げたインディーズレーベルで、全国展開を目指す。"
     ],
-    "answer": "B. 長期的な事業戦略と未来像の提示",
-    "explanation": "最新ニュースによると、「ビジョナリーリーダー」という肩書は、イ・スマン氏がA2Oエンターテインメントの長期的な事業戦略や未来像を提示する役割を担っていることを示唆しています。"
+    "answer": "ビクターエンタテインメントとCCIエンタベースが共同で設立し、KEYTALK・小野武正が総合音楽プロデューサーに就任した地域特化型レーベル。",
+    "explanation": "最新のｄメニューニュースの報道によると、ビクターエンタテインメントとCCIエンタベースが共同で金沢に地域特化音楽レーベルを設立し、KEYTALK・小野武正氏が総合音楽プロデューサーに就任しました。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 7,
-    "question": "SABU監督の最新作『記憶ゼロ』が「来年初夏公開」と報じられていることから、現在（2026年10月20日時点）の作品の段階はどのようなものと推測されますか？",
+    "question": "オリコンニュースの報道によると、STARTO社がSNSでの未確認情報の拡散や誹謗中傷に対し注意喚起を行った際、専属契約解除等についても言及していますが、その具体的な内容は何ですか？",
     "choices": [
-      "A. 企画段階",
-      "B. 撮影中",
-      "C. ポストプロダクションまたは宣伝段階",
-      "D. すでに公開済み"
+      "専属契約解除に関する一切の情報開示は行わない。",
+      "専属契約解除は一切発生していないと断言した。",
+      "専属契約解除等について「さまざまなご意見」があることを認識し、情報発信者に注意を促した。",
+      "専属契約解除の具体的な基準を公表した。"
     ],
-    "answer": "C. ポストプロダクションまたは宣伝段階",
-    "explanation": "最新ニュースによると、『記憶ゼロ』は来年初夏公開予定であるため、2026年10月20日時点ではポストプロダクションが終了に近づき、宣伝が本格化している段階と推測されます。"
+    "answer": "専属契約解除等について「さまざまなご意見」があることを認識し、情報発信者に注意を促した。",
+    "explanation": "最新のオリコンニュースの報道によると、STARTO社はSNSでの未確認情報の拡散・誹謗中傷に注意を呼びかけ、専属契約解除等について「さまざまなご意見」があることに触れ、「情報を発信される皆さまに改めてお願い」しています。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 7,
-    "question": "「YOKOSUKA Re:EM CLUB ～ENTERTAINMENT & MUSIC LIVE〜 CRUISING STAGE」が「CRUISING STAGE」であることから、イベントの場所が持つ特徴は何ですか？",
+    "question": "U-NEXT HOLDINGSのニュースリリースによると、U-NEXTとNBCUniversalが日本市場で包括的戦略パートナーシップを締結した主な目的は何ですか？",
     "choices": [
-      "A. 固定された劇場",
-      "B. 公園の特設ステージ",
-      "C. 船上を移動するステージ",
-      "D. 仮想空間内のステージ"
+      "両社の既存コンテンツの相互利用を促進すること。",
+      "日本市場におけるテーマパーク事業の拡大に特化すること。",
+      "新たなエンターテイメント経済圏を創出し、多岐にわたる事業展開を図ること。",
+      "ストリーミングサービスにおける競合他社との差別化を図ること。"
     ],
-    "answer": "C. 船上を移動するステージ",
-    "explanation": "最新ニュースによると、「CRUISING STAGE」という名称は、イベントが船上を移動する形式であることを示唆しています。"
+    "answer": "新たなエンターテイメント経済圏を創出し、多岐にわたる事業展開を図ること。",
+    "explanation": "最新のU-NEXT HOLDINGSのニュースリリースによると、U-NEXTとNBCUniversalは日本市場で包括的戦略パートナーシップを締結し、新たなエンターテイメント経済圏の創出を目指しています。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 7,
-    "question": "千葉テレビ放送の「ザッツエンターテイメント」で最新ミステリー本特集が組まれていることから、同番組が視聴者に提供したい価値は何だと考えられますか？",
+    "question": "About Amazon Japanの発表によると、AmazonのPrime Videoが2026年9月に楽しめる新着配信コンテンツについて、何が報じられましたか？",
     "choices": [
-      "A. 最新のニュース情報",
-      "B. 文化やエンターテインメントのトレンド紹介",
-      "C. 政治経済の解説",
-      "D. スポーツ中継"
+      "2026年9月に配信されるオリジナルドラマのタイトル一覧。",
+      "2026年9月に配信される映画、ドラマ、アニメなどの新着コンテンツ情報。",
+      "2026年9月に配信が終了するコンテンツの一覧。",
+      "2026年9月から開始される新たな料金プラン。"
     ],
-    "answer": "B. 文化やエンターテインメントのトレンド紹介",
-    "explanation": "最新ニュースによると、「ザッツエンターテイメント」という番組名とミステリー本特集の内容から、文化やエンターテインメントのトレンドを紹介する価値を提供していると考えられます。"
+    "answer": "2026年9月に配信される映画、ドラマ、アニメなどの新着コンテンツ情報。",
+    "explanation": "2026年9月のAbout Amazon Japanの発表によると、AmazonのPrime Videoでは2026年9月に楽しめる新着配信コンテンツが公開されました。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 7,
-    "question": "コナミアーケードゲームスが「AMUSEMENT EXPO 2026」の出展内容第1弾を発表したことで、今後期待される情報はどのようなものですか？",
+    "question": "Newscast.jpの2026年の市場分析によると、日本の子供向けエンターテインメント施設市場について、どのような情報が提供されていますか？",
     "choices": [
-      "A. 過去の製品の再販情報",
-      "B. 第2弾以降の出展内容の詳細",
-      "C. 他社の出展内容",
-      "D. コナミの家庭用ゲームの新作情報"
+      "過去10年間の市場成長率と主要企業の売上高。",
+      "市場規模、シェア、消費者需要、成長機会、主要企業、および2026年～2034年の展望。",
+      "政府による規制緩和の動向と海外企業の参入状況。",
+      "子供向け施設の安全性に関する最新ガイドライン。"
     ],
-    "answer": "B. 第2弾以降の出展内容の詳細",
-    "explanation": "最新ニュースによると、「第1弾」の発表であることから、今後第2弾以降の出展内容の詳細が期待されます。"
+    "answer": "市場規模、シェア、消費者需要、成長機会、主要企業、および2026年～2034年の展望。",
+    "explanation": "2026年のNewscast.jpの市場分析によると、日本の子供向けエンターテインメント施設市場は市場規模、シェア、消費者需要、成長機会、主要企業、および展望（2026年～2034年）が分析されています。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 7,
-    "question": "Sony Pictures Entertainmentが「CinemaCon 2026」で最新作品情報を一挙に公開したことの業界における意味合いは何ですか？",
+    "question": "日本経済新聞の報道によると、カスタム・エンターテインメント（KUST/KustomEntertai）の株価に関する最新ニュースは、どこから提供されていますか？",
     "choices": [
-      "A. 小規模な発表会",
-      "B. 映画製作の終焉",
-      "C. 今後の映画ラインナップに対する強い意欲と自信の表明",
-      "D. 過去の作品の振り返り"
+      "Bloomberg",
+      "Reuters",
+      "日経会社情報DIGITAL",
+      "Yahoo!ファイナンス"
     ],
-    "answer": "C. 今後の映画ラインナップに対する強い意欲と自信の表明",
-    "explanation": "最新ニュースによると、米国映画業界最大級のイベントで「最新作品情報を一挙に公開」したことは、今後の映画ラインナップに対する強い意欲と自信の表明と解釈できます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 7,
-    "question": "「ドハツの日！」で「あなたの怒髪天のベスト10を大募集！」していることから、この企画が目指すコミュニティ形成における効果は何だと考えられますか？",
-    "choices": [
-      "A. 怒りをテーマにした匿名掲示板の活性化",
-      "B. 共通の感情を共有することで、参加者間の共感や連帯感を醸成する",
-      "C. 怒りを解消するための個人的なカウンセリングを提供する",
-      "D. 怒りに関する専門知識の普及"
-    ],
-    "answer": "B. 共通の感情を共有することで、参加者間の共感や連帯感を醸成する",
-    "explanation": "最新ニュースによると、「怒髪天のベスト10を大募集」という企画は、共通の感情を共有することで、参加者間の共感や連帯感を醸成する効果が期待されます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 7,
-    "question": "金沢に誕生した地域特化型音楽レーベルが「ビクターエンタテインメント」と「CCIエンタベース」の共同設立であることから、このレーベルの事業戦略においてどのような特徴が予想されますか？",
-    "choices": [
-      "A. 伝統的な音楽制作と流通に特化する",
-      "B. デジタル技術を駆使した地域密着型のコンテンツ制作とプロモーション",
-      "C. 大規模なライブイベントのみに注力する",
-      "D. 海外アーティストの誘致に特化する"
-    ],
-    "answer": "B. デジタル技術を駆使した地域密着型のコンテンツ制作とプロモーション",
-    "explanation": "最新ニュースによると、大手レーベルとデジタル・エンタメ企業が共同設立し「地域特化」を掲げていることから、デジタル技術を駆使した地域密着型のコンテンツ制作とプロモーションが予想されます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 7,
-    "question": "Apple HomeViewが「エンターテインメントを楽しみ、家を管理する新しい方法」として登場したことで、Appleのエコシステム全体にどのような影響が及ぶと予想されますか？",
-    "choices": [
-      "A. 各デバイスが独立性を強める",
-      "B. Appleデバイス間の連携がさらに強化され、ユーザー体験が向上する",
-      "C. 他社製品との互換性が完全に失われる",
-      "D. 特定のデバイスが廃止される"
-    ],
-    "answer": "B. Appleデバイス間の連携がさらに強化され、ユーザー体験が向上する",
-    "explanation": "最新ニュースによると、HomeViewがエンターテインメントと家管理を統合する「新しい方法」を提供することは、Appleデバイス間の連携をさらに強化し、ユーザー体験を向上させると予想されます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 7,
-    "question": "小栗旬が24歳上の有名俳優を呼び捨てにし、「ずっと食わせていましたね」と明かした発言は、彼のキャリア初期における人間関係の深さとどのような側面を物語っていますか？",
-    "choices": [
-      "A. 表面的な仕事上の関係",
-      "B. 経済的支援を含む深い個人的な交流",
-      "C. 競争相手としての関係",
-      "D. 一方的な師弟関係"
-    ],
-    "answer": "B. 経済的支援を含む深い個人的な交流",
-    "explanation": "最新ニュースによると、小栗旬の「ずっと食わせていましたね」という発言は、経済的支援を含む深い個人的な交流があったことを物語っています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 7,
-    "question": "日本の子供向けエンターテインメント施設市場のレポートが「展望（2026年～2034年）」を分析していることから、この市場の長期的な動向に関してどのような見方ができますか？",
-    "choices": [
-      "A. 短期的な流行に左右される市場",
-      "B. 持続的な成長と変化が期待される市場",
-      "C. 衰退の一途をたどる市場",
-      "D. 安定期に入り、大きな変化がない市場"
-    ],
-    "answer": "B. 持続的な成長と変化が期待される市場",
-    "explanation": "最新ニュースによると、2026年～2034年という長期の「展望」が分析されていることから、この市場は持続的な成長と変化が期待されると見ることができます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 7,
-    "question": "THE BOYZのニューがONLY NEW ENTERTAINMENTと専属契約を締結し、新プロフィール写真を公開したことは、彼の今後の活動におけるどのような変化を示唆していますか？",
-    "choices": [
-      "A. グループ活動の継続が不可能になる",
-      "B. ソロアーティストとしての新たな方向性の模索",
-      "C. 音楽活動からの引退",
-      "D. 俳優業への完全な転身"
-    ],
-    "answer": "B. ソロアーティストとしての新たな方向性の模索",
-    "explanation": "最新ニュースによると、個人での専属契約と新プロフィール写真公開は、ソロアーティストとしての新たな方向性の模索を示唆しています。"
+    "answer": "日経会社情報DIGITAL",
+    "explanation": "最新の日本経済新聞の報道によると、カスタム・エンターテインメントの株価[KUST/KustomEntertai]最新ニュースは日経会社情報DIGITALから提供されています。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 8,
-    "question": "金沢に誕生した地域特化型音楽レーベルが「ビクターエンタテインメント」と「CCIエンタベース」の共同設立であることから、このレーベルが持つと予想される強みは何ですか？",
+    "question": "U-NEXT HOLDINGSのニュースリリースによると、U-NEXTとNBCUniversalの日本市場における包括的戦略パートナーシップが対象とするエンターテイメント分野として、次のうち含まれないものはどれですか？",
     "choices": [
-      "A. 純粋なインディーズ精神のみ",
-      "B. 大手レーベルのノウハウと地域特化のデジタル戦略の融合",
-      "C. 地方自治体からの直接的な資金援助",
-      "D. 海外市場への一斉展開"
+      "ストリーミング",
+      "テーマパーク",
+      "日本コンテンツのグローバル展開",
+      "自動車製造"
     ],
-    "answer": "B. 大手レーベルのノウハウと地域特化のデジタル戦略の融合",
-    "explanation": "最新ニュースによると、ビクターエンタテインメント（大手レーベル）とCCIエンタベース（エンタメ・デジタル関連企業と推測）の共同設立であることから、大手レーベルのノウハウと地域特化のデジタル戦略の融合が強みと予想されます。"
+    "answer": "自動車製造",
+    "explanation": "最新のU-NEXT HOLDINGSのニュースリリースによると、U-NEXTとNBCUniversalのパートナーシップはストリーミング、テーマパーク、日本コンテンツのグローバル展開を対象としており、自動車製造は含まれません。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 8,
-    "question": "TEMPESTの「メンバーが契約終了・入隊へ」という状況は、K-POPグループの活動においてどのような一般的な課題を示唆していますか？",
+    "question": "About Amazon Japanの発表によると、AmazonのPrime Videoで2026年9月に楽しめる新着配信コンテンツの情報は、どのような形式で提供されましたか？",
     "choices": [
-      "A. グループメンバーの健康管理の難しさ",
-      "B. 兵役義務と契約更新による活動継続の不確実性",
-      "C. 海外プロモーションの費用問題",
-      "D. 新しい音楽ジャンルへの挑戦の難しさ"
+      "プレスリリース",
+      "ウェブサイトの特集ページ",
+      "メールマガジン",
+      "公式ブログ記事"
     ],
-    "answer": "B. 兵役義務と契約更新による活動継続の不確実性",
-    "explanation": "最新ニュースによると、K-POPグループであるTEMPESTの活動中断理由が「メンバーが契約終了・入隊へ」であることから、兵役義務と契約更新がK-POPグループの活動継続における一般的な課題であることが示唆されます。"
+    "answer": "公式ブログ記事",
+    "explanation": "2026年9月のAbout Amazon Japanの発表によると、Prime Videoの2026年9月の新着配信コンテンツはAbout Amazon Japan（公式ブログ）で公開されました。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 8,
-    "question": "ライブ・ネイション・エンターテーメントの株価最新ニュースが日経会社情報DIGITALに掲載されたことで、日本の投資家にとってどのような情報価値がありますか？",
+    "question": "Newscast.jpの2026年の市場分析によると、日本の子供向けエンターテインメント施設市場の分析項目として挙げられているのは、市場規模、シェア、消費者需要、成長機会、主要企業と何ですか？",
     "choices": [
-      "A. 日本国内のエンタメ企業の動向のみを把握できる",
-      "B. 海外の主要エンタメ企業の投資判断材料が得られる",
-      "C. 個人の資産運用アドバイスが直接受けられる",
-      "D. 株式市場全体のトレンドを直接予測できる"
+      "法的規制",
+      "技術革新",
+      "展望",
+      "競合戦略"
     ],
-    "answer": "B. 海外の主要エンタメ企業の投資判断材料が得られる",
-    "explanation": "最新ニュースによると、日経会社情報DIGITALに掲載されたライブ・ネイション・エンターテーメントの株価情報は、海外の主要エンタメ企業の投資判断材料として価値があります。"
+    "answer": "展望",
+    "explanation": "2026年のNewscast.jpの市場分析によると、日本の子供向けエンターテインメント施設市場の分析項目は、市場規模、シェア、消費者需要、成長機会、主要企業、および展望（2026年～2034年）とされています。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 8,
-    "question": "Apple HomeViewが「エンターテインメントを楽しみ、家を管理する新しい方法」として登場したことで、スマートホーム市場とエンターテインメント市場の今後の関係性はどのように変化すると考えられますか？",
+    "question": "U-NEXT HOLDINGSのニュースリリースによると、U-NEXTとNBCUniversalの包括的戦略パートナーシップが日本市場において持つ意味として、最も適切なものはどれですか？",
     "choices": [
-      "A. それぞれが独立して発展する",
-      "B. 市場が統合され、よりシームレスな体験が求められる",
-      "C. エンターテインメントがスマートホームから完全に切り離される",
-      "D. スマートホーム市場が縮小する"
+      "両社が個別に行っていた事業を統合し、効率化を図ること。",
+      "日本コンテンツの海外輸出に特化し、新たな市場を開拓すること。",
+      "ストリーミングからテーマパークまで、多角的なエンターテイメント事業を通じて新たな経済圏を創出すること。",
+      "海外からのテーマパーク誘致を目的とした共同投資を行うこと。"
     ],
-    "answer": "B. 市場が統合され、よりシームレスな体験が求められる",
-    "explanation": "最新ニュースによると、Apple HomeViewはエンターテインメントと家管理を統合するため、両市場が統合され、よりシームレスな体験が求められるようになると考えられます。"
+    "answer": "ストリーミングからテーマパークまで、多角的なエンターテイメント事業を通じて新たな経済圏を創出すること。",
+    "explanation": "最新のU-NEXT HOLDINGSのニュースリリースによると、U-NEXTとNBCUniversalはストリーミングからテーマパーク、日本コンテンツのグローバル展開まで、新たなエンターテイメント経済圏の創出を目指しています。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 8,
-    "question": "イ・スマン氏がA2Oエンターテインメントの「ビジョナリーリーダー兼キープロデューサー」という役職にあることは、彼の過去のK-POP業界での実績とどのように関連付けられますか？",
+    "question": "AmazonのPrime Videoの2026年9月の新着配信コンテンツに関するAbout Amazon Japanの発表について、時期とプラットフォームの組み合わせとして正しいものはどれですか？",
     "choices": [
-      "A. 彼の過去の経験とは無関係な新しい挑戦である",
-      "B. K-POPの礎を築いた彼のプロデュース手腕が新たな形で活かされている",
-      "C. 音楽制作から完全に離れた経営者としての役割",
-      "D. 過去の失敗からの再起を図る挑戦である"
+      "2026年8月にNetflixで発表された情報。",
+      "2026年9月にPrime Videoで発表された情報。",
+      "2026年10月にHuluで発表された情報。",
+      "2026年9月にDisney+で発表された情報。"
     ],
-    "answer": "B. K-POPの礎を築いた彼のプロデュース手腕が新たな形で活かされている",
-    "explanation": "最新ニュースによると、イ・スマン氏はK-POP業界で長年の実績を持つ人物であり、「ビジョナリーリーダー兼キープロデューサー」という役職は、彼のプロデュース手腕が新たな形で活かされていることを示唆しています。"
+    "answer": "2026年9月にPrime Videoで発表された情報。",
+    "explanation": "2026年9月のAbout Amazon Japanの発表によると、AmazonのPrime Videoの2026年9月に楽しめる新着配信コンテンツが公開されました。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 8,
-    "question": "SABU監督最新作『記憶ゼロ』が「ノンストップ・エンターテインメント」と表現されていることから、作品の展開速度や物語構造に関してどのような期待が持てますか？",
+    "question": "Newscast.jpの2026年の市場分析によると、日本の子供向けエンターテインメント施設市場の展望が示されている期間は「2026年～2034年」ですが、この期間に何が予測されていますか？",
     "choices": [
-      "A. 静かで瞑想的な展開",
-      "B. スローペースで感情を重視した物語",
-      "C. 休む間もないほどのスリリングで疾走感のある展開",
-      "D. 哲学的で難解な物語"
+      "市場規模の縮小と競争激化。",
+      "安定した成長と消費者需要の停滞。",
+      "市場規模の拡大と新たな成長機会の創出。",
+      "主要企業の撤退と市場再編。"
     ],
-    "answer": "C. 休む間もないほどのスリリングで疾走感のある展開",
-    "explanation": "最新ニュースによると、「ノンストップ・エンターテインメント」という表現は、休む間もないほどのスリリングで疾走感のある展開が期待できることを示唆しています。"
+    "answer": "市場規模の拡大と新たな成長機会の創出。",
+    "explanation": "2026年のNewscast.jpの市場分析によると、日本の子供向けエンターテインメント施設市場は2026年～2034年の期間で、市場規模、シェア、消費者需要、成長機会などが分析されており、成長が見込まれると解釈されます。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 8,
-    "question": "「YOKOSUKA Re:EM CLUB ～ENTERTAINMENT & MUSIC LIVE〜 CRUISING STAGE」が「ENTERTAINMENT & MUSIC LIVE」であることから、参加者はどのような体験を期待できますか？",
+    "question": "U-NEXT HOLDINGSのニュースリリースにあるU-NEXTとNBCUniversalの包括的戦略パートナーシップが目指す「新たなエンターテイメント経済圏の創出」への期待として、最も適切と考えられるものはどれですか？",
     "choices": [
-      "A. 静かな学習セミナー",
-      "B. 音楽演奏と様々な種類の娯楽の両方",
-      "C. スポーツ観戦のみ",
-      "D. 講演会とディスカッション"
+      "単一のコンテンツプラットフォームを構築し、市場を独占すること。",
+      "日本市場におけるエンターテイメント消費の多様化と活性化を促すこと。",
+      "海外からの投資を最大限に引き出し、日本企業の国際競争力を高めること。",
+      "テーマパーク事業を強化し、観光客誘致に貢献すること。"
     ],
-    "answer": "B. 音楽演奏と様々な種類の娯楽の両方",
-    "explanation": "最新ニュースによると、「ENTERTAINMENT & MUSIC LIVE」という名称は、音楽演奏だけでなく、様々な種類の娯楽も楽しめることを示唆しています。"
+    "answer": "日本市場におけるエンターテイメント消費の多様化と活性化を促すこと。",
+    "explanation": "最新のU-NEXT HOLDINGSのニュースリリースによると、U-NEXTとNBCUniversalのパートナーシップは、ストリーミングからテーマパーク、日本コンテンツのグローバル展開までを網羅し、新たなエンターテイメント経済圏の創出を目指しており、市場の活性化が期待されます。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 8,
-    "question": "小栗旬が24歳上の有名俳優を呼び捨てにし、「ずっと食わせていましたね」と明かした発言が報道されたことの、エンターテインメント業界における意味合いは何ですか？",
+    "question": "AmazonのPrime Videoが2026年9月に楽しめる新着配信コンテンツを発表したことの背景として、最も適切と考えられるものはどれですか？",
     "choices": [
-      "A. 若手俳優の謙虚さを示すもの",
-      "B. 業界内の人間関係における率直な一面を垣間見せるもの",
-      "C. 俳優同士の対立を煽るもの",
-      "D. 芸能界の厳しさを強調するもの"
+      "新規会員獲得のための大規模キャンペーンの一環。",
+      "競合他社に先駆けて最新情報を公開する戦略。",
+      "定期的なコンテンツ更新情報として、ユーザーへの告知。",
+      "既存コンテンツのライセンス契約終了に伴う代替策。"
     ],
-    "answer": "B. 業界内の人間関係における率直な一面を垣間見せるもの",
-    "explanation": "最新ニュースによると、小栗旬のこのような発言は、エンターテインメント業界内の人間関係における率直な一面を垣間見せるものとして報じられました。"
+    "answer": "定期的なコンテンツ更新情報として、ユーザーへの告知。",
+    "explanation": "2026年9月のAbout Amazon Japanの発表によると、Prime Videoの2026年9月の新着配信コンテンツは、毎月行われる定期的なコンテンツ更新の一部としてユーザーに告知されています。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 8,
-    "question": "日本の子供向けエンターテインメント施設市場に関するレポートが2026年～2034年の展望をカバーしていることから、この市場の将来性に関してどのような見方ができますか？",
+    "question": "Newscast.jpの2026年の市場分析に含まれる日本の子供向けエンターテインメント施設市場の分析要素として、次のうち最も網羅的なものはどれですか？",
     "choices": [
-      "A. 市場はすでに飽和状態である",
-      "B. 今後数年間で大きな成長が見込まれる",
-      "C. 市場は完全に消滅する",
-      "D. 成長はするが、子供向けではない"
+      "市場規模と主要企業の動向。",
+      "消費者需要と成長機会のみ。",
+      "市場規模、シェア、消費者需要、成長機会、主要企業、および展望。",
+      "政府の政策と国際市場の影響。"
     ],
-    "answer": "B. 今後数年間で大きな成長が見込まれる",
-    "explanation": "最新ニュースによると、2026年～2034年という長期にわたる展望がレポートされていることから、日本の子供向けエンターテインメント施設市場は今後数年間で大きな成長が見込まれていると解釈できます。"
+    "answer": "市場規模、シェア、消費者需要、成長機会、主要企業、および展望。",
+    "explanation": "2026年のNewscast.jpの市場分析によると、日本の子供向けエンターテインメント施設市場は市場規模、シェア、消費者需要、成長機会、主要企業、および展望（2026年～2034年）が分析されています。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 8,
-    "question": "U-NEXTとNBCUniversalが日本市場で包括的戦略パートナーシップを締結したことで、日本のコンテンツ市場にどのような影響が予想されますか？",
+    "question": "U-NEXT HOLDINGSのニュースリリースにある、U-NEXTとNBCUniversalの日本市場における「包括的戦略パートナーシップ」の「包括的」とは具体的にどのような意味合いを含みますか？",
     "choices": [
-      "A. 海外コンテンツの流入が減少する",
-      "B. 日本コンテンツのグローバル展開が加速する",
-      "C. ストリーミングサービスの数が大幅に減少する",
-      "D. テーマパークの新規建設が停止する"
+      "特定のコンテンツジャンルに限定された協力関係。",
+      "両社の経営陣が完全に統合されること。",
+      "ストリーミング、テーマパーク、日本コンテンツのグローバル展開など多岐にわたる事業領域での連携。",
+      "短期的なプロジェクトに特化した提携。"
     ],
-    "answer": "B. 日本コンテンツのグローバル展開が加速する",
-    "explanation": "最新ニュースによると、このパートナーシップの範囲には「日本コンテンツのグローバル展開」が含まれており、これが加速することが予想されます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 8,
-    "question": "「ドハツの日！」が「あなたの怒髪天のベスト10を大募集！」している企画は、社会心理学的にどのような効果を狙っていると解釈できますか？",
-    "choices": [
-      "A. 集団思考の促進",
-      "B. 感情の表出と共有によるストレス軽減効果",
-      "C. 認知バイアスの強化",
-      "D. 個人の孤立化"
-    ],
-    "answer": "B. 感情の表出と共有によるストレス軽減効果",
-    "explanation": "最新ニュースによると、「怒髪天のベスト10を大募集」という企画は、感情の表出と共有によるストレス軽減効果を狙っていると解釈できます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 8,
-    "question": "「YOKOSUKA Re:EM CLUB ～ENTERTAINMENT & MUSIC LIVE〜 CRUISING STAGE」が予約受付中であることと、東京湾海堡ツーリズム機構が関与していることから、このイベントが持つ地域経済への影響はどのようなものと予測されますか？",
-    "choices": [
-      "A. 地域経済への影響は限定的である",
-      "B. 観光客誘致による地域経済の活性化",
-      "C. 地域住民の消費活動の抑制",
-      "D. 地域の文化施設の閉鎖を促進する"
-    ],
-    "answer": "B. 観光客誘致による地域経済の活性化",
-    "explanation": "最新ニュースによると、東京湾海堡ツーリズム機構が関与し、クルージング形式のエンターテインメントイベントを開催することは、観光客誘致による地域経済の活性化を狙っていると予測されます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 8,
-    "question": "千葉テレビ放送の「ザッツエンターテイメント」における「仕掛けられた罠にはまってみる」という表現は、ミステリー本を体験する読者に対してどのような読書態度を推奨していると解釈できますか？",
-    "choices": [
-      "A. 批判的な視点で物語の欠点を探す",
-      "B. 物語のトリックや展開に積極的に身を委ね、驚きを楽しむ",
-      "C. 物語の結末を事前に予測しようと試みる",
-      "D. 物語の背景にある社会問題を深く考察する"
-    ],
-    "answer": "B. 物語のトリックや展開に積極的に身を委ね、驚きを楽しむ",
-    "explanation": "最新ニュースによると、「仕掛けられた罠にはまってみる」という表現は、物語のトリックや展開に積極的に身を委ね、驚きを楽しむ読書態度を推奨していると解釈できます。"
+    "answer": "ストリーミング、テーマパーク、日本コンテンツのグローバル展開など多岐にわたる事業領域での連携。",
+    "explanation": "最新のU-NEXT HOLDINGSのニュースリリースによると、U-NEXTとNBCUniversalの包括的戦略パートナーシップは、ストリーミングからテーマパーク、日本コンテンツのグローバル展開まで、広範な領域をカバーしています。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 9,
-    "question": "金沢に誕生した地域特化型音楽レーベルの総合音楽プロデューサーにKEYTALKの小野武正が就任したことは、このレーベルの音楽性やターゲット層にどのような影響を与えると考えられますか？",
+    "question": "Newscast.jpの2026年の市場分析によると、日本の子供向けエンターテインメント施設市場について、次のうち正しい記述はどれですか？",
     "choices": [
-      "A. クラシック音楽に特化する",
-      "B. アイドルグループの育成に注力する",
-      "C. ロックバンドや若者向けのポップスなど、現代的な音楽性が導入される可能性",
-      "D. 演歌や伝統音楽を専門とする"
+      "市場規模、シェア、消費者需要、成長機会、主要企業、および2026年～2034年の展望が包括的に分析されている。",
+      "過去5年間の市場規模の推移と、主要企業の経営戦略に焦点を当てている。",
+      "消費者需要の季節変動と、特定の地域における成長機会のみを詳細に調査している。",
+      "市場における技術革新の動向と、海外からの新規参入企業の可能性を主に論じている。"
     ],
-    "answer": "C. ロックバンドや若者向けのポップスなど、現代的な音楽性が導入される可能性",
-    "explanation": "最新ニュースによると、KEYTALKの小野武正氏が総合音楽プロデューサーに就任したことから、ロックバンドや若者向けのポップスなど、現代的な音楽性が導入される可能性が考えられます。"
+    "answer": "市場規模、シェア、消費者需要、成長機会、主要企業、および2026年～2034年の展望が包括的に分析されている。",
+    "explanation": "2026年のNewscast.jpの市場分析によると、日本の子供向けエンターテインメント施設市場は市場規模、シェア、消費者需要、成長機会、主要企業、および展望（2026年～2034年）が分析されています。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 9,
-    "question": "TEMPESTの活動中断発表において、「メンバーが契約終了・入隊へ」と具体的な理由が明記されたことの、ファンに対するメッセージとしての重要性は何ですか？",
+    "question": "Newscast.jpの2026年の市場分析で示されている、日本の子供向けエンターテインメント施設市場の2026年～2034年の展望に関する記述として、最も適切と考えられるものはどれですか？",
     "choices": [
-      "A. 活動再開の具体的な時期を明示した",
-      "B. 活動中断のやむを得ない事情を明確に伝え、理解を求める意図",
-      "C. 新規メンバー募集の告知",
-      "D. グループの解散を示唆するもの"
+      "市場は成熟期に入り、大きな変化は見られないと予測されている。",
+      "市場規模の拡大と共に、消費者需要の多様化と新たな成長機会が期待されている。",
+      "少子化の影響で市場は緩やかに縮小し、主要企業も事業再編を迫られると予測されている。",
+      "技術革新が市場を牽引し、VR/AR施設が主流になるとされている。"
     ],
-    "answer": "B. 活動中断のやむを得ない事情を明確に伝え、理解を求める意図",
-    "explanation": "最新ニュースによると、具体的な理由として「メンバーが契約終了・入隊へ」と明記されたことは、活動中断のやむを得ない事情を明確に伝え、ファンに理解を求める意図があると考えられます。"
+    "answer": "市場規模の拡大と共に、消費者需要の多様化と新たな成長機会が期待されている。",
+    "explanation": "2026年のNewscast.jpの市場分析によると、日本の子供向けエンターテインメント施設市場の展望（2026年～2034年）では、市場規模の拡大や成長機会が示唆されています。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 9,
-    "question": "「ライブ・ネイション・エンターテーメント 株価[LYV/LivNatEnte]最新ニュース 日経会社情報DIGITAL」の記述から、この情報が主にどのような読者を対象としていると推測されますか？",
+    "question": "Newscast.jpの2026年の市場分析によると、日本の子供向けエンターテインメント施設市場の分析において、含まれる要素の正確な組み合わせは次のうちどれですか？",
     "choices": [
-      "A. 音楽ファンの一般消費者",
-      "B. 芸能事務所のマネージャー",
-      "C. 投資家や経済に関心のあるビジネスパーソン",
-      "D. 学生や研究者"
+      "市場規模、価格戦略、広告効果",
+      "シェア、流通経路、法的規制",
+      "消費者需要、成長機会、技術動向",
+      "市場規模、シェア、消費者需要、成長機会、主要企業、展望"
     ],
-    "answer": "C. 投資家や経済に関心のあるビジネスパーソン",
-    "explanation": "最新ニュースによると、「株価」や「日経会社情報DIGITAL」というキーワードから、この情報が主に投資家や経済に関心のあるビジネスパーソンを対象としていると推測されます。"
+    "answer": "市場規模、シェア、消費者需要、成長機会、主要企業、展望",
+    "explanation": "2026年のNewscast.jpの市場分析によると、日本の子供向けエンターテインメント施設市場の分析項目は、市場規模、シェア、消費者需要、成長機会、主要企業、および展望（2026年～2034年）です。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 9,
-    "question": "Apple HomeViewが「エンターテインメントを楽しみ、家を管理する新しい方法」として登場したことで、今後のAppleの製品戦略においてどのような方向性が示唆されますか？",
+    "question": "Newscast.jpの2026年の市場分析は、どの国の子供向けエンターテインメント施設市場に特化して行われていますか？",
     "choices": [
-      "A. ハードウェアの多様化よりもソフトウェアの簡素化",
-      "B. ユーザーの日常生活における体験の統合とシームレス化",
-      "C. 専門分野に特化した製品開発",
-      "D. エコシステムを閉鎖的に保つ戦略の強化"
+      "アメリカ",
+      "中国",
+      "日本",
+      "イギリス"
     ],
-    "answer": "B. ユーザーの日常生活における体験の統合とシームレス化",
-    "explanation": "最新ニュースによると、エンターテインメントと家管理という異なる領域を「新しい方法」で統合するHomeViewの登場は、Appleがユーザーの日常生活における体験の統合とシームレス化を進める方向性を示唆しています。"
+    "answer": "日本",
+    "explanation": "2026年のNewscast.jpの市場分析によると、対象は「日本の子供向けエンターテインメント施設市場」と明記されています。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 9,
-    "question": "イ・スマン氏がA2Oエンターテインメントの「ビジョナリーリーダー兼キープロデューサー」であると報じられたことの、K-POP業界全体における彼の影響力に関してどのような解釈ができますか？",
+    "question": "Newscast.jpの2026年の市場分析によると、日本の子供向けエンターテインメント施設市場の分析項目には「主要企業」が含まれていますが、これは具体的にどのような情報を提供するものと考えられますか？",
     "choices": [
-      "A. K-POP業界からの引退を示唆している",
-      "B. 彼のK-POP業界における影響力が依然として大きいことを示す",
-      "C. 彼の活動が日本市場に限定されることを意味する",
-      "D. 彼の役割が単なるアドバイザーに縮小されたことを示す"
+      "市場をリードする企業の財務状況と株価変動。",
+      "市場シェアの高い企業や影響力のある企業の活動と戦略。",
+      "新規参入企業の設立背景と初期投資額。",
+      "海外企業の日本市場への参入計画。"
     ],
-    "answer": "B. 彼のK-POP業界における影響力が依然として大きいことを示す",
-    "explanation": "最新ニュースによると、K-POP界の重鎮であるイ・スマン氏が新たなエンターテインメント企業の「ビジョナリーリーダー兼キープロデューサー」に就任したことは、彼のK-POP業界における影響力が依然として大きいことを示唆しています。"
+    "answer": "市場シェアの高い企業や影響力のある企業の活動と戦略。",
+    "explanation": "2026年のNewscast.jpの市場分析によると、日本の子供向けエンターテインメント施設市場の分析項目に「主要企業」が含まれており、これは市場を牽引する企業の動向を指します。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 9,
-    "question": "SABU監督の最新作『記憶ゼロ』が「ノンストップ・エンターテインメント」であり「台湾オールロケ敢行」であることから、作品のビジュアルや演出に関してどのような期待が持てますか？",
+    "question": "Newscast.jpの2026年の市場分析における「消費者需要」の分析が、日本の子供向けエンターテインメント施設市場にとって重要である理由として、最も適切なものはどれですか？",
     "choices": [
-      "A. 限定された空間での心理劇",
-      "B. 台湾の風景を活かしたダイナミックで異国情緒あふれる映像表現",
-      "C. 白黒映像による実験的な演出",
-      "D. CGに頼らないシンプルな舞台設定"
+      "施設の安全基準を策定するための基礎情報となるから。",
+      "市場の供給体制を評価するための指標となるから。",
+      "ターゲット顧客のニーズを把握し、サービス開発やマーケティング戦略に活かすため。",
+      "競合他社の価格設定戦略を分析するためのデータとなるから。"
     ],
-    "answer": "B. 台湾の風景を活かしたダイナミックで異国情緒あふれる映像表現",
-    "explanation": "最新ニュースによると、「台湾オールロケ敢行」の「ノンストップ・エンターテインメント」であることから、台湾の風景を活かしたダイナミックで異国情緒あふれる映像表現が期待されます。"
+    "answer": "ターゲット顧客のニーズを把握し、サービス開発やマーケティング戦略に活かすため。",
+    "explanation": "2026年のNewscast.jpの市場分析によると、日本の子供向けエンターテインメント施設市場では「消費者需要」が分析されており、これは顧客のニーズを理解し、事業戦略に反映させる上で重要です。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 9,
-    "question": "「YOKOSUKA Re:EM CLUB ～ENTERTAINMENT & MUSIC LIVE〜 CRUISING STAGE」が「東京湾海堡ツーリズム機構」によって予約受付されていることから、このイベントが持つ地域振興の側面に関してどのような解釈ができますか？",
+    "question": "Newscast.jpの2026年の市場分析における「成長機会」の評価が、日本の子供向けエンターテインメント施設市場にとって重要である理由として、最も適切なものはどれですか？",
     "choices": [
-      "A. イベントは完全に商業目的である",
-      "B. 地域観光資源を活用し、来訪を促進する意図がある",
-      "C. 他の地域での開催を目的としている",
-      "D. 地域住民のみを対象としている"
+      "市場の飽和度を測り、新規参入を抑制するため。",
+      "投資家が市場の将来性を判断するための指針となるから。",
+      "既存施設の運営効率を改善するための具体的な方法を示すから。",
+      "市場の潜在的な拡大分野を特定し、事業拡大や新規投資の方向性を定めるため。"
     ],
-    "answer": "B. 地域観光資源を活用し、来訪を促進する意図がある",
-    "explanation": "最新ニュースによると、「東京湾海堡ツーリズム機構」が予約受付を行っていることから、地域観光資源を活用し、来訪を促進する地域振興の意図があると考えられます。"
+    "answer": "市場の潜在的な拡大分野を特定し、事業拡大や新規投資の方向性を定めるため。",
+    "explanation": "2026年のNewscast.jpの市場分析によると、日本の子供向けエンターテインメント施設市場では「成長機会」が分析されており、これは市場の将来的な拡大や投資の方向性を判断する上で重要です。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 9,
-    "question": "小栗旬が24歳上の有名俳優を呼び捨てにし、「ずっと食わせていましたね」と明かした発言が、芸能界の「先輩・後輩関係」に関するどのような側面を浮き彫りにしていますか？",
+    "question": "Newscast.jpの2026年の市場分析が「2026年～2034年」という複数年にわたる展望を示していることの意義として、最も適切なものはどれですか？",
     "choices": [
-      "A. 常に絶対的な上下関係が存在する",
-      "B. 世代や関係性によっては、一般的な慣習を超えた親密な関係性が存在しうる",
-      "C. 後輩は常に先輩に遠慮すべきである",
-      "D. 経済的な支援が先輩・後輩関係を逆転させる"
+      "短期間での市場変動にのみ焦点を当てるため。",
+      "長期的な視点で市場のトレンドや持続可能性を評価するため。",
+      "過去のデータにのみ基づき、将来の予測は行わないため。",
+      "単年度の業績目標を設定するための情報を提供するため。"
     ],
-    "answer": "B. 世代や関係性によっては、一般的な慣習を超えた親密な関係性が存在しうる",
-    "explanation": "最新ニュースによると、小栗旬が24歳上の先輩を呼び捨てにし、経済的支援をしていたという発言は、世代や関係性によっては一般的な慣習を超えた親密な関係性が存在しうることを浮き彫りにしています。"
+    "answer": "長期的な視点で市場のトレンドや持続可能性を評価するため。",
+    "explanation": "2026年のNewscast.jpの市場分析によると、日本の子供向けエンターテインメント施設市場は2026年～2034年の展望が示されており、長期的な視点での市場評価を意味します。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 9,
-    "question": "日本の子供向けエンターテインメント施設市場のレポートが「市場規模、シェア、消費者需要、成長機会、主要企業、および展望」を分析していることから、この市場の投資家にとって最も注目すべき点は何ですか？",
+    "question": "Newscast.jpの2026年の市場分析が提供する日本の子供向けエンターテインメント施設市場の情報は、どのような詳細度で提供されると考えられますか？",
     "choices": [
-      "A. 過去の成功事例のみ",
-      "B. 将来の成長ポテンシャルと参入機会",
-      "C. 現在の市場規模の絶対値",
-      "D. 消費者需要の変動のみ"
+      "主要企業の売上高ランキングのみ。",
+      "市場の概要と主要な課題の提示。",
+      "市場規模、シェア、需要、成長機会、主要企業、展望といった多角的な詳細情報。",
+      "単一の施設タイプに特化した深掘り分析。"
     ],
-    "answer": "B. 将来の成長ポテンシャルと参入機会",
-    "explanation": "最新ニュースによると、レポートが「成長機会」と「展望（2026年～2034年）」を分析していることから、投資家にとっては将来の成長ポテンシャルと参入機会が最も注目すべき点と考えられます。"
+    "answer": "市場規模、シェア、需要、成長機会、主要企業、展望といった多角的な詳細情報。",
+    "explanation": "2026年のNewscast.jpの市場分析によると、日本の子供向けエンターテインメント施設市場は市場規模、シェア、消費者需要、成長機会、主要企業、および展望（2026年～2034年）といった多角的な分析が提供されます。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 9,
-    "question": "U-NEXTとNBCUniversalの「包括的戦略パートナーシップ」は、両社にとってどのような長期的なメリットをもたらすと期待されますか？",
+    "question": "Newscast.jpの2026年の市場分析が示唆する、日本の子供向けエンターテインメント施設市場の主要な動向として、次のうち最も適切と考えられるものはどれですか？",
     "choices": [
-      "A. 短期的なプロモーション効果のみ",
-      "B. 各社の既存事業の維持とコスト削減",
-      "C. 互いの強みを活かした新たな事業領域の開拓と市場での競争力強化",
-      "D. 一方的な技術供与による関係構築"
+      "大規模テーマパークの閉鎖と小規模施設の増加。",
+      "デジタル技術を取り入れた新しい体験型施設の拡大。",
+      "伝統的な遊び場や公園の復興。",
+      "海外からの投資撤退による市場の停滞。"
     ],
-    "answer": "C. 互いの強みを活かした新たな事業領域の開拓と市場での競争力強化",
-    "explanation": "最新ニュースによると、「包括的戦略パートナーシップ」は、ストリーミングからテーマパーク、日本コンテンツのグローバル展開までを網羅し、新たなエンターテイメント経済圏の創出を目指しており、これは互いの強みを活かした新たな事業領域の開拓と市場での競争力強化という長期的なメリットをもたらすと期待されます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 9,
-    "question": "「ドハツの日！」が「あなたの怒髪天のベスト10を大募集！」している企画は、現代社会におけるどのようなニーズに応えようとしていると考えられますか？",
-    "choices": [
-      "A. 日常生活における怒りを個人的に処理するニーズ",
-      "B. 匿名で不満を表明し、共感を得ることで精神的な解放を求めるニーズ",
-      "C. 怒りを政治的な活動に転換するニーズ",
-      "D. 怒りをビジネスチャンスに変えるニーズ"
-    ],
-    "answer": "B. 匿名で不満を表明し、共感を得ることで精神的な解放を求めるニーズ",
-    "explanation": "最新ニュースによると、「怒髪天のベスト10を大募集」という企画は、匿名で不満を表明し、共感を得ることで精神的な解放を求める現代社会のニーズに応えようとしていると考えられます。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 9,
-    "question": "ライブ・ネイション・エンターテーメントの株価最新ニュースが日経会社情報DIGITALで報じられていることの、国際的な経済情報流通における役割は何ですか？",
-    "choices": [
-      "A. ローカルなニュースの提供",
-      "B. 日本市場から世界のエンターテインメント企業の動向を把握する窓口となる",
-      "C. 株価情報のみに限定された情報提供",
-      "D. 特定の国の経済動向のみを分析する"
-    ],
-    "answer": "B. 日本市場から世界のエンターテインメント企業の動向を把握する窓口となる",
-    "explanation": "最新ニュースによると、日経会社情報DIGITALで世界の主要エンターテインメント企業の株価情報が報じられていることは、日本市場から世界のエンターテインメント企業の動向を把握する窓口となる役割を果たしています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 9,
-    "question": "千葉テレビ放送の「ザッツエンターテイメント」における「仕掛けられた罠にはまってみる」という表現が、ミステリー本読者の「能動的な読書体験」に関してどのような側面を強調していますか？",
-    "choices": [
-      "A. 受動的に物語の情報を待つ姿勢",
-      "B. 物語の仕掛けを自ら解き明かそうとする探求心",
-      "C. 物語の結末を早く知りたいという欲求",
-      "D. 物語の世界から現実世界への逃避"
-    ],
-    "answer": "B. 物語の仕掛けを自ら解き明かそうとする探求心",
-    "explanation": "最新ニュースによると、「仕掛けられた罠にはまってみる」という表現は、読者が物語の仕掛けを自ら解き明かそうとする探求心という「能動的な読書体験」を強調しています。"
+    "answer": "デジタル技術を取り入れた新しい体験型施設の拡大。",
+    "explanation": "2026年のNewscast.jpの市場分析では、日本の子供向けエンターテインメント施設市場の成長機会が分析されており、現代のトレンドとしてデジタル技術を取り入れた施設が拡大していると推測されます。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 10,
-    "question": "金沢に誕生した地域特化型音楽レーベルが「ビクターエンタテインメント×CCIエンタベースが共同設立、KEYTALK・小野武正が総合音楽プロデューサーに就任」という布陣であることから、このレーベルが目指す「地域特化」の具体的なアプローチはどのようなものと推測されますか？",
+    "question": "U-NEXT HOLDINGSのニュースリリースにあるU-NEXTとNBCUniversalの提携が目指す「新たなエンターテイメント経済圏」の具体的な範囲と、その創出が期待される最大の効果は次のうちどれですか？",
     "choices": [
-      "A. 地域の伝統音楽のみを発掘し、全国流通させる",
-      "B. 地域固有の才能を発掘・育成し、デジタル技術と大手レーベルの流通網で全国・世界へ発信する",
-      "C. 地域イベントの企画運営のみを行い、音楽制作は行わない",
-      "D. 地域の歴史をテーマにした楽曲を制作し、観光客向けに販売する"
+      "ストリーミングサービスを統合し、海外コンテンツの配信数を最大化すること。",
+      "テーマパーク事業の拡大に特化し、国内の観光産業を活性化すること。",
+      "ストリーミングからテーマパーク、日本コンテンツのグローバル展開までを網羅し、ユーザー体験の向上と市場全体の活性化を図ること。",
+      "日本コンテンツの海外輸出に限定し、日本のクリエイターの国際的地位を向上させること。"
     ],
-    "answer": "B. 地域固有の才能を発掘・育成し、デジタル技術と大手レーベルの流通網で全国・世界へ発信する",
-    "explanation": "最新ニュースによると、大手レーベルとデジタル・エンタメ企業が共同設立し、人気バンドのプロデューサーが就任することから、地域固有の才能を現代的な手法と流通網で広める「地域特化」アプローチと推測されます。"
+    "answer": "ストリーミングからテーマパーク、日本コンテンツのグローバル展開までを網羅し、ユーザー体験の向上と市場全体の活性化を図ること。",
+    "explanation": "最新のU-NEXT HOLDINGSのニュースリリースによると、U-NEXTとNBCUniversalはストリーミングからテーマパーク、日本コンテンツのグローバル展開までを網羅する包括的戦略パートナーシップを締結し、新たなエンターテイメント経済圏の創出を目指しています。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 10,
-    "question": "TEMPESTの活動中断理由が「メンバーが契約終了・入隊へ」と明記されたことで、K-POP業界におけるアーティストと事務所の契約関係、および兵役制度の課題についてどのような示唆が得られますか？",
+    "question": "オリコンニュースの報道にあるSTARTO社がSNSでの注意喚起で「情報を発信される皆さまに改めてお願い」している趣旨として、最も深く読み取れるものはどれですか？",
     "choices": [
-      "A. 契約期間が短縮され、兵役義務が撤廃される傾向にある",
-      "B. 長期契約の維持と兵役義務の履行が、グループ活動継続における恒常的なリスクである",
-      "C. アーティストの契約終了は常に活動中断を意味しない",
-      "D. 兵役義務はグループ活動に全く影響しない"
+      "企業イメージを損なう情報発信を法的に禁止すること。",
+      "ファンが積極的に公式情報を拡散し、広報活動を支援すること。",
+      "個人が発信する情報がアーティストや企業に与える影響を認識し、責任ある行動を促すこと。",
+      "SNSでのコミュニケーションを完全に停止し、公式発表のみに限定すること。"
     ],
-    "answer": "B. 長期契約の維持と兵役義務の履行が、グループ活動継続における恒常的なリスクである",
-    "explanation": "最新ニュースによると、TEMPESTの活動中断理由が「メンバーが契約終了・入隊へ」と明記されたことは、K-POP業界において長期契約の維持と兵役義務の履行が、グループ活動継続における恒常的なリスクであることを示唆しています。"
+    "answer": "個人が発信する情報がアーティストや企業に与える影響を認識し、責任ある行動を促すこと。",
+    "explanation": "最新のオリコンニュースの報道によると、STARTO社はSNSでの未確認情報の拡散・誹謗中傷に注意を呼びかけ、「情報を発信される皆さまに改めてお願い」しており、これは情報発信者に対し、その影響を考慮した責任ある行動を求めるものです。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 10,
-    "question": "日経会社情報DIGITALにおけるライブ・ネイション・エンターテーメントの株価最新ニュースが「[LYV/LivNatEnte]」と記載されていることの、情報としての正確性に関する意味合いは何ですか？",
+    "question": "ｄメニューニュースの報道にある金沢の地域特化音楽レーベル設立が示唆する、日本の音楽業界の動向として最も適切と考えられるものはどれですか？",
     "choices": [
-      "A. 略称のみで正式名称は不明である",
-      "B. 複数の銘柄が混同されている",
-      "C. 正式なティッカーシンボルと企業名が併記されており、情報源が明確である",
-      "D. 非上場企業の株価情報である"
+      "中央集権型から地域分散型への移行と、地域文化の音楽への取り込み。",
+      "大手レーベルによる中小レーベルの吸収合併の加速。",
+      "グローバル市場への進出に特化したレーベルの増加。",
+      "デジタル配信への完全移行とCD販売の終了。"
     ],
-    "answer": "C. 正式なティッカーシンボルと企業名が併記されており、情報源が明確である",
-    "explanation": "最新ニュースによると、「[LYV/LivNatEnte]」と正式なティッカーシンボルと企業名が併記されていることは、情報源が明確であり、情報としての正確性が高いことを意味します。"
+    "answer": "中央集権型から地域分散型への移行と、地域文化の音楽への取り込み。",
+    "explanation": "最新のｄメニューニュースの報道によると、金沢に地域特化音楽レーベルが誕生し、ビクターエンタテインメントとCCIエンタベースが共同設立、KEYTALK・小野武正が総合音楽プロデューサーに就任したことは、地域に根ざした音楽活動の重要性が高まっていることを示唆しています。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 10,
-    "question": "Apple HomeViewが「エンターテインメントを楽しみ、家を管理する新しい方法」として登場したことで、既存のスマートホームデバイスやエンターテインメントプラットフォームに対して、Appleがどのような差別化を図ろうとしていると読み取れますか？",
+    "question": "Appleが発表した「Apple HomeView」が提供する「エンターテインメントを楽しみ、家を管理する新しい方法」の革新性として、最も適切と考えられるものはどれですか？",
     "choices": [
-      "A. 価格競争による市場シェアの獲得",
-      "B. 既存製品の機能を模倣し、互換性を高める",
-      "C. 単一機能の特化ではなく、ユーザー体験全体を統合する包括的なアプローチ",
-      "D. 特定のニッチ市場に絞った製品開発"
+      "個別のアプリやデバイスに依存せず、一つのプラットフォームでシームレスな体験を実現すること。",
+      "AIが自動的にユーザーの好みを学習し、最適なエンタメコンテンツを提案すること。",
+      "家管理のタスクを全て自動化し、ユーザーがエンタメに集中できる環境を提供すること。",
+      "仮想現実（VR）技術を活用し、自宅にいながらにして没入感のあるエンタメ体験を提供すること。"
     ],
-    "answer": "C. 単一機能の特化ではなく、ユーザー体験全体を統合する包括的なアプローチ",
-    "explanation": "最新ニュースによると、Apple HomeViewがエンターテインメントと家管理を「新しい方法」で統合することは、単一機能の特化ではなく、ユーザー体験全体を統合する包括的なアプローチで差別化を図ろうとしていると読み取れます。"
+    "answer": "個別のアプリやデバイスに依存せず、一つのプラットフォームでシームレスな体験を実現すること。",
+    "explanation": "最新のAppleの発表によると、「Apple HomeView」はエンターテインメントと家管理を融合させる新しい方法を提供しており、これは複数の機能を統合し、よりシームレスなユーザー体験を目指す革新性を示唆しています。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 10,
-    "question": "イ・スマン氏がA2Oエンターテインメントの「ビジョナリーリーダー兼キープロデューサー」であると報じられたことが、今後のK-POPコンテンツの多様性やグローバル展開にどのような影響を与える可能性がありますか？",
+    "question": "Yahoo!ニュースの報道にあるSABU監督の最新作『記憶ゼロ』が「ノンストップ・エンターテインメント」と称される理由として、その作品が観客に与える体験について最も深く読み取れるものはどれですか？",
     "choices": [
-      "A. K-POPコンテンツの多様性が失われ、画一化が進む",
-      "B. 彼のビジョンとプロデュース力により、新たなジャンルやグローバル市場への進出が加速する",
-      "C. 彼の影響力が限定的となり、業界全体の変化は小さい",
-      "D. K-POPコンテンツの国内市場への回帰が進む"
+      "物語の展開が予測不可能で、常に観客を驚かせ続けること。",
+      "最初から最後まで緊張感と興奮が持続し、観客を画面に釘付けにすること。",
+      "複雑な伏線が張り巡らされ、観客が考察を深める余地があること。",
+      "視覚効果やアクションシーンが連続し、飽きさせないこと。"
     ],
-    "answer": "B. 彼のビジョンとプロデュース力により、新たなジャンルやグローバル市場への進出が加速する",
-    "explanation": "最新ニュースによると、イ・スマン氏が「ビジョナリーリーダー兼キープロデューサー」という重要な役職に就いたことは、彼のビジョンとプロデュース力により、新たなジャンルやグローバル市場への進出が加速する可能性を示唆しています。"
+    "answer": "最初から最後まで緊張感と興奮が持続し、観客を画面に釘付けにすること。",
+    "explanation": "2026年10月時点のYahoo!ニュースの報道によると、SABU監督最新作『記憶ゼロ』は「ノンストップ・エンターテインメント」とされており、これは観客が物語に没入し、途切れることなく興奮を味わえる体験を示唆しています。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 10,
-    "question": "SABU監督最新作『記憶ゼロ』が「来年初夏公開」「台湾オールロケ敢行」「ノンストップ・エンターテインメント」という情報から、この作品が日本の映画市場においてどのような位置づけを狙っていると推測されますか？",
+    "question": "Newscast.jpの報道にある新エンターテイメントショー「FIESTA DEL ECLIPSE」で導入される「新たなステージ」が、演出にもたらす具体的な効果として最も期待されるものはどれですか？",
     "choices": [
-      "A. 芸術性の高い実験映画として、ミニシアター公開を狙う",
-      "B. 大衆向けの娯楽作品として、広範な観客層にアピールする",
-      "C. ドキュメンタリー映画として、社会問題提起を目指す",
-      "D. 限定されたファン層に向けたカルト映画"
+      "舞台転換の時間短縮と、セットの軽量化。",
+      "照明や音響の設備を簡素化し、運営コストを削減すること。",
+      "多様な映像表現や空間演出を可能にし、観客に多角的な視覚体験を提供すること。",
+      "出演者の数を増やし、より大規模なパフォーマンスを実現すること。"
     ],
-    "answer": "B. 大衆向けの娯楽作品として、広範な観客層にアピールする",
-    "explanation": "最新ニュースによると、「ノンストップ・エンターテインメント」という表現と「来年初夏公開」という時期から、大衆向けの娯楽作品として広範な観客層にアピールすることを狙っていると推測されます。"
+    "answer": "多様な映像表現や空間演出を可能にし、観客に多角的な視覚体験を提供すること。",
+    "explanation": "最新のNewscast.jpの報道によると、「FIESTA DEL ECLIPSE」では「演出の幅を広げた新たなステージ」が導入されるとされており、これはより多様で豊かな表現が可能になり、観客の体験が向上することを意味します。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 10,
-    "question": "「YOKOSUKA Re:EM CLUB ～ENTERTAINMENT & MUSIC LIVE〜 CRUISING STAGE」のイベントが「東京湾海堡ツーリズム機構」によって運営されていることから、このイベントが持つ文化的な価値に関してどのような解釈ができますか？",
+    "question": "Newscast.jpの2026年の市場分析で示されている、日本の子供向けエンターテインメント施設市場の2026年～2034年展望における主要な成長ドライバーとして、最も適切と考えられるものはどれですか？",
     "choices": [
-      "A. 純粋な商業エンターテインメントとしてのみ機能する",
-      "B. 東京湾の歴史的・地理的要素とエンターテインメントを融合させた新たな文化体験を提供する",
-      "C. 特定の音楽ジャンルに特化した専門イベントである",
-      "D. 地域の観光とは無関係なイベントである"
+      "政府による補助金制度の拡充。",
+      "少子化対策としての家族向け施設の増加。",
+      "デジタル技術の進化と、体験型コンテンツへの需要の高まり。",
+      "海外からのインバウンド需要の回復。"
     ],
-    "answer": "B. 東京湾の歴史的・地理的要素とエンターテインメントを融合させた新たな文化体験を提供する",
-    "explanation": "最新ニュースによると、「東京湾海堡ツーリズム機構」が運営する「CRUISING STAGE」という点から、東京湾の歴史的・地理的要素とエンターテインメントを融合させた新たな文化体験を提供すると解釈できます。"
+    "answer": "デジタル技術の進化と、体験型コンテンツへの需要の高まり。",
+    "explanation": "2026年のNewscast.jpの市場分析では、日本の子供向けエンターテインメント施設市場の成長機会が分析されており、現代のエンターテイメント市場のトレンドとして、デジタル技術と体験型コンテンツへの需要が主要な成長ドライバーと考えられます。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 10,
-    "question": "コナミアーケードゲームスが「AMUSEMENT EXPO 2026」の出展内容第1弾を発表したことで、アーケードゲーム業界の今後のトレンドに関してどのような示唆が得られますか？",
+    "question": "茨城新聞クロスアイの報道にあるにじさんじ「Sleepy Sheepy」グッズの2026年10月22日販売開始が、VTuberグッズ市場に与える影響として最も適切と考えられるものはどれですか？",
     "choices": [
-      "A. アーケードゲーム市場は縮小傾向にある",
-      "B. 新しい技術やコンテンツで市場を活性化させる動きが活発である",
-      "C. 既存のゲームの再販に注力する",
-      "D. 家庭用ゲーム機への移行が進む"
+      "VTuberグッズ市場における二次流通の活性化。",
+      "他VTuberグループのグッズ販売戦略に影響を与えること。",
+      "VTuberグッズの多様化と、ファン層の拡大に貢献すること。",
+      "限定生産品としての希少価値を高め、コレクター層にアピールすること。"
     ],
-    "answer": "B. 新しい技術やコンテンツで市場を活性化させる動きが活発である",
-    "explanation": "最新ニュースによると、大手アーケードゲームメーカーが「AMUSEMENT EXPO 2026」で「出展内容第1弾」を発表したことは、新しい技術やコンテンツで市場を活性化させる動きが活発であることを示唆しています。"
+    "answer": "VTuberグッズの多様化と、ファン層の拡大に貢献すること。",
+    "explanation": "2026年10月の茨城新聞クロスアイの報道によると、にじさんじから「Sleepy Sheepy」グッズが販売開始されます。人気VTuberグループによる新グッズの投入は、市場の多様性を高め、新たなファン層の獲得に寄与することが期待されます。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 10,
-    "question": "U-NEXTとNBCUniversalの「包括的戦略パートナーシップ」が「ストリーミングからテーマパーク、日本コンテンツのグローバル展開まで」をカバーするとされていることから、この提携が目指す「エンターテイメント経済圏」の規模と範囲に関してどのような特徴が挙げられますか？",
+    "question": "Sonyの発表にあるSony Pictures Entertainmentが「CinemaCon 2026」で最新作品情報を公開する目的として、最も適切と考えられるものはどれですか？",
     "choices": [
-      "A. 限定されたデジタルコンテンツ市場のみを対象とする",
-      "B. 物理的な体験とデジタルコンテンツを融合した広範な市場創造",
-      "C. 特定の国・地域に限定された経済圏",
-      "D. 映画製作のみに特化した経済圏"
+      "映画批評家からの高い評価を獲得すること。",
+      "映画館関係者やメディアに対し、今後のラインナップをアピールし、期待感を高めること。",
+      "競合他社の作品公開スケジュールを妨害すること。",
+      "映画製作における技術革新を業界全体に共有すること。"
     ],
-    "answer": "B. 物理的な体験とデジタルコンテンツを融合した広範な市場創造",
-    "explanation": "最新ニュースによると、ストリーミング（デジタル）からテーマパーク（物理的）、さらにグローバル展開までをカバーすることから、物理的な体験とデジタルコンテンツを融合した広範な市場創造を目指す「エンターテイメント経済圏」と特徴付けられます。"
+    "answer": "映画館関係者やメディアに対し、今後のラインナップをアピールし、期待感を高めること。",
+    "explanation": "2026年のSonyの発表によると、Sony Pictures Entertainmentは米国映画業界最大級のイベント「CinemaCon 2026」で最新作品情報を一挙に公開しており、これは映画館オーナーや配給会社、メディアなどに対し、今後の作品への関心と期待を高めることが主な目的です。"
   },
   {
     "category": "エンタテイメント",
     "difficulty": 10,
-    "question": "THE BOYZのニューがONLY NEW ENTERTAINMENTと「専属契約を締結」し「新プロフィール写真を公開」したことは、彼の今後のアーティスト活動においてどのような変化を示唆していますか？",
+    "question": "Kstyleの報道にあるTHE BOYZ ニューがONLY NEW ENTERTAINMENTと専属契約を締結し、新プロフィール写真を公開したことの、彼のキャリア上の意味として最も適切と考えられるものはどれですか？",
     "choices": [
-      "A. 音楽活動から引退する",
-      "B. 新しい環境でアーティストとして再スタートを切る",
-      "C. グループ活動に専念し、ソロ活動は行わない",
-      "D. 俳優業に完全に転身する"
+      "グループ活動を完全に終了し、ソロアーティストとして再出発すること。",
+      "新たな環境で個人活動の可能性を広げ、多角的なキャリアを築くこと。",
+      "THE BOYZの活動を縮小し、俳優業に専念すること。",
+      "音楽プロデューサーとしての才能を開花させること。"
     ],
-    "answer": "B. 新しい環境でアーティストとして再スタートを切る",
-    "explanation": "最新ニュースによると、新しい事務所との「専属契約締結」と「新プロフィール写真公開」は、彼が新しい環境でアーティストとして再スタートを切ることを示唆しています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 10,
-    "question": "「ドハツの日！」の企画が「あなたの怒髪天のベスト10を大募集！」していることが、個人の感情表現と集団的共感形成のメカニズムに関して、どのような社会現象を示唆していますか？",
-    "choices": [
-      "A. 個人の感情は集団の中で抑圧されるべきである",
-      "B. 匿名性を保ちつつ個人的な感情を表現することが、集団的な共感と連帯感を生み出す",
-      "C. 集団の中で怒りを表明することは常に争いを引き起こす",
-      "D. 感情表現は個人的なものであり、他者との共有は不可能である"
-    ],
-    "answer": "B. 匿名性を保ちつつ個人的な感情を表現することが、集団的な共感と連帯感を生み出す",
-    "explanation": "最新ニュースによると、「怒髪天のベスト10を大募集」という企画は、匿名性を保ちつつ個人的な感情を表現することが、集団的な共感と連帯感を生み出す社会現象を示唆しています。"
-  },
-  {
-    "category": "エンタテイメント",
-    "difficulty": 10,
-    "question": "ライブ・ネイション・エンターテーメントの株価最新ニュースが日経会社情報DIGITALで報じられていることは、日本企業や投資家が世界のエンターテインメント市場の動向をどのように捉えているかについて、どのような洞察を与えますか？",
-    "choices": [
-      "A. 世界のエンターテインメント市場への関心は低い",
-      "B. 世界のエンターテインメント市場の動向が、日本市場や投資戦略に影響を与える重要な要素と認識されている",
-      "C. 日本企業は国内市場のみに焦点を当てている",
-      "D. 世界のエンターテインメント市場は不安定で投資対象ではない"
-    ],
-    "answer": "B. 世界のエンターテインメント市場の動向が、日本市場や投資戦略に影響を与える重要な要素と認識されている",
-    "explanation": "最新ニュースによると、日経会社情報DIGITALで世界の主要エンターテインメント企業の株価情報が報じられていることは、世界のエンターテインメント市場の動向が、日本市場や投資戦略に影響を与える重要な要素と認識されているという洞察を与えます。"
+    "answer": "新たな環境で個人活動の可能性を広げ、多角的なキャリアを築くこと。",
+    "explanation": "最新のKstyleの報道によると、THE BOYZのニューがONLY NEW ENTERTAINMENTと専属契約を締結し、新プロフィール写真を公開したことは、彼が新たな環境で個人活動の幅を広げ、より多角的なキャリアを追求していく意図を示唆しています。"
   },
   {
     "category": "ゲーム",
